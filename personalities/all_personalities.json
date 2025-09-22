@@ -1,0 +1,3617 @@
+[
+  {
+    "description": "Maximum productivity, all tools enabled",
+    "environment": {
+      "CI": "true",
+      "DOCKER_BUILDKIT": "1",
+      "PRODUCTIVITY": "MAX",
+      "TOOLS": "ALL"
+    },
+    "name": "10x",
+    "philosophy": "Move fast and optimize everything.",
+    "programmer": "10x Engineer",
+    "tags": [
+      "productivity",
+      "fullstack",
+      "power-user"
+    ],
+    "tools": [
+      "agent",
+      "ansible",
+      "artifact_publish",
+      "ast_search",
+      "aws_s3",
+      "bash",
+      "batch",
+      "cargo",
+      "chaos",
+      "ci",
+      "circleci",
+      "cloud_cli",
+      "consensus",
+      "container_build",
+      "coverage",
+      "critic",
+      "dast",
+      "dependency_scan",
+      "devcontainer",
+      "diff",
+      "docker",
+      "dvc",
+      "edit",
+      "embeddings",
+      "feature_store",
+      "find_files",
+      "formatter",
+      "fuzz",
+      "gem",
+      "gh",
+      "git_search",
+      "github_actions",
+      "gitlab",
+      "gitlab_ci",
+      "go_test",
+      "gpu_manager",
+      "grafana",
+      "graph_add",
+      "graph_query",
+      "grep",
+      "helm",
+      "hf_hub",
+      "hot_reload",
+      "huggingface",
+      "image_scan",
+      "jenkins",
+      "jest",
+      "jupyter",
+      "k8s",
+      "kedro",
+      "kms",
+      "kubectl",
+      "kustomize",
+      "linters",
+      "llm",
+      "localstack",
+      "logs",
+      "minikube",
+      "mlem",
+      "mlflow",
+      "mocha",
+      "model_deploy",
+      "model_registry",
+      "ngrok",
+      "notebook",
+      "npx",
+      "onnx_convert",
+      "otel",
+      "package_manager",
+      "pip",
+      "process",
+      "prometheus",
+      "pytest",
+      "quantize",
+      "read",
+      "repl",
+      "rules",
+      "sast",
+      "sbom",
+      "search",
+      "secret_scan",
+      "secrets_manager",
+      "signing",
+      "sigstore",
+      "slo",
+      "snyk",
+      "sql_query",
+      "sql_search",
+      "symbols",
+      "terraform",
+      "think",
+      "todo",
+      "tracing",
+      "tree",
+      "trivy",
+      "uvx",
+      "vector_index",
+      "vector_search",
+      "vscode_remote",
+      "watch",
+      "write"
+    ]
+  },
+  {
+    "description": "Publish or perish",
+    "environment": {
+      "LATEX_ENGINE": "xelatex"
+    },
+    "name": "academic",
+    "philosophy": "Standing on the shoulders of giants.",
+    "programmer": "Academic Researcher",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "jupyter",
+      "todo",
+      "critic",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "search",
+      "symbols",
+      "grep",
+      "git_search"
+    ]
+  },
+  {
+    "description": "First programmer - algorithms as poetry",
+    "environment": {
+      "ALGORITHM_STYLE": "poetic"
+    },
+    "name": "ada",
+    "philosophy": "The Analytical Engine has no pretensions to originate anything. It can do whatever we know how to order it to perform.",
+    "programmer": "Ada Lovelace",
+    "tags": [
+      "pioneer",
+      "academic",
+      "algorithms"
+    ],
+    "tools": [
+      "ast_search",
+      "bash",
+      "edit",
+      "formatter",
+      "git_search",
+      "grep",
+      "notebook",
+      "read",
+      "search",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Django co-creator - web framework for perfectionists",
+    "environment": {
+      "DJANGO_SETTINGS_MODULE": "settings"
+    },
+    "name": "adrian",
+    "philosophy": "The web framework for perfectionists with deadlines.",
+    "programmer": "Adrian Holovaty",
+    "tags": [
+      "pioneer",
+      "web"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "uvx",
+      "sql_query",
+      "watch",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "TypeScript/C# creator - type safety matters",
+    "environment": {
+      "DOTNET_VERSION": "8.0",
+      "TYPESCRIPT_VERSION": "5.0"
+    },
+    "name": "anders",
+    "philosophy": "TypeScript is JavaScript that scales.",
+    "programmer": "Anders Hejlsberg",
+    "tags": [
+      "languages",
+      "typescript",
+      "types"
+    ],
+    "tools": [
+      "ast_search",
+      "bash",
+      "cargo",
+      "edit",
+      "formatter",
+      "gem",
+      "git_search",
+      "grep",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "rules",
+      "search",
+      "symbols",
+      "think",
+      "tree",
+      "uvx",
+      "watch",
+      "write"
+    ]
+  },
+  {
+    "description": "AI educator & former Tesla AI director",
+    "environment": {
+      "CUDA_VISIBLE_DEVICES": "0",
+      "PYTHONUNBUFFERED": "1"
+    },
+    "name": "andrej",
+    "philosophy": "The unreasonable effectiveness of neural networks.",
+    "programmer": "Andrej Karpathy",
+    "tags": [
+      "ai",
+      "ml",
+      "education"
+    ],
+    "tools": [
+      "agent",
+      "ast_search",
+      "bash",
+      "consensus",
+      "critic",
+      "dvc",
+      "edit",
+      "feature_store",
+      "git_search",
+      "gpu_manager",
+      "grep",
+      "jupyter",
+      "kedro",
+      "llm",
+      "mlem",
+      "mlflow",
+      "model_registry",
+      "notebook",
+      "read",
+      "search",
+      "symbols",
+      "think",
+      "tree",
+      "uvx",
+      "watch",
+      "write"
+    ]
+  },
+  {
+    "description": "AI educator & Coursera co-founder",
+    "environment": {
+      "CUDA_VISIBLE_DEVICES": "0"
+    },
+    "name": "andrew",
+    "philosophy": "AI is the new electricity.",
+    "programmer": "Andrew Ng",
+    "tags": [
+      "pioneer",
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "jupyter",
+      "todo",
+      "watch"
+    ]
+  },
+  {
+    "description": "Vi creator & BSD contributor",
+    "environment": {
+      "EDITOR": "vi"
+    },
+    "name": "bill",
+    "philosophy": "The best way to predict the future is to invent it.",
+    "programmer": "Bill Joy",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "neovim_edit",
+      "neovim_command",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "C++ creator - zero-overhead abstractions",
+    "environment": {
+      "CXX": "g++",
+      "CXXFLAGS": "-std=c++20 -Wall"
+    },
+    "name": "bjarne",
+    "philosophy": "C++ is designed to allow you to express ideas.",
+    "programmer": "Bjarne Stroustrup",
+    "tags": [
+      "languages",
+      "cpp",
+      "performance"
+    ],
+    "tools": [
+      "bash",
+      "cargo",
+      "content_replace",
+      "diff",
+      "edit",
+      "find_files",
+      "formatter",
+      "gem",
+      "grep",
+      "multi_edit",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "uvx",
+      "write"
+    ]
+  },
+  {
+    "description": "Vim creator",
+    "environment": {
+      "VIM_VERSION": "9.0"
+    },
+    "name": "bram",
+    "philosophy": "The best way to avoid RSI is to not type so much.",
+    "programmer": "Bram Moolenaar",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "neovim_edit",
+      "neovim_command",
+      "neovim_session"
+    ]
+  },
+  {
+    "description": "JavaScript creator - dynamic and flexible",
+    "environment": {
+      "NODE_ENV": "development",
+      "NPM_CONFIG_LOGLEVEL": "warn"
+    },
+    "name": "brendan",
+    "philosophy": "Always bet on JS.",
+    "programmer": "Brendan Eich",
+    "tags": [
+      "languages",
+      "javascript",
+      "web"
+    ],
+    "tools": [
+      "ast_search",
+      "bash",
+      "cargo",
+      "devcontainer",
+      "edit",
+      "formatter",
+      "gem",
+      "git_search",
+      "grep",
+      "hot_reload",
+      "jest",
+      "localstack",
+      "ngrok",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "repl",
+      "rules",
+      "search",
+      "symbols",
+      "think",
+      "todo",
+      "tree",
+      "uvx",
+      "vscode_remote",
+      "watch",
+      "write"
+    ]
+  },
+  {
+    "description": "AWK co-creator & Unix pioneer",
+    "environment": {
+      "AWK": "gawk"
+    },
+    "name": "brian",
+    "philosophy": "Controlling complexity is the essence of computer programming.",
+    "programmer": "Brian Kernighan",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "grep",
+      "content_replace",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Security expert & cryptographer",
+    "environment": {
+      "SECURITY_AUDIT": "true"
+    },
+    "name": "bruce",
+    "philosophy": "Security is a process, not a product.",
+    "programmer": "Bruce Schneier",
+    "tags": [
+      "security"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols",
+      "git_search",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "id Software - Doom & Quake creator",
+    "environment": {
+      "GL_VERSION": "4.6",
+      "VULKAN_SDK": "/usr/local/vulkan"
+    },
+    "name": "carmack",
+    "philosophy": "Focus is a matter of deciding what things you're not going to do.",
+    "programmer": "John Carmack",
+    "tags": [
+      "gaming",
+      "graphics",
+      "performance"
+    ],
+    "tools": [
+      "bash",
+      "cargo",
+      "diff",
+      "edit",
+      "find_files",
+      "gem",
+      "gpu_manager",
+      "grep",
+      "multi_edit",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "uvx",
+      "watch",
+      "write"
+    ]
+  },
+  {
+    "description": "Handmade Hero creator",
+    "environment": {
+      "HANDMADE": "true"
+    },
+    "name": "casey",
+    "philosophy": "Performance matters. Write code from scratch.",
+    "programmer": "Casey Muratori",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "watch",
+      "process",
+      "critic"
+    ]
+  },
+  {
+    "description": "AI interpretability researcher",
+    "environment": {
+      "DISTILL_MODE": "interactive"
+    },
+    "name": "chris",
+    "philosophy": "Understanding neural networks matters.",
+    "programmer": "Chris Olah",
+    "tags": [
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "vector_index",
+      "vector_search",
+      "jupyter",
+      "critic"
+    ]
+  },
+  {
+    "description": "LLVM & Swift creator",
+    "environment": {
+      "LLVM_VERSION": "16"
+    },
+    "name": "chris_lattner",
+    "philosophy": "Compiler infrastructure should be modular.",
+    "programmer": "Chris Lattner",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "multi_edit",
+      "critic",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Kubernetes-first development",
+    "environment": {
+      "CLOUD_PROVIDER": "aws",
+      "DOCKER_REGISTRY": "ghcr.io",
+      "KUBECONFIG": "~/.kube/config",
+      "TERRAFORM_VERSION": "1.5"
+    },
+    "name": "cloud_native",
+    "philosophy": "Containers everywhere, orchestrate everything.",
+    "programmer": "Cloud Native Developer",
+    "tags": [
+      "devops",
+      "kubernetes",
+      "cloud"
+    ],
+    "tools": [
+      "ansible",
+      "artifact_publish",
+      "aws_s3",
+      "bash",
+      "chaos",
+      "ci",
+      "circleci",
+      "cloud_cli",
+      "container_build",
+      "dast",
+      "dependency_scan",
+      "diff",
+      "docker",
+      "edit",
+      "fuzz",
+      "gh",
+      "git_search",
+      "github_actions",
+      "gitlab",
+      "gitlab_ci",
+      "grafana",
+      "helm",
+      "jenkins",
+      "k8s",
+      "kms",
+      "kubectl",
+      "kustomize",
+      "logs",
+      "minikube",
+      "otel",
+      "prometheus",
+      "read",
+      "sast",
+      "sbom",
+      "secret_scan",
+      "secrets_manager",
+      "sigstore",
+      "slo",
+      "snyk",
+      "terraform",
+      "think",
+      "tracing",
+      "tree",
+      "trivy",
+      "write"
+    ]
+  },
+  {
+    "description": "Code as art",
+    "environment": {
+      "P5_MODE": "global"
+    },
+    "name": "creative",
+    "philosophy": "Programming is the art of the possible.",
+    "programmer": "Creative Coder",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "watch",
+      "jupyter",
+      "todo",
+      "agent",
+      "consensus",
+      "critic",
+      "think"
+    ]
+  },
+  {
+    "description": "DNS security researcher",
+    "environment": {
+      "DNSSEC": "true"
+    },
+    "name": "dan_kaminsky",
+    "philosophy": "Break it to make it better.",
+    "programmer": "Dan Kaminsky",
+    "tags": [
+      "security"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols",
+      "process",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "djb - qmail & Curve25519 creator",
+    "environment": {
+      "QMAIL_HOME": "/var/qmail"
+    },
+    "name": "daniel_b",
+    "philosophy": "Security through simplicity.",
+    "programmer": "Daniel J. Bernstein",
+    "tags": [
+      "pioneer",
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Gentoo founder",
+    "environment": {
+      "GENTOO_PROFILE": "default/linux/amd64/17.1"
+    },
+    "name": "daniel_r",
+    "philosophy": "Your system, your way.",
+    "programmer": "Daniel Robbins",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "bash",
+      "npx",
+      "uvx",
+      "process",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Analyze all the things",
+    "environment": {
+      "JUPYTER_THEME": "dark"
+    },
+    "name": "data_scientist",
+    "philosophy": "In God we trust. All others must bring data.",
+    "programmer": "Data Scientist",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "jupyter",
+      "sql_query",
+      "stats",
+      "vector_index",
+      "vector_search",
+      "agent",
+      "consensus",
+      "critic",
+      "think"
+    ]
+  },
+  {
+    "description": "Rails creator - convention over configuration",
+    "environment": {
+      "RAILS_ENV": "development"
+    },
+    "name": "david",
+    "philosophy": "Optimize for programmer happiness.",
+    "programmer": "David Heinemeier Hansson",
+    "tags": [
+      "pioneer",
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "sql_query",
+      "watch",
+      "todo",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "DeepMind co-founder",
+    "environment": {
+      "JAX_VERSION": "0.4"
+    },
+    "name": "demis",
+    "philosophy": "Solve intelligence, use it to solve everything else.",
+    "programmer": "Demis Hassabis",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "vector_index",
+      "vector_search",
+      "agent",
+      "consensus"
+    ]
+  },
+  {
+    "description": "C creator - close to the metal",
+    "environment": {
+      "CC": "gcc",
+      "CFLAGS": "-Wall -O2"
+    },
+    "name": "dennis",
+    "philosophy": "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.",
+    "programmer": "Dennis Ritchie",
+    "tags": [
+      "languages",
+      "c",
+      "unix"
+    ],
+    "tools": [
+      "bash",
+      "content_replace",
+      "diff",
+      "edit",
+      "find_files",
+      "gdb",
+      "grep",
+      "process",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Automate everything",
+    "environment": {
+      "CI_CD": "enabled"
+    },
+    "name": "devops",
+    "philosophy": "You build it, you run it.",
+    "programmer": "DevOps Engineer",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "bash",
+      "npx",
+      "uvx",
+      "process",
+      "process",
+      "watch",
+      "todo",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Structured programming and correctness",
+    "environment": {
+      "GOTO_ALLOWED": "false",
+      "PROOF_REQUIRED": "true"
+    },
+    "name": "dijkstra",
+    "philosophy": "Simplicity is prerequisite for reliability.",
+    "programmer": "Edsger W. Dijkstra",
+    "tags": [
+      "academic",
+      "correctness",
+      "algorithms"
+    ],
+    "tools": [
+      "bash",
+      "coverage",
+      "edit",
+      "formatter",
+      "go_test",
+      "jest",
+      "linters",
+      "mocha",
+      "model_check",
+      "pytest",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "TeX creator - literate programming",
+    "environment": {
+      "TEXMFHOME": "~/texmf"
+    },
+    "name": "donald",
+    "philosophy": "Premature optimization is the root of all evil.",
+    "programmer": "Donald Knuth",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "todo",
+      "critic"
+    ]
+  },
+  {
+    "description": "JSON creator - JavaScript the good parts",
+    "environment": {
+      "JSLINT": "true"
+    },
+    "name": "douglas",
+    "philosophy": "JavaScript has some extraordinarily good parts.",
+    "programmer": "Douglas Crockford",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "symbols",
+      "critic",
+      "search",
+      "symbols",
+      "grep",
+      "git_search"
+    ]
+  },
+  {
+    "description": "MongoDB co-creator - document databases",
+    "environment": {
+      "MONGO_VERSION": "6.0"
+    },
+    "name": "dwight",
+    "philosophy": "Build the database you want to use.",
+    "programmer": "Dwight Merriman",
+    "tags": [
+      "pioneer",
+      "database"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "watch",
+      "todo"
+    ]
+  },
+  {
+    "description": "Figma co-founder",
+    "environment": {
+      "FIGMA_API": "enabled"
+    },
+    "name": "dylan",
+    "philosophy": "Design tools should be collaborative.",
+    "programmer": "Dylan Field",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "watch",
+      "todo",
+      "rules"
+    ]
+  },
+  {
+    "description": "Relational model inventor",
+    "environment": {
+      "SQL_MODE": "ANSI"
+    },
+    "name": "edgar",
+    "philosophy": "Data independence is key.",
+    "programmer": "Edgar F. Codd",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "critic"
+    ]
+  },
+  {
+    "description": "Process and compliance",
+    "environment": {
+      "COMPLIANCE": "SOC2"
+    },
+    "name": "enterprise",
+    "philosophy": "Nobody ever got fired for buying IBM.",
+    "programmer": "Enterprise Developer",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "todo",
+      "critic",
+      "rules",
+      "stats",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "Vue.js creator - progressive framework",
+    "environment": {
+      "VUE_VERSION": "3"
+    },
+    "name": "evan",
+    "philosophy": "Approachable, versatile, performant.",
+    "programmer": "Evan You",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "watch",
+      "symbols",
+      "todo",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "QEMU & FFmpeg creator",
+    "environment": {
+      "QEMU_VERSION": "8.0"
+    },
+    "name": "fabrice",
+    "philosophy": "Small, fast, and elegant code.",
+    "programmer": "Fabrice Bellard",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "process",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Compiler optimization and parallelization",
+    "environment": {
+      "OPTIMIZATION_LEVEL": "O3",
+      "PARALLELISM": "auto"
+    },
+    "name": "frances",
+    "philosophy": "Parallel computing is the future.",
+    "programmer": "Frances E. Allen",
+    "tags": [
+      "compilers",
+      "optimization",
+      "parallel"
+    ],
+    "tools": [
+      "bash",
+      "chaos",
+      "compiler",
+      "edit",
+      "gpu_manager",
+      "grafana",
+      "logs",
+      "otel",
+      "prometheus",
+      "read",
+      "slo",
+      "think",
+      "tracing",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Keras creator",
+    "environment": {
+      "KERAS_BACKEND": "tensorflow"
+    },
+    "name": "francois",
+    "philosophy": "Deep learning for humans.",
+    "programmer": "Fran\u00e7ois Chollet",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "jupyter",
+      "watch",
+      "todo"
+    ]
+  },
+  {
+    "description": "Every tool for every job",
+    "environment": {
+      "ALL_TOOLS": "enabled"
+    },
+    "name": "fullstack",
+    "philosophy": "Jack of all trades, master of... well, all trades.",
+    "programmer": "Full Stack Developer",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "grep",
+      "sql_search",
+      "git_search",
+      "tree",
+      "read",
+      "critic",
+      "think",
+      "graph_query",
+      "sql_query",
+      "watch",
+      "diff",
+      "bash",
+      "consensus",
+      "jupyter",
+      "vector_index",
+      "neovim_edit",
+      "mcp",
+      "edit",
+      "rules",
+      "todo",
+      "npx",
+      "find_files",
+      "vector_search",
+      "process",
+      "uvx",
+      "search",
+      "write",
+      "graph_add",
+      "symbols",
+      "agent"
+    ]
+  },
+  {
+    "description": "Valve founder - Half-Life & Steam",
+    "environment": {
+      "STEAM_RUNTIME": "1"
+    },
+    "name": "gabe",
+    "philosophy": "The easiest way to stop piracy is not by putting antipiracy technology to work. It's by giving those people a service that's better than what they're receiving from the pirates.",
+    "programmer": "Gabe Newell",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "process",
+      "watch",
+      "todo",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Deep learning godfather",
+    "environment": {
+      "TF_VERSION": "2.13"
+    },
+    "name": "geoffrey",
+    "philosophy": "The brain has to work with what it's got.",
+    "programmer": "Geoffrey Hinton",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "vector_index",
+      "vector_search",
+      "jupyter"
+    ]
+  },
+  {
+    "description": "Compiler pioneer and debugging inventor",
+    "environment": {
+      "COMPILER_TOOL": "cobol-compat",
+      "DOCKER_REGISTRY": "ghcr.io"
+    },
+    "name": "grace",
+    "philosophy": "The most dangerous phrase in the language is 'We've always done it this way.'",
+    "programmer": "Grace Hopper",
+    "tags": [
+      "pioneer",
+      "compilers",
+      "pragmatic"
+    ],
+    "tools": [
+      "artifact_publish",
+      "bash",
+      "ci",
+      "circleci",
+      "compiler",
+      "coverage",
+      "docker",
+      "edit",
+      "formatter",
+      "github_actions",
+      "gitlab_ci",
+      "go_test",
+      "jenkins",
+      "jest",
+      "linters",
+      "mocha",
+      "pytest",
+      "read",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Rust creator - memory safety without GC",
+    "environment": {
+      "CARGO_HOME": "~/.cargo",
+      "RUST_BACKTRACE": "1"
+    },
+    "name": "graydon",
+    "philosophy": "Memory safety without garbage collection, concurrency without data races.",
+    "programmer": "Graydon Hoare",
+    "tags": [
+      "languages",
+      "rust",
+      "safety"
+    ],
+    "tools": [
+      "bash",
+      "cargo",
+      "coverage",
+      "critic",
+      "edit",
+      "formatter",
+      "gem",
+      "go_test",
+      "jest",
+      "linters",
+      "mocha",
+      "multi_edit",
+      "npx",
+      "pip",
+      "process",
+      "pytest",
+      "read",
+      "symbols",
+      "think",
+      "todo",
+      "tree",
+      "uvx",
+      "write"
+    ]
+  },
+  {
+    "description": "Python's BDFL - readability counts",
+    "environment": {
+      "BLACK_CONFIG": "pyproject.toml",
+      "PYTEST_ARGS": "-xvs",
+      "PYTHONPATH": "."
+    },
+    "name": "guido",
+    "philosophy": "There should be one-- and preferably only one --obvious way to do it.",
+    "programmer": "Guido van Rossum",
+    "tags": [
+      "languages",
+      "python",
+      "readability"
+    ],
+    "tools": [
+      "agent",
+      "ast_search",
+      "bash",
+      "consensus",
+      "critic",
+      "dvc",
+      "edit",
+      "feature_store",
+      "formatter",
+      "git_search",
+      "grep",
+      "jupyter",
+      "kedro",
+      "llm",
+      "mlem",
+      "mlflow",
+      "model_registry",
+      "multi_edit",
+      "notebook",
+      "pytest",
+      "read",
+      "rules",
+      "search",
+      "symbols",
+      "think",
+      "tree",
+      "uvx",
+      "write"
+    ]
+  },
+  {
+    "description": "Vercel founder & Next.js creator",
+    "environment": {
+      "NEXT_VERSION": "14"
+    },
+    "name": "guillermo",
+    "philosophy": "Make the Web. Faster.",
+    "programmer": "Guillermo Rauch",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "watch",
+      "rules",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Balanced productivity and quality",
+    "environment": {
+      "AI_ASSIST": "true",
+      "DOCKER_BUILDKIT": "1",
+      "HANZO_MODE": "enabled",
+      "KUBECONFIG": "~/.kube/config"
+    },
+    "name": "hanzo",
+    "philosophy": "AI-powered development at scale.",
+    "programmer": "Hanzo AI Default",
+    "tags": [
+      "default",
+      "balanced",
+      "ai"
+    ],
+    "tools": [
+      "agent",
+      "artifact_publish",
+      "ast_search",
+      "bash",
+      "cargo",
+      "ci",
+      "circleci",
+      "consensus",
+      "container_build",
+      "critic",
+      "diff",
+      "docker",
+      "dvc",
+      "edit",
+      "feature_store",
+      "gem",
+      "gh",
+      "git_search",
+      "github_actions",
+      "gitlab",
+      "gitlab_ci",
+      "grep",
+      "helm",
+      "jenkins",
+      "jupyter",
+      "k8s",
+      "kedro",
+      "kubectl",
+      "kustomize",
+      "llm",
+      "minikube",
+      "mlem",
+      "mlflow",
+      "model_registry",
+      "multi_edit",
+      "notebook",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "rules",
+      "search",
+      "symbols",
+      "think",
+      "todo",
+      "tree",
+      "uvx",
+      "watch",
+      "write"
+    ]
+  },
+  {
+    "description": "Metal Gear creator",
+    "environment": {
+      "KOJIMA_PRODUCTIONS": "true"
+    },
+    "name": "hideo",
+    "philosophy": "70% of my body is made of movies.",
+    "programmer": "Hideo Kojima",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "todo",
+      "watch",
+      "critic"
+    ]
+  },
+  {
+    "description": "Algorithms, CSP, and Hoare logic",
+    "environment": {
+      "NULL_REFERENCES": "banned",
+      "PROOF_ASSISTANT": "coq"
+    },
+    "name": "hoare",
+    "philosophy": "Premature optimization is the root of all evil.",
+    "programmer": "Tony Hoare",
+    "tags": [
+      "algorithms",
+      "correctness",
+      "theory"
+    ],
+    "tools": [
+      "bash",
+      "coverage",
+      "edit",
+      "formatter",
+      "go_test",
+      "jest",
+      "linters",
+      "mocha",
+      "model_check",
+      "pytest",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Debian founder",
+    "environment": {
+      "DEBIAN_FRONTEND": "noninteractive"
+    },
+    "name": "ian",
+    "philosophy": "Free software, free society.",
+    "programmer": "Ian Murdock",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff",
+      "todo"
+    ]
+  },
+  {
+    "description": "OpenAI co-founder - scaling is all you need",
+    "environment": {
+      "CUDA_VISIBLE_DEVICES": "0",
+      "OPENAI_API_KEY": "",
+      "PYTORCH_ENABLE_MPS": "1"
+    },
+    "name": "ilya",
+    "philosophy": "AGI is the goal.",
+    "programmer": "Ilya Sutskever",
+    "tags": [
+      "ai",
+      "ml",
+      "research"
+    ],
+    "tools": [
+      "agent",
+      "ansible",
+      "aws_s3",
+      "bash",
+      "batch",
+      "cloud_cli",
+      "consensus",
+      "critic",
+      "dvc",
+      "edit",
+      "feature_store",
+      "gpu_manager",
+      "hf_hub",
+      "huggingface",
+      "jupyter",
+      "kedro",
+      "kms",
+      "llm",
+      "mlem",
+      "mlflow",
+      "model_deploy",
+      "model_registry",
+      "notebook",
+      "onnx_convert",
+      "quantize",
+      "read",
+      "secrets_manager",
+      "symbols",
+      "terraform",
+      "think",
+      "tree",
+      "uvx",
+      "write"
+    ]
+  },
+  {
+    "description": "Java creator - write once, run anywhere",
+    "environment": {
+      "JAVA_HOME": "/usr/lib/jvm/java-11-openjdk",
+      "MAVEN_OPTS": "-Xmx1024m"
+    },
+    "name": "james",
+    "philosophy": "Java is C++ without the guns, knives, and clubs.",
+    "programmer": "James Gosling",
+    "tags": [
+      "languages",
+      "java",
+      "enterprise"
+    ],
+    "tools": [
+      "bash",
+      "batch",
+      "cargo",
+      "edit",
+      "gem",
+      "gradle",
+      "maven",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "symbols",
+      "think",
+      "todo",
+      "tree",
+      "uvx",
+      "write"
+    ]
+  },
+  {
+    "description": "MapReduce & BigTable co-creator",
+    "environment": {
+      "HADOOP_HOME": "/opt/hadoop"
+    },
+    "name": "jeff_dean",
+    "philosophy": "Design for planet-scale.",
+    "programmer": "Jeff Dean",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "vector_index",
+      "vector_search",
+      "batch"
+    ]
+  },
+  {
+    "description": "CoffeeScript & Backbone creator",
+    "environment": {
+      "COFFEE_VERSION": "2.0"
+    },
+    "name": "jeremy",
+    "philosophy": "It's just JavaScript.",
+    "programmer": "Jeremy Ashkenas",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "symbols",
+      "watch"
+    ]
+  },
+  {
+    "description": "fast.ai founder",
+    "environment": {
+      "FASTAI_VERSION": "2.7"
+    },
+    "name": "jeremy_howard",
+    "philosophy": "Deep learning should be accessible to all.",
+    "programmer": "Jeremy Howard",
+    "tags": [
+      "pioneer",
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "jupyter",
+      "watch",
+      "rules"
+    ]
+  },
+  {
+    "description": "Transaction processing pioneer",
+    "environment": {
+      "ISOLATION_LEVEL": "SERIALIZABLE"
+    },
+    "name": "jim_gray",
+    "philosophy": "The transaction is the unit of work.",
+    "programmer": "Jim Gray",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "batch",
+      "critic"
+    ]
+  },
+  {
+    "description": "Erlang creator",
+    "environment": {
+      "ERL_VERSION": "OTP-26"
+    },
+    "name": "joe",
+    "philosophy": "Let it crash.",
+    "programmer": "Joe Armstrong",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "process",
+      "watch",
+      "critic"
+    ]
+  },
+  {
+    "description": "jQuery creator - write less, do more",
+    "environment": {
+      "JQUERY_VERSION": "3.6"
+    },
+    "name": "john",
+    "philosophy": "Do more with less code.",
+    "programmer": "John Resig",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "watch",
+      "symbols",
+      "search",
+      "symbols",
+      "grep",
+      "git_search"
+    ]
+  },
+  {
+    "description": "id Software - Doom & Quake creator",
+    "environment": {
+      "OPENGL_VERSION": "4.6"
+    },
+    "name": "john_carmack",
+    "philosophy": "Focus is a matter of deciding what things you're not going to do.",
+    "programmer": "John Carmack",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "watch",
+      "process",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Braid & The Witness creator",
+    "environment": {
+      "JAI_COMPILER": "beta"
+    },
+    "name": "jonathan",
+    "philosophy": "Optimize for deep, meaningful experiences.",
+    "programmer": "Jonathan Blow",
+    "tags": [
+      "pioneer",
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "critic",
+      "watch"
+    ]
+  },
+  {
+    "description": "React creator - declarative UIs",
+    "environment": {
+      "REACT_VERSION": "18"
+    },
+    "name": "jordan",
+    "philosophy": "Learn once, write anywhere.",
+    "programmer": "Jordan Walke",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "watch",
+      "symbols",
+      "rules",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Elixir creator",
+    "environment": {
+      "ELIXIR_VERSION": "1.15"
+    },
+    "name": "jose",
+    "philosophy": "Productive. Reliable. Fast.",
+    "programmer": "Jos\u00e9 Valim",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "watch",
+      "process",
+      "todo"
+    ]
+  },
+  {
+    "description": "Arch Linux creator",
+    "environment": {
+      "ARCH_VERSION": "rolling"
+    },
+    "name": "judd",
+    "philosophy": "Keep it simple.",
+    "programmer": "Judd Vinet",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "bash",
+      "npx",
+      "uvx",
+      "process",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Bug bounty pioneer",
+    "environment": {
+      "BUG_BOUNTY": "enabled"
+    },
+    "name": "katie",
+    "philosophy": "Hackers are a resource, not a threat.",
+    "programmer": "Katie Moussouris",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols",
+      "todo"
+    ]
+  },
+  {
+    "description": "Unix creator - elegant minimalism",
+    "environment": {
+      "PATH": "/usr/local/bin:$PATH"
+    },
+    "name": "ken",
+    "philosophy": "When in doubt, use brute force.",
+    "programmer": "Ken Thompson",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Distributed systems and TLA+",
+    "environment": {
+      "MODEL_CHECK_TIMEOUT": "300",
+      "SPEC_TOOL": "tla+"
+    },
+    "name": "lamport",
+    "philosophy": "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.",
+    "programmer": "Leslie Lamport",
+    "tags": [
+      "distributed",
+      "correctness",
+      "theory"
+    ],
+    "tools": [
+      "bash",
+      "chaos",
+      "container_build",
+      "docker",
+      "edit",
+      "grafana",
+      "helm",
+      "k8s",
+      "kubectl",
+      "kubernetes",
+      "kustomize",
+      "logs",
+      "minikube",
+      "model_check",
+      "otel",
+      "prometheus",
+      "read",
+      "slo",
+      "think",
+      "tla_plus",
+      "tracing",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Perl creator - there's more than one way to do it",
+    "environment": {
+      "PERL5LIB": "./lib"
+    },
+    "name": "larry",
+    "philosophy": "The three chief virtues of a programmer are laziness, impatience, and hubris.",
+    "programmer": "Larry Wall",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "grep",
+      "content_replace",
+      "batch",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "systemd creator",
+    "environment": {
+      "SYSTEMD_VERSION": "253"
+    },
+    "name": "lennart",
+    "philosophy": "Do one thing and do it well... or do everything.",
+    "programmer": "Lennart Poettering",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "process",
+      "watch",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Linux & Git creator - pragmatic excellence",
+    "environment": {
+      "GIT_AUTHOR_NAME": "Linus Torvalds",
+      "KERNEL_VERSION": "6.0"
+    },
+    "name": "linus",
+    "philosophy": "Talk is cheap. Show me the code.",
+    "programmer": "Linus Torvalds",
+    "tags": [
+      "systems",
+      "linux",
+      "git"
+    ],
+    "tools": [
+      "bash",
+      "content_replace",
+      "critic",
+      "diff",
+      "edit",
+      "find_files",
+      "gh",
+      "git_search",
+      "gitlab",
+      "grep",
+      "process",
+      "read",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Software engineering principles & abstraction",
+    "environment": {
+      "LISKOV_SUBSTITUTION": "enforced",
+      "SOLID_PRINCIPLES": "true"
+    },
+    "name": "liskov",
+    "philosophy": "Abstraction is the key to managing complexity.",
+    "programmer": "Barbara Liskov",
+    "tags": [
+      "engineering",
+      "principles",
+      "oop"
+    ],
+    "tools": [
+      "bash",
+      "coverage",
+      "edit",
+      "formatter",
+      "go_test",
+      "jest",
+      "linters",
+      "mocha",
+      "pytest",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Software engineering for mission-critical systems",
+    "environment": {
+      "ERROR_HANDLING": "exhaustive",
+      "MISSION_CRITICAL": "true"
+    },
+    "name": "margaret",
+    "philosophy": "There was no choice but to be pioneers.",
+    "programmer": "Margaret Hamilton",
+    "tags": [
+      "engineering",
+      "reliability",
+      "space"
+    ],
+    "tools": [
+      "bash",
+      "coverage",
+      "dast",
+      "dependency_scan",
+      "edit",
+      "formatter",
+      "fuzz",
+      "go_test",
+      "jest",
+      "linters",
+      "mocha",
+      "model_check",
+      "pytest",
+      "read",
+      "sast",
+      "sbom",
+      "secret_scan",
+      "sigstore",
+      "snyk",
+      "think",
+      "tree",
+      "trivy",
+      "write"
+    ]
+  },
+  {
+    "description": "Ubuntu founder",
+    "environment": {
+      "UBUNTU_VERSION": "22.04"
+    },
+    "name": "mark_shuttleworth",
+    "philosophy": "Linux for human beings.",
+    "programmer": "Mark Shuttleworth",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "todo",
+      "rules",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Minecraft creator - Notch",
+    "environment": {
+      "LWJGL_VERSION": "3.3"
+    },
+    "name": "markus",
+    "philosophy": "Just make games for yourself and try to have fun.",
+    "programmer": "Markus Persson",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "watch",
+      "todo",
+      "process"
+    ]
+  },
+  {
+    "description": "Apache Spark creator",
+    "environment": {
+      "SPARK_MASTER": "local[*]"
+    },
+    "name": "matei",
+    "philosophy": "In-memory computing changes everything.",
+    "programmer": "Matei Zaharia",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "batch",
+      "process",
+      "jupyter"
+    ]
+  },
+  {
+    "description": "WordPress creator - democratize publishing",
+    "environment": {
+      "WP_DEBUG": "true"
+    },
+    "name": "matt",
+    "philosophy": "Code is poetry.",
+    "programmer": "Matt Mullenweg",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "watch",
+      "rules",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "Cryptographer & security researcher",
+    "environment": {
+      "CRYPTO_LIBRARY": "nacl"
+    },
+    "name": "matt_blaze",
+    "philosophy": "Crypto is hard to get right.",
+    "programmer": "Matt Blaze",
+    "tags": [
+      "security"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols",
+      "git_search"
+    ]
+  },
+  {
+    "description": "Ruby creator - optimize for developer happiness",
+    "environment": {
+      "BUNDLE_PATH": "vendor/bundle",
+      "RUBY_VERSION": "3.0"
+    },
+    "name": "matz",
+    "philosophy": "Ruby is designed to make programmers happy.",
+    "programmer": "Yukihiro Matsumoto",
+    "tags": [
+      "languages",
+      "ruby",
+      "happiness"
+    ],
+    "tools": [
+      "artifact_publish",
+      "ast_search",
+      "bash",
+      "batch",
+      "ci",
+      "circleci",
+      "edit",
+      "gem",
+      "git_search",
+      "github_actions",
+      "gitlab_ci",
+      "grep",
+      "jenkins",
+      "read",
+      "search",
+      "symbols",
+      "think",
+      "todo",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "AI pioneer and Lisp inventor",
+    "environment": {
+      "AI_PARADIGM": "symbolic",
+      "LISP_DIALECT": "common-lisp"
+    },
+    "name": "mccarthy",
+    "philosophy": "He who refuses to do arithmetic is doomed to talk nonsense.",
+    "programmer": "John McCarthy",
+    "tags": [
+      "ai",
+      "languages",
+      "pioneer"
+    ],
+    "tools": [
+      "agent",
+      "bash",
+      "consensus",
+      "critic",
+      "edit",
+      "llm",
+      "notebook",
+      "read",
+      "repl",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "PostgreSQL creator - ACID matters",
+    "environment": {
+      "PGDATA": "/var/lib/postgresql/data"
+    },
+    "name": "michael_s",
+    "philosophy": "One size does not fit all in databases.",
+    "programmer": "Michael Stonebraker",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "batch",
+      "todo"
+    ]
+  },
+  {
+    "description": "MySQL/MariaDB creator",
+    "environment": {
+      "MYSQL_HOME": "/usr/local/mysql"
+    },
+    "name": "michael_w",
+    "philosophy": "A small fast database for the web.",
+    "programmer": "Michael Widenius",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "watch"
+    ]
+  },
+  {
+    "description": "GNOME & Mono creator",
+    "environment": {
+      "MONO_VERSION": "6.12"
+    },
+    "name": "miguel",
+    "philosophy": "Open source is about standing on the shoulders of giants.",
+    "programmer": "Miguel de Icaza",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "todo",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Hadoop co-creator",
+    "environment": {
+      "HADOOP_CONF_DIR": "/etc/hadoop"
+    },
+    "name": "mike",
+    "philosophy": "Storage is cheap, compute is cheap.",
+    "programmer": "Mike Cafarella",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "batch",
+      "process"
+    ]
+  },
+  {
+    "description": "Just the essentials",
+    "environment": {
+      "MINIMAL_MODE": "true"
+    },
+    "name": "minimal",
+    "philosophy": "Less is more.",
+    "programmer": "Minimalist",
+    "tags": [
+      "minimal",
+      "focused",
+      "simple"
+    ],
+    "tools": [
+      "bash",
+      "edit",
+      "read",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "HashiCorp founder - infrastructure as code",
+    "environment": {
+      "TERRAFORM_VERSION": "1.0"
+    },
+    "name": "mitchell",
+    "philosophy": "Automate everything.",
+    "programmer": "Mitchell Hashimoto",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "bash",
+      "process",
+      "watch",
+      "todo",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Production ML systems",
+    "environment": {
+      "CUDA_VISIBLE_DEVICES": "0,1",
+      "DVC_REMOTE": "s3://ml-artifacts",
+      "MLFLOW_TRACKING_URI": "http://localhost:5000"
+    },
+    "name": "ml_engineer",
+    "philosophy": "From notebook to production pipeline.",
+    "programmer": "ML Engineer",
+    "tags": [
+      "ml",
+      "mlops",
+      "production"
+    ],
+    "tools": [
+      "agent",
+      "ansible",
+      "aws_s3",
+      "bash",
+      "chaos",
+      "cloud_cli",
+      "consensus",
+      "container_build",
+      "critic",
+      "docker",
+      "dvc",
+      "edit",
+      "feature_store",
+      "gpu_manager",
+      "grafana",
+      "helm",
+      "hf_hub",
+      "huggingface",
+      "jupyter",
+      "k8s",
+      "kedro",
+      "kms",
+      "kubectl",
+      "kustomize",
+      "llm",
+      "logs",
+      "minikube",
+      "mlem",
+      "mlflow",
+      "model_deploy",
+      "model_registry",
+      "notebook",
+      "onnx_convert",
+      "otel",
+      "prometheus",
+      "quantize",
+      "read",
+      "secrets_manager",
+      "slo",
+      "terraform",
+      "think",
+      "tracing",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Signal creator - privacy for everyone",
+    "environment": {
+      "SIGNAL_PROTOCOL": "true"
+    },
+    "name": "moxie",
+    "philosophy": "Making private communication simple.",
+    "programmer": "Moxie Marlinspike",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols",
+      "rules"
+    ]
+  },
+  {
+    "description": "GitHub CEO & AI entrepreneur",
+    "environment": {
+      "GITHUB_TOKEN": "ghp_..."
+    },
+    "name": "nat",
+    "philosophy": "Developers are the builders of the digital world.",
+    "programmer": "Nat Friedman",
+    "tags": [
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "git_search",
+      "todo"
+    ]
+  },
+  {
+    "description": "Oculus founder",
+    "environment": {
+      "UNITY_VERSION": "2023.1"
+    },
+    "name": "palmer",
+    "philosophy": "VR is the final medium.",
+    "programmer": "Palmer Luckey",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "watch",
+      "process",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Slackware creator",
+    "environment": {
+      "SLACKWARE_VERSION": "15.0"
+    },
+    "name": "patrick",
+    "philosophy": "Keep it simple, keep it stable.",
+    "programmer": "Patrick Volkerding",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "PGP creator - privacy matters",
+    "environment": {
+      "GPG_TTY": "$(tty)"
+    },
+    "name": "phil",
+    "philosophy": "If privacy is outlawed, only outlaws will have privacy.",
+    "programmer": "Phil Zimmermann",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "content_replace",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Network protocols and spanning tree",
+    "environment": {
+      "NETWORK_PROTOCOL": "stp",
+      "ROUTING_ALGORITHM": "is-is"
+    },
+    "name": "radia",
+    "philosophy": "The beautiful thing about standards is that there are so many to choose from.",
+    "programmer": "Radia Perlman",
+    "tags": [
+      "networking",
+      "protocols",
+      "infrastructure"
+    ],
+    "tools": [
+      "ansible",
+      "aws_s3",
+      "bash",
+      "cloud_cli",
+      "container_build",
+      "docker",
+      "edit",
+      "helm",
+      "k8s",
+      "kms",
+      "kubectl",
+      "kustomize",
+      "minikube",
+      "read",
+      "secrets_manager",
+      "terraform",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Merkle trees inventor",
+    "environment": {
+      "HASH_ALGORITHM": "SHA256"
+    },
+    "name": "ralph",
+    "philosophy": "Cryptography is about mathematical guarantees.",
+    "programmer": "Ralph Merkle",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "critic",
+      "batch"
+    ]
+  },
+  {
+    "description": "PHP creator - pragmatic web development",
+    "environment": {
+      "PHP_VERSION": "8.0"
+    },
+    "name": "rasmus",
+    "philosophy": "I'm not a real programmer. I throw together things until it works.",
+    "programmer": "Rasmus Lerdorf",
+    "tags": [
+      "pioneer",
+      "web"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "sql_query",
+      "watch",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "Clojure creator - simplicity matters",
+    "environment": {
+      "CLOJURE_VERSION": "1.11"
+    },
+    "name": "rich",
+    "philosophy": "Programming is not about typing... it's about thinking.",
+    "programmer": "Rich Hickey",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "todo",
+      "batch",
+      "agent",
+      "consensus",
+      "critic",
+      "think"
+    ]
+  },
+  {
+    "description": "GNU creator - software freedom",
+    "environment": {
+      "EDITOR": "emacs"
+    },
+    "name": "richard",
+    "philosophy": "Free software is a matter of liberty, not price.",
+    "programmer": "Richard Stallman",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "content_replace",
+      "batch",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Go creator - simplicity and concurrency",
+    "environment": {
+      "GO111MODULE": "on",
+      "GOPATH": "~/go"
+    },
+    "name": "rob",
+    "philosophy": "A little copying is better than a little dependency.",
+    "programmer": "Rob Pike",
+    "tags": [
+      "languages",
+      "go",
+      "concurrency"
+    ],
+    "tools": [
+      "bash",
+      "batch",
+      "cargo",
+      "diff",
+      "edit",
+      "find_files",
+      "gem",
+      "go_test",
+      "grep",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "uvx",
+      "write"
+    ]
+  },
+  {
+    "description": "Node.js & Deno creator",
+    "environment": {
+      "DENO_DIR": "~/.deno"
+    },
+    "name": "ryan",
+    "philosophy": "I/O needs to be done differently.",
+    "programmer": "Ryan Dahl",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "uvx",
+      "watch",
+      "process",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "Redis creator - data structures server",
+    "environment": {
+      "REDIS_VERSION": "7.0"
+    },
+    "name": "salvatore",
+    "philosophy": "Simplicity is a great virtue.",
+    "programmer": "Salvatore Sanfilippo",
+    "tags": [
+      "pioneer",
+      "database"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "bash",
+      "watch",
+      "process",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "MapReduce & BigTable co-creator",
+    "environment": {
+      "SPARK_HOME": "/opt/spark"
+    },
+    "name": "sanjay",
+    "philosophy": "Simple abstractions for complex systems.",
+    "programmer": "Sanjay Ghemawat",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query",
+      "batch",
+      "process"
+    ]
+  },
+  {
+    "description": "Bitcoin creator - peer-to-peer electronic cash",
+    "environment": {
+      "BITCOIN_NETWORK": "mainnet",
+      "RPC_USER": "bitcoin",
+      "SIGNING_KEY": ""
+    },
+    "name": "satoshi",
+    "philosophy": "A purely peer-to-peer version of electronic cash.",
+    "programmer": "Satoshi Nakamoto",
+    "tags": [
+      "blockchain",
+      "crypto",
+      "p2p"
+    ],
+    "tools": [
+      "bash",
+      "content_replace",
+      "critic",
+      "dast",
+      "dependency_scan",
+      "diff",
+      "edit",
+      "find_files",
+      "fuzz",
+      "gh",
+      "git_search",
+      "gitlab",
+      "grep",
+      "kms",
+      "process",
+      "read",
+      "sast",
+      "sbom",
+      "secret_scan",
+      "signing",
+      "sigstore",
+      "snyk",
+      "symbols",
+      "think",
+      "tree",
+      "trivy",
+      "write"
+    ]
+  },
+  {
+    "description": "Udacity founder & self-driving car pioneer",
+    "environment": {
+      "ROS_VERSION": "noetic"
+    },
+    "name": "sebastian",
+    "philosophy": "Education should be accessible to all.",
+    "programmer": "Sebastian Thrun",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "jupyter",
+      "watch"
+    ]
+  },
+  {
+    "description": "Break it to secure it",
+    "environment": {
+      "SECURITY_MODE": "paranoid"
+    },
+    "name": "security",
+    "philosophy": "The only secure system is one that's powered off.",
+    "programmer": "Security Researcher",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols",
+      "git_search",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "Security-first development",
+    "environment": {
+      "KMS_KEY": "",
+      "SECURITY_SCAN": "enabled",
+      "SIGNING_KEY": "",
+      "SNYK_TOKEN": ""
+    },
+    "name": "security_first",
+    "philosophy": "Trust nothing, verify everything.",
+    "programmer": "Security Engineer",
+    "tags": [
+      "security",
+      "devsecops",
+      "compliance"
+    ],
+    "tools": [
+      "artifact_publish",
+      "bash",
+      "ci",
+      "circleci",
+      "coverage",
+      "dast",
+      "dependency_scan",
+      "diff",
+      "edit",
+      "formatter",
+      "fuzz",
+      "gh",
+      "git_search",
+      "github_actions",
+      "gitlab",
+      "gitlab_ci",
+      "go_test",
+      "jenkins",
+      "jest",
+      "kms",
+      "linters",
+      "mocha",
+      "pytest",
+      "read",
+      "sast",
+      "sbom",
+      "secret_scan",
+      "secrets_manager",
+      "signing",
+      "sigstore",
+      "snyk",
+      "think",
+      "tree",
+      "trivy",
+      "write"
+    ]
+  },
+  {
+    "description": "Mario & Zelda creator",
+    "environment": {
+      "NINTENDO_SDK": "true"
+    },
+    "name": "shigeru",
+    "philosophy": "A delayed game is eventually good, but a rushed game is forever bad.",
+    "programmer": "Shigeru Miyamoto",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "todo",
+      "watch",
+      "critic"
+    ]
+  },
+  {
+    "description": "Civilization creator",
+    "environment": {
+      "GAME_MODE": "debug"
+    },
+    "name": "sid",
+    "philosophy": "A game is a series of interesting choices.",
+    "programmer": "Sid Meier",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "todo",
+      "watch",
+      "process"
+    ]
+  },
+  {
+    "description": "Move fast and fix things",
+    "environment": {
+      "STARTUP_MODE": "hustle"
+    },
+    "name": "startup",
+    "philosophy": "Done is better than perfect.",
+    "programmer": "Startup Founder",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "todo",
+      "agent",
+      "consensus",
+      "bash",
+      "npx",
+      "uvx",
+      "process",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "Laravel creator - PHP artisan",
+    "environment": {
+      "LARAVEL_VERSION": "10"
+    },
+    "name": "taylor",
+    "philosophy": "Love beautiful code? We do too.",
+    "programmer": "Taylor Otwell",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "sql_query",
+      "watch",
+      "sql_query",
+      "sql_search",
+      "graph_add",
+      "graph_query"
+    ]
+  },
+  {
+    "description": "OpenBSD creator - security by default",
+    "environment": {
+      "OPENBSD_VERSION": "7.3"
+    },
+    "name": "theo",
+    "philosophy": "Shut up and hack.",
+    "programmer": "Theo de Raadt",
+    "tags": [
+      "pioneer",
+      "security"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "diff",
+      "grep",
+      "find_files",
+      "bash",
+      "process",
+      "diff"
+    ]
+  },
+  {
+    "description": "WWW inventor - open web",
+    "environment": {
+      "W3C_VALIDATOR": "true"
+    },
+    "name": "tim",
+    "philosophy": "The Web is for everyone.",
+    "programmer": "Tim Berners-Lee",
+    "tags": [
+      "pioneer",
+      "web"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "npx",
+      "watch",
+      "rules",
+      "search",
+      "symbols",
+      "grep",
+      "git_search"
+    ]
+  },
+  {
+    "description": "Epic Games founder - Unreal Engine",
+    "environment": {
+      "UNREAL_ENGINE": "5"
+    },
+    "name": "tim_sweeney",
+    "philosophy": "The engine is the game.",
+    "programmer": "Tim Sweeney",
+    "tags": [
+      "pioneer",
+      "gaming"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "symbols",
+      "watch",
+      "process",
+      "bash",
+      "npx",
+      "uvx",
+      "process"
+    ]
+  },
+  {
+    "description": "GitHub co-founder & TOML creator",
+    "environment": {
+      "GITHUB_ACTIONS": "true"
+    },
+    "name": "tom",
+    "philosophy": "Optimize for happiness.",
+    "programmer": "Tom Preston-Werner",
+    "tags": [
+      "pioneer",
+      "ai"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "git_search",
+      "todo",
+      "rules"
+    ]
+  },
+  {
+    "description": "Computing foundations and AI pioneer",
+    "environment": {
+      "TURING_COMPLETE": "true"
+    },
+    "name": "turing",
+    "philosophy": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "programmer": "Alan Turing",
+    "tags": [
+      "pioneer",
+      "ai",
+      "theory"
+    ],
+    "tools": [
+      "agent",
+      "bash",
+      "consensus",
+      "critic",
+      "edit",
+      "llm",
+      "model_check",
+      "notebook",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Ethereum creator - world computer",
+    "environment": {
+      "ETH_NETWORK": "mainnet",
+      "WEB3_PROVIDER": "https://mainnet.infura.io"
+    },
+    "name": "vitalik",
+    "philosophy": "Decentralized world computer.",
+    "programmer": "Vitalik Buterin",
+    "tags": [
+      "blockchain",
+      "ethereum",
+      "smart-contracts"
+    ],
+    "tools": [
+      "ast_search",
+      "bash",
+      "cargo",
+      "dast",
+      "dependency_scan",
+      "edit",
+      "fuzz",
+      "gem",
+      "git_search",
+      "grep",
+      "hardhat",
+      "multi_edit",
+      "npx",
+      "pip",
+      "process",
+      "read",
+      "sast",
+      "sbom",
+      "search",
+      "secret_scan",
+      "sigstore",
+      "snyk",
+      "symbols",
+      "think",
+      "todo",
+      "tree",
+      "trivy",
+      "truffle",
+      "uvx",
+      "write"
+    ]
+  },
+  {
+    "description": "Public-key cryptography pioneer",
+    "environment": {
+      "OPENSSL_VERSION": "3.0"
+    },
+    "name": "whitfield",
+    "philosophy": "Privacy is necessary for an open society.",
+    "programmer": "Whitfield Diffie",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "critic",
+      "symbols"
+    ]
+  },
+  {
+    "description": "SimCity & The Sims creator",
+    "environment": {
+      "SIMULATION_MODE": "debug"
+    },
+    "name": "will",
+    "philosophy": "Games are a form of communication.",
+    "programmer": "Will Wright",
+    "tags": [
+      "pioneer"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "todo",
+      "watch",
+      "process"
+    ]
+  },
+  {
+    "description": "Language design - Pascal/Modula/Oberon",
+    "environment": {
+      "LANGUAGE_STYLE": "pascal",
+      "TYPE_SAFETY": "strict"
+    },
+    "name": "wirth",
+    "philosophy": "Algorithms + Data Structures = Programs",
+    "programmer": "Niklaus Wirth",
+    "tags": [
+      "languages",
+      "academic",
+      "design"
+    ],
+    "tools": [
+      "bash",
+      "compiler",
+      "edit",
+      "formatter",
+      "linters",
+      "read",
+      "symbols",
+      "think",
+      "tree",
+      "write"
+    ]
+  },
+  {
+    "description": "Deep learning pioneer - ConvNets",
+    "environment": {
+      "PYTORCH_VERSION": "2.0"
+    },
+    "name": "yann",
+    "philosophy": "AI is not magic; it's just math and data.",
+    "programmer": "Yann LeCun",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "vector_index",
+      "vector_search",
+      "jupyter",
+      "watch"
+    ]
+  },
+  {
+    "description": "Deep learning pioneer",
+    "environment": {
+      "THEANO_FLAGS": "device=cuda"
+    },
+    "name": "yoshua",
+    "philosophy": "We need to think about AI that helps humanity.",
+    "programmer": "Yoshua Bengio",
+    "tags": [
+      "general"
+    ],
+    "tools": [
+      "read",
+      "write",
+      "edit",
+      "tree",
+      "bash",
+      "think",
+      "agent",
+      "consensus",
+      "critic",
+      "think",
+      "vector_index",
+      "vector_search",
+      "jupyter",
+      "batch"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "name": "@hanzo/persona",
+  "version": "1.0.0",
+  "description": "Unified programmer personality profiles for Hanzo ecosystem",
+  "main": "personalities/personality_loader.js",
+  "types": "personalities/personality_loader.ts",
+  "files": [
+    "personalities/",
+    "schemas/",
+    "tools/",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "node -e \"const loader = require('./personalities/personality_loader'); console.log('Loaded', loader.countPersonalities(), 'personalities');\""
+  },
+  "keywords": [
+    "hanzo",
+    "personality",
+    "personas",
+    "programmer",
+    "ai"
+  ],
+  "author": "Hanzo AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanzoai/persona.git"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

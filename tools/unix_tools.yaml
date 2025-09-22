@@ -1,0 +1,349 @@
+# Unix/CLI Tool Preferences for Personalities
+# Comprehensive mapping of personality preferences to Unix/CLI tools
+
+unix_cli_preferences:
+  # Core Unix philosophy adherents
+  ritchie_thompson:
+    philosophy: "Write programs that do one thing and do it well"
+    essential_tools:
+      - grep
+      - sed
+      - awk
+      - sort
+      - uniq
+      - cut
+      - tr
+      - tee
+      - xargs
+      - find
+    shell: sh
+    editor: ed
+    pipeline_style: "heavy"
+
+  linus:
+    philosophy: "Talk is cheap. Show me the code."
+    essential_tools:
+      - git
+      - grep
+      - diff
+      - patch
+      - make
+      - gcc
+      - gdb
+      - strace
+      - perf
+      - sparse
+    shell: bash
+    editor: "microemacs/vim"
+    workflow: "email-based patches"
+
+  kernighan:
+    philosophy: "Controlling complexity is the essence of computer programming"
+    essential_tools:
+      - awk
+      - make
+      - troff
+      - pic
+      - grep
+      - sed
+      - diff
+      - sam
+    shell: sh
+    editor: sam
+    documentation: troff
+
+  pike:
+    philosophy: "A little copying is better than a little dependency"
+    essential_tools:
+      - go
+      - gofmt
+      - go test
+      - grep
+      - sed
+      - make
+      - git
+      - acme
+    shell: rc
+    editor: acme
+    build_system: "go modules"
+
+  # Modern CLI power users
+
+  mitchell_hashimoto:
+    philosophy: "Automate everything"
+    essential_tools:
+      - terraform
+      - packer
+      - vagrant
+      - consul
+      - vault
+      - nomad
+      - make
+      - go
+      - git
+    shell: zsh
+    editor: vim
+    infrastructure: "as code"
+
+  antirez:
+    philosophy: "Simplicity is a feature"
+    essential_tools:
+      - redis-cli
+      - telnet
+      - nc
+      - tcpdump
+      - strace
+      - gdb
+      - valgrind
+      - git
+      - make
+    shell: bash
+    editor: vim
+    debugging: "printf debugging"
+
+  # Security-focused CLI users
+
+  schneier:
+    philosophy: "Security is a process, not a product"
+    essential_tools:
+      - gpg
+      - openssl
+      - ssh
+      - netcat
+      - tcpdump
+      - wireshark
+      - nmap
+      - john
+      - hashcat
+      - metasploit
+    shell: bash
+    editor: vim
+    crypto: gpg
+
+  moxie:
+    philosophy: "Make private communication simple"
+    essential_tools:
+      - signal-cli
+      - gpg
+      - openssl
+      - ssh
+      - git
+      - make
+      - gradle
+      - adb
+    shell: bash
+    editor: vim
+    build: gradle
+
+  # Data processing CLI masters
+
+  dean_ghemawat:
+    philosophy: "Process data at scale"
+    essential_tools:
+      - mapreduce
+      - bigtable
+      - protobuf
+      - bazel
+      - gcloud
+      - kubectl
+      - bq
+      - gsutil
+    shell: bash
+    editor: emacs
+    build: bazel
+
+  # Web/Frontend developers who love CLI
+
+  dhh:
+    philosophy: "Convention over configuration"
+    essential_tools:
+      - rails
+      - rake
+      - bundler
+      - rspec
+      - capistrano
+      - redis-cli
+      - psql
+      - git
+      - tmux
+    shell: zsh
+    editor: "textmate/vs code"
+    testing: rspec
+
+  # Language creators and their CLI preferences
+
+  guido:
+    philosophy: "There should be one obvious way to do it"
+    essential_tools:
+      - python
+      - pip
+      - pytest
+      - black
+      - mypy
+      - ruff
+      - uv
+      - git
+      - make
+    shell: bash
+    editor: "emacs/vim"
+    formatter: black
+
+  matz:
+    philosophy: "Optimize for programmer happiness"
+    essential_tools:
+      - ruby
+      - irb
+      - rake
+      - gem
+      - bundler
+      - rspec
+      - pry
+      - git
+    shell: zsh
+    editor: emacs
+    debugger: pry
+
+  # DevOps CLI specialists
+
+  kelsey_hightower:
+    philosophy: "No code is the best code"
+    essential_tools:
+      - kubectl
+      - docker
+      - gcloud
+      - terraform
+      - helm
+      - kustomize
+      - curl
+      - jq
+      - yq
+    shell: bash
+    editor: vim
+    orchestration: kubernetes
+
+# Tool categories and their personality mappings
+
+tool_categories:
+  text_processing:
+    masters: [kernighan, pike, ritchie]
+    tools: [grep, sed, awk, perl, ripgrep, ag]
+
+  version_control:
+    masters: [linus, torvalds]
+    tools: [git, hg, svn, fossil, darcs]
+
+  build_systems:
+    masters: [pike, feldman]
+    tools: [make, cmake, bazel, gradle, maven, cargo]
+
+  package_managers:
+    traditional: [apt, yum, dnf, pacman, brew]
+    language_specific: [pip, npm, cargo, gem, go mod]
+    modern: [nix, guix, flatpak, snap]
+
+  shell_productivity:
+    shells: [bash, zsh, fish, nushell, elvish, xonsh]
+    multiplexers: [tmux, screen, zellij, byobu]
+    prompts: [starship, powerlevel10k, oh-my-zsh]
+
+  modern_cli_tools:
+    better_replacements:
+      ls: [exa, lsd]
+      cat: [bat]
+      find: [fd]
+      grep: [ripgrep, ag]
+      sed: [sd]
+      du: [dust, dua]
+      df: [duf]
+      top: [htop, btop, gtop]
+      ps: [procs]
+      curl: [httpie, xh]
+      man: [tldr, tealdeer]
+
+  development_tools:
+    editors:
+      terminal: [vim, neovim, emacs, nano, micro, helix]
+      ide_cli: [nvim + lsp, emacs + lsp]
+    debuggers: [gdb, lldb, delve, pdb, rr]
+    profilers: [perf, valgrind, dtrace, bpftrace]
+
+  network_tools:
+    basics: [curl, wget, nc, telnet]
+    advanced: [nmap, tcpdump, wireshark, mtr, iperf]
+    modern: [httpie, websocat, grpcurl, hey]
+
+  container_tools:
+    runtime: [docker, podman, containerd, cri-o]
+    orchestration: [docker-compose, kubectl, helm, kustomize]
+    build: [buildah, kaniko, pack, ko]
+
+  monitoring_debugging:
+    system: [htop, iotop, iftop, nethogs]
+    tracing: [strace, ltrace, dtrace, bpftrace]
+    logs: [journalctl, tail, multitail, lnav]
+
+  data_processing:
+    json: [jq, jid, gron, jp]
+    yaml: [yq, yamlpath]
+    csv: [csvkit, xsv, miller]
+    general: [awk, perl, python, nushell]
+
+# Workflow patterns by personality type
+
+workflow_patterns:
+  minimalist:
+    tools: "core unix only"
+    philosophy: "less is more"
+    examples: [ken_thompson, rob_pike]
+
+  maximalist:
+    tools: "every tool available"
+    philosophy: "right tool for every job"
+    examples: [10x_engineer]
+
+  modernist:
+    tools: "modern replacements for classics"
+    philosophy: "better UX matters"
+    examples: [cloud_native]
+
+  traditionalist:
+    tools: "proven unix tools"
+    philosophy: "if it ain't broke"
+    examples: [ritchie, kernighan]
+
+  automator:
+    tools: "scriptable everything"
+    philosophy: "automate all the things"
+    examples: [mitchell_hashimoto, dhh]
+
+# Shell configuration by personality
+
+shell_configs:
+  purist:
+    shell: sh
+    prompt: '$'
+    aliases: none
+    features: "POSIX only"
+
+  pragmatist:
+    shell: bash
+    prompt: 'PS1="\\u@\\h:\\w\\$ "'
+    aliases: minimal
+    features: standard
+
+  power_user:
+    shell: zsh
+    framework: oh-my-zsh
+    plugins: [git, docker, kubectl, terraform]
+    theme: powerlevel10k
+
+  modern:
+    shell: fish
+    prompt: starship
+    plugins: [fzf, z, abbreviations]
+    features: "autosuggestions, syntax highlighting"
+
+  experimental:
+    shell: nushell
+    features: "structured data, built-in dataframe"
+    philosophy: "shells should understand data"

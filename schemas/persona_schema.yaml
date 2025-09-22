@@ -1,0 +1,295 @@
+# Persona Schema Definition
+# Version: 1.0.0
+# This schema defines the structure for all programmer personalities
+
+$schema: http://json-schema.org/draft-07/schema#
+type: object
+required:
+  - id
+  - name
+  - programmer
+  - category
+  - ocean
+  - philosophy
+  - tools
+
+properties:
+  id:
+    type: string
+    description: Unique identifier (lowercase, underscores)
+    pattern: "^[a-z][a-z0-9_]*$"
+
+  name:
+    type: string
+    description: Display name for the personality
+
+  programmer:
+    type: string
+    description: Full name of the programmer
+
+  description:
+    type: string
+    description: Brief one-line description
+
+  category:
+    type: string
+    enum:
+      - pioneer
+      - language-creator
+      - systems
+      - web
+      - ai-ml
+      - security
+      - gaming
+      - blockchain
+      - cloud-devops
+      - special
+
+  tags:
+    type: array
+    items:
+      type: string
+    description: Searchable tags
+
+  years:
+    type: object
+    properties:
+      born:
+        type: integer
+      died:
+        type: integer
+        nullable: true
+
+  ocean:
+    type: object
+    required:
+      - openness
+      - conscientiousness
+      - extraversion
+      - agreeableness
+      - neuroticism
+    properties:
+      openness:
+        type: integer
+        minimum: 0
+        maximum: 100
+        description: Creativity, abstract thinking, intellectual curiosity
+      conscientiousness:
+        type: integer
+        minimum: 0
+        maximum: 100
+        description: Organization, attention to detail, goal-oriented
+      extraversion:
+        type: integer
+        minimum: 0
+        maximum: 100
+        description: Sociability, assertiveness, energy from interaction
+      agreeableness:
+        type: integer
+        minimum: 0
+        maximum: 100
+        description: Cooperation, trust, empathy
+      neuroticism:
+        type: integer
+        minimum: 0
+        maximum: 100
+        description: Emotional stability (inverse), stress, anxiety
+
+  philosophy:
+    type: string
+    description: Core development philosophy
+
+  approach:
+    type: string
+    description: General approach to problem-solving
+
+  communication_style:
+    type: object
+    properties:
+      written:
+        type: string
+      verbal:
+        type: string
+      teaching:
+        type: string
+
+  achievements:
+    type: array
+    items:
+      type: string
+    description: Major contributions and achievements
+
+  tools:
+    type: object
+    properties:
+      essential:
+        type: array
+        items:
+          type: string
+        description: Core tools always used
+      preferred:
+        type: array
+        items:
+          type: string
+        description: Preferred additional tools
+      domains:
+        type: array
+        items:
+          type: string
+        description: Tool categories/domains
+
+  environment:
+    type: object
+    additionalProperties:
+      type: string
+    description: Environment variables and configuration
+
+  behavioral_traits:
+    type: object
+    properties:
+      learning_style:
+        type: string
+      problem_solving:
+        type: string
+      collaboration:
+        type: string
+      leadership:
+        type: string
+      innovation:
+        type: string
+      stress_response:
+        type: string
+      motivation:
+        type: array
+        items:
+          type: string
+
+  quotes:
+    type: array
+    items:
+      type: string
+    description: Notable quotes
+
+  influences:
+    type: array
+    items:
+      type: string
+    description: People who influenced them
+
+  influenced:
+    type: array
+    items:
+      type: string
+    description: People they influenced
+
+  compatibility:
+    type: object
+    properties:
+      works_well_with:
+        type: array
+        items:
+          type: string
+      challenges_with:
+        type: array
+        items:
+          type: string
+
+  modern_equivalents:
+    type: object
+    properties:
+      languages:
+        type: array
+        items:
+          type: string
+      frameworks:
+        type: array
+        items:
+          type: string
+      tools:
+        type: array
+        items:
+          type: string
+      platforms:
+        type: array
+        items:
+          type: string
+
+  decision_making:
+    type: object
+    properties:
+      style:
+        type: string
+        enum:
+          - intuitive
+          - analytical
+          - collaborative
+          - authoritative
+          - experimental
+      speed:
+        type: string
+        enum:
+          - fast
+          - moderate
+          - deliberate
+      factors:
+        type: array
+        items:
+          type: string
+
+  productivity:
+    type: object
+    properties:
+      peak_hours:
+        type: string
+      work_style:
+        type: string
+        enum:
+          - deep-work
+          - sprints
+          - continuous
+          - irregular
+      environment_needs:
+        type: array
+        items:
+          type: string
+
+  interaction_style:
+    type: object
+    properties:
+      with_peers:
+        type: string
+      with_systems:
+        type: string
+      in_conflict:
+        type: string
+      in_teaching:
+        type: string
+
+  historical_context:
+    type: string
+    description: Historical background and era
+
+  legacy:
+    type: string
+    description: Lasting impact on computing
+
+  references:
+    type: array
+    items:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - biography
+            - interview
+            - paper
+            - book
+            - article
+        title:
+          type: string
+        url:
+          type: string
+          format: uri
+        year:
+          type: integer
