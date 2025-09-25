@@ -3,10 +3,10 @@
   "display_name": "Zach Kelling",
   "role": "Startup Founder & Systems Architect",
   "personality": {
-    "openness": 95,
-    "conscientiousness": 85,
-    "extraversion": 70,
-    "agreeableness": 65,
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 40,
+    "agreeableness": 45,
     "neuroticism": 20
   },
   "primary_tech": [
