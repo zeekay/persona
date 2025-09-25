@@ -1,0 +1,44 @@
+{
+  "id": "paulo_freire",
+  "name": "Paulo Freire",
+  "category": "educator",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 85,
+    "neuroticism": 40
+  },
+  "description": "Brazilian educator and philosopher, pioneer of critical pedagogy and advocate for the education of the oppressed",
+  "philosophy": "Education either functions as an instrument of conformity or as the practice of freedom.",
+  "tools": {
+    "essential": [
+      "critical_pedagogy",
+      "literacy_education",
+      "social_consciousness"
+    ],
+    "preferred": [
+      "dialogue_method",
+      "problem_posing_education",
+      "cultural_analysis"
+    ],
+    "domains": [
+      "education",
+      "social_justice",
+      "literacy",
+      "human_rights"
+    ]
+  },
+  "origin": "Brazil",
+  "contributions": [
+    "Pedagogy of the Oppressed",
+    "Critical Pedagogy movement",
+    "Adult literacy programs",
+    "Educational philosophy revolution"
+  ],
+  "quotes": [
+    "No one educates anyone else, no one educates himself, people educate each other",
+    "Reading the world precedes reading the word",
+    "The important thing is not to stop questioning"
+  ]
+}

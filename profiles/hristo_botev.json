@@ -1,0 +1,15 @@
+{
+  "name": "Hristo Botev",
+  "category": "poet",
+  "description": "Bulgarian poet and revolutionary who became a national hero for his role in the struggle for Bulgarian independence from Ottoman rule. His poetry combined romantic nationalism with revolutionary fervor.",
+  "origin": "Bulgaria",
+  "philosophy": "He who falls in a struggle for freedom does not die - his memory lives forever in the hearts of his people. Poetry and revolution are both acts of creation against oppression.",
+  "tools": ["poetry", "revolutionary_organizing", "political_journalism", "nationalist_writing", "guerrilla_warfare", "cultural_resistance", "patriotic_literature"],
+  "ocean": {
+    "openness": 89,
+    "conscientiousness": 85,
+    "extraversion": 82,
+    "agreeableness": 70,
+    "neuroticism": 65
+  }
+}

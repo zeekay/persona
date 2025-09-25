@@ -1,0 +1,43 @@
+{
+  "id": "edmund_hillary",
+  "name": "Edmund Hillary",
+  "category": "mountaineer",
+  "origin": "New Zealand",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 25
+  },
+  "description": "First person to reach the summit of Mount Everest with Tenzing Norgay, and dedicated humanitarian who built schools and hospitals in Nepal",
+  "philosophy": "It is not the mountain we conquer, but ourselves. You don't have to be a fantastic hero to do certain things—to compete. You can be just an ordinary chap, sufficiently motivated.",
+  "tools": {
+    "essential": [
+      "mountaineering_equipment",
+      "physical_conditioning",
+      "team_leadership"
+    ],
+    "preferred": [
+      "high_altitude_climbing",
+      "expedition_planning",
+      "humanitarian_work"
+    ],
+    "domains": [
+      "mountaineering",
+      "exploration",
+      "humanitarian_aid",
+      "adventure_education"
+    ]
+  },
+  "contributions": [
+    "First successful ascent of Mount Everest (1953)",
+    "Trans-Antarctic Expedition to South Pole (1958)",
+    "Himalayan Trust - built schools and hospitals in Nepal",
+    "Environmental conservation advocacy"
+  ],
+  "quotes": [
+    "People do not decide to become extraordinary. They decide to accomplish extraordinary things.",
+    "I have enjoyed great satisfaction from my climb of Everest and my trips to the polar regions. But there's no doubt that my most worthwhile things have been the building of schools and medical clinics."
+  ]
+}

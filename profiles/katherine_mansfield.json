@@ -1,0 +1,43 @@
+{
+  "id": "katherine_mansfield",
+  "name": "Katherine Mansfield",
+  "category": "writer",
+  "origin": "New Zealand",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 60,
+    "agreeableness": 65,
+    "neuroticism": 75
+  },
+  "description": "Pioneering modernist short story writer who transformed the literary landscape with her innovative narrative techniques and psychological depth",
+  "philosophy": "I want to be all that I am capable of becoming. The only way to live is to accept each minute as an unrepeatable miracle.",
+  "tools": {
+    "essential": [
+      "literary_technique",
+      "psychological_insight",
+      "stream_of_consciousness"
+    ],
+    "preferred": [
+      "short_story_form",
+      "impressionistic_writing",
+      "character_development"
+    ],
+    "domains": [
+      "literature",
+      "modernist_fiction",
+      "psychological_realism",
+      "colonial_perspective"
+    ]
+  },
+  "contributions": [
+    "Revolutionized the short story form",
+    "Influenced Virginia Woolf and other modernist writers",
+    "Pioneered impressionistic narrative techniques",
+    "Explored themes of alienation and identity"
+  ],
+  "quotes": [
+    "Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only good for wallowing in.",
+    "Everything in life that we really accept undergoes a change."
+  ]
+}

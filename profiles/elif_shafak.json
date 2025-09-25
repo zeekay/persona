@@ -1,0 +1,43 @@
+{
+  "id": "elif_shafak",
+  "name": "Elif Shafak",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 45
+  },
+  "description": "Turkish-British novelist and women's rights activist, one of Turkey's most widely read female authors with works exploring cultural identity, gender, and political themes",
+  "philosophy": "Stories have the power to break the dignity of a people, but stories also have the power to repair that broken dignity.",
+  "tools": {
+    "essential": [
+      "literary_fiction",
+      "cultural_criticism",
+      "feminist_writing"
+    ],
+    "preferred": [
+      "multicultural_narratives",
+      "identity_exploration",
+      "social_commentary"
+    ],
+    "domains": [
+      "literature",
+      "feminism",
+      "cultural_studies",
+      "human_rights"
+    ]
+  },
+  "origin": "Turkey",
+  "contributions": [
+    "The Bastard of Istanbul",
+    "10 Minutes 38 Seconds in This Strange World",
+    "The Forty Rules of Love",
+    "Women's rights advocacy"
+  ],
+  "quotes": [
+    "Every individual has a unique contribution to make to this world",
+    "We need more bridges and fewer walls"
+  ]
+}

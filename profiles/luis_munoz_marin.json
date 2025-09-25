@@ -1,0 +1,17 @@
+{
+  "id": "luis_munoz_marin",
+  "name": "Luis Muñoz Marín",
+  "category": "leader",
+  "description": "Puerto Rican poet, journalist, and statesman who served as the first elected governor of Puerto Rico. Architect of Operation Bootstrap and advocate for Puerto Rican cultural identity.",
+  "philosophy": "Democracy is not a form of government, but a way of life.",
+  "tools": ["political_leadership", "poetry", "journalism", "economic_development"],
+  "domains": ["puerto_rican_politics", "cultural_identity", "economic_modernization", "democratic_governance"],
+  "origin": "Puerto Rico",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 80,
+    "agreeableness": 75,
+    "neuroticism": 45
+  }
+}

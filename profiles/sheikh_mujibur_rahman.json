@@ -1,0 +1,44 @@
+{
+  "id": "sheikh_mujibur_rahman",
+  "name": "Sheikh Mujibur Rahman",
+  "category": "leader",
+  "origin": "Bangladesh",
+  "ocean": {
+    "openness": 82,
+    "conscientiousness": 85,
+    "extraversion": 88,
+    "agreeableness": 75,
+    "neuroticism": 45
+  },
+  "description": "Founding father of Bangladesh and its first President, led the independence movement and liberation war against Pakistan",
+  "philosophy": "My greatest strength is the love for my people, my greatest weakness is that I love them too much.",
+  "tools": {
+    "essential": [
+      "political_mobilization",
+      "independence_movement",
+      "nationalist_leadership"
+    ],
+    "preferred": [
+      "mass_communication",
+      "diplomatic_negotiation",
+      "grassroots_organizing"
+    ],
+    "domains": [
+      "Bangladeshi_independence",
+      "Bengali_nationalism",
+      "liberation_movement",
+      "political_leadership",
+      "decolonization"
+    ]
+  },
+  "contributions": [
+    "Bangladesh independence movement",
+    "Six Point Movement",
+    "Liberation War leadership",
+    "Bengali cultural nationalism"
+  ],
+  "quotes": [
+    "The struggle this time is for emancipation, the struggle this time is for independence",
+    "I have given you independence, now give me a hunger-free Bangladesh"
+  ]
+}

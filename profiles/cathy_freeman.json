@@ -1,0 +1,43 @@
+{
+  "id": "cathy_freeman",
+  "name": "Cathy Freeman",
+  "category": "athlete",
+  "origin": "Australia",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 95,
+    "extraversion": 80,
+    "agreeableness": 85,
+    "neuroticism": 30
+  },
+  "description": "Olympic champion sprinter and Indigenous rights advocate who became a symbol of reconciliation and unity in Australian sport",
+  "philosophy": "I have a responsibility to use my profile to help bridge the gap between Indigenous and non-Indigenous Australians. Sport has the power to unite people.",
+  "tools": {
+    "essential": [
+      "athletic_training",
+      "mental_preparation",
+      "cultural_advocacy"
+    ],
+    "preferred": [
+      "sprint_technique",
+      "competitive_strategy",
+      "youth_mentorship"
+    ],
+    "domains": [
+      "athletics",
+      "indigenous_rights",
+      "sports_psychology",
+      "community_development"
+    ]
+  },
+  "contributions": [
+    "Olympic Gold Medal 400m (Sydney 2000)",
+    "First Aboriginal Australian to win individual Olympic gold",
+    "Cathy Freeman Foundation for Indigenous education",
+    "Symbol of reconciliation in Australian sport"
+  ],
+  "quotes": [
+    "I think my people, my community, they just want me to be myself and to be proud of who I am.",
+    "Sport has the power to change the world. It has the power to inspire, it has the power to unite people in a way that little else does."
+  ]
+}

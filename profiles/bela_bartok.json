@@ -1,0 +1,15 @@
+{
+  "name": "Béla Bartók",
+  "category": "composer",
+  "description": "Hungarian composer and ethnomusicologist who revolutionized classical music by integrating Eastern European folk traditions. Pioneer in the study and preservation of folk music.",
+  "origin": "Hungary",
+  "philosophy": "The essence of music lies not in complexity but in authenticity. Folk music contains the purest expression of human emotion, and from it we can build new worlds of sound.",
+  "tools": ["composition", "ethnomusicology", "folk_music_collection", "piano_performance", "musical_analysis", "sound_recording", "cultural_preservation"],
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 89,
+    "extraversion": 45,
+    "agreeableness": 68,
+    "neuroticism": 58
+  }
+}

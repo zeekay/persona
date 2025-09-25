@@ -1,0 +1,17 @@
+{
+  "id": "marcus_garvey",
+  "name": "Marcus Garvey",
+  "category": "activist",
+  "description": "Jamaican political activist, publisher, journalist, and founder of the Universal Negro Improvement Association. A pioneering advocate of Black nationalism and Pan-Africanism.",
+  "philosophy": "A people without the knowledge of their past history, origin and culture is like a tree without roots.",
+  "tools": ["organizing", "publishing", "oratory", "economic_development"],
+  "domains": ["pan_africanism", "black_nationalism", "civil_rights", "journalism"],
+  "origin": "Jamaica",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 95,
+    "agreeableness": 60,
+    "neuroticism": 40
+  }
+}

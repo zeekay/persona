@@ -1,0 +1,12 @@
+{
+  "id": "kateb_yacine",
+  "name": "Kateb Yacine",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 60,
+    "neuroticism": 65
+  }
+}

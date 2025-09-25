@@ -1,0 +1,43 @@
+{
+  "id": "buddhadasa",
+  "name": "Buddhadasa Bhikkhu",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 90,
+    "neuroticism": 15
+  },
+  "description": "Thai Buddhist monk and philosopher who modernized Buddhist teachings by emphasizing practical spirituality and interfaith understanding",
+  "philosophy": "Religion is a personal matter which should be between a person and God, without interference from others.",
+  "tools": {
+    "essential": [
+      "meditation",
+      "dharma_teaching",
+      "scriptural_interpretation"
+    ],
+    "preferred": [
+      "mindfulness_practice",
+      "interfaith_dialogue"
+    ],
+    "domains": [
+      "buddhism",
+      "philosophy",
+      "meditation",
+      "interfaith_relations",
+      "spiritual_education"
+    ]
+  },
+  "contributions": [
+    "Suan Mokkh monastery",
+    "Buddhist modernization movement",
+    "Interfaith dialogue promotion",
+    "Practical Buddhism teachings"
+  ],
+  "quotes": [
+    "The Buddha's teachings are not a religion in the sense of having to believe in something",
+    "If you want to understand Buddhism, you must understand the principle of not-self"
+  ],
+  "origin": "Thailand"
+}

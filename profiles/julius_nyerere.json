@@ -1,0 +1,12 @@
+{
+  "id": "julius_nyerere",
+  "name": "Julius Nyerere",
+  "category": "leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 85,
+    "neuroticism": 35
+  }
+}

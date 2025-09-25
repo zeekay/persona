@@ -1,0 +1,17 @@
+{
+  "id": "juan_bosch",
+  "name": "Juan Bosch",
+  "category": "writer",
+  "description": "Dominican writer, educator, and political leader. Master of the short story and democratic president who championed social justice and educational reform in the Dominican Republic.",
+  "philosophy": "Democracy is not just a political system; it is a way of life based on respect for human dignity.",
+  "tools": ["writing", "education", "political_leadership", "social_reform"],
+  "domains": ["literature", "democracy", "education", "dominican_culture"],
+  "origin": "Dominican Republic",
+  "ocean": {
+    "openness": 88,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 45
+  }
+}

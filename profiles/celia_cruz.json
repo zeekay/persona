@@ -1,0 +1,17 @@
+{
+  "id": "celia_cruz",
+  "name": "Celia Cruz",
+  "category": "musician",
+  "description": "Cuban-American salsa performer, the undisputed Queen of Salsa, who brought Afro-Cuban music to international prominence with her powerful voice and vibrant stage presence.",
+  "philosophy": "La vida es un carnaval y las penas se van cantando - Life is a carnival and sorrows go away by singing.",
+  "tools": ["music", "performance", "cultural_preservation", "entertainment"],
+  "domains": ["salsa", "afro_cuban_music", "latin_music", "performance_art"],
+  "origin": "Cuba",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 95,
+    "agreeableness": 85,
+    "neuroticism": 25
+  }
+}

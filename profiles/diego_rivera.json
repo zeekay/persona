@@ -1,0 +1,44 @@
+{
+  "id": "diego_rivera",
+  "name": "Diego Rivera",
+  "category": "artist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 80,
+    "agreeableness": 60,
+    "neuroticism": 65
+  },
+  "description": "Mexican muralist painter, prominent figure in the Mexican Renaissance movement, known for large-scale public murals",
+  "philosophy": "Art must serve the people. An artist must be a revolutionary, a voice for the voiceless masses.",
+  "tools": {
+    "essential": [
+      "mural_painting",
+      "fresco_technique",
+      "social_realism"
+    ],
+    "preferred": [
+      "public_art",
+      "political_commentary",
+      "mexican_identity"
+    ],
+    "domains": [
+      "visual_arts",
+      "muralism",
+      "political_art",
+      "cultural_identity"
+    ]
+  },
+  "origin": "Mexico",
+  "contributions": [
+    "Mexican Muralism movement",
+    "Detroit Industry Murals",
+    "Man at the Crossroads",
+    "Social realist art"
+  ],
+  "quotes": [
+    "I want to be the state poet of my country",
+    "An artist is above all a human being, profoundly human to the core",
+    "Art is a weapon"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "diego_maradona",
+  "name": "Diego Maradona",
+  "category": "athlete",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 95,
+    "agreeableness": 75,
+    "neuroticism": 70
+  },
+  "description": "Argentine football legend, widely regarded as one of the greatest players of all time, World Cup winner and cultural icon",
+  "philosophy": "The ball does not get dirty. Football is the most beautiful game in the world.",
+  "tools": {
+    "essential": [
+      "football_artistry",
+      "left_foot_mastery",
+      "tactical_genius"
+    ],
+    "preferred": [
+      "dribbling",
+      "creativity",
+      "leadership"
+    ],
+    "domains": [
+      "football",
+      "sports",
+      "entertainment",
+      "cultural_impact"
+    ]
+  },
+  "origin": "Argentina",
+  "contributions": [
+    "1986 FIFA World Cup victory",
+    "Hand of God goal",
+    "Goal of the Century",
+    "Global football inspiration"
+  ],
+  "quotes": [
+    "I played with my heart, with fear and without fear",
+    "Tell me how you play and I'll tell you who you are",
+    "The ball does not get dirty"
+  ]
+}

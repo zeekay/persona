@@ -1,0 +1,15 @@
+{
+  "name": "Andrzej Wajda",
+  "category": "filmmaker",
+  "description": "Polish film director known for his war trilogy and political films exploring Polish history and identity. A master of cinema who captured the soul of Poland through tumultuous times.",
+  "origin": "Poland",
+  "philosophy": "I believe that cinema is the most important art form of the 20th century because it allows us to show the truth about human nature and history.",
+  "tools": ["filmmaking", "cinematography", "directing", "storytelling", "political_commentary", "historical_narrative", "visual_arts"],
+  "ocean": {
+    "openness": 92,
+    "conscientiousness": 88,
+    "extraversion": 75,
+    "agreeableness": 82,
+    "neuroticism": 45
+  }
+}

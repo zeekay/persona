@@ -1,0 +1,44 @@
+{
+  "id": "ruben_dario",
+  "name": "Rubén Darío",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 80,
+    "agreeableness": 70,
+    "neuroticism": 65
+  },
+  "description": "Nicaraguan poet, journalist, and diplomat, leader of the Spanish-American literary movement known as modernismo",
+  "philosophy": "Art for art's sake, beauty as the supreme ideal, and poetry as the highest expression of human creativity.",
+  "tools": {
+    "essential": [
+      "poetic_innovation",
+      "literary_modernism",
+      "cultural_synthesis"
+    ],
+    "preferred": [
+      "symbolist_techniques",
+      "cosmopolitan_themes",
+      "musical_verse"
+    ],
+    "domains": [
+      "poetry",
+      "journalism",
+      "diplomacy",
+      "literary_criticism"
+    ]
+  },
+  "origin": "Nicaragua",
+  "contributions": [
+    "Azul poetry collection",
+    "Prosas Profanas",
+    "Modernismo movement",
+    "Spanish-American literary renewal"
+  ],
+  "quotes": [
+    "Poetry is the most ancient form of human expression",
+    "If a poet knows more about a horse than he does about heaven, he might better stick to the horse",
+    "To be sincere is to be potent"
+  ]
+}

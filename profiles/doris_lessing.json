@@ -1,0 +1,12 @@
+{
+  "id": "doris_lessing",
+  "name": "Doris Lessing",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 45,
+    "agreeableness": 65,
+    "neuroticism": 60
+  }
+}

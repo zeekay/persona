@@ -1,0 +1,44 @@
+{
+  "id": "king_bhumibol_adulyadej",
+  "name": "King Bhumibol Adulyadej",
+  "category": "leader",
+  "origin": "Thailand",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 55,
+    "agreeableness": 85,
+    "neuroticism": 25
+  },
+  "description": "Ninth King of Thailand and world's longest-reigning monarch, beloved for his dedication to his people, development projects, and musical talents",
+  "philosophy": "The real development is the development of man. It is the development of human knowledge, human ability, human understanding, and human compassion.",
+  "tools": {
+    "essential": [
+      "statecraft",
+      "development_projects",
+      "musical_composition"
+    ],
+    "preferred": [
+      "jazz_saxophone",
+      "agricultural_innovation",
+      "water_management"
+    ],
+    "domains": [
+      "monarchy",
+      "sustainable_development",
+      "music",
+      "agriculture",
+      "Thai_culture"
+    ]
+  },
+  "contributions": [
+    "Royal Development Projects",
+    "Sufficiency Economy philosophy",
+    "Jazz compositions and performances",
+    "Agricultural and water management innovations"
+  ],
+  "quotes": [
+    "The happiness and prosperity of the nation depends on the diligence and sacrifice of all of us",
+    "Music creates goodwill. It brings people together"
+  ]
+}

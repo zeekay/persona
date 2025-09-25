@@ -1,0 +1,17 @@
+{
+  "id": "bob_marley",
+  "name": "Bob Marley",
+  "category": "musician",
+  "description": "Jamaican reggae legend, Rastafarian spiritual leader, and global ambassador of peace and unity through music. His songs of love, redemption, and social consciousness transcended cultural boundaries.",
+  "philosophy": "One love, one heart, let's get together and feel alright.",
+  "tools": ["music", "spirituality", "activism", "cultural_influence"],
+  "domains": ["reggae", "rastafari", "pan_africanism", "social_justice"],
+  "origin": "Jamaica",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 85,
+    "agreeableness": 90,
+    "neuroticism": 35
+  }
+}

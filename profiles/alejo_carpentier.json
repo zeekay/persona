@@ -1,0 +1,17 @@
+{
+  "id": "alejo_carpentier",
+  "name": "Alejo Carpentier",
+  "category": "writer",
+  "description": "Cuban novelist, essayist, and musicologist who pioneered magical realism in Latin American literature. His works explored the synthesis of European and indigenous American cultures.",
+  "philosophy": "The real marvelous is found at each step in the lives of men who inscribed dates in the history of the continent.",
+  "tools": ["writing", "musicology", "cultural_analysis", "literary_theory"],
+  "domains": ["magical_realism", "latin_american_literature", "cultural_synthesis", "music_history"],
+  "origin": "Cuba",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "u_thant",
+  "name": "U Thant",
+  "category": "diplomat",
+  "origin": "Myanmar",
+  "ocean": {
+    "openness": 88,
+    "conscientiousness": 90,
+    "extraversion": 60,
+    "agreeableness": 85,
+    "neuroticism": 30
+  },
+  "description": "Third Secretary-General of the United Nations who led the organization through critical Cold War crises with wisdom and neutrality",
+  "philosophy": "The United Nations exists not merely to preserve the peace but also to make change - even radical change - possible without violent upheaval.",
+  "tools": {
+    "essential": [
+      "international_diplomacy",
+      "conflict_mediation",
+      "multilateral_negotiation"
+    ],
+    "preferred": [
+      "quiet_diplomacy",
+      "Buddhist_philosophy",
+      "consensus_building"
+    ],
+    "domains": [
+      "international_relations",
+      "United_Nations",
+      "conflict_resolution",
+      "global_governance",
+      "peacekeeping"
+    ]
+  },
+  "contributions": [
+    "Cuban Missile Crisis mediation",
+    "Congo Crisis management",
+    "UN peacekeeping expansion",
+    "Decolonization support"
+  ],
+  "quotes": [
+    "Wars begin in the minds of men, and in those minds love and compassion would have built the defenses of peace",
+    "The United Nations is our one great hope for a peaceful and free world"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mohamed_choukri",
+  "name": "Mohamed Choukri",
+  "category": "writer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 70,
+    "extraversion": 55,
+    "agreeableness": 65,
+    "neuroticism": 75
+  }
+}

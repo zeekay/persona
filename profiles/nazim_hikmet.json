@@ -1,0 +1,43 @@
+{
+  "id": "nazim_hikmet",
+  "name": "Nazım Hikmet",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 65
+  },
+  "description": "Turkish poet, playwright, and communist activist, considered the founder of modern Turkish poetry and one of the most important literary figures of the 20th century",
+  "philosophy": "The most beautiful sea hasn't been crossed yet.",
+  "tools": {
+    "essential": [
+      "free_verse_poetry",
+      "social_realism",
+      "political_activism"
+    ],
+    "preferred": [
+      "revolutionary_writing",
+      "communist_ideology",
+      "prison_literature"
+    ],
+    "domains": [
+      "poetry",
+      "politics",
+      "theater",
+      "social_justice"
+    ]
+  },
+  "origin": "Turkey",
+  "contributions": [
+    "Human Landscapes from My Country",
+    "Letters from Prison to My Wife",
+    "Modern Turkish poetry revolution",
+    "Anti-fascist literature"
+  ],
+  "quotes": [
+    "The most beautiful thing on earth is the human being, that marvelous being who sings, laughs, struggles",
+    "To live like a tree single and free, and like a forest in brotherhood"
+  ]
+}

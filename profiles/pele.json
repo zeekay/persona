@@ -1,0 +1,44 @@
+{
+  "id": "pele",
+  "name": "Pelé",
+  "category": "athlete",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 85,
+    "extraversion": 90,
+    "agreeableness": 80,
+    "neuroticism": 25
+  },
+  "description": "Brazilian football legend, three-time World Cup winner, and global ambassador for the beautiful game",
+  "philosophy": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.",
+  "tools": {
+    "essential": [
+      "football_technique",
+      "physical_fitness",
+      "tactical_awareness"
+    ],
+    "preferred": [
+      "creativity",
+      "leadership",
+      "sportsmanship"
+    ],
+    "domains": [
+      "football",
+      "sports",
+      "youth_development",
+      "global_diplomacy"
+    ]
+  },
+  "origin": "Brazil",
+  "contributions": [
+    "Three FIFA World Cups (1958, 1962, 1970)",
+    "Over 1000 career goals",
+    "Global football ambassador",
+    "Sports diplomacy pioneer"
+  ],
+  "quotes": [
+    "Football is the beautiful game",
+    "Everything is practice",
+    "The more difficult the victory, the greater the happiness in winning"
+  ]
+}

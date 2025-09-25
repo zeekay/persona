@@ -1,0 +1,44 @@
+{
+  "id": "romulo_gallegos",
+  "name": "Rómulo Gallegos",
+  "category": "writer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 50
+  },
+  "description": "Venezuelan novelist, politician, and educator, first democratically elected president of Venezuela and author of the Latin American literary classic Doña Bárbara",
+  "philosophy": "Literature must be a reflection of our reality, a mirror of our struggles and aspirations as a people.",
+  "tools": {
+    "essential": [
+      "narrative_realism",
+      "social_documentation",
+      "political_discourse"
+    ],
+    "preferred": [
+      "regional_literature",
+      "social_criticism",
+      "cultural_identity"
+    ],
+    "domains": [
+      "literature",
+      "politics",
+      "education",
+      "social_reform"
+    ]
+  },
+  "origin": "Venezuela",
+  "contributions": [
+    "Doña Bárbara novel",
+    "Venezuelan literary realism",
+    "Democratic presidency",
+    "Educational reforms"
+  ],
+  "quotes": [
+    "The land is like a woman: it must be loved with respect",
+    "Democracy is not a privilege, it is a responsibility",
+    "Education is the foundation of all social progress"
+  ]
+}

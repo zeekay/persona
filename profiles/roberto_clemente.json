@@ -1,0 +1,17 @@
+{
+  "id": "roberto_clemente",
+  "name": "Roberto Clemente",
+  "category": "athlete",
+  "description": "Puerto Rican baseball legend and humanitarian who broke barriers in Major League Baseball. The first Latin American and Caribbean player to reach 3,000 hits and win a World Series MVP.",
+  "philosophy": "Any time you have an opportunity to make a difference in this world and you don't, then you are wasting your time on Earth.",
+  "tools": ["athletics", "humanitarian_work", "cultural_bridge_building", "mentorship"],
+  "domains": ["baseball", "civil_rights", "humanitarian_aid", "puerto_rican_pride"],
+  "origin": "Puerto Rico",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 95,
+    "extraversion": 80,
+    "agreeableness": 90,
+    "neuroticism": 25
+  }
+}

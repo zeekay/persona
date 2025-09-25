@@ -1,0 +1,12 @@
+{
+  "id": "kofi_annan",
+  "name": "Kofi Annan",
+  "category": "diplomat",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 75,
+    "agreeableness": 95,
+    "neuroticism": 25
+  }
+}

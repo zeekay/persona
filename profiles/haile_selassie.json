@@ -1,0 +1,20 @@
+{
+  "id": "haile_selassie",
+  "name": "Haile Selassie I",
+  "category": "leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 65,
+    "neuroticism": 35
+  },
+  "description": "Ethiopian Emperor who became a symbol of African independence and Rastafarian spirituality",
+  "philosophy": "Throughout history, it has been the inaction of those who could have acted that has made it possible for evil to triumph.",
+  "tools": {
+    "essential": ["diplomacy", "pan_africanism", "modernization"],
+    "preferred": ["international_relations", "education_reform", "infrastructure"],
+    "domains": ["african_unity", "anti_colonialism", "rastafarianism"]
+  },
+  "origin": "Ethiopia"
+}

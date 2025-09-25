@@ -1,0 +1,44 @@
+{
+  "id": "mahathir_mohamad",
+  "name": "Mahathir Mohamad",
+  "category": "leader",
+  "origin": "Malaysia",
+  "ocean": {
+    "openness": 78,
+    "conscientiousness": 88,
+    "extraversion": 75,
+    "agreeableness": 55,
+    "neuroticism": 35
+  },
+  "description": "Malaysia's longest-serving Prime Minister who transformed the country into a modern industrialized nation and champion of Asian values",
+  "philosophy": "We may be small in size, but we will not be small in spirit. We have a big dream for Malaysia.",
+  "tools": {
+    "essential": [
+      "economic_planning",
+      "industrial_development",
+      "international_diplomacy"
+    ],
+    "preferred": [
+      "infrastructure_development",
+      "technology_advancement",
+      "Asian_values_advocacy"
+    ],
+    "domains": [
+      "Malaysian_politics",
+      "economic_development",
+      "international_relations",
+      "modernization",
+      "Asian_leadership"
+    ]
+  },
+  "contributions": [
+    "Vision 2020 development plan",
+    "Look East Policy",
+    "Multimedia Super Corridor",
+    "Asian Financial Crisis leadership"
+  ],
+  "quotes": [
+    "Even if we have to crawl, we must press on towards our goal",
+    "Malaysia can become a developed nation if we have the will and determination"
+  ]
+}

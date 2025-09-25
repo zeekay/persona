@@ -1,0 +1,17 @@
+{
+  "id": "johnny_ventura",
+  "name": "Johnny Ventura",
+  "category": "musician",
+  "description": "Dominican merengue singer, bandleader, and cultural icon who revolutionized Caribbean music with his energetic performances and innovative choreography. Known as 'El Caballo Mayor'.",
+  "philosophy": "Music is the universal language that unites hearts and makes people dance away their troubles.",
+  "tools": ["music", "performance", "choreography", "cultural_innovation"],
+  "domains": ["merengue", "caribbean_music", "entertainment", "cultural_preservation"],
+  "origin": "Dominican Republic",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 95,
+    "agreeableness": 85,
+    "neuroticism": 30
+  }
+}

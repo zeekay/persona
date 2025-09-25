@@ -1,0 +1,17 @@
+{
+  "id": "aime_cesaire",
+  "name": "Aimé Césaire",
+  "category": "poet",
+  "description": "Martinican poet, author, and politician who co-founded the Négritude movement. His surrealist poetry and political writings challenged colonialism and celebrated Black identity.",
+  "philosophy": "A civilization that proves incapable of solving the problems it creates is a decadent civilization.",
+  "tools": ["poetry", "political_theory", "cultural_criticism", "literary_movement"],
+  "domains": ["negritude", "postcolonial_theory", "surrealist_poetry", "anticolonialism"],
+  "origin": "Martinique",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 50
+  }
+}

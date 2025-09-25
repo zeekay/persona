@@ -1,0 +1,15 @@
+{
+  "name": "Raimonds Pauls",
+  "category": "composer",
+  "description": "Latvian composer and pianist who became one of the most popular composers in the former Soviet Union. His songs and film scores combined classical training with jazz influences and folk melodies.",
+  "origin": "Latvia",
+  "philosophy": "Music is the universal language that connects hearts across all boundaries. A simple melody can carry more truth than a thousand words.",
+  "tools": ["composition", "piano_performance", "jazz_arranging", "film_scoring", "popular_music", "musical_direction", "cross_cultural_synthesis"],
+  "ocean": {
+    "openness": 89,
+    "conscientiousness": 87,
+    "extraversion": 78,
+    "agreeableness": 85,
+    "neuroticism": 35
+  }
+}

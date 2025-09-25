@@ -1,0 +1,44 @@
+{
+  "id": "shakira",
+  "name": "Shakira",
+  "category": "musician",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 85,
+    "agreeableness": 75,
+    "neuroticism": 40
+  },
+  "description": "Colombian singer, songwriter, and philanthropist, global pop icon known for her distinctive voice and dance moves",
+  "philosophy": "Education is the only way to break the cycle of poverty. Music is the universal language that unites all cultures.",
+  "tools": {
+    "essential": [
+      "vocal_performance",
+      "songwriting",
+      "dancing"
+    ],
+    "preferred": [
+      "multilingual_music",
+      "cultural_fusion",
+      "humanitarian_work"
+    ],
+    "domains": [
+      "music",
+      "entertainment",
+      "education",
+      "philanthropy"
+    ]
+  },
+  "origin": "Colombia",
+  "contributions": [
+    "Hips Don't Lie global hit",
+    "Barefoot Foundation",
+    "Cultural ambassador",
+    "Latin-pop crossover success"
+  ],
+  "quotes": [
+    "I prefer an ugly truth to a pretty lie",
+    "The worst mistake of a woman is to go to the kitchen, because then she never leaves there",
+    "Education is the most powerful weapon which you can use to change the world"
+  ]
+}

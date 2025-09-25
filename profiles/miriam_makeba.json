@@ -1,0 +1,12 @@
+{
+  "id": "miriam_makeba",
+  "name": "Miriam Makeba",
+  "category": "musician",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 85,
+    "agreeableness": 70,
+    "neuroticism": 55
+  }
+}

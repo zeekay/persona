@@ -1,0 +1,43 @@
+{
+  "id": "mustafa_kemal_ataturk",
+  "name": "Mustafa Kemal Atatürk",
+  "category": "leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 80,
+    "agreeableness": 55,
+    "neuroticism": 30
+  },
+  "description": "Founder and first President of the Republic of Turkey, revolutionary leader who transformed Turkey from an Ottoman Empire into a modern, secular nation-state",
+  "philosophy": "Peace at home, peace in the world. The future is in the skies.",
+  "tools": {
+    "essential": [
+      "military_strategy",
+      "political_reform",
+      "modernization"
+    ],
+    "preferred": [
+      "secularization",
+      "westernization",
+      "nationalism"
+    ],
+    "domains": [
+      "politics",
+      "military",
+      "social_reform",
+      "education"
+    ]
+  },
+  "origin": "Turkey",
+  "contributions": [
+    "Turkish War of Independence",
+    "Abolition of the Caliphate",
+    "Alphabet Reform",
+    "Women's Rights"
+  ],
+  "quotes": [
+    "Everything we see in the world is the creative work of women",
+    "A nation which makes the final sacrifice for life and freedom does not get beaten"
+  ]
+}

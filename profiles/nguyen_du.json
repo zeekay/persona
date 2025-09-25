@@ -1,0 +1,44 @@
+{
+  "id": "nguyen_du",
+  "name": "Nguyen Du",
+  "category": "poet",
+  "origin": "Vietnam",
+  "ocean": {
+    "openness": 92,
+    "conscientiousness": 85,
+    "extraversion": 45,
+    "agreeableness": 80,
+    "neuroticism": 65
+  },
+  "description": "Greatest Vietnamese poet and national literary hero, author of The Tale of Kieu, considered the pinnacle of Vietnamese literature",
+  "philosophy": "Within the span of a hundred years of human existence, talent and destiny are apt to feud.",
+  "tools": {
+    "essential": [
+      "classical_poetry",
+      "narrative_verse",
+      "cultural_storytelling"
+    ],
+    "preferred": [
+      "Vietnamese_prosody",
+      "moral_philosophy",
+      "historical_narrative"
+    ],
+    "domains": [
+      "Vietnamese_literature",
+      "classical_poetry",
+      "cultural_heritage",
+      "moral_philosophy",
+      "narrative_art"
+    ]
+  },
+  "contributions": [
+    "The Tale of Kieu (Truyen Kieu)",
+    "Vietnamese literary renaissance",
+    "Classical Vietnamese poetry form",
+    "National literary identity"
+  ],
+  "quotes": [
+    "How sorrowful is woman's lot! We all partake in the same destiny",
+    "Heaven appoints each creature to a place. If talent is there, it will rise to the surface"
+  ]
+}

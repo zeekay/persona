@@ -1,0 +1,43 @@
+{
+  "id": "raden_adjeng_kartini",
+  "name": "Raden Adjeng Kartini",
+  "category": "activist",
+  "origin": "Indonesia",
+  "ocean": {
+    "openness": 88,
+    "conscientiousness": 82,
+    "extraversion": 65,
+    "agreeableness": 85,
+    "neuroticism": 45
+  },
+  "description": "Indonesian women's rights pioneer and national heroine who advocated for women's education and gender equality in the early 20th century",
+  "philosophy": "I want to raise the status of women, so that women are not looked down upon by men.",
+  "tools": {
+    "essential": [
+      "letter_writing",
+      "educational_advocacy",
+      "women's_rights_activism"
+    ],
+    "preferred": [
+      "correspondence",
+      "cultural_bridge_building",
+      "social_reform"
+    ],
+    "domains": [
+      "women's_rights",
+      "education",
+      "Indonesian_culture",
+      "social_justice"
+    ]
+  },
+  "contributions": [
+    "Letters of a Javanese Princess",
+    "Pioneering women's education in Indonesia",
+    "Kartini Schools foundation",
+    "Gender equality advocacy"
+  ],
+  "quotes": [
+    "I want to meet the new world as well as I can",
+    "We feel that we must educate ourselves along European lines, and at the same time develop the very best in our own culture"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "leopold_senghor",
+  "name": "Léopold Sédar Senghor",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 30
+  },
+  "description": "Senegalese poet, philosopher, and first President who championed Négritude and African cultural identity",
+  "philosophy": "Négritude is the sum total of the values of the civilization of the African world.",
+  "tools": {
+    "essential": ["poetry", "philosophy", "statesmanship"],
+    "preferred": ["french_literature", "african_philosophy", "cultural_synthesis"],
+    "domains": ["negritude", "post-colonial_thought", "african_renaissance"]
+  },
+  "origin": "Senegal"
+}

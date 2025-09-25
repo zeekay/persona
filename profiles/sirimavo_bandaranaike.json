@@ -1,0 +1,44 @@
+{
+  "id": "sirimavo_bandaranaike",
+  "name": "Sirimavo Bandaranaike",
+  "category": "leader",
+  "origin": "Sri Lanka",
+  "ocean": {
+    "openness": 78,
+    "conscientiousness": 90,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 40
+  },
+  "description": "World's first female Prime Minister who led Sri Lanka through significant social and economic reforms while championing non-aligned movement",
+  "philosophy": "A nation's strength ultimately consists in what it can do on its own, and not in what it can borrow from others.",
+  "tools": {
+    "essential": [
+      "political_leadership",
+      "social_reform",
+      "economic_policy"
+    ],
+    "preferred": [
+      "non_aligned_diplomacy",
+      "nationalization_policy",
+      "women_empowerment"
+    ],
+    "domains": [
+      "Sri_Lankan_politics",
+      "women_in_leadership",
+      "non_aligned_movement",
+      "social_democracy",
+      "postcolonial_governance"
+    ]
+  },
+  "contributions": [
+    "First female Prime Minister globally",
+    "Sri Lankan economic nationalization",
+    "Non-Aligned Movement leadership",
+    "Women's political participation"
+  ],
+  "quotes": [
+    "The true test of a nation's standing is how well it can defend its agriculture and feed its people",
+    "Politics is not a game for the weak-hearted"
+  ]
+}

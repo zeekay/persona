@@ -1,0 +1,43 @@
+{
+  "id": "queen_liliuokalani",
+  "name": "Queen Liliʻuokalani",
+  "category": "leader",
+  "origin": "Hawaii",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 45
+  },
+  "description": "Last reigning monarch of Hawaii who fought to preserve Hawaiian sovereignty and culture against American annexation",
+  "philosophy": "My earnest hope is that my country will be restored to its rightful owners. I yield to the superior force of the United States, but I do not relinquish my claim to the Hawaiian Islands.",
+  "tools": {
+    "essential": [
+      "diplomatic_negotiation",
+      "cultural_preservation",
+      "political_strategy"
+    ],
+    "preferred": [
+      "musical_composition",
+      "constitutional_law",
+      "international_relations"
+    ],
+    "domains": [
+      "monarchy",
+      "hawaiian_culture",
+      "sovereignty_rights",
+      "music_composition"
+    ]
+  },
+  "contributions": [
+    "Defended Hawaiian sovereignty against annexation",
+    "Composed 'Aloha ʻOe' and other beloved Hawaiian songs",
+    "Advocated for Native Hawaiian rights",
+    "Preserved Hawaiian cultural traditions"
+  ],
+  "quotes": [
+    "Oh, honest Americans, as Christians hear me for my downtrodden people! Their form of worship is not changed; they pray now only in secret; they do not comprehend why they are denied freedom of religious thought.",
+    "I could not turn back the time for political change, but there is still time to save our heritage."
+  ]
+}

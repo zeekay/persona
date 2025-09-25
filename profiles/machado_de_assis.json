@@ -1,0 +1,44 @@
+{
+  "id": "machado_de_assis",
+  "name": "Machado de Assis",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 35,
+    "agreeableness": 65,
+    "neuroticism": 60
+  },
+  "description": "Brazilian writer and poet, considered the greatest Brazilian author and pioneer of Brazilian realism",
+  "philosophy": "Man is a pendulum between a smile and a tear, and my business is to swing the pendulum.",
+  "tools": {
+    "essential": [
+      "literary_analysis",
+      "psychological_insight",
+      "social_criticism"
+    ],
+    "preferred": [
+      "irony",
+      "philosophical_reflection",
+      "character_development"
+    ],
+    "domains": [
+      "literature",
+      "journalism",
+      "literary_criticism",
+      "social_commentary"
+    ]
+  },
+  "origin": "Brazil",
+  "contributions": [
+    "Dom Casmurro",
+    "The Posthumous Memoirs of Brás Cubas",
+    "Quincas Borba",
+    "Brazilian Academy of Letters founder"
+  ],
+  "quotes": [
+    "The dead govern the living",
+    "There are only two things that do not deceive: conscience and death",
+    "Each age has its own pleasures, its own style of love and its own ways of dying"
+  ]
+}

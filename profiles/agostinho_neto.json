@@ -1,0 +1,12 @@
+{
+  "id": "agostinho_neto",
+  "name": "Agostinho Neto",
+  "category": "poet",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 55
+  }
+}

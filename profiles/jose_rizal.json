@@ -1,0 +1,45 @@
+{
+  "id": "jose_rizal",
+  "name": "José Rizal",
+  "category": "writer",
+  "origin": "Philippines",
+  "ocean": {
+    "openness": 92,
+    "conscientiousness": 88,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 45
+  },
+  "description": "Filipino polymath, nationalist, and revolutionary writer whose novels sparked the Philippine revolution against Spanish colonial rule",
+  "philosophy": "He who does not know how to look back at where he came from will never get to his destination.",
+  "tools": {
+    "essential": [
+      "literary_writing",
+      "political_activism",
+      "medical_practice"
+    ],
+    "preferred": [
+      "novel_writing",
+      "poetry",
+      "journalism",
+      "ophthalmology"
+    ],
+    "domains": [
+      "literature",
+      "Philippine_history",
+      "medicine",
+      "nationalism",
+      "education_reform"
+    ]
+  },
+  "contributions": [
+    "Noli Me Tangere novel",
+    "El Filibusterismo novel",
+    "Philippine independence movement",
+    "Educational and social reforms"
+  ],
+  "quotes": [
+    "The youth is the hope of our future",
+    "To foretell the destiny of a nation, it is necessary to open the book that tells of her past"
+  ]
+}

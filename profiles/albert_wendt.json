@@ -1,0 +1,43 @@
+{
+  "id": "albert_wendt",
+  "name": "Albert Wendt",
+  "category": "writer",
+  "origin": "Samoa",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 80,
+    "neuroticism": 40
+  },
+  "description": "Pioneering Pacific Island writer who gave voice to Polynesian experience and challenged colonial narratives through literature",
+  "philosophy": "We are not a minority. We are the sea, we are the ocean. We must wake up to this ancient truth and together use it to overturn all hegemonic views that set the Pacific apart from the world.",
+  "tools": {
+    "essential": [
+      "pacific_storytelling",
+      "postcolonial_critique",
+      "cultural_reclamation"
+    ],
+    "preferred": [
+      "prose_fiction",
+      "poetry",
+      "academic_writing"
+    ],
+    "domains": [
+      "literature",
+      "pacific_studies",
+      "postcolonial_theory",
+      "indigenous_identity"
+    ]
+  },
+  "contributions": [
+    "Sons for the Return Home - first published novel by a Samoan",
+    "Pouliuli - groundbreaking Pacific Island literature",
+    "Founded Pacific literature as academic field",
+    "Mentored generation of Pacific writers"
+  ],
+  "quotes": [
+    "We are not a minority. We are the sea, we are the ocean.",
+    "The Pacific way is not the Palagi way. We must find our own way of telling our stories, our own way of being in the world."
+  ]
+}

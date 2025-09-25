@@ -1,0 +1,44 @@
+{
+  "id": "bhumibol_adulyadej",
+  "name": "King Bhumibol Adulyadej",
+  "category": "leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 55,
+    "agreeableness": 80,
+    "neuroticism": 25
+  },
+  "description": "Ninth monarch of Thailand who modernized the country while preserving its cultural heritage, known for his musical talents and dedication to rural development",
+  "philosophy": "The real development is not in the buildings or roads, but in the development of people's hearts and minds.",
+  "tools": {
+    "essential": [
+      "statecraft",
+      "rural_development",
+      "musical_composition"
+    ],
+    "preferred": [
+      "agricultural_innovation",
+      "water_management",
+      "jazz_music"
+    ],
+    "domains": [
+      "governance",
+      "agriculture",
+      "music",
+      "rural_development",
+      "environmental_conservation"
+    ]
+  },
+  "contributions": [
+    "Royal Development Projects",
+    "Sufficiency Economy Philosophy",
+    "Agricultural innovations",
+    "Jazz compositions"
+  ],
+  "quotes": [
+    "The important thing is not the position, but the work",
+    "We must understand that happiness and peace are not something we can buy"
+  ],
+  "origin": "Thailand"
+}

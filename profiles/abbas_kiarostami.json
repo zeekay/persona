@@ -1,0 +1,43 @@
+{
+  "id": "abbas_kiarostami",
+  "name": "Abbas Kiarostami",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 92,
+    "conscientiousness": 88,
+    "extraversion": 45,
+    "agreeableness": 75,
+    "neuroticism": 35
+  },
+  "description": "Iranian film director, screenwriter, and photographer, master of minimalist cinema who explored the boundaries between fiction and reality",
+  "philosophy": "Cinema seats make people lazy. They expect to be given all the information. But for me, question marks are always more beautiful than exclamation points.",
+  "tools": {
+    "essential": [
+      "minimalist_cinema",
+      "documentary_realism",
+      "philosophical_inquiry"
+    ],
+    "preferred": [
+      "non_linear_narrative",
+      "natural_lighting",
+      "amateur_actors"
+    ],
+    "domains": [
+      "cinema",
+      "photography",
+      "poetry",
+      "visual_arts"
+    ]
+  },
+  "origin": "Iran",
+  "contributions": [
+    "Taste of Cherry (Palme d'Or winner)",
+    "Close-Up",
+    "The Wind Will Carry Us",
+    "Iranian New Wave cinema"
+  ],
+  "quotes": [
+    "I would be too selfish if I said that I made films for myself, but too arrogant if I said I made them for other people",
+    "A good movie is made for one person only, and that's the director"
+  ]
+}

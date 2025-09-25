@@ -1,0 +1,12 @@
+{
+  "id": "nadine_gordimer",
+  "name": "Nadine Gordimer",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 50,
+    "agreeableness": 75,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ratu_sir_kamisese_mara",
+  "name": "Ratu Sir Kamisese Mara",
+  "category": "leader",
+  "origin": "Fiji",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 75,
+    "agreeableness": 78,
+    "neuroticism": 30
+  },
+  "description": "Founding Prime Minister and President of Fiji who led the nation to independence and established its modern democratic institutions",
+  "philosophy": "Unity in diversity is not just a motto for Fiji, it is a way of life that we must nurture and protect.",
+  "tools": {
+    "essential": [
+      "diplomatic_leadership",
+      "constitutional_development",
+      "multicultural_governance"
+    ],
+    "preferred": [
+      "Pacific_regionalism",
+      "economic_development",
+      "traditional_leadership"
+    ],
+    "domains": [
+      "Fijian_politics",
+      "Pacific_diplomacy",
+      "decolonization",
+      "multicultural_society",
+      "traditional_governance"
+    ]
+  },
+  "contributions": [
+    "Fiji independence leadership",
+    "Pacific Islands Forum founding",
+    "Multicultural democracy establishment",
+    "Regional Pacific cooperation"
+  ],
+  "quotes": [
+    "Fiji belongs to all Fijians, regardless of race or creed",
+    "The Pacific is our home, and we must work together as Pacific peoples"
+  ]
+}

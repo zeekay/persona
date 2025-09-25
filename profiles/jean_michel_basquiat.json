@@ -1,0 +1,17 @@
+{
+  "id": "jean_michel_basquiat",
+  "name": "Jean-Michel Basquiat",
+  "category": "artist",
+  "description": "Haitian-American neo-expressionist artist whose raw, energetic paintings commented on racism, colonialism, and class struggle. A prodigy who brought street art into galleries.",
+  "philosophy": "I don't think about art when I'm working. I try to think about life.",
+  "tools": ["painting", "drawing", "cultural_commentary", "visual_expression"],
+  "domains": ["neo_expressionism", "street_art", "social_commentary", "contemporary_art"],
+  "origin": "Haiti (Haitian-American)",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 60,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 80
+  }
+}

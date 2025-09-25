@@ -1,0 +1,15 @@
+{
+  "name": "Antonín Dvořák",
+  "category": "composer",
+  "description": "Czech composer who created music that bridged Bohemian folk traditions with classical forms. His 'New World Symphony' and Slavonic Dances brought Czech music to international prominence.",
+  "origin": "Czech Republic",
+  "philosophy": "Music should be an expression of the soul of a nation. Through melody and rhythm, we can speak to the hearts of all people, regardless of their origin.",
+  "tools": ["composition", "orchestration", "folk_music_integration", "classical_forms", "melody_creation", "conducting", "piano"],
+  "ocean": {
+    "openness": 89,
+    "conscientiousness": 91,
+    "extraversion": 72,
+    "agreeableness": 85,
+    "neuroticism": 38
+  }
+}

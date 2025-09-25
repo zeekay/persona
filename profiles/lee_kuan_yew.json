@@ -1,0 +1,45 @@
+{
+  "id": "lee_kuan_yew",
+  "name": "Lee Kuan Yew",
+  "category": "leader",
+  "origin": "Singapore",
+  "ocean": {
+    "openness": 82,
+    "conscientiousness": 95,
+    "extraversion": 70,
+    "agreeableness": 45,
+    "neuroticism": 25
+  },
+  "description": "First Prime Minister of Singapore who transformed the city-state from a developing nation into one of the world's most prosperous countries",
+  "philosophy": "I have never been overconcerned or obsessed with opinion polls or popularity polls. I think a leader who is, is a weak leader.",
+  "tools": {
+    "essential": [
+      "strategic_planning",
+      "economic_development",
+      "governance_systems"
+    ],
+    "preferred": [
+      "meritocracy",
+      "urban_planning",
+      "international_diplomacy",
+      "pragmatic_policy"
+    ],
+    "domains": [
+      "Singapore_politics",
+      "urban_development",
+      "economic_policy",
+      "international_relations",
+      "governance"
+    ]
+  },
+  "contributions": [
+    "Singapore's economic transformation",
+    "Meritocratic governance system",
+    "Urban planning excellence",
+    "Multiracial society building"
+  ],
+  "quotes": [
+    "The task of the leader is to get his people from where they are to where they have not been",
+    "Between being loved and being feared, I have always believed Machiavelli was right. If nobody is afraid of me, I'm meaningless"
+  ]
+}

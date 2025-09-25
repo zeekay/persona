@@ -1,0 +1,12 @@
+{
+  "id": "ibn_khaldun",
+  "name": "Ibn Khaldun",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 30
+  }
+}

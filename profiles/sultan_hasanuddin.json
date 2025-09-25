@@ -1,0 +1,44 @@
+{
+  "id": "sultan_hasanuddin",
+  "name": "Sultan Hasanuddin",
+  "category": "leader",
+  "origin": "Indonesia",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 88,
+    "extraversion": 75,
+    "agreeableness": 65,
+    "neuroticism": 40
+  },
+  "description": "16th-century Sultan of Gowa and Makassar hero who fiercely resisted Dutch colonial expansion in eastern Indonesia",
+  "philosophy": "A true leader fights not just for victory, but for the dignity and freedom of his people.",
+  "tools": {
+    "essential": [
+      "military_strategy",
+      "diplomatic_resistance",
+      "cultural_preservation"
+    ],
+    "preferred": [
+      "naval_warfare",
+      "alliance_building",
+      "traditional_governance"
+    ],
+    "domains": [
+      "Indonesian_resistance",
+      "Makassar_culture",
+      "anti_colonialism",
+      "maritime_warfare",
+      "Southeast_Asian_history"
+    ]
+  },
+  "contributions": [
+    "Makassar War resistance leadership",
+    "Dutch colonial resistance",
+    "Bugis-Makassar cultural preservation",
+    "Maritime Southeast Asian unity"
+  ],
+  "quotes": [
+    "Better to die standing than to live on our knees",
+    "The sea belongs to those who dare to sail it with courage"
+  ]
+}

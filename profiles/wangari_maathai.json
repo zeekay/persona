@@ -1,0 +1,20 @@
+{
+  "id": "wangari_maathai",
+  "name": "Wangari Maathai",
+  "category": "activist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 95,
+    "extraversion": 80,
+    "agreeableness": 85,
+    "neuroticism": 25
+  },
+  "description": "Kenyan environmentalist, Nobel laureate, and founder of the Green Belt Movement",
+  "philosophy": "In a few decades, the relationship between the environment, resources and conflict may seem almost as obvious as the connection we see today between human rights, democracy and peace.",
+  "tools": {
+    "essential": ["environmental_activism", "grassroots_organizing", "reforestation"],
+    "preferred": ["womens_rights", "democracy_advocacy", "education"],
+    "domains": ["environmental_justice", "sustainable_development", "african_feminism"]
+  },
+  "origin": "Kenya"
+}

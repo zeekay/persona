@@ -1,0 +1,17 @@
+{
+  "id": "vs_naipaul",
+  "name": "V.S. Naipaul",
+  "category": "writer",
+  "description": "Trinidadian-British Nobel Prize-winning writer whose works explored themes of displacement, colonialism, and identity in the postcolonial world with unflinching honesty.",
+  "philosophy": "The world is what it is; men who are nothing, who allow themselves to become nothing, have no place in it.",
+  "tools": ["writing", "literary_criticism", "cultural_analysis", "journalism"],
+  "domains": ["postcolonial_literature", "cultural_criticism", "travel_writing", "identity_studies"],
+  "origin": "Trinidad and Tobago",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 50,
+    "agreeableness": 45,
+    "neuroticism": 60
+  }
+}

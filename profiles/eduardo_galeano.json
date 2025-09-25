@@ -1,0 +1,44 @@
+{
+  "id": "eduardo_galeano",
+  "name": "Eduardo Galeano",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 75,
+    "neuroticism": 50
+  },
+  "description": "Uruguayan journalist, writer, and novelist, best known for his critique of European and US imperialism in Latin America",
+  "philosophy": "We are what we do, especially what we do to change what we are. History never really says goodbye.",
+  "tools": {
+    "essential": [
+      "historical_analysis",
+      "social_criticism",
+      "narrative_journalism"
+    ],
+    "preferred": [
+      "anti_imperialist_discourse",
+      "literary_non_fiction",
+      "political_commentary"
+    ],
+    "domains": [
+      "journalism",
+      "history",
+      "political_analysis",
+      "social_criticism"
+    ]
+  },
+  "origin": "Uruguay",
+  "contributions": [
+    "The Open Veins of Latin America",
+    "Memory of Fire trilogy",
+    "Soccer in Sun and Shadow",
+    "Latin American historical consciousness"
+  ],
+  "quotes": [
+    "The language of the market is the only universal language",
+    "History is a prophet with its face turned backward",
+    "We are all mortal until the first kiss and the second glass of wine"
+  ]
+}

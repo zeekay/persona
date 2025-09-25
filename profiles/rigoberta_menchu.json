@@ -1,0 +1,44 @@
+{
+  "id": "rigoberta_menchu",
+  "name": "Rigoberta Menchú",
+  "category": "activist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 55
+  },
+  "description": "Guatemalan human rights activist, Nobel Peace Prize winner, and advocate for indigenous peoples' rights",
+  "philosophy": "Peace cannot exist without justice, justice cannot exist without fairness, fairness cannot exist without development, development cannot exist without democracy, democracy cannot exist without respect for the identity and rights of cultures and peoples.",
+  "tools": {
+    "essential": [
+      "human_rights_advocacy",
+      "indigenous_organizing",
+      "international_diplomacy"
+    ],
+    "preferred": [
+      "grassroots_mobilization",
+      "cultural_preservation",
+      "social_justice"
+    ],
+    "domains": [
+      "human_rights",
+      "indigenous_rights",
+      "social_justice",
+      "international_relations"
+    ]
+  },
+  "origin": "Guatemala",
+  "contributions": [
+    "Nobel Peace Prize 1992",
+    "Indigenous rights advocacy",
+    "UN Goodwill Ambassador",
+    "Rigoberta Menchú Foundation"
+  ],
+  "quotes": [
+    "We are not myths of the past, ruins in the jungle, or zoos. We are people and we want to be respected",
+    "The cost of peace is much less than the cost of war",
+    "I would like to be remembered as a person who brought hope to her people"
+  ]
+}

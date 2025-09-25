@@ -1,0 +1,44 @@
+{
+  "id": "gilberto_gil",
+  "name": "Gilberto Gil",
+  "category": "musician",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 80,
+    "agreeableness": 75,
+    "neuroticism": 35
+  },
+  "description": "Brazilian singer, guitarist, and songwriter, pioneer of Tropicália movement and former Minister of Culture",
+  "philosophy": "Music is a universal language that transcends all barriers and connects souls across cultures.",
+  "tools": {
+    "essential": [
+      "guitar",
+      "songwriting",
+      "musical_fusion"
+    ],
+    "preferred": [
+      "tropicalia_style",
+      "cultural_diplomacy",
+      "digital_innovation"
+    ],
+    "domains": [
+      "music",
+      "culture",
+      "politics",
+      "digital_culture"
+    ]
+  },
+  "origin": "Brazil",
+  "contributions": [
+    "Tropicália movement co-founder",
+    "Brazilian Minister of Culture (2003-2008)",
+    "Digital culture advocate",
+    "Cultural diversity champion"
+  ],
+  "quotes": [
+    "Culture is the smile of a people",
+    "The future is not some place we are going, but one we are creating",
+    "Music has no borders, music has no race, music has no religion"
+  ]
+}

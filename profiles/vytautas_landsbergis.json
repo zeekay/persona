@@ -1,0 +1,15 @@
+{
+  "name": "Vytautas Landsbergis",
+  "category": "leader",
+  "description": "Lithuanian politician and musicologist who led Lithuania's independence movement from the Soviet Union. First head of state of independent Lithuania and key figure in the Baltic states' peaceful revolution.",
+  "origin": "Lithuania",
+  "philosophy": "Freedom cannot be given as a gift - it must be earned through courage, persistence, and the willingness of people to stand together for their common dignity and rights.",
+  "tools": ["political_leadership", "independence_organizing", "diplomatic_negotiation", "musicology", "democratic_transition", "peaceful_resistance", "cultural_preservation"],
+  "ocean": {
+    "openness": 88,
+    "conscientiousness": 92,
+    "extraversion": 82,
+    "agreeableness": 78,
+    "neuroticism": 42
+  }
+}

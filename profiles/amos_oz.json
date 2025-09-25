@@ -1,0 +1,43 @@
+{
+  "id": "amos_oz",
+  "name": "Amos Oz",
+  "category": "writer",
+  "ocean": {
+    "openness": 88,
+    "conscientiousness": 82,
+    "extraversion": 55,
+    "agreeableness": 75,
+    "neuroticism": 60
+  },
+  "description": "Israeli writer, novelist, and journalist, one of Israel's most acclaimed authors and a prominent advocate for peace and a two-state solution",
+  "philosophy": "Every single pleasure I can imagine or have experienced is more delightful, more of a pleasure, if you take it in small sips, if you take your time.",
+  "tools": {
+    "essential": [
+      "literary_fiction",
+      "autobiographical_writing",
+      "political_commentary"
+    ],
+    "preferred": [
+      "psychological_realism",
+      "peace_advocacy",
+      "cultural_criticism"
+    ],
+    "domains": [
+      "literature",
+      "politics",
+      "peace_studies",
+      "cultural_identity"
+    ]
+  },
+  "origin": "Israel",
+  "contributions": [
+    "A Tale of Love and Darkness",
+    "Black Box",
+    "Peace Now movement co-founder",
+    "Israeli literature internationalization"
+  ],
+  "quotes": [
+    "Literature is not made of language but of feelings, images, memories, and rhythms",
+    "The opposite of fanaticism is not indifference, it is curiosity"
+  ]
+}

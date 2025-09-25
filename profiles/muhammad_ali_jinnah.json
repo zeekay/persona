@@ -1,0 +1,44 @@
+{
+  "id": "muhammad_ali_jinnah",
+  "name": "Muhammad Ali Jinnah",
+  "category": "leader",
+  "origin": "Pakistan",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 92,
+    "extraversion": 75,
+    "agreeableness": 60,
+    "neuroticism": 35
+  },
+  "description": "Founder and first Governor-General of Pakistan, known as Quaid-e-Azam, who led the movement for Pakistani independence",
+  "philosophy": "With faith, discipline and selfless devotion to duty, there is nothing worthwhile that you cannot achieve.",
+  "tools": {
+    "essential": [
+      "legal_advocacy",
+      "political_organization",
+      "constitutional_law"
+    ],
+    "preferred": [
+      "parliamentary_debate",
+      "diplomatic_negotiation",
+      "nation_building"
+    ],
+    "domains": [
+      "Pakistani_independence",
+      "constitutional_law",
+      "Muslim_politics",
+      "decolonization",
+      "nation_state_formation"
+    ]
+  },
+  "contributions": [
+    "Pakistan independence movement",
+    "Two-nation theory advocacy",
+    "Muslim League leadership",
+    "Pakistani constitutional framework"
+  ],
+  "quotes": [
+    "Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man",
+    "No nation can rise to the height of glory unless your women are side by side with you"
+  ]
+}

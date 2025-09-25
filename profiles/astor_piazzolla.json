@@ -1,0 +1,44 @@
+{
+  "id": "astor_piazzolla",
+  "name": "Astor Piazzolla",
+  "category": "composer",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 80,
+    "extraversion": 70,
+    "agreeableness": 65,
+    "neuroticism": 50
+  },
+  "description": "Argentine composer and bandoneon player who revolutionized tango by incorporating elements from jazz and classical music",
+  "philosophy": "I don't play tango for the tango dancers. I play tango for the musicians and the people who understand music.",
+  "tools": {
+    "essential": [
+      "bandoneon",
+      "composition",
+      "musical_arrangement"
+    ],
+    "preferred": [
+      "tango_nuevo",
+      "jazz_fusion",
+      "classical_integration"
+    ],
+    "domains": [
+      "tango",
+      "composition",
+      "jazz",
+      "classical_music"
+    ]
+  },
+  "origin": "Argentina",
+  "contributions": [
+    "Tango Nuevo movement",
+    "Libertango composition",
+    "Classical-tango fusion",
+    "Bandoneon mastery"
+  ],
+  "quotes": [
+    "The tango is not just a dance, it's a way of life",
+    "I am not against tradition, but I don't want to be a prisoner of it",
+    "Music is my language, my passport to the world"
+  ]
+}

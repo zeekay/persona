@@ -1,0 +1,44 @@
+{
+  "id": "kazi_nazrul_islam",
+  "name": "Kazi Nazrul Islam",
+  "category": "poet",
+  "origin": "Bangladesh",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 85,
+    "agreeableness": 70,
+    "neuroticism": 65
+  },
+  "description": "National poet of Bangladesh, revolutionary writer and composer known as the 'Rebel Poet' for his fierce independence and artistic innovation",
+  "philosophy": "I sing the song of equality! In my heart there is no difference between Hindu, Muslim, Christian or any other religion.",
+  "tools": {
+    "essential": [
+      "revolutionary_poetry",
+      "musical_composition",
+      "social_activism"
+    ],
+    "preferred": [
+      "bengali_literature",
+      "ghazal_writing",
+      "anti_colonial_writing"
+    ],
+    "domains": [
+      "Bengali_literature",
+      "revolutionary_poetry",
+      "music_composition",
+      "anti_colonialism",
+      "religious_harmony"
+    ]
+  },
+  "contributions": [
+    "Bidrohi (The Rebel) poem",
+    "4000+ songs composition",
+    "Revolutionary Bengali literature",
+    "Religious and social harmony advocacy"
+  ],
+  "quotes": [
+    "I am the rebel eternal, I raise my head beyond this world",
+    "Arise, awake! Till the goal is reached, do not rest"
+  ]
+}
