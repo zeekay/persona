@@ -1,0 +1,304 @@
+{
+  "rebels_revolutionaries": [
+    {
+      "id": "spartacus",
+      "name": "Spartacus",
+      "category": "revolutionary",
+      "ocean": { "openness": 80, "conscientiousness": 60, "extraversion": 90, "agreeableness": 35, "neuroticism": 55 }
+    },
+    {
+      "id": "cyrus_great",
+      "name": "Cyrus the Great",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 75, "agreeableness": 70, "neuroticism": 25 }
+    },
+    {
+      "id": "toussaint_louverture",
+      "name": "Toussaint Louverture",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 75, "agreeableness": 60, "neuroticism": 35 }
+    },
+    {
+      "id": "che_guevara",
+      "name": "Che Guevara",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 65, "extraversion": 75, "agreeableness": 30, "neuroticism": 60 }
+    },
+    {
+      "id": "rosa_parks",
+      "name": "Rosa Parks",
+      "category": "activist",
+      "ocean": { "openness": 80, "conscientiousness": 75, "extraversion": 45, "agreeableness": 80, "neuroticism": 30 }
+    },
+    {
+      "id": "malcolm_x",
+      "name": "Malcolm X",
+      "category": "activist",
+      "ocean": { "openness": 85, "conscientiousness": 75, "extraversion": 85, "agreeableness": 40, "neuroticism": 55 }
+    },
+    {
+      "id": "emmeline_pankhurst",
+      "name": "Emmeline Pankhurst",
+      "category": "activist",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 85, "agreeableness": 35, "neuroticism": 50 }
+    },
+    {
+      "id": "susan_b_anthony",
+      "name": "Susan B. Anthony",
+      "category": "activist",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 65, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "harriet_tubman",
+      "name": "Harriet Tubman",
+      "category": "activist",
+      "ocean": { "openness": 85, "conscientiousness": 90, "extraversion": 70, "agreeableness": 75, "neuroticism": 30 }
+    },
+    {
+      "id": "simon_bolivar",
+      "name": "Simón Bolívar",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 80, "extraversion": 90, "agreeableness": 45, "neuroticism": 55 }
+    },
+    {
+      "id": "giuseppe_garibaldi",
+      "name": "Giuseppe Garibaldi",
+      "category": "revolutionary",
+      "ocean": { "openness": 90, "conscientiousness": 65, "extraversion": 85, "agreeableness": 60, "neuroticism": 50 }
+    },
+    {
+      "id": "sun_yat_sen",
+      "name": "Sun Yat-sen",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 80, "extraversion": 75, "agreeableness": 65, "neuroticism": 40 }
+    },
+    {
+      "id": "leon_trotsky",
+      "name": "Leon Trotsky",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 70, "extraversion": 80, "agreeableness": 30, "neuroticism": 65 }
+    },
+    {
+      "id": "vaclav_havel",
+      "name": "Václav Havel",
+      "category": "activist",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 60, "agreeableness": 80, "neuroticism": 35 }
+    },
+    {
+      "id": "lech_walesa",
+      "name": "Lech Wałęsa",
+      "category": "activist",
+      "ocean": { "openness": 80, "conscientiousness": 80, "extraversion": 85, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "desmond_tutu",
+      "name": "Desmond Tutu",
+      "category": "activist",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 85, "agreeableness": 95, "neuroticism": 25 }
+    },
+    {
+      "id": "cheikh_anta_diop",
+      "name": "Cheikh Anta Diop",
+      "category": "activist",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 55, "agreeableness": 75, "neuroticism": 35 }
+    },
+    {
+      "id": "thomas_paine",
+      "name": "Thomas Paine",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 65, "extraversion": 75, "agreeableness": 40, "neuroticism": 55 }
+    },
+    {
+      "id": "john_brown",
+      "name": "John Brown",
+      "category": "activist",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 75, "agreeableness": 30, "neuroticism": 70 }
+    },
+    {
+      "id": "rani_lakshmibai",
+      "name": "Rani Lakshmibai",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 85, "agreeableness": 45, "neuroticism": 50 }
+    },
+    {
+      "id": "cato_younger",
+      "name": "Cato the Younger",
+      "category": "revolutionary",
+      "ocean": { "openness": 80, "conscientiousness": 95, "extraversion": 35, "agreeableness": 30, "neuroticism": 25 }
+    },
+    {
+      "id": "boudica",
+      "name": "Boudica",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 80, "extraversion": 90, "agreeableness": 35, "neuroticism": 55 }
+    },
+    {
+      "id": "sitting_bull",
+      "name": "Sitting Bull",
+      "category": "revolutionary",
+      "ocean": { "openness": 80, "conscientiousness": 70, "extraversion": 60, "agreeableness": 55, "neuroticism": 45 }
+    },
+    {
+      "id": "crazy_horse",
+      "name": "Crazy Horse",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 65, "extraversion": 45, "agreeableness": 40, "neuroticism": 50 }
+    },
+    {
+      "id": "emiliano_zapata",
+      "name": "Emiliano Zapata",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 70, "extraversion": 75, "agreeableness": 60, "neuroticism": 50 }
+    },
+    {
+      "id": "pancho_villa",
+      "name": "Pancho Villa",
+      "category": "revolutionary",
+      "ocean": { "openness": 90, "conscientiousness": 45, "extraversion": 90, "agreeableness": 35, "neuroticism": 65 }
+    },
+    {
+      "id": "jose_marti",
+      "name": "José Martí",
+      "category": "revolutionary",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 75, "agreeableness": 70, "neuroticism": 40 }
+    },
+    {
+      "id": "rosa_luxemburg",
+      "name": "Rosa Luxemburg",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 70, "extraversion": 75, "agreeableness": 50, "neuroticism": 60 }
+    },
+    {
+      "id": "sukarno",
+      "name": "Sukarno",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 75, "extraversion": 90, "agreeableness": 60, "neuroticism": 50 }
+    },
+    {
+      "id": "ho_chi_minh",
+      "name": "Ho Chi Minh",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 55, "agreeableness": 50, "neuroticism": 45 }
+    },
+    {
+      "id": "frederick_douglass",
+      "name": "Frederick Douglass",
+      "category": "activist",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 80, "agreeableness": 70, "neuroticism": 50 }
+    },
+    {
+      "id": "mikhail_bakunin",
+      "name": "Mikhail Bakunin",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 40, "extraversion": 80, "agreeableness": 25, "neuroticism": 70 }
+    },
+    {
+      "id": "emma_goldman",
+      "name": "Emma Goldman",
+      "category": "revolutionary",
+      "ocean": { "openness": 95, "conscientiousness": 65, "extraversion": 85, "agreeableness": 45, "neuroticism": 60 }
+    },
+    {
+      "id": "cesar_chavez",
+      "name": "Cesar Chavez",
+      "category": "activist",
+      "ocean": { "openness": 80, "conscientiousness": 85, "extraversion": 70, "agreeableness": 80, "neuroticism": 35 }
+    },
+    {
+      "id": "sojourner_truth",
+      "name": "Sojourner Truth",
+      "category": "activist",
+      "ocean": { "openness": 85, "conscientiousness": 80, "extraversion": 80, "agreeableness": 75, "neuroticism": 40 }
+    },
+    {
+      "id": "william_wilberforce",
+      "name": "William Wilberforce",
+      "category": "activist",
+      "ocean": { "openness": 80, "conscientiousness": 90, "extraversion": 70, "agreeableness": 85, "neuroticism": 45 }
+    },
+    {
+      "id": "olympe_de_gouges",
+      "name": "Olympe de Gouges",
+      "category": "activist",
+      "ocean": { "openness": 90, "conscientiousness": 75, "extraversion": 75, "agreeableness": 60, "neuroticism": 55 }
+    },
+    {
+      "id": "mary_wollstonecraft_activist",
+      "name": "Mary Wollstonecraft",
+      "category": "activist",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 65, "agreeableness": 65, "neuroticism": 55 }
+    },
+    {
+      "id": "william_lloyd_garrison",
+      "name": "William Lloyd Garrison",
+      "category": "activist",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 75, "agreeableness": 60, "neuroticism": 50 }
+    },
+    {
+      "id": "nat_turner",
+      "name": "Nat Turner",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 75, "extraversion": 70, "agreeableness": 40, "neuroticism": 65 }
+    },
+    {
+      "id": "denmark_vesey",
+      "name": "Denmark Vesey",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 80, "extraversion": 65, "agreeableness": 45, "neuroticism": 60 }
+    },
+    {
+      "id": "gabriel_prosser",
+      "name": "Gabriel Prosser",
+      "category": "revolutionary",
+      "ocean": { "openness": 80, "conscientiousness": 75, "extraversion": 70, "agreeableness": 50, "neuroticism": 55 }
+    },
+    {
+      "id": "geronimo",
+      "name": "Geronimo",
+      "category": "revolutionary",
+      "ocean": { "openness": 80, "conscientiousness": 70, "extraversion": 60, "agreeableness": 35, "neuroticism": 50 }
+    },
+    {
+      "id": "tecumseh",
+      "name": "Tecumseh",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 80, "extraversion": 75, "agreeableness": 60, "neuroticism": 40 }
+    },
+    {
+      "id": "shaka_zulu",
+      "name": "Shaka Zulu",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 85, "agreeableness": 25, "neuroticism": 55 }
+    },
+    {
+      "id": "queen_nzinga",
+      "name": "Queen Nzinga",
+      "category": "revolutionary",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 75, "agreeableness": 45, "neuroticism": 45 }
+    },
+    {
+      "id": "steve_biko",
+      "name": "Steve Biko",
+      "category": "activist",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 70, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "patrice_lumumba",
+      "name": "Patrice Lumumba",
+      "category": "revolutionary",
+      "ocean": { "openness": 90, "conscientiousness": 75, "extraversion": 80, "agreeableness": 60, "neuroticism": 55 }
+    },
+    {
+      "id": "thomas_sankara",
+      "name": "Thomas Sankara",
+      "category": "revolutionary",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 75, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "kwame_nkrumah",
+      "name": "Kwame Nkrumah",
+      "category": "revolutionary",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 80, "agreeableness": 65, "neuroticism": 45 }
+    }
+  ]
+}

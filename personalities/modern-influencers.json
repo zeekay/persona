@@ -1,0 +1,574 @@
+{
+  "modern_influencers": [
+    {
+      "id": "spielberg",
+      "name": "Steven Spielberg",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 75, "agreeableness": 80, "neuroticism": 25 }
+    },
+    {
+      "id": "hitchcock",
+      "name": "Alfred Hitchcock",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 30, "agreeableness": 30, "neuroticism": 55 }
+    },
+    {
+      "id": "stanley_kubrick",
+      "name": "Stanley Kubrick",
+      "category": "filmmaker",
+      "ocean": { "openness": 98, "conscientiousness": 95, "extraversion": 25, "agreeableness": 25, "neuroticism": 70 }
+    },
+    {
+      "id": "tarantino",
+      "name": "Quentin Tarantino",
+      "category": "filmmaker",
+      "ocean": { "openness": 98, "conscientiousness": 40, "extraversion": 80, "agreeableness": 35, "neuroticism": 55 }
+    },
+    {
+      "id": "christopher_nolan",
+      "name": "Christopher Nolan",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 95, "extraversion": 50, "agreeableness": 30, "neuroticism": 25 }
+    },
+    {
+      "id": "hayao_miyazaki",
+      "name": "Hayao Miyazaki",
+      "category": "filmmaker",
+      "ocean": { "openness": 98, "conscientiousness": 85, "extraversion": 45, "agreeableness": 75, "neuroticism": 30 }
+    },
+    {
+      "id": "scorsese",
+      "name": "Martin Scorsese",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 60, "agreeableness": 60, "neuroticism": 50 }
+    },
+    {
+      "id": "sofia_coppola",
+      "name": "Sofia Coppola",
+      "category": "filmmaker",
+      "ocean": { "openness": 90, "conscientiousness": 70, "extraversion": 35, "agreeableness": 75, "neuroticism": 40 }
+    },
+    {
+      "id": "guillermo_del_toro",
+      "name": "Guillermo del Toro",
+      "category": "filmmaker",
+      "ocean": { "openness": 98, "conscientiousness": 80, "extraversion": 65, "agreeableness": 80, "neuroticism": 35 }
+    },
+    {
+      "id": "wes_anderson",
+      "name": "Wes Anderson",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 95, "extraversion": 30, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "david_lynch",
+      "name": "David Lynch",
+      "category": "filmmaker",
+      "ocean": { "openness": 100, "conscientiousness": 60, "extraversion": 30, "agreeableness": 60, "neuroticism": 65 }
+    },
+    {
+      "id": "coen_brothers",
+      "name": "Coen Brothers",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 40, "agreeableness": 55, "neuroticism": 40 }
+    },
+    {
+      "id": "paul_thomas_anderson",
+      "name": "Paul Thomas Anderson",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 35, "agreeableness": 50, "neuroticism": 55 }
+    },
+    {
+      "id": "bob_dylan",
+      "name": "Bob Dylan",
+      "category": "musician",
+      "ocean": { "openness": 98, "conscientiousness": 60, "extraversion": 30, "agreeableness": 50, "neuroticism": 55 }
+    },
+    {
+      "id": "david_bowie",
+      "name": "David Bowie",
+      "category": "musician",
+      "ocean": { "openness": 100, "conscientiousness": 70, "extraversion": 75, "agreeableness": 65, "neuroticism": 50 }
+    },
+    {
+      "id": "prince",
+      "name": "Prince",
+      "category": "musician",
+      "ocean": { "openness": 98, "conscientiousness": 75, "extraversion": 70, "agreeableness": 40, "neuroticism": 55 }
+    },
+    {
+      "id": "madonna",
+      "name": "Madonna",
+      "category": "musician",
+      "ocean": { "openness": 95, "conscientiousness": 80, "extraversion": 90, "agreeableness": 35, "neuroticism": 45 }
+    },
+    {
+      "id": "freddie_mercury",
+      "name": "Freddie Mercury",
+      "category": "musician",
+      "ocean": { "openness": 95, "conscientiousness": 70, "extraversion": 95, "agreeableness": 65, "neuroticism": 55 }
+    },
+    {
+      "id": "jimi_hendrix",
+      "name": "Jimi Hendrix",
+      "category": "musician",
+      "ocean": { "openness": 100, "conscientiousness": 45, "extraversion": 65, "agreeableness": 70, "neuroticism": 50 }
+    },
+    {
+      "id": "janis_joplin",
+      "name": "Janis Joplin",
+      "category": "musician",
+      "ocean": { "openness": 95, "conscientiousness": 40, "extraversion": 80, "agreeableness": 60, "neuroticism": 75 }
+    },
+    {
+      "id": "kurt_cobain",
+      "name": "Kurt Cobain",
+      "category": "musician",
+      "ocean": { "openness": 95, "conscientiousness": 45, "extraversion": 35, "agreeableness": 65, "neuroticism": 90 }
+    },
+    {
+      "id": "johnny_cash",
+      "name": "Johnny Cash",
+      "category": "musician",
+      "ocean": { "openness": 85, "conscientiousness": 75, "extraversion": 60, "agreeableness": 75, "neuroticism": 60 }
+    },
+    {
+      "id": "aretha_franklin",
+      "name": "Aretha Franklin",
+      "category": "musician",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 75, "agreeableness": 70, "neuroticism": 40 }
+    },
+    {
+      "id": "nina_simone",
+      "name": "Nina Simone",
+      "category": "musician",
+      "ocean": { "openness": 95, "conscientiousness": 70, "extraversion": 55, "agreeableness": 45, "neuroticism": 70 }
+    },
+    {
+      "id": "billie_holiday",
+      "name": "Billie Holiday",
+      "category": "musician",
+      "ocean": { "openness": 90, "conscientiousness": 55, "extraversion": 60, "agreeableness": 65, "neuroticism": 80 }
+    },
+    {
+      "id": "george_carlin",
+      "name": "George Carlin",
+      "category": "comedian",
+      "ocean": { "openness": 98, "conscientiousness": 65, "extraversion": 75, "agreeableness": 25, "neuroticism": 65 }
+    },
+    {
+      "id": "richard_pryor",
+      "name": "Richard Pryor",
+      "category": "comedian",
+      "ocean": { "openness": 95, "conscientiousness": 50, "extraversion": 85, "agreeableness": 55, "neuroticism": 75 }
+    },
+    {
+      "id": "robin_williams",
+      "name": "Robin Williams",
+      "category": "comedian",
+      "ocean": { "openness": 98, "conscientiousness": 45, "extraversion": 95, "agreeableness": 85, "neuroticism": 80 }
+    },
+    {
+      "id": "dave_chappelle",
+      "name": "Dave Chappelle",
+      "category": "comedian",
+      "ocean": { "openness": 95, "conscientiousness": 70, "extraversion": 75, "agreeableness": 50, "neuroticism": 55 }
+    },
+    {
+      "id": "tina_fey",
+      "name": "Tina Fey",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 70, "agreeableness": 75, "neuroticism": 35 }
+    },
+    {
+      "id": "steve_martin",
+      "name": "Steve Martin",
+      "category": "comedian",
+      "ocean": { "openness": 95, "conscientiousness": 75, "extraversion": 65, "agreeableness": 70, "neuroticism": 45 }
+    },
+    {
+      "id": "louis_ck",
+      "name": "Louis C.K.",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 60, "extraversion": 70, "agreeableness": 40, "neuroticism": 65 }
+    },
+    {
+      "id": "john_cleese",
+      "name": "John Cleese",
+      "category": "comedian",
+      "ocean": { "openness": 95, "conscientiousness": 70, "extraversion": 75, "agreeableness": 55, "neuroticism": 50 }
+    },
+    {
+      "id": "ellen_degeneres",
+      "name": "Ellen DeGeneres",
+      "category": "comedian",
+      "ocean": { "openness": 80, "conscientiousness": 80, "extraversion": 90, "agreeableness": 75, "neuroticism": 30 }
+    },
+    {
+      "id": "bill_hicks",
+      "name": "Bill Hicks",
+      "category": "comedian",
+      "ocean": { "openness": 98, "conscientiousness": 40, "extraversion": 75, "agreeableness": 20, "neuroticism": 75 }
+    },
+    {
+      "id": "joan_rivers",
+      "name": "Joan Rivers",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 90, "agreeableness": 30, "neuroticism": 60 }
+    },
+    {
+      "id": "eddie_murphy",
+      "name": "Eddie Murphy",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 70, "extraversion": 85, "agreeableness": 60, "neuroticism": 40 }
+    },
+    {
+      "id": "michael_jordan",
+      "name": "Michael Jordan",
+      "category": "athlete",
+      "ocean": { "openness": 75, "conscientiousness": 95, "extraversion": 85, "agreeableness": 45, "neuroticism": 25 }
+    },
+    {
+      "id": "serena_williams",
+      "name": "Serena Williams",
+      "category": "athlete",
+      "ocean": { "openness": 80, "conscientiousness": 95, "extraversion": 75, "agreeableness": 65, "neuroticism": 30 }
+    },
+    {
+      "id": "usain_bolt",
+      "name": "Usain Bolt",
+      "category": "athlete",
+      "ocean": { "openness": 75, "conscientiousness": 85, "extraversion": 90, "agreeableness": 80, "neuroticism": 20 }
+    },
+    {
+      "id": "muhammad_ali",
+      "name": "Muhammad Ali",
+      "category": "athlete",
+      "ocean": { "openness": 85, "conscientiousness": 75, "extraversion": 95, "agreeableness": 60, "neuroticism": 40 }
+    },
+    {
+      "id": "tiger_woods",
+      "name": "Tiger Woods",
+      "category": "athlete",
+      "ocean": { "openness": 70, "conscientiousness": 95, "extraversion": 40, "agreeableness": 35, "neuroticism": 50 }
+    },
+    {
+      "id": "simone_biles",
+      "name": "Simone Biles",
+      "category": "athlete",
+      "ocean": { "openness": 80, "conscientiousness": 95, "extraversion": 60, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "lebron_james",
+      "name": "LeBron James",
+      "category": "athlete",
+      "ocean": { "openness": 80, "conscientiousness": 90, "extraversion": 85, "agreeableness": 75, "neuroticism": 25 }
+    },
+    {
+      "id": "cristiano_ronaldo",
+      "name": "Cristiano Ronaldo",
+      "category": "athlete",
+      "ocean": { "openness": 70, "conscientiousness": 95, "extraversion": 85, "agreeableness": 40, "neuroticism": 30 }
+    },
+    {
+      "id": "roger_federer",
+      "name": "Roger Federer",
+      "category": "athlete",
+      "ocean": { "openness": 75, "conscientiousness": 95, "extraversion": 60, "agreeableness": 85, "neuroticism": 20 }
+    },
+    {
+      "id": "lionel_messi",
+      "name": "Lionel Messi",
+      "category": "athlete",
+      "ocean": { "openness": 75, "conscientiousness": 90, "extraversion": 35, "agreeableness": 70, "neuroticism": 25 }
+    },
+    {
+      "id": "tom_brady",
+      "name": "Tom Brady",
+      "category": "athlete",
+      "ocean": { "openness": 70, "conscientiousness": 98, "extraversion": 70, "agreeableness": 60, "neuroticism": 20 }
+    },
+    {
+      "id": "wayne_gretzky",
+      "name": "Wayne Gretzky",
+      "category": "athlete",
+      "ocean": { "openness": 80, "conscientiousness": 90, "extraversion": 65, "agreeableness": 80, "neuroticism": 25 }
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk",
+      "category": "tech_leader",
+      "ocean": { "openness": 95, "conscientiousness": 65, "extraversion": 75, "agreeableness": 30, "neuroticism": 55 }
+    },
+    {
+      "id": "jeff_bezos",
+      "name": "Jeff Bezos",
+      "category": "tech_leader",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 45, "agreeableness": 25, "neuroticism": 35 }
+    },
+    {
+      "id": "steve_jobs",
+      "name": "Steve Jobs",
+      "category": "tech_leader",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 70, "agreeableness": 20, "neuroticism": 65 }
+    },
+    {
+      "id": "bill_gates",
+      "name": "Bill Gates",
+      "category": "tech_leader",
+      "ocean": { "openness": 90, "conscientiousness": 95, "extraversion": 40, "agreeableness": 75, "neuroticism": 30 }
+    },
+    {
+      "id": "mark_zuckerberg",
+      "name": "Mark Zuckerberg",
+      "category": "tech_leader",
+      "ocean": { "openness": 80, "conscientiousness": 85, "extraversion": 35, "agreeableness": 40, "neuroticism": 45 }
+    },
+    {
+      "id": "satya_nadella",
+      "name": "Satya Nadella",
+      "category": "tech_leader",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 60, "agreeableness": 80, "neuroticism": 25 }
+    },
+    {
+      "id": "sundar_pichai",
+      "name": "Sundar Pichai",
+      "category": "tech_leader",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 55, "agreeableness": 75, "neuroticism": 25 }
+    },
+    {
+      "id": "warren_buffett",
+      "name": "Warren Buffett",
+      "category": "tech_leader",
+      "ocean": { "openness": 80, "conscientiousness": 95, "extraversion": 45, "agreeableness": 75, "neuroticism": 20 }
+    },
+    {
+      "id": "sheryl_sandberg",
+      "name": "Sheryl Sandberg",
+      "category": "tech_leader",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 75, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "peter_thiel",
+      "name": "Peter Thiel",
+      "category": "tech_leader",
+      "ocean": { "openness": 90, "conscientiousness": 75, "extraversion": 40, "agreeableness": 25, "neuroticism": 45 }
+    },
+    {
+      "id": "jack_ma",
+      "name": "Jack Ma",
+      "category": "tech_leader",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 80, "agreeableness": 70, "neuroticism": 30 }
+    },
+    {
+      "id": "larry_page",
+      "name": "Larry Page",
+      "category": "tech_leader",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 30, "agreeableness": 60, "neuroticism": 35 }
+    },
+    {
+      "id": "sergey_brin",
+      "name": "Sergey Brin",
+      "category": "tech_leader",
+      "ocean": { "openness": 95, "conscientiousness": 80, "extraversion": 45, "agreeableness": 65, "neuroticism": 30 }
+    },
+    {
+      "id": "neil_armstrong",
+      "name": "Neil Armstrong",
+      "category": "explorer",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 40, "agreeableness": 70, "neuroticism": 20 }
+    },
+    {
+      "id": "yuri_gagarin",
+      "name": "Yuri Gagarin",
+      "category": "explorer",
+      "ocean": { "openness": 85, "conscientiousness": 90, "extraversion": 75, "agreeableness": 80, "neuroticism": 25 }
+    },
+    {
+      "id": "amelia_earhart",
+      "name": "Amelia Earhart",
+      "category": "explorer",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 70, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "ferdinand_magellan",
+      "name": "Ferdinand Magellan",
+      "category": "explorer",
+      "ocean": { "openness": 85, "conscientiousness": 90, "extraversion": 65, "agreeableness": 40, "neuroticism": 45 }
+    },
+    {
+      "id": "christopher_columbus",
+      "name": "Christopher Columbus",
+      "category": "explorer",
+      "ocean": { "openness": 85, "conscientiousness": 70, "extraversion": 75, "agreeableness": 35, "neuroticism": 50 }
+    },
+    {
+      "id": "jacques_cousteau",
+      "name": "Jacques Cousteau",
+      "category": "explorer",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 70, "agreeableness": 75, "neuroticism": 25 }
+    },
+    {
+      "id": "thor_heyerdahl",
+      "name": "Thor Heyerdahl",
+      "category": "explorer",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 75, "agreeableness": 65, "neuroticism": 40 }
+    },
+    {
+      "id": "oprah_winfrey",
+      "name": "Oprah Winfrey",
+      "category": "media",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 85, "agreeableness": 90, "neuroticism": 30 }
+    },
+    {
+      "id": "walt_disney",
+      "name": "Walt Disney",
+      "category": "media",
+      "ocean": { "openness": 95, "conscientiousness": 90, "extraversion": 75, "agreeableness": 80, "neuroticism": 35 }
+    },
+    {
+      "id": "jk_rowling",
+      "name": "J.K. Rowling",
+      "category": "writer",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 40, "agreeableness": 70, "neuroticism": 50 }
+    },
+    {
+      "id": "george_lucas",
+      "name": "George Lucas",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 80, "extraversion": 40, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "tim_burton",
+      "name": "Tim Burton",
+      "category": "filmmaker",
+      "ocean": { "openness": 98, "conscientiousness": 60, "extraversion": 30, "agreeableness": 55, "neuroticism": 65 }
+    },
+    {
+      "id": "ridley_scott",
+      "name": "Ridley Scott",
+      "category": "filmmaker",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 55, "agreeableness": 50, "neuroticism": 35 }
+    },
+    {
+      "id": "james_cameron",
+      "name": "James Cameron",
+      "category": "filmmaker",
+      "ocean": { "openness": 85, "conscientiousness": 95, "extraversion": 70, "agreeableness": 40, "neuroticism": 30 }
+    },
+    {
+      "id": "peter_jackson",
+      "name": "Peter Jackson",
+      "category": "filmmaker",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 60, "agreeableness": 75, "neuroticism": 35 }
+    },
+    {
+      "id": "ricky_gervais",
+      "name": "Ricky Gervais",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 65, "extraversion": 75, "agreeableness": 30, "neuroticism": 45 }
+    },
+    {
+      "id": "jerry_seinfeld",
+      "name": "Jerry Seinfeld",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 60, "agreeableness": 50, "neuroticism": 35 }
+    },
+    {
+      "id": "chris_rock",
+      "name": "Chris Rock",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 70, "extraversion": 80, "agreeableness": 45, "neuroticism": 50 }
+    },
+    {
+      "id": "amy_poehler",
+      "name": "Amy Poehler",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 80, "extraversion": 85, "agreeableness": 80, "neuroticism": 30 }
+    },
+    {
+      "id": "bill_murray",
+      "name": "Bill Murray",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 40, "extraversion": 70, "agreeableness": 60, "neuroticism": 45 }
+    },
+    {
+      "id": "steve_carell",
+      "name": "Steve Carell",
+      "category": "comedian",
+      "ocean": { "openness": 80, "conscientiousness": 85, "extraversion": 65, "agreeableness": 85, "neuroticism": 35 }
+    },
+    {
+      "id": "mindy_kaling",
+      "name": "Mindy Kaling",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 80, "extraversion": 75, "agreeableness": 70, "neuroticism": 40 }
+    },
+    {
+      "id": "stephen_colbert",
+      "name": "Stephen Colbert",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 75, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "jon_stewart",
+      "name": "Jon Stewart",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 70, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "conan_obrien",
+      "name": "Conan O'Brien",
+      "category": "comedian",
+      "ocean": { "openness": 95, "conscientiousness": 75, "extraversion": 80, "agreeableness": 70, "neuroticism": 50 }
+    },
+    {
+      "id": "larry_david",
+      "name": "Larry David",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 70, "extraversion": 35, "agreeableness": 25, "neuroticism": 70 }
+    },
+    {
+      "id": "sarah_silverman",
+      "name": "Sarah Silverman",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 60, "extraversion": 75, "agreeableness": 50, "neuroticism": 60 }
+    },
+    {
+      "id": "ali_wong",
+      "name": "Ali Wong",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 75, "extraversion": 80, "agreeableness": 55, "neuroticism": 40 }
+    },
+    {
+      "id": "kevin_hart",
+      "name": "Kevin Hart",
+      "category": "comedian",
+      "ocean": { "openness": 80, "conscientiousness": 85, "extraversion": 90, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "aziz_ansari",
+      "name": "Aziz Ansari",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 75, "extraversion": 75, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "bo_burnham",
+      "name": "Bo Burnham",
+      "category": "comedian",
+      "ocean": { "openness": 95, "conscientiousness": 80, "extraversion": 45, "agreeableness": 60, "neuroticism": 70 }
+    },
+    {
+      "id": "john_mulaney",
+      "name": "John Mulaney",
+      "category": "comedian",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 70, "agreeableness": 75, "neuroticism": 55 }
+    },
+    {
+      "id": "trevor_noah",
+      "name": "Trevor Noah",
+      "category": "comedian",
+      "ocean": { "openness": 90, "conscientiousness": 80, "extraversion": 75, "agreeableness": 70, "neuroticism": 35 }
+    }
+  ]
+}

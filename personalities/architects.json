@@ -1,0 +1,124 @@
+{
+  "architects": [
+    {
+      "id": "frank_lloyd_wright",
+      "name": "Frank Lloyd Wright",
+      "category": "architect",
+      "ocean": { "openness": 98, "conscientiousness": 95, "extraversion": 85, "agreeableness": 25, "neuroticism": 20 }
+    },
+    {
+      "id": "le_corbusier",
+      "name": "Le Corbusier",
+      "category": "architect",
+      "ocean": { "openness": 95, "conscientiousness": 90, "extraversion": 65, "agreeableness": 30, "neuroticism": 40 }
+    },
+    {
+      "id": "zaha_hadid",
+      "name": "Zaha Hadid",
+      "category": "architect",
+      "ocean": { "openness": 100, "conscientiousness": 90, "extraversion": 70, "agreeableness": 35, "neuroticism": 45 }
+    },
+    {
+      "id": "louis_kahn",
+      "name": "Louis Kahn",
+      "category": "architect",
+      "ocean": { "openness": 95, "conscientiousness": 95, "extraversion": 40, "agreeableness": 60, "neuroticism": 50 }
+    },
+    {
+      "id": "antoni_gaudi",
+      "name": "Antoni Gaudí",
+      "category": "architect",
+      "ocean": { "openness": 100, "conscientiousness": 85, "extraversion": 30, "agreeableness": 70, "neuroticism": 55 }
+    },
+    {
+      "id": "im_pei",
+      "name": "I.M. Pei",
+      "category": "architect",
+      "ocean": { "openness": 90, "conscientiousness": 95, "extraversion": 55, "agreeableness": 75, "neuroticism": 25 }
+    },
+    {
+      "id": "mies_van_der_rohe",
+      "name": "Ludwig Mies van der Rohe",
+      "category": "architect",
+      "ocean": { "openness": 85, "conscientiousness": 100, "extraversion": 35, "agreeableness": 45, "neuroticism": 30 }
+    },
+    {
+      "id": "walter_gropius",
+      "name": "Walter Gropius",
+      "category": "architect",
+      "ocean": { "openness": 90, "conscientiousness": 90, "extraversion": 60, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "philip_johnson",
+      "name": "Philip Johnson",
+      "category": "architect",
+      "ocean": { "openness": 85, "conscientiousness": 85, "extraversion": 75, "agreeableness": 40, "neuroticism": 40 }
+    },
+    {
+      "id": "tadao_ando",
+      "name": "Tadao Ando",
+      "category": "architect",
+      "ocean": { "openness": 90, "conscientiousness": 95, "extraversion": 30, "agreeableness": 65, "neuroticism": 35 }
+    },
+    {
+      "id": "oscar_niemeyer",
+      "name": "Oscar Niemeyer",
+      "category": "architect",
+      "ocean": { "openness": 95, "conscientiousness": 80, "extraversion": 65, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "alvar_aalto",
+      "name": "Alvar Aalto",
+      "category": "architect",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 50, "agreeableness": 75, "neuroticism": 30 }
+    },
+    {
+      "id": "buckminster_fuller",
+      "name": "Buckminster Fuller",
+      "category": "architect",
+      "ocean": { "openness": 98, "conscientiousness": 75, "extraversion": 75, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "eero_saarinen",
+      "name": "Eero Saarinen",
+      "category": "architect",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 60, "agreeableness": 70, "neuroticism": 35 }
+    },
+    {
+      "id": "carlo_scarpa",
+      "name": "Carlo Scarpa",
+      "category": "architect",
+      "ocean": { "openness": 95, "conscientiousness": 90, "extraversion": 35, "agreeableness": 65, "neuroticism": 45 }
+    },
+    {
+      "id": "aldo_rossi",
+      "name": "Aldo Rossi",
+      "category": "architect",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 45, "agreeableness": 55, "neuroticism": 50 }
+    },
+    {
+      "id": "luis_barragan",
+      "name": "Luis Barragán",
+      "category": "architect",
+      "ocean": { "openness": 95, "conscientiousness": 85, "extraversion": 30, "agreeableness": 70, "neuroticism": 40 }
+    },
+    {
+      "id": "eileen_gray",
+      "name": "Eileen Gray",
+      "category": "architect",
+      "ocean": { "openness": 95, "conscientiousness": 90, "extraversion": 35, "agreeableness": 60, "neuroticism": 45 }
+    },
+    {
+      "id": "charlotte_perriand",
+      "name": "Charlotte Perriand",
+      "category": "architect",
+      "ocean": { "openness": 90, "conscientiousness": 85, "extraversion": 55, "agreeableness": 65, "neuroticism": 40 }
+    },
+    {
+      "id": "lina_bo_bardi",
+      "name": "Lina Bo Bardi",
+      "category": "architect",
+      "ocean": { "openness": 95, "conscientiousness": 80, "extraversion": 65, "agreeableness": 70, "neuroticism": 40 }
+    }
+  ]
+}

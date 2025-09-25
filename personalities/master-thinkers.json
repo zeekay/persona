@@ -1,0 +1,2683 @@
+{
+  "thinkers": [
+    {
+      "id": "einstein",
+      "name": "Albert Einstein",
+      "category": "scientist",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 30,
+        "agreeableness": 65,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "newton",
+      "name": "Isaac Newton",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 20,
+        "agreeableness": 20,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "curie",
+      "name": "Marie Curie",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 25,
+        "agreeableness": 70,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "galileo",
+      "name": "Galileo Galilei",
+      "category": "scientist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 75,
+        "extraversion": 50,
+        "agreeableness": 40,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "darwin",
+      "name": "Charles Darwin",
+      "category": "scientist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 35,
+        "agreeableness": 65,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "feynman",
+      "name": "Richard Feynman",
+      "category": "scientist",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 80,
+        "agreeableness": 55,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "sagan",
+      "name": "Carl Sagan",
+      "category": "scientist",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 70,
+        "agreeableness": 80,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "tesla",
+      "name": "Nikola Tesla",
+      "category": "scientist",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 70,
+        "extraversion": 25,
+        "agreeableness": 40,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "hawking",
+      "name": "Stephen Hawking",
+      "category": "scientist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 65,
+        "neuroticism": 20
+      }
+    },
+    {
+      "id": "euler",
+      "name": "Leonhard Euler",
+      "category": "mathematician",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 35,
+        "agreeableness": 70,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "godel",
+      "name": "Kurt Gödel",
+      "category": "mathematician",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 15,
+        "agreeableness": 35,
+        "neuroticism": 80
+      }
+    },
+    {
+      "id": "vonneumann",
+      "name": "John von Neumann",
+      "category": "mathematician",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 60,
+        "agreeableness": 50,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "bohr",
+      "name": "Niels Bohr",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 40,
+        "agreeableness": 75,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "plato",
+      "name": "Plato",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 60,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 90,
+        "extraversion": 45,
+        "agreeableness": 65,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "kant",
+      "name": "Immanuel Kant",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 100,
+        "extraversion": 20,
+        "agreeableness": 50,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "nietzsche",
+      "name": "Friedrich Nietzsche",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 30,
+        "agreeableness": 20,
+        "neuroticism": 70
+      }
+    },
+    {
+      "id": "sartre",
+      "name": "Jean-Paul Sartre",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 70,
+        "extraversion": 50,
+        "agreeableness": 40,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "beauvoir",
+      "name": "Simone de Beauvoir",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 55,
+        "agreeableness": 65,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "hume",
+      "name": "David Hume",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 80,
+        "extraversion": 60,
+        "agreeableness": 80,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "confucius",
+      "name": "Confucius",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 50,
+        "agreeableness": 85,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "laozi",
+      "name": "Laozi",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 20,
+        "agreeableness": 90,
+        "neuroticism": 20
+      }
+    },
+    {
+      "id": "kierkegaard",
+      "name": "Søren Kierkegaard",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 75,
+        "extraversion": 30,
+        "agreeableness": 40,
+        "neuroticism": 80
+      }
+    },
+    {
+      "id": "shakespeare",
+      "name": "William Shakespeare",
+      "category": "poet",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 70,
+        "extraversion": 65,
+        "agreeableness": 65,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "homer",
+      "name": "Homer",
+      "category": "poet",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 75,
+        "extraversion": 70,
+        "agreeableness": 60,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "dante",
+      "name": "Dante Alighieri",
+      "category": "poet",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 55,
+        "agreeableness": 50,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "goethe",
+      "name": "Johann Wolfgang von Goethe",
+      "category": "poet",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 65,
+        "agreeableness": 70,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "dickinson",
+      "name": "Emily Dickinson",
+      "category": "poet",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 20,
+        "agreeableness": 55,
+        "neuroticism": 75
+      }
+    },
+    {
+      "id": "whitman",
+      "name": "Walt Whitman",
+      "category": "poet",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 65,
+        "extraversion": 85,
+        "agreeableness": 80,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "rumi",
+      "name": "Rumi",
+      "category": "poet",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 70,
+        "extraversion": 60,
+        "agreeableness": 90,
+        "neuroticism": 20
+      }
+    },
+    {
+      "id": "neruda",
+      "name": "Pablo Neruda",
+      "category": "poet",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 75,
+        "agreeableness": 70,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "eliot",
+      "name": "T.S. Eliot",
+      "category": "poet",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 30,
+        "agreeableness": 45,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "angelou",
+      "name": "Maya Angelou",
+      "category": "poet",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 70,
+        "agreeableness": 80,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "davinci",
+      "name": "Leonardo da Vinci",
+      "category": "artist",
+      "ocean": {
+        "openness": 100,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 55,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "category": "artist",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 95,
+        "extraversion": 40,
+        "agreeableness": 35,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "vangogh",
+      "name": "Vincent van Gogh",
+      "category": "artist",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 60,
+        "extraversion": 30,
+        "agreeableness": 45,
+        "neuroticism": 95
+      }
+    },
+    {
+      "id": "monet",
+      "name": "Claude Monet",
+      "category": "artist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 75,
+        "extraversion": 50,
+        "agreeableness": 70,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "picasso",
+      "name": "Pablo Picasso",
+      "category": "artist",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 70,
+        "extraversion": 80,
+        "agreeableness": 40,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "dali",
+      "name": "Salvador Dalí",
+      "category": "artist",
+      "ocean": {
+        "openness": 100,
+        "conscientiousness": 60,
+        "extraversion": 85,
+        "agreeableness": 35,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "category": "artist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 80,
+        "extraversion": 35,
+        "agreeableness": 55,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "okeeffe",
+      "name": "Georgia O'Keeffe",
+      "category": "artist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 65,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "kahlo",
+      "name": "Frida Kahlo",
+      "category": "artist",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 60,
+        "agreeableness": 50,
+        "neuroticism": 80
+      }
+    },
+    {
+      "id": "warhol",
+      "name": "Andy Warhol",
+      "category": "artist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 65,
+        "extraversion": 55,
+        "agreeableness": 40,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "gandhi",
+      "name": "Mahatma Gandhi",
+      "category": "statesman",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 50,
+        "agreeableness": 95,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "churchill",
+      "name": "Winston Churchill",
+      "category": "statesman",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 65,
+        "extraversion": 85,
+        "agreeableness": 45,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "lincoln",
+      "name": "Abraham Lincoln",
+      "category": "statesman",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 70,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "mlk",
+      "name": "Martin Luther King Jr.",
+      "category": "statesman",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 85,
+        "agreeableness": 90,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "mandela",
+      "name": "Nelson Mandela",
+      "category": "statesman",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 70,
+        "agreeableness": 95,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "kepler",
+      "name": "Johannes Kepler",
+      "category": "scientist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 30,
+        "agreeableness": 50,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "franklin_rosalind",
+      "name": "Rosalind Franklin",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 35,
+        "agreeableness": 55,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "maxwell",
+      "name": "James Clerk Maxwell",
+      "category": "scientist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 90,
+        "extraversion": 40,
+        "agreeableness": 65,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "planck",
+      "name": "Max Planck",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 35,
+        "agreeableness": 70,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "fermi",
+      "name": "Enrico Fermi",
+      "category": "scientist",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 95,
+        "extraversion": 50,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "faraday",
+      "name": "Michael Faraday",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 55,
+        "agreeableness": 80,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "mcclintock",
+      "name": "Barbara McClintock",
+      "category": "scientist",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 55,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "nightingale",
+      "name": "Florence Nightingale",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 45,
+        "agreeableness": 90,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "salk",
+      "name": "Jonas Salk",
+      "category": "scientist",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 60,
+        "agreeableness": 85,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "goodall",
+      "name": "Jane Goodall",
+      "category": "scientist",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 60,
+        "agreeableness": 90,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "aquinas",
+      "name": "Thomas Aquinas",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 40,
+        "agreeableness": 70,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "descartes",
+      "name": "René Descartes",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 95,
+        "extraversion": 35,
+        "agreeableness": 50,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "locke",
+      "name": "John Locke",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 70,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "hobbes",
+      "name": "Thomas Hobbes",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 85,
+        "extraversion": 35,
+        "agreeableness": 30,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "voltaire",
+      "name": "Voltaire",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 70,
+        "agreeableness": 45,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 60,
+        "agreeableness": 50,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "montaigne",
+      "name": "Michel de Montaigne",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 70,
+        "extraversion": 50,
+        "agreeableness": 70,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "russell",
+      "name": "Bertrand Russell",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 55,
+        "agreeableness": 65,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 25,
+        "agreeableness": 30,
+        "neuroticism": 75
+      }
+    },
+    {
+      "id": "arendt",
+      "name": "Hannah Arendt",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 55,
+        "agreeableness": 50,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "hugo",
+      "name": "Victor Hugo",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 70,
+        "agreeableness": 65,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "baudelaire",
+      "name": "Charles Baudelaire",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 55,
+        "agreeableness": 35,
+        "neuroticism": 80
+      }
+    },
+    {
+      "id": "borges",
+      "name": "Jorge Luis Borges",
+      "category": "writer",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 75,
+        "extraversion": 40,
+        "agreeableness": 60,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "joyce",
+      "name": "James Joyce",
+      "category": "writer",
+      "ocean": {
+        "openness": 100,
+        "conscientiousness": 65,
+        "extraversion": 60,
+        "agreeableness": 45,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "kafka",
+      "name": "Franz Kafka",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 25,
+        "agreeableness": 40,
+        "neuroticism": 90
+      }
+    },
+    {
+      "id": "tolstoy",
+      "name": "Leo Tolstoy",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 55,
+        "agreeableness": 80,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "dostoevsky",
+      "name": "Fyodor Dostoevsky",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 40,
+        "agreeableness": 45,
+        "neuroticism": 85
+      }
+    },
+    {
+      "id": "proust",
+      "name": "Marcel Proust",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 35,
+        "agreeableness": 45,
+        "neuroticism": 80
+      }
+    },
+    {
+      "id": "morrison",
+      "name": "Toni Morrison",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 65,
+        "agreeableness": 70,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "murakami",
+      "name": "Haruki Murakami",
+      "category": "writer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 35,
+        "agreeableness": 60,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "bach",
+      "name": "Johann Sebastian Bach",
+      "category": "composer",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 100,
+        "extraversion": 35,
+        "agreeableness": 70,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "beethoven",
+      "name": "Ludwig van Beethoven",
+      "category": "composer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 40,
+        "neuroticism": 70
+      }
+    },
+    {
+      "id": "mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "category": "composer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 75,
+        "agreeableness": 60,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "stravinsky",
+      "name": "Igor Stravinsky",
+      "category": "composer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 65,
+        "agreeableness": 40,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "debussy",
+      "name": "Claude Debussy",
+      "category": "composer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 50,
+        "agreeableness": 60,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "mahler",
+      "name": "Gustav Mahler",
+      "category": "composer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 50,
+        "neuroticism": 75
+      }
+    },
+    {
+      "id": "davis",
+      "name": "Miles Davis",
+      "category": "composer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 65,
+        "extraversion": 55,
+        "agreeableness": 35,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "coltrane",
+      "name": "John Coltrane",
+      "category": "composer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 60,
+        "agreeableness": 65,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "antonioni",
+      "name": "Michelangelo Antonioni",
+      "category": "filmmaker",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 45,
+        "agreeableness": 40,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "kurosawa",
+      "name": "Akira Kurosawa",
+      "category": "filmmaker",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 55,
+        "agreeableness": 55,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "caesar",
+      "name": "Julius Caesar",
+      "category": "leader",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 80,
+        "extraversion": 85,
+        "agreeableness": 35,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "alexander",
+      "name": "Alexander the Great",
+      "category": "leader",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 75,
+        "extraversion": 90,
+        "agreeableness": 30,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "napoleon",
+      "name": "Napoleon Bonaparte",
+      "category": "leader",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 85,
+        "extraversion": 85,
+        "agreeableness": 35,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "elizabeth",
+      "name": "Queen Elizabeth I",
+      "category": "leader",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 90,
+        "extraversion": 70,
+        "agreeableness": 45,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "catherine",
+      "name": "Catherine the Great",
+      "category": "leader",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 75,
+        "agreeableness": 50,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "lawrence",
+      "name": "T.E. Lawrence",
+      "category": "explorer",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 65,
+        "agreeableness": 50,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "shackleton",
+      "name": "Ernest Shackleton",
+      "category": "explorer",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 70,
+        "agreeableness": 80,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "polo",
+      "name": "Marco Polo",
+      "category": "explorer",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 70,
+        "extraversion": 75,
+        "agreeableness": 60,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "battuta",
+      "name": "Ibn Battuta",
+      "category": "explorer",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 70,
+        "extraversion": 75,
+        "agreeableness": 65,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "herodotus",
+      "name": "Herodotus",
+      "category": "historian",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 70,
+        "extraversion": 60,
+        "agreeableness": 65,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "buddha",
+      "name": "Siddhartha Gautama",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 95,
+        "neuroticism": 10
+      }
+    },
+    {
+      "id": "jesus",
+      "name": "Jesus of Nazareth",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 98,
+        "neuroticism": 20
+      }
+    },
+    {
+      "id": "muhammad",
+      "name": "Muhammad",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 85,
+        "agreeableness": 80,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 70,
+        "agreeableness": 60,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "francis",
+      "name": "Francis of Assisi",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 50,
+        "extraversion": 85,
+        "agreeableness": 98,
+        "neuroticism": 20
+      }
+    },
+    {
+      "id": "luther",
+      "name": "Martin Luther",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 70,
+        "agreeableness": 35,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "zizek",
+      "name": "Slavoj Žižek",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 45,
+        "extraversion": 75,
+        "agreeableness": 25,
+        "neuroticism": 70
+      }
+    },
+    {
+      "id": "foucault",
+      "name": "Michel Foucault",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 65,
+        "extraversion": 50,
+        "agreeableness": 35,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "derrida",
+      "name": "Jacques Derrida",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 45,
+        "extraversion": 50,
+        "agreeableness": 30,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "deleuze",
+      "name": "Gilles Deleuze",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 75,
+        "extraversion": 30,
+        "agreeableness": 55,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "baudrillard",
+      "name": "Jean Baudrillard",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 50,
+        "agreeableness": 30,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "benjamin",
+      "name": "Walter Benjamin",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 98,
+        "conscientiousness": 40,
+        "extraversion": 30,
+        "agreeableness": 55,
+        "neuroticism": 70
+      }
+    },
+    {
+      "id": "marcuse",
+      "name": "Herbert Marcuse",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 35,
+        "agreeableness": 55,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "adorno",
+      "name": "Theodor Adorno",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 30,
+        "neuroticism": 70
+      }
+    },
+    {
+      "id": "habermas",
+      "name": "Jürgen Habermas",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "chomsky",
+      "name": "Noam Chomsky",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "said",
+      "name": "Edward Said",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "butler",
+      "name": "Judith Butler",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 50,
+        "agreeableness": 55,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "west",
+      "name": "Cornel West",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 90,
+        "agreeableness": 85,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "peterson",
+      "name": "Jordan Peterson",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 70,
+        "agreeableness": 30,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "sontag",
+      "name": "Susan Sontag",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 40,
+        "extraversion": 70,
+        "agreeableness": 55,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "paglia",
+      "name": "Camille Paglia",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 40,
+        "extraversion": 90,
+        "agreeableness": 20,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "paul_apostle",
+      "name": "St. Paul (Paul of Tarsus)",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 90,
+        "agreeableness": 60,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "augustine",
+      "name": "St. Augustine of Hippo",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 85
+      }
+    },
+    {
+      "id": "teresa_avila",
+      "name": "St. Teresa of Ávila",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 50,
+        "agreeableness": 95,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "john_cross",
+      "name": "St. John of the Cross",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 95,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "meister_eckhart",
+      "name": "Meister Eckhart",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "abraham",
+      "name": "Abraham",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 70,
+        "agreeableness": 60,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "john_calvin",
+      "name": "John Calvin",
+      "category": "religious",
+      "ocean": {
+        "openness": 60,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 30,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "ignatius_loyola",
+      "name": "Ignatius of Loyola",
+      "category": "religious",
+      "ocean": {
+        "openness": 60,
+        "conscientiousness": 95,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "julian_norwich",
+      "name": "Julian of Norwich",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 30,
+        "agreeableness": 95,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "thomas_merton",
+      "name": "Thomas Merton",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "bonhoeffer",
+      "name": "Dietrich Bonhoeffer",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "zhuangzi",
+      "name": "Zhuangzi",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 40,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "mencius",
+      "name": "Mencius",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "xunzi",
+      "name": "Xunzi",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 30,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "adi_shankara",
+      "name": "Adi Shankara",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "ramanuja",
+      "name": "Ramanuja",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "sri_ramakrishna",
+      "name": "Sri Ramakrishna",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 40,
+        "extraversion": 70,
+        "agreeableness": 95,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "vivekananda",
+      "name": "Swami Vivekananda",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 90,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "yogananda",
+      "name": "Paramahansa Yogananda",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "tagore",
+      "name": "Rabindranath Tagore",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "guru_nanak",
+      "name": "Guru Nanak",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 95,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "al_ghazali",
+      "name": "Al-Ghazali",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "ibn_arabi",
+      "name": "Ibn Arabi",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "avicenna",
+      "name": "Avicenna (Ibn Sina)",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "averroes",
+      "name": "Averroes (Ibn Rushd)",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 30,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "maimonides",
+      "name": "Maimonides",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "spinoza",
+      "name": "Baruch Spinoza",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "dalai_lama",
+      "name": "Dalai Lama (14th)",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 95,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "thich_nhat_hanh",
+      "name": "Thich Nhat Hanh",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 95,
+        "neuroticism": 10
+      }
+    },
+    {
+      "id": "eckhart_tolle",
+      "name": "Eckhart Tolle",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "alan_watts",
+      "name": "Alan Watts",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 40,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "aldous_huxley",
+      "name": "Aldous Huxley",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "cs_lewis",
+      "name": "C.S. Lewis",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "gk_chesterton",
+      "name": "G.K. Chesterton",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "emerson",
+      "name": "Ralph Waldo Emerson",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "thoreau",
+      "name": "Henry David Thoreau",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "william_james",
+      "name": "William James",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "hegel",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 30,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "schopenhauer",
+      "name": "Arthur Schopenhauer",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 30,
+        "agreeableness": 10,
+        "neuroticism": 85
+      }
+    },
+    {
+      "id": "karl_marx",
+      "name": "Karl Marx",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 90,
+        "agreeableness": 30,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "auguste_comte",
+      "name": "Auguste Comte",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 70,
+        "agreeableness": 60,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "durkheim",
+      "name": "Émile Durkheim",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "levi_strauss",
+      "name": "Claude Lévi-Strauss",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "marcel_mauss",
+      "name": "Marcel Mauss",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "bourdieu",
+      "name": "Pierre Bourdieu",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 60,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "goffman",
+      "name": "Erving Goffman",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 60,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "talcott_parsons",
+      "name": "Talcott Parsons",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 60,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "richard_rorty",
+      "name": "Richard Rorty",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "charles_taylor",
+      "name": "Charles Taylor",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "macintyre",
+      "name": "Alasdair MacIntyre",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "martha_nussbaum",
+      "name": "Martha Nussbaum",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 95,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "iris_murdoch",
+      "name": "Iris Murdoch",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "leo_strauss",
+      "name": "Leo Strauss",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 30,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "allan_bloom",
+      "name": "Allan Bloom",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 30,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "fanon",
+      "name": "Frantz Fanon",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 60,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "gramsci",
+      "name": "Antonio Gramsci",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "karl_jaspers",
+      "name": "Karl Jaspers",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "merleau_ponty",
+      "name": "Maurice Merleau-Ponty",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 50,
+        "agreeableness": 60,
+        "neuroticism": 25
+      }
+    },
+    {
+      "id": "camus",
+      "name": "Albert Camus",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "simone_weil",
+      "name": "Simone Weil",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 95,
+        "neuroticism": 85
+      }
+    },
+    {
+      "id": "horkheimer",
+      "name": "Max Horkheimer",
+      "category": "philosopher",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 60,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "zoroaster",
+      "name": "Zoroaster",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 60,
+        "agreeableness": 70,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "mani",
+      "name": "Mani",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 65,
+        "agreeableness": 75,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "baha_ullah",
+      "name": "Bahá'u'lláh",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 55,
+        "agreeableness": 85,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "joseph_smith",
+      "name": "Joseph Smith",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 70,
+        "extraversion": 80,
+        "agreeableness": 65,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "mary_baker_eddy",
+      "name": "Mary Baker Eddy",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 60,
+        "agreeableness": 70,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "swedenborg",
+      "name": "Emanuel Swedenborg",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 75,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "jacob_boehme",
+      "name": "Jacob Boehme",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 60,
+        "extraversion": 30,
+        "agreeableness": 70,
+        "neuroticism": 65
+      }
+    },
+    {
+      "id": "john_wesley",
+      "name": "John Wesley",
+      "category": "religious",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 95,
+        "extraversion": 75,
+        "agreeableness": 80,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "william_penn",
+      "name": "William Penn",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 65,
+        "agreeableness": 85,
+        "neuroticism": 30
+      }
+    },
+    {
+      "id": "george_fox",
+      "name": "George Fox",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 80,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "hildegard_bingen",
+      "name": "Hildegard of Bingen",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 85,
+        "extraversion": 50,
+        "agreeableness": 80,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "catherine_siena",
+      "name": "Catherine of Siena",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 65,
+        "agreeableness": 85,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "john_chrysostom",
+      "name": "John Chrysostom",
+      "category": "religious",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 90,
+        "extraversion": 75,
+        "agreeableness": 70,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "gregory_nazianzus",
+      "name": "Gregory of Nazianzus",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 85,
+        "extraversion": 55,
+        "agreeableness": 75,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "basil_great",
+      "name": "Basil the Great",
+      "category": "religious",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 95,
+        "extraversion": 60,
+        "agreeableness": 80,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "john_damascene",
+      "name": "John of Damascus",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 45,
+        "agreeableness": 70,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "maximus_confessor",
+      "name": "Maximus the Confessor",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 65,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "gregory_palamas",
+      "name": "Gregory Palamas",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 35,
+        "agreeableness": 60,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "symeon_theologian",
+      "name": "Symeon the New Theologian",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 30,
+        "agreeableness": 65,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "pseudo_dionysius",
+      "name": "Pseudo-Dionysius",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 25,
+        "agreeableness": 60,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "origen",
+      "name": "Origen",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 90,
+        "extraversion": 40,
+        "agreeableness": 65,
+        "neuroticism": 50
+      }
+    },
+    {
+      "id": "tertullian",
+      "name": "Tertullian",
+      "category": "religious",
+      "ocean": {
+        "openness": 75,
+        "conscientiousness": 90,
+        "extraversion": 65,
+        "agreeableness": 40,
+        "neuroticism": 60
+      }
+    },
+    {
+      "id": "irenaeus",
+      "name": "Irenaeus",
+      "category": "religious",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 90,
+        "extraversion": 55,
+        "agreeableness": 75,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "clement_alexandria",
+      "name": "Clement of Alexandria",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 50,
+        "agreeableness": 70,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "bonaventure",
+      "name": "St. Bonaventure",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 50,
+        "agreeableness": 80,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "duns_scotus",
+      "name": "Duns Scotus",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 95,
+        "extraversion": 30,
+        "agreeableness": 55,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "william_ockham",
+      "name": "William of Ockham",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 35,
+        "agreeableness": 45,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "anselm_canterbury",
+      "name": "Anselm of Canterbury",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 95,
+        "extraversion": 40,
+        "agreeableness": 70,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "bernard_clairvaux",
+      "name": "Bernard of Clairvaux",
+      "category": "religious",
+      "ocean": {
+        "openness": 80,
+        "conscientiousness": 90,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "hugh_victor",
+      "name": "Hugh of St. Victor",
+      "category": "religious",
+      "ocean": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 45,
+        "agreeableness": 70,
+        "neuroticism": 35
+      }
+    },
+    {
+      "id": "richard_victor",
+      "name": "Richard of St. Victor",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 85,
+        "extraversion": 35,
+        "agreeableness": 65,
+        "neuroticism": 40
+      }
+    },
+    {
+      "id": "johannes_tauler",
+      "name": "Johannes Tauler",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 80,
+        "extraversion": 40,
+        "agreeableness": 70,
+        "neuroticism": 45
+      }
+    },
+    {
+      "id": "henry_suso",
+      "name": "Henry Suso",
+      "category": "religious",
+      "ocean": {
+        "openness": 90,
+        "conscientiousness": 75,
+        "extraversion": 35,
+        "agreeableness": 75,
+        "neuroticism": 55
+      }
+    },
+    {
+      "id": "jan_van_ruusbroec",
+      "name": "Jan van Ruusbroec",
+      "category": "religious",
+      "ocean": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 30,
+        "agreeableness": 70,
+        "neuroticism": 40
+      }
+    }
+  ],
+  "archetypes": {
+    "visionary_builders": {
+      "description": "High O, High C, Low N - System-level creativity with discipline",
+      "examples": [
+        "davinci",
+        "goethe",
+        "curie",
+        "salk",
+        "goodall",
+        "lincoln",
+        "mandela"
+      ],
+      "ocean_pattern": {
+        "openness": ">85",
+        "conscientiousness": ">80",
+        "neuroticism": "<40"
+      }
+    },
+    "contrarian_prophets": {
+      "description": "High O, Low A, High N - Radical originality with existential tension",
+      "examples": [
+        "nietzsche",
+        "kierkegaard",
+        "vangogh",
+        "kafka",
+        "dostoevsky",
+        "wittgenstein"
+      ],
+      "ocean_pattern": {
+        "openness": ">90",
+        "agreeableness": "<45",
+        "neuroticism": ">70"
+      }
+    },
+    "calm_humanists": {
+      "description": "High O, High A, Low N - Unifying, empathetic visionaries",
+      "examples": [
+        "sagan",
+        "gandhi",
+        "confucius",
+        "laozi",
+        "goodall",
+        "rumi",
+        "mlk"
+      ],
+      "ocean_pattern": {
+        "openness": ">85",
+        "agreeableness": ">75",
+        "neuroticism": "<35"
+      }
+    },
+    "dominant_strategists": {
+      "description": "High C, High E, Low A - Execution and strategic focus",
+      "examples": [
+        "caesar",
+        "napoleon",
+        "churchill",
+        "alexander"
+      ],
+      "ocean_pattern": {
+        "conscientiousness": ">75",
+        "extraversion": ">75",
+        "agreeableness": "<45"
+      }
+    },
+    "fragile_geniuses": {
+      "description": "High O, Low E, High N - Unique inner depth with vulnerability",
+      "examples": [
+        "dickinson",
+        "proust",
+        "godel",
+        "kafka",
+        "vangogh",
+        "eliot"
+      ],
+      "ocean_pattern": {
+        "openness": ">90",
+        "extraversion": "<35",
+        "neuroticism": ">70"
+      }
+    },
+    "playful_creators": {
+      "description": "High O, High E, Moderate C - Exuberant originality",
+      "examples": [
+        "feynman",
+        "whitman",
+        "picasso",
+        "mozart",
+        "neruda",
+        "dali"
+      ],
+      "ocean_pattern": {
+        "openness": ">90",
+        "extraversion": ">70",
+        "conscientiousness": "50-75"
+      }
+    }
+  },
+  "total_count": 215
+}
