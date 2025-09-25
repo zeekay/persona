@@ -1,0 +1,12 @@
+{
+  "id": "tiger_woods",
+  "name": "Tiger Woods",
+  "category": "athlete",
+  "ocean": {
+    "openness": 70,
+    "conscientiousness": 95,
+    "extraversion": 40,
+    "agreeableness": 35,
+    "neuroticism": 50
+  }
+}

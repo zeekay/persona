@@ -1,0 +1,12 @@
+{
+  "id": "salk",
+  "name": "Jonas Salk",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 60,
+    "agreeableness": 85,
+    "neuroticism": 30
+  }
+}

@@ -1,0 +1,2498 @@
+{
+  "scientist": [
+    {
+      "id": "einstein",
+      "name": "Albert Einstein",
+      "file": "einstein.json"
+    },
+    {
+      "id": "newton",
+      "name": "Isaac Newton",
+      "file": "newton.json"
+    },
+    {
+      "id": "curie",
+      "name": "Marie Curie",
+      "file": "curie.json"
+    },
+    {
+      "id": "galileo",
+      "name": "Galileo Galilei",
+      "file": "galileo.json"
+    },
+    {
+      "id": "darwin",
+      "name": "Charles Darwin",
+      "file": "darwin.json"
+    },
+    {
+      "id": "feynman",
+      "name": "Richard Feynman",
+      "file": "feynman.json"
+    },
+    {
+      "id": "sagan",
+      "name": "Carl Sagan",
+      "file": "sagan.json"
+    },
+    {
+      "id": "tesla",
+      "name": "Nikola Tesla",
+      "file": "tesla.json"
+    },
+    {
+      "id": "hawking",
+      "name": "Stephen Hawking",
+      "file": "hawking.json"
+    },
+    {
+      "id": "bohr",
+      "name": "Niels Bohr",
+      "file": "bohr.json"
+    },
+    {
+      "id": "kepler",
+      "name": "Johannes Kepler",
+      "file": "kepler.json"
+    },
+    {
+      "id": "franklin_rosalind",
+      "name": "Rosalind Franklin",
+      "file": "franklin_rosalind.json"
+    },
+    {
+      "id": "maxwell",
+      "name": "James Clerk Maxwell",
+      "file": "maxwell.json"
+    },
+    {
+      "id": "planck",
+      "name": "Max Planck",
+      "file": "planck.json"
+    },
+    {
+      "id": "fermi",
+      "name": "Enrico Fermi",
+      "file": "fermi.json"
+    },
+    {
+      "id": "faraday",
+      "name": "Michael Faraday",
+      "file": "faraday.json"
+    },
+    {
+      "id": "mcclintock",
+      "name": "Barbara McClintock",
+      "file": "mcclintock.json"
+    },
+    {
+      "id": "nightingale",
+      "name": "Florence Nightingale",
+      "file": "nightingale.json"
+    },
+    {
+      "id": "salk",
+      "name": "Jonas Salk",
+      "file": "salk.json"
+    },
+    {
+      "id": "goodall",
+      "name": "Jane Goodall",
+      "file": "goodall.json"
+    }
+  ],
+  "mathematician": [
+    {
+      "id": "euler",
+      "name": "Leonhard Euler",
+      "file": "euler.json"
+    },
+    {
+      "id": "godel",
+      "name": "Kurt Gödel",
+      "file": "godel.json"
+    },
+    {
+      "id": "vonneumann",
+      "name": "John von Neumann",
+      "file": "vonneumann.json"
+    }
+  ],
+  "philosopher": [
+    {
+      "id": "plato",
+      "name": "Plato",
+      "file": "plato.json"
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "file": "aristotle.json"
+    },
+    {
+      "id": "kant",
+      "name": "Immanuel Kant",
+      "file": "kant.json"
+    },
+    {
+      "id": "nietzsche",
+      "name": "Friedrich Nietzsche",
+      "file": "nietzsche.json"
+    },
+    {
+      "id": "sartre",
+      "name": "Jean-Paul Sartre",
+      "file": "sartre.json"
+    },
+    {
+      "id": "beauvoir",
+      "name": "Simone de Beauvoir",
+      "file": "beauvoir.json"
+    },
+    {
+      "id": "hume",
+      "name": "David Hume",
+      "file": "hume.json"
+    },
+    {
+      "id": "confucius",
+      "name": "Confucius",
+      "file": "confucius.json"
+    },
+    {
+      "id": "laozi",
+      "name": "Laozi",
+      "file": "laozi.json"
+    },
+    {
+      "id": "kierkegaard",
+      "name": "Søren Kierkegaard",
+      "file": "kierkegaard.json"
+    },
+    {
+      "id": "aquinas",
+      "name": "Thomas Aquinas",
+      "file": "aquinas.json"
+    },
+    {
+      "id": "descartes",
+      "name": "René Descartes",
+      "file": "descartes.json"
+    },
+    {
+      "id": "locke",
+      "name": "John Locke",
+      "file": "locke.json"
+    },
+    {
+      "id": "hobbes",
+      "name": "Thomas Hobbes",
+      "file": "hobbes.json"
+    },
+    {
+      "id": "voltaire",
+      "name": "Voltaire",
+      "file": "voltaire.json"
+    },
+    {
+      "id": "rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "file": "rousseau.json"
+    },
+    {
+      "id": "montaigne",
+      "name": "Michel de Montaigne",
+      "file": "montaigne.json"
+    },
+    {
+      "id": "russell",
+      "name": "Bertrand Russell",
+      "file": "russell.json"
+    },
+    {
+      "id": "wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "file": "wittgenstein.json"
+    },
+    {
+      "id": "arendt",
+      "name": "Hannah Arendt",
+      "file": "arendt.json"
+    },
+    {
+      "id": "zizek",
+      "name": "Slavoj Žižek",
+      "file": "zizek.json"
+    },
+    {
+      "id": "foucault",
+      "name": "Michel Foucault",
+      "file": "foucault.json"
+    },
+    {
+      "id": "derrida",
+      "name": "Jacques Derrida",
+      "file": "derrida.json"
+    },
+    {
+      "id": "deleuze",
+      "name": "Gilles Deleuze",
+      "file": "deleuze.json"
+    },
+    {
+      "id": "baudrillard",
+      "name": "Jean Baudrillard",
+      "file": "baudrillard.json"
+    },
+    {
+      "id": "benjamin",
+      "name": "Walter Benjamin",
+      "file": "benjamin.json"
+    },
+    {
+      "id": "marcuse",
+      "name": "Herbert Marcuse",
+      "file": "marcuse.json"
+    },
+    {
+      "id": "adorno",
+      "name": "Theodor Adorno",
+      "file": "adorno.json"
+    },
+    {
+      "id": "habermas",
+      "name": "Jürgen Habermas",
+      "file": "habermas.json"
+    },
+    {
+      "id": "chomsky",
+      "name": "Noam Chomsky",
+      "file": "chomsky.json"
+    },
+    {
+      "id": "said",
+      "name": "Edward Said",
+      "file": "said.json"
+    },
+    {
+      "id": "butler",
+      "name": "Judith Butler",
+      "file": "butler.json"
+    },
+    {
+      "id": "west",
+      "name": "Cornel West",
+      "file": "west.json"
+    },
+    {
+      "id": "peterson",
+      "name": "Jordan Peterson",
+      "file": "peterson.json"
+    },
+    {
+      "id": "sontag",
+      "name": "Susan Sontag",
+      "file": "sontag.json"
+    },
+    {
+      "id": "paglia",
+      "name": "Camille Paglia",
+      "file": "paglia.json"
+    },
+    {
+      "id": "hegel",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "file": "hegel.json"
+    },
+    {
+      "id": "schopenhauer",
+      "name": "Arthur Schopenhauer",
+      "file": "schopenhauer.json"
+    },
+    {
+      "id": "karl_marx",
+      "name": "Karl Marx",
+      "file": "karl_marx.json"
+    },
+    {
+      "id": "auguste_comte",
+      "name": "Auguste Comte",
+      "file": "auguste_comte.json"
+    },
+    {
+      "id": "durkheim",
+      "name": "Émile Durkheim",
+      "file": "durkheim.json"
+    },
+    {
+      "id": "levi_strauss",
+      "name": "Claude Lévi-Strauss",
+      "file": "levi_strauss.json"
+    },
+    {
+      "id": "marcel_mauss",
+      "name": "Marcel Mauss",
+      "file": "marcel_mauss.json"
+    },
+    {
+      "id": "bourdieu",
+      "name": "Pierre Bourdieu",
+      "file": "bourdieu.json"
+    },
+    {
+      "id": "goffman",
+      "name": "Erving Goffman",
+      "file": "goffman.json"
+    },
+    {
+      "id": "talcott_parsons",
+      "name": "Talcott Parsons",
+      "file": "talcott_parsons.json"
+    },
+    {
+      "id": "richard_rorty",
+      "name": "Richard Rorty",
+      "file": "richard_rorty.json"
+    },
+    {
+      "id": "charles_taylor",
+      "name": "Charles Taylor",
+      "file": "charles_taylor.json"
+    },
+    {
+      "id": "macintyre",
+      "name": "Alasdair MacIntyre",
+      "file": "macintyre.json"
+    },
+    {
+      "id": "martha_nussbaum",
+      "name": "Martha Nussbaum",
+      "file": "martha_nussbaum.json"
+    },
+    {
+      "id": "iris_murdoch",
+      "name": "Iris Murdoch",
+      "file": "iris_murdoch.json"
+    },
+    {
+      "id": "leo_strauss",
+      "name": "Leo Strauss",
+      "file": "leo_strauss.json"
+    },
+    {
+      "id": "allan_bloom",
+      "name": "Allan Bloom",
+      "file": "allan_bloom.json"
+    },
+    {
+      "id": "fanon",
+      "name": "Frantz Fanon",
+      "file": "fanon.json"
+    },
+    {
+      "id": "gramsci",
+      "name": "Antonio Gramsci",
+      "file": "gramsci.json"
+    },
+    {
+      "id": "karl_jaspers",
+      "name": "Karl Jaspers",
+      "file": "karl_jaspers.json"
+    },
+    {
+      "id": "merleau_ponty",
+      "name": "Maurice Merleau-Ponty",
+      "file": "merleau_ponty.json"
+    },
+    {
+      "id": "camus",
+      "name": "Albert Camus",
+      "file": "camus.json"
+    },
+    {
+      "id": "simone_weil",
+      "name": "Simone Weil",
+      "file": "simone_weil.json"
+    },
+    {
+      "id": "horkheimer",
+      "name": "Max Horkheimer",
+      "file": "horkheimer.json"
+    },
+    {
+      "id": "heraclitus",
+      "name": "Heraclitus",
+      "file": "heraclitus.json"
+    },
+    {
+      "id": "parmenides",
+      "name": "Parmenides",
+      "file": "parmenides.json"
+    },
+    {
+      "id": "democritus",
+      "name": "Democritus",
+      "file": "democritus.json"
+    },
+    {
+      "id": "epicurus",
+      "name": "Epicurus",
+      "file": "epicurus.json"
+    },
+    {
+      "id": "marcus_aurelius",
+      "name": "Marcus Aurelius",
+      "file": "marcus_aurelius.json"
+    },
+    {
+      "id": "seneca",
+      "name": "Seneca",
+      "file": "seneca.json"
+    },
+    {
+      "id": "epictetus",
+      "name": "Epictetus",
+      "file": "epictetus.json"
+    },
+    {
+      "id": "plotinus",
+      "name": "Plotinus",
+      "file": "plotinus.json"
+    },
+    {
+      "id": "hypatia",
+      "name": "Hypatia",
+      "file": "hypatia.json"
+    },
+    {
+      "id": "pythagoras",
+      "name": "Pythagoras",
+      "file": "pythagoras.json"
+    },
+    {
+      "id": "thales",
+      "name": "Thales",
+      "file": "thales.json"
+    },
+    {
+      "id": "anaximander",
+      "name": "Anaximander",
+      "file": "anaximander.json"
+    },
+    {
+      "id": "empedocles",
+      "name": "Empedocles",
+      "file": "empedocles.json"
+    },
+    {
+      "id": "anaxagoras",
+      "name": "Anaxagoras",
+      "file": "anaxagoras.json"
+    },
+    {
+      "id": "zeno_elea",
+      "name": "Zeno of Elea",
+      "file": "zeno_elea.json"
+    },
+    {
+      "id": "diogenes",
+      "name": "Diogenes of Sinope",
+      "file": "diogenes.json"
+    },
+    {
+      "id": "socrates",
+      "name": "Socrates",
+      "file": "socrates.json"
+    },
+    {
+      "id": "xenophon",
+      "name": "Xenophon",
+      "file": "xenophon.json"
+    },
+    {
+      "id": "lucretius",
+      "name": "Lucretius",
+      "file": "lucretius.json"
+    },
+    {
+      "id": "cicero",
+      "name": "Cicero",
+      "file": "cicero.json"
+    },
+    {
+      "id": "boethius",
+      "name": "Boethius",
+      "file": "boethius.json"
+    },
+    {
+      "id": "erasmus",
+      "name": "Erasmus",
+      "file": "erasmus.json"
+    },
+    {
+      "id": "machiavelli",
+      "name": "Niccolò Machiavelli",
+      "file": "machiavelli.json"
+    },
+    {
+      "id": "francis_bacon",
+      "name": "Francis Bacon",
+      "file": "francis_bacon.json"
+    },
+    {
+      "id": "giordano_bruno",
+      "name": "Giordano Bruno",
+      "file": "giordano_bruno.json"
+    },
+    {
+      "id": "leibniz",
+      "name": "Gottfried Wilhelm Leibniz",
+      "file": "leibniz.json"
+    },
+    {
+      "id": "berkeley",
+      "name": "George Berkeley",
+      "file": "berkeley.json"
+    },
+    {
+      "id": "adam_smith",
+      "name": "Adam Smith",
+      "file": "adam_smith.json"
+    },
+    {
+      "id": "jeremy_bentham",
+      "name": "Jeremy Bentham",
+      "file": "jeremy_bentham.json"
+    },
+    {
+      "id": "john_stuart_mill",
+      "name": "John Stuart Mill",
+      "file": "john_stuart_mill.json"
+    },
+    {
+      "id": "mary_wollstonecraft",
+      "name": "Mary Wollstonecraft",
+      "file": "mary_wollstonecraft.json"
+    },
+    {
+      "id": "edmund_burke",
+      "name": "Edmund Burke",
+      "file": "edmund_burke.json"
+    },
+    {
+      "id": "alexis_de_tocqueville",
+      "name": "Alexis de Tocqueville",
+      "file": "alexis_de_tocqueville.json"
+    },
+    {
+      "id": "henry_thoreau",
+      "name": "Henry David Thoreau",
+      "file": "henry_thoreau.json"
+    }
+  ],
+  "poet": [
+    {
+      "id": "shakespeare",
+      "name": "William Shakespeare",
+      "file": "shakespeare.json"
+    },
+    {
+      "id": "homer",
+      "name": "Homer",
+      "file": "homer.json"
+    },
+    {
+      "id": "dante",
+      "name": "Dante Alighieri",
+      "file": "dante.json"
+    },
+    {
+      "id": "goethe",
+      "name": "Johann Wolfgang von Goethe",
+      "file": "goethe.json"
+    },
+    {
+      "id": "dickinson",
+      "name": "Emily Dickinson",
+      "file": "dickinson.json"
+    },
+    {
+      "id": "whitman",
+      "name": "Walt Whitman",
+      "file": "whitman.json"
+    },
+    {
+      "id": "rumi",
+      "name": "Rumi",
+      "file": "rumi.json"
+    },
+    {
+      "id": "neruda",
+      "name": "Pablo Neruda",
+      "file": "neruda.json"
+    },
+    {
+      "id": "eliot",
+      "name": "T.S. Eliot",
+      "file": "eliot.json"
+    },
+    {
+      "id": "angelou",
+      "name": "Maya Angelou",
+      "file": "angelou.json"
+    },
+    {
+      "id": "sylvia_plath",
+      "name": "Sylvia Plath",
+      "file": "sylvia_plath.json"
+    },
+    {
+      "id": "anne_sexton",
+      "name": "Anne Sexton",
+      "file": "anne_sexton.json"
+    },
+    {
+      "id": "langston_hughes",
+      "name": "Langston Hughes",
+      "file": "langston_hughes.json"
+    },
+    {
+      "id": "federico_garcia_lorca",
+      "name": "Federico García Lorca",
+      "file": "federico_garcia_lorca.json"
+    },
+    {
+      "id": "octavio_paz",
+      "name": "Octavio Paz",
+      "file": "octavio_paz.json"
+    },
+    {
+      "id": "gabriela_mistral",
+      "name": "Gabriela Mistral",
+      "file": "gabriela_mistral.json"
+    },
+    {
+      "id": "czeslaw_milosz",
+      "name": "Czesław Miłosz",
+      "file": "czeslaw_milosz.json"
+    },
+    {
+      "id": "wislawa_szymborska",
+      "name": "Wisława Szymborska",
+      "file": "wislawa_szymborska.json"
+    },
+    {
+      "id": "seamus_heaney",
+      "name": "Seamus Heaney",
+      "file": "seamus_heaney.json"
+    },
+    {
+      "id": "derek_walcott",
+      "name": "Derek Walcott",
+      "file": "derek_walcott.json"
+    },
+    {
+      "id": "joseph_brodsky",
+      "name": "Joseph Brodsky",
+      "file": "joseph_brodsky.json"
+    },
+    {
+      "id": "anna_akhmatova",
+      "name": "Anna Akhmatova",
+      "file": "anna_akhmatova.json"
+    },
+    {
+      "id": "marina_tsvetaeva",
+      "name": "Marina Tsvetaeva",
+      "file": "marina_tsvetaeva.json"
+    },
+    {
+      "id": "osip_mandelstam",
+      "name": "Osip Mandelstam",
+      "file": "osip_mandelstam.json"
+    },
+    {
+      "id": "yevgeny_yevtushenko",
+      "name": "Yevgeny Yevtushenko",
+      "file": "yevgeny_yevtushenko.json"
+    },
+    {
+      "id": "mahmoud_darwish",
+      "name": "Mahmoud Darwish",
+      "file": "mahmoud_darwish.json"
+    },
+    {
+      "id": "adonis",
+      "name": "Adonis (Ali Ahmad Said)",
+      "file": "adonis.json"
+    },
+    {
+      "id": "hafez",
+      "name": "Hafez",
+      "file": "hafez.json"
+    },
+    {
+      "id": "omar_khayyam",
+      "name": "Omar Khayyam",
+      "file": "omar_khayyam.json"
+    },
+    {
+      "id": "ferdowsi",
+      "name": "Ferdowsi",
+      "file": "ferdowsi.json"
+    },
+    {
+      "id": "saadi",
+      "name": "Saadi Shirazi",
+      "file": "saadi.json"
+    },
+    {
+      "id": "attar",
+      "name": "Attar of Nishapur",
+      "file": "attar.json"
+    },
+    {
+      "id": "nizami",
+      "name": "Nizami Ganjavi",
+      "file": "nizami.json"
+    },
+    {
+      "id": "kalidasa",
+      "name": "Kalidasa",
+      "file": "kalidasa.json"
+    },
+    {
+      "id": "valmiki",
+      "name": "Valmiki",
+      "file": "valmiki.json"
+    },
+    {
+      "id": "vyasa",
+      "name": "Vyasa",
+      "file": "vyasa.json"
+    },
+    {
+      "id": "kabir",
+      "name": "Kabir",
+      "file": "kabir.json"
+    },
+    {
+      "id": "mirabai",
+      "name": "Mirabai",
+      "file": "mirabai.json"
+    },
+    {
+      "id": "tulsidas",
+      "name": "Tulsidas",
+      "file": "tulsidas.json"
+    },
+    {
+      "id": "basho",
+      "name": "Matsuo Bashō",
+      "file": "basho.json"
+    },
+    {
+      "id": "li_bai",
+      "name": "Li Bai",
+      "file": "li_bai.json"
+    },
+    {
+      "id": "du_fu",
+      "name": "Du Fu",
+      "file": "du_fu.json"
+    },
+    {
+      "id": "wang_wei",
+      "name": "Wang Wei",
+      "file": "wang_wei.json"
+    },
+    {
+      "id": "su_shi",
+      "name": "Su Shi (Su Dongpo)",
+      "file": "su_shi.json"
+    }
+  ],
+  "artist": [
+    {
+      "id": "davinci",
+      "name": "Leonardo da Vinci",
+      "file": "davinci.json"
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "file": "michelangelo.json"
+    },
+    {
+      "id": "vangogh",
+      "name": "Vincent van Gogh",
+      "file": "vangogh.json"
+    },
+    {
+      "id": "monet",
+      "name": "Claude Monet",
+      "file": "monet.json"
+    },
+    {
+      "id": "picasso",
+      "name": "Pablo Picasso",
+      "file": "picasso.json"
+    },
+    {
+      "id": "dali",
+      "name": "Salvador Dalí",
+      "file": "dali.json"
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "file": "rembrandt.json"
+    },
+    {
+      "id": "okeeffe",
+      "name": "Georgia O'Keeffe",
+      "file": "okeeffe.json"
+    },
+    {
+      "id": "kahlo",
+      "name": "Frida Kahlo",
+      "file": "kahlo.json"
+    },
+    {
+      "id": "warhol",
+      "name": "Andy Warhol",
+      "file": "warhol.json"
+    }
+  ],
+  "statesman": [
+    {
+      "id": "gandhi",
+      "name": "Mahatma Gandhi",
+      "file": "gandhi.json"
+    },
+    {
+      "id": "churchill",
+      "name": "Winston Churchill",
+      "file": "churchill.json"
+    },
+    {
+      "id": "lincoln",
+      "name": "Abraham Lincoln",
+      "file": "lincoln.json"
+    },
+    {
+      "id": "mlk",
+      "name": "Martin Luther King Jr.",
+      "file": "mlk.json"
+    },
+    {
+      "id": "mandela",
+      "name": "Nelson Mandela",
+      "file": "mandela.json"
+    }
+  ],
+  "writer": [
+    {
+      "id": "hugo",
+      "name": "Victor Hugo",
+      "file": "hugo.json"
+    },
+    {
+      "id": "baudelaire",
+      "name": "Charles Baudelaire",
+      "file": "baudelaire.json"
+    },
+    {
+      "id": "borges",
+      "name": "Jorge Luis Borges",
+      "file": "borges.json"
+    },
+    {
+      "id": "joyce",
+      "name": "James Joyce",
+      "file": "joyce.json"
+    },
+    {
+      "id": "kafka",
+      "name": "Franz Kafka",
+      "file": "kafka.json"
+    },
+    {
+      "id": "tolstoy",
+      "name": "Leo Tolstoy",
+      "file": "tolstoy.json"
+    },
+    {
+      "id": "dostoevsky",
+      "name": "Fyodor Dostoevsky",
+      "file": "dostoevsky.json"
+    },
+    {
+      "id": "proust",
+      "name": "Marcel Proust",
+      "file": "proust.json"
+    },
+    {
+      "id": "morrison",
+      "name": "Toni Morrison",
+      "file": "morrison.json"
+    },
+    {
+      "id": "murakami",
+      "name": "Haruki Murakami",
+      "file": "murakami.json"
+    },
+    {
+      "id": "mary_shelley",
+      "name": "Mary Shelley",
+      "file": "mary_shelley.json"
+    },
+    {
+      "id": "virginia_woolf",
+      "name": "Virginia Woolf",
+      "file": "virginia_woolf.json"
+    },
+    {
+      "id": "jane_austen",
+      "name": "Jane Austen",
+      "file": "jane_austen.json"
+    },
+    {
+      "id": "charlotte_bronte",
+      "name": "Charlotte Brontë",
+      "file": "charlotte_bronte.json"
+    },
+    {
+      "id": "baldwin",
+      "name": "James Baldwin",
+      "file": "baldwin.json"
+    },
+    {
+      "id": "richard_wright",
+      "name": "Richard Wright",
+      "file": "richard_wright.json"
+    },
+    {
+      "id": "ralph_ellison",
+      "name": "Ralph Ellison",
+      "file": "ralph_ellison.json"
+    },
+    {
+      "id": "zora_neale_hurston",
+      "name": "Zora Neale Hurston",
+      "file": "zora_neale_hurston.json"
+    },
+    {
+      "id": "chinua_achebe",
+      "name": "Chinua Achebe",
+      "file": "chinua_achebe.json"
+    },
+    {
+      "id": "wole_soyinka",
+      "name": "Wole Soyinka",
+      "file": "wole_soyinka.json"
+    },
+    {
+      "id": "ngugi_wa_thiongo",
+      "name": "Ngũgĩ wa Thiong'o",
+      "file": "ngugi_wa_thiongo.json"
+    },
+    {
+      "id": "salman_rushdie",
+      "name": "Salman Rushdie",
+      "file": "salman_rushdie.json"
+    },
+    {
+      "id": "arundhati_roy",
+      "name": "Arundhati Roy",
+      "file": "arundhati_roy.json"
+    },
+    {
+      "id": "naguib_mahfouz",
+      "name": "Naguib Mahfouz",
+      "file": "naguib_mahfouz.json"
+    },
+    {
+      "id": "orhan_pamuk",
+      "name": "Orhan Pamuk",
+      "file": "orhan_pamuk.json"
+    },
+    {
+      "id": "yukio_mishima",
+      "name": "Yukio Mishima",
+      "file": "yukio_mishima.json"
+    },
+    {
+      "id": "yasunari_kawabata",
+      "name": "Yasunari Kawabata",
+      "file": "yasunari_kawabata.json"
+    },
+    {
+      "id": "kenzaburo_oe",
+      "name": "Kenzaburō Ōe",
+      "file": "kenzaburo_oe.json"
+    },
+    {
+      "id": "lu_xun",
+      "name": "Lu Xun",
+      "file": "lu_xun.json"
+    },
+    {
+      "id": "mo_yan",
+      "name": "Mo Yan",
+      "file": "mo_yan.json"
+    },
+    {
+      "id": "gao_xingjian",
+      "name": "Gao Xingjian",
+      "file": "gao_xingjian.json"
+    },
+    {
+      "id": "isabel_allende",
+      "name": "Isabel Allende",
+      "file": "isabel_allende.json"
+    },
+    {
+      "id": "gabriel_garcia_marquez",
+      "name": "Gabriel García Márquez",
+      "file": "gabriel_garcia_marquez.json"
+    },
+    {
+      "id": "julio_cortazar",
+      "name": "Julio Cortázar",
+      "file": "julio_cortazar.json"
+    },
+    {
+      "id": "roberto_bolano",
+      "name": "Roberto Bolaño",
+      "file": "roberto_bolano.json"
+    },
+    {
+      "id": "milan_kundera",
+      "name": "Milan Kundera",
+      "file": "milan_kundera.json"
+    },
+    {
+      "id": "vaclav_havel",
+      "name": "Václav Havel",
+      "file": "vaclav_havel.json"
+    },
+    {
+      "id": "murasaki_shikibu",
+      "name": "Murasaki Shikibu",
+      "file": "murasaki_shikibu.json"
+    },
+    {
+      "id": "sei_shonagon",
+      "name": "Sei Shōnagon",
+      "file": "sei_shonagon.json"
+    },
+    {
+      "id": "jk_rowling",
+      "name": "J.K. Rowling",
+      "file": "jk_rowling.json"
+    }
+  ],
+  "composer": [
+    {
+      "id": "bach",
+      "name": "Johann Sebastian Bach",
+      "file": "bach.json"
+    },
+    {
+      "id": "beethoven",
+      "name": "Ludwig van Beethoven",
+      "file": "beethoven.json"
+    },
+    {
+      "id": "mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "file": "mozart.json"
+    },
+    {
+      "id": "stravinsky",
+      "name": "Igor Stravinsky",
+      "file": "stravinsky.json"
+    },
+    {
+      "id": "debussy",
+      "name": "Claude Debussy",
+      "file": "debussy.json"
+    },
+    {
+      "id": "mahler",
+      "name": "Gustav Mahler",
+      "file": "mahler.json"
+    },
+    {
+      "id": "davis",
+      "name": "Miles Davis",
+      "file": "davis.json"
+    },
+    {
+      "id": "coltrane",
+      "name": "John Coltrane",
+      "file": "coltrane.json"
+    }
+  ],
+  "filmmaker": [
+    {
+      "id": "antonioni",
+      "name": "Michelangelo Antonioni",
+      "file": "antonioni.json"
+    },
+    {
+      "id": "kurosawa",
+      "name": "Akira Kurosawa",
+      "file": "kurosawa.json"
+    },
+    {
+      "id": "spielberg",
+      "name": "Steven Spielberg",
+      "file": "spielberg.json"
+    },
+    {
+      "id": "hitchcock",
+      "name": "Alfred Hitchcock",
+      "file": "hitchcock.json"
+    },
+    {
+      "id": "stanley_kubrick",
+      "name": "Stanley Kubrick",
+      "file": "stanley_kubrick.json"
+    },
+    {
+      "id": "tarantino",
+      "name": "Quentin Tarantino",
+      "file": "tarantino.json"
+    },
+    {
+      "id": "christopher_nolan",
+      "name": "Christopher Nolan",
+      "file": "christopher_nolan.json"
+    },
+    {
+      "id": "hayao_miyazaki",
+      "name": "Hayao Miyazaki",
+      "file": "hayao_miyazaki.json"
+    },
+    {
+      "id": "scorsese",
+      "name": "Martin Scorsese",
+      "file": "scorsese.json"
+    },
+    {
+      "id": "sofia_coppola",
+      "name": "Sofia Coppola",
+      "file": "sofia_coppola.json"
+    },
+    {
+      "id": "guillermo_del_toro",
+      "name": "Guillermo del Toro",
+      "file": "guillermo_del_toro.json"
+    },
+    {
+      "id": "wes_anderson",
+      "name": "Wes Anderson",
+      "file": "wes_anderson.json"
+    },
+    {
+      "id": "david_lynch",
+      "name": "David Lynch",
+      "file": "david_lynch.json"
+    },
+    {
+      "id": "coen_brothers",
+      "name": "Coen Brothers",
+      "file": "coen_brothers.json"
+    },
+    {
+      "id": "paul_thomas_anderson",
+      "name": "Paul Thomas Anderson",
+      "file": "paul_thomas_anderson.json"
+    },
+    {
+      "id": "george_lucas",
+      "name": "George Lucas",
+      "file": "george_lucas.json"
+    },
+    {
+      "id": "tim_burton",
+      "name": "Tim Burton",
+      "file": "tim_burton.json"
+    },
+    {
+      "id": "ridley_scott",
+      "name": "Ridley Scott",
+      "file": "ridley_scott.json"
+    },
+    {
+      "id": "james_cameron",
+      "name": "James Cameron",
+      "file": "james_cameron.json"
+    },
+    {
+      "id": "peter_jackson",
+      "name": "Peter Jackson",
+      "file": "peter_jackson.json"
+    }
+  ],
+  "leader": [
+    {
+      "id": "caesar",
+      "name": "Julius Caesar",
+      "file": "caesar.json"
+    },
+    {
+      "id": "alexander",
+      "name": "Alexander the Great",
+      "file": "alexander.json"
+    },
+    {
+      "id": "napoleon",
+      "name": "Napoleon Bonaparte",
+      "file": "napoleon.json"
+    },
+    {
+      "id": "elizabeth",
+      "name": "Queen Elizabeth I",
+      "file": "elizabeth.json"
+    },
+    {
+      "id": "catherine",
+      "name": "Catherine the Great",
+      "file": "catherine.json"
+    }
+  ],
+  "explorer": [
+    {
+      "id": "lawrence",
+      "name": "T.E. Lawrence",
+      "file": "lawrence.json"
+    },
+    {
+      "id": "shackleton",
+      "name": "Ernest Shackleton",
+      "file": "shackleton.json"
+    },
+    {
+      "id": "polo",
+      "name": "Marco Polo",
+      "file": "polo.json"
+    },
+    {
+      "id": "battuta",
+      "name": "Ibn Battuta",
+      "file": "battuta.json"
+    },
+    {
+      "id": "neil_armstrong",
+      "name": "Neil Armstrong",
+      "file": "neil_armstrong.json"
+    },
+    {
+      "id": "yuri_gagarin",
+      "name": "Yuri Gagarin",
+      "file": "yuri_gagarin.json"
+    },
+    {
+      "id": "amelia_earhart",
+      "name": "Amelia Earhart",
+      "file": "amelia_earhart.json"
+    },
+    {
+      "id": "ferdinand_magellan",
+      "name": "Ferdinand Magellan",
+      "file": "ferdinand_magellan.json"
+    },
+    {
+      "id": "christopher_columbus",
+      "name": "Christopher Columbus",
+      "file": "christopher_columbus.json"
+    },
+    {
+      "id": "jacques_cousteau",
+      "name": "Jacques Cousteau",
+      "file": "jacques_cousteau.json"
+    },
+    {
+      "id": "thor_heyerdahl",
+      "name": "Thor Heyerdahl",
+      "file": "thor_heyerdahl.json"
+    }
+  ],
+  "historian": [
+    {
+      "id": "herodotus",
+      "name": "Herodotus",
+      "file": "herodotus.json"
+    }
+  ],
+  "religious": [
+    {
+      "id": "buddha",
+      "name": "Siddhartha Gautama",
+      "file": "buddha.json"
+    },
+    {
+      "id": "jesus",
+      "name": "Jesus of Nazareth",
+      "file": "jesus.json"
+    },
+    {
+      "id": "muhammad",
+      "name": "Muhammad",
+      "file": "muhammad.json"
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "file": "moses.json"
+    },
+    {
+      "id": "francis",
+      "name": "Francis of Assisi",
+      "file": "francis.json"
+    },
+    {
+      "id": "luther",
+      "name": "Martin Luther",
+      "file": "luther.json"
+    },
+    {
+      "id": "paul_apostle",
+      "name": "St. Paul (Paul of Tarsus)",
+      "file": "paul_apostle.json"
+    },
+    {
+      "id": "augustine",
+      "name": "St. Augustine of Hippo",
+      "file": "augustine.json"
+    },
+    {
+      "id": "teresa_avila",
+      "name": "St. Teresa of Ávila",
+      "file": "teresa_avila.json"
+    },
+    {
+      "id": "john_cross",
+      "name": "St. John of the Cross",
+      "file": "john_cross.json"
+    },
+    {
+      "id": "meister_eckhart",
+      "name": "Meister Eckhart",
+      "file": "meister_eckhart.json"
+    },
+    {
+      "id": "abraham",
+      "name": "Abraham",
+      "file": "abraham.json"
+    },
+    {
+      "id": "john_calvin",
+      "name": "John Calvin",
+      "file": "john_calvin.json"
+    },
+    {
+      "id": "ignatius_loyola",
+      "name": "Ignatius of Loyola",
+      "file": "ignatius_loyola.json"
+    },
+    {
+      "id": "julian_norwich",
+      "name": "Julian of Norwich",
+      "file": "julian_norwich.json"
+    },
+    {
+      "id": "thomas_merton",
+      "name": "Thomas Merton",
+      "file": "thomas_merton.json"
+    },
+    {
+      "id": "bonhoeffer",
+      "name": "Dietrich Bonhoeffer",
+      "file": "bonhoeffer.json"
+    },
+    {
+      "id": "zhuangzi",
+      "name": "Zhuangzi",
+      "file": "zhuangzi.json"
+    },
+    {
+      "id": "mencius",
+      "name": "Mencius",
+      "file": "mencius.json"
+    },
+    {
+      "id": "xunzi",
+      "name": "Xunzi",
+      "file": "xunzi.json"
+    },
+    {
+      "id": "adi_shankara",
+      "name": "Adi Shankara",
+      "file": "adi_shankara.json"
+    },
+    {
+      "id": "ramanuja",
+      "name": "Ramanuja",
+      "file": "ramanuja.json"
+    },
+    {
+      "id": "sri_ramakrishna",
+      "name": "Sri Ramakrishna",
+      "file": "sri_ramakrishna.json"
+    },
+    {
+      "id": "vivekananda",
+      "name": "Swami Vivekananda",
+      "file": "vivekananda.json"
+    },
+    {
+      "id": "yogananda",
+      "name": "Paramahansa Yogananda",
+      "file": "yogananda.json"
+    },
+    {
+      "id": "tagore",
+      "name": "Rabindranath Tagore",
+      "file": "tagore.json"
+    },
+    {
+      "id": "guru_nanak",
+      "name": "Guru Nanak",
+      "file": "guru_nanak.json"
+    },
+    {
+      "id": "al_ghazali",
+      "name": "Al-Ghazali",
+      "file": "al_ghazali.json"
+    },
+    {
+      "id": "ibn_arabi",
+      "name": "Ibn Arabi",
+      "file": "ibn_arabi.json"
+    },
+    {
+      "id": "avicenna",
+      "name": "Avicenna (Ibn Sina)",
+      "file": "avicenna.json"
+    },
+    {
+      "id": "averroes",
+      "name": "Averroes (Ibn Rushd)",
+      "file": "averroes.json"
+    },
+    {
+      "id": "maimonides",
+      "name": "Maimonides",
+      "file": "maimonides.json"
+    },
+    {
+      "id": "spinoza",
+      "name": "Baruch Spinoza",
+      "file": "spinoza.json"
+    },
+    {
+      "id": "dalai_lama",
+      "name": "Dalai Lama (14th)",
+      "file": "dalai_lama.json"
+    },
+    {
+      "id": "thich_nhat_hanh",
+      "name": "Thich Nhat Hanh",
+      "file": "thich_nhat_hanh.json"
+    },
+    {
+      "id": "eckhart_tolle",
+      "name": "Eckhart Tolle",
+      "file": "eckhart_tolle.json"
+    },
+    {
+      "id": "alan_watts",
+      "name": "Alan Watts",
+      "file": "alan_watts.json"
+    },
+    {
+      "id": "aldous_huxley",
+      "name": "Aldous Huxley",
+      "file": "aldous_huxley.json"
+    },
+    {
+      "id": "cs_lewis",
+      "name": "C.S. Lewis",
+      "file": "cs_lewis.json"
+    },
+    {
+      "id": "gk_chesterton",
+      "name": "G.K. Chesterton",
+      "file": "gk_chesterton.json"
+    },
+    {
+      "id": "emerson",
+      "name": "Ralph Waldo Emerson",
+      "file": "emerson.json"
+    },
+    {
+      "id": "thoreau",
+      "name": "Henry David Thoreau",
+      "file": "thoreau.json"
+    },
+    {
+      "id": "william_james",
+      "name": "William James",
+      "file": "william_james.json"
+    },
+    {
+      "id": "zoroaster",
+      "name": "Zoroaster",
+      "file": "zoroaster.json"
+    },
+    {
+      "id": "mani",
+      "name": "Mani",
+      "file": "mani.json"
+    },
+    {
+      "id": "baha_ullah",
+      "name": "Bahá'u'lláh",
+      "file": "baha_ullah.json"
+    },
+    {
+      "id": "joseph_smith",
+      "name": "Joseph Smith",
+      "file": "joseph_smith.json"
+    },
+    {
+      "id": "mary_baker_eddy",
+      "name": "Mary Baker Eddy",
+      "file": "mary_baker_eddy.json"
+    },
+    {
+      "id": "swedenborg",
+      "name": "Emanuel Swedenborg",
+      "file": "swedenborg.json"
+    },
+    {
+      "id": "jacob_boehme",
+      "name": "Jacob Boehme",
+      "file": "jacob_boehme.json"
+    },
+    {
+      "id": "john_wesley",
+      "name": "John Wesley",
+      "file": "john_wesley.json"
+    },
+    {
+      "id": "william_penn",
+      "name": "William Penn",
+      "file": "william_penn.json"
+    },
+    {
+      "id": "george_fox",
+      "name": "George Fox",
+      "file": "george_fox.json"
+    },
+    {
+      "id": "hildegard_bingen",
+      "name": "Hildegard of Bingen",
+      "file": "hildegard_bingen.json"
+    },
+    {
+      "id": "catherine_siena",
+      "name": "Catherine of Siena",
+      "file": "catherine_siena.json"
+    },
+    {
+      "id": "john_chrysostom",
+      "name": "John Chrysostom",
+      "file": "john_chrysostom.json"
+    },
+    {
+      "id": "gregory_nazianzus",
+      "name": "Gregory of Nazianzus",
+      "file": "gregory_nazianzus.json"
+    },
+    {
+      "id": "basil_great",
+      "name": "Basil the Great",
+      "file": "basil_great.json"
+    },
+    {
+      "id": "john_damascene",
+      "name": "John of Damascus",
+      "file": "john_damascene.json"
+    },
+    {
+      "id": "maximus_confessor",
+      "name": "Maximus the Confessor",
+      "file": "maximus_confessor.json"
+    },
+    {
+      "id": "gregory_palamas",
+      "name": "Gregory Palamas",
+      "file": "gregory_palamas.json"
+    },
+    {
+      "id": "symeon_theologian",
+      "name": "Symeon the New Theologian",
+      "file": "symeon_theologian.json"
+    },
+    {
+      "id": "pseudo_dionysius",
+      "name": "Pseudo-Dionysius",
+      "file": "pseudo_dionysius.json"
+    },
+    {
+      "id": "origen",
+      "name": "Origen",
+      "file": "origen.json"
+    },
+    {
+      "id": "tertullian",
+      "name": "Tertullian",
+      "file": "tertullian.json"
+    },
+    {
+      "id": "irenaeus",
+      "name": "Irenaeus",
+      "file": "irenaeus.json"
+    },
+    {
+      "id": "clement_alexandria",
+      "name": "Clement of Alexandria",
+      "file": "clement_alexandria.json"
+    },
+    {
+      "id": "bonaventure",
+      "name": "St. Bonaventure",
+      "file": "bonaventure.json"
+    },
+    {
+      "id": "duns_scotus",
+      "name": "Duns Scotus",
+      "file": "duns_scotus.json"
+    },
+    {
+      "id": "william_ockham",
+      "name": "William of Ockham",
+      "file": "william_ockham.json"
+    },
+    {
+      "id": "anselm_canterbury",
+      "name": "Anselm of Canterbury",
+      "file": "anselm_canterbury.json"
+    },
+    {
+      "id": "bernard_clairvaux",
+      "name": "Bernard of Clairvaux",
+      "file": "bernard_clairvaux.json"
+    },
+    {
+      "id": "hugh_victor",
+      "name": "Hugh of St. Victor",
+      "file": "hugh_victor.json"
+    },
+    {
+      "id": "richard_victor",
+      "name": "Richard of St. Victor",
+      "file": "richard_victor.json"
+    },
+    {
+      "id": "johannes_tauler",
+      "name": "Johannes Tauler",
+      "file": "johannes_tauler.json"
+    },
+    {
+      "id": "henry_suso",
+      "name": "Henry Suso",
+      "file": "henry_suso.json"
+    },
+    {
+      "id": "jan_van_ruusbroec",
+      "name": "Jan van Ruusbroec",
+      "file": "jan_van_ruusbroec.json"
+    }
+  ],
+  "musician": [
+    {
+      "id": "bob_dylan",
+      "name": "Bob Dylan",
+      "file": "bob_dylan.json"
+    },
+    {
+      "id": "david_bowie",
+      "name": "David Bowie",
+      "file": "david_bowie.json"
+    },
+    {
+      "id": "prince",
+      "name": "Prince",
+      "file": "prince.json"
+    },
+    {
+      "id": "madonna",
+      "name": "Madonna",
+      "file": "madonna.json"
+    },
+    {
+      "id": "freddie_mercury",
+      "name": "Freddie Mercury",
+      "file": "freddie_mercury.json"
+    },
+    {
+      "id": "jimi_hendrix",
+      "name": "Jimi Hendrix",
+      "file": "jimi_hendrix.json"
+    },
+    {
+      "id": "janis_joplin",
+      "name": "Janis Joplin",
+      "file": "janis_joplin.json"
+    },
+    {
+      "id": "kurt_cobain",
+      "name": "Kurt Cobain",
+      "file": "kurt_cobain.json"
+    },
+    {
+      "id": "johnny_cash",
+      "name": "Johnny Cash",
+      "file": "johnny_cash.json"
+    },
+    {
+      "id": "aretha_franklin",
+      "name": "Aretha Franklin",
+      "file": "aretha_franklin.json"
+    },
+    {
+      "id": "nina_simone",
+      "name": "Nina Simone",
+      "file": "nina_simone.json"
+    },
+    {
+      "id": "billie_holiday",
+      "name": "Billie Holiday",
+      "file": "billie_holiday.json"
+    }
+  ],
+  "comedian": [
+    {
+      "id": "george_carlin",
+      "name": "George Carlin",
+      "file": "george_carlin.json"
+    },
+    {
+      "id": "richard_pryor",
+      "name": "Richard Pryor",
+      "file": "richard_pryor.json"
+    },
+    {
+      "id": "robin_williams",
+      "name": "Robin Williams",
+      "file": "robin_williams.json"
+    },
+    {
+      "id": "dave_chappelle",
+      "name": "Dave Chappelle",
+      "file": "dave_chappelle.json"
+    },
+    {
+      "id": "tina_fey",
+      "name": "Tina Fey",
+      "file": "tina_fey.json"
+    },
+    {
+      "id": "steve_martin",
+      "name": "Steve Martin",
+      "file": "steve_martin.json"
+    },
+    {
+      "id": "louis_ck",
+      "name": "Louis C.K.",
+      "file": "louis_ck.json"
+    },
+    {
+      "id": "john_cleese",
+      "name": "John Cleese",
+      "file": "john_cleese.json"
+    },
+    {
+      "id": "ellen_degeneres",
+      "name": "Ellen DeGeneres",
+      "file": "ellen_degeneres.json"
+    },
+    {
+      "id": "bill_hicks",
+      "name": "Bill Hicks",
+      "file": "bill_hicks.json"
+    },
+    {
+      "id": "joan_rivers",
+      "name": "Joan Rivers",
+      "file": "joan_rivers.json"
+    },
+    {
+      "id": "eddie_murphy",
+      "name": "Eddie Murphy",
+      "file": "eddie_murphy.json"
+    },
+    {
+      "id": "ricky_gervais",
+      "name": "Ricky Gervais",
+      "file": "ricky_gervais.json"
+    },
+    {
+      "id": "jerry_seinfeld",
+      "name": "Jerry Seinfeld",
+      "file": "jerry_seinfeld.json"
+    },
+    {
+      "id": "chris_rock",
+      "name": "Chris Rock",
+      "file": "chris_rock.json"
+    },
+    {
+      "id": "amy_poehler",
+      "name": "Amy Poehler",
+      "file": "amy_poehler.json"
+    },
+    {
+      "id": "bill_murray",
+      "name": "Bill Murray",
+      "file": "bill_murray.json"
+    },
+    {
+      "id": "steve_carell",
+      "name": "Steve Carell",
+      "file": "steve_carell.json"
+    },
+    {
+      "id": "mindy_kaling",
+      "name": "Mindy Kaling",
+      "file": "mindy_kaling.json"
+    },
+    {
+      "id": "stephen_colbert",
+      "name": "Stephen Colbert",
+      "file": "stephen_colbert.json"
+    },
+    {
+      "id": "jon_stewart",
+      "name": "Jon Stewart",
+      "file": "jon_stewart.json"
+    },
+    {
+      "id": "conan_obrien",
+      "name": "Conan O'Brien",
+      "file": "conan_obrien.json"
+    },
+    {
+      "id": "larry_david",
+      "name": "Larry David",
+      "file": "larry_david.json"
+    },
+    {
+      "id": "sarah_silverman",
+      "name": "Sarah Silverman",
+      "file": "sarah_silverman.json"
+    },
+    {
+      "id": "ali_wong",
+      "name": "Ali Wong",
+      "file": "ali_wong.json"
+    },
+    {
+      "id": "kevin_hart",
+      "name": "Kevin Hart",
+      "file": "kevin_hart.json"
+    },
+    {
+      "id": "aziz_ansari",
+      "name": "Aziz Ansari",
+      "file": "aziz_ansari.json"
+    },
+    {
+      "id": "bo_burnham",
+      "name": "Bo Burnham",
+      "file": "bo_burnham.json"
+    },
+    {
+      "id": "john_mulaney",
+      "name": "John Mulaney",
+      "file": "john_mulaney.json"
+    },
+    {
+      "id": "trevor_noah",
+      "name": "Trevor Noah",
+      "file": "trevor_noah.json"
+    }
+  ],
+  "athlete": [
+    {
+      "id": "michael_jordan",
+      "name": "Michael Jordan",
+      "file": "michael_jordan.json"
+    },
+    {
+      "id": "serena_williams",
+      "name": "Serena Williams",
+      "file": "serena_williams.json"
+    },
+    {
+      "id": "usain_bolt",
+      "name": "Usain Bolt",
+      "file": "usain_bolt.json"
+    },
+    {
+      "id": "muhammad_ali",
+      "name": "Muhammad Ali",
+      "file": "muhammad_ali.json"
+    },
+    {
+      "id": "tiger_woods",
+      "name": "Tiger Woods",
+      "file": "tiger_woods.json"
+    },
+    {
+      "id": "simone_biles",
+      "name": "Simone Biles",
+      "file": "simone_biles.json"
+    },
+    {
+      "id": "lebron_james",
+      "name": "LeBron James",
+      "file": "lebron_james.json"
+    },
+    {
+      "id": "cristiano_ronaldo",
+      "name": "Cristiano Ronaldo",
+      "file": "cristiano_ronaldo.json"
+    },
+    {
+      "id": "roger_federer",
+      "name": "Roger Federer",
+      "file": "roger_federer.json"
+    },
+    {
+      "id": "lionel_messi",
+      "name": "Lionel Messi",
+      "file": "lionel_messi.json"
+    },
+    {
+      "id": "tom_brady",
+      "name": "Tom Brady",
+      "file": "tom_brady.json"
+    },
+    {
+      "id": "wayne_gretzky",
+      "name": "Wayne Gretzky",
+      "file": "wayne_gretzky.json"
+    }
+  ],
+  "tech_leader": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk",
+      "file": "elon_musk.json"
+    },
+    {
+      "id": "jeff_bezos",
+      "name": "Jeff Bezos",
+      "file": "jeff_bezos.json"
+    },
+    {
+      "id": "steve_jobs",
+      "name": "Steve Jobs",
+      "file": "steve_jobs.json"
+    },
+    {
+      "id": "bill_gates",
+      "name": "Bill Gates",
+      "file": "bill_gates.json"
+    },
+    {
+      "id": "mark_zuckerberg",
+      "name": "Mark Zuckerberg",
+      "file": "mark_zuckerberg.json"
+    },
+    {
+      "id": "satya_nadella",
+      "name": "Satya Nadella",
+      "file": "satya_nadella.json"
+    },
+    {
+      "id": "sundar_pichai",
+      "name": "Sundar Pichai",
+      "file": "sundar_pichai.json"
+    },
+    {
+      "id": "warren_buffett",
+      "name": "Warren Buffett",
+      "file": "warren_buffett.json"
+    },
+    {
+      "id": "sheryl_sandberg",
+      "name": "Sheryl Sandberg",
+      "file": "sheryl_sandberg.json"
+    },
+    {
+      "id": "peter_thiel",
+      "name": "Peter Thiel",
+      "file": "peter_thiel.json"
+    },
+    {
+      "id": "jack_ma",
+      "name": "Jack Ma",
+      "file": "jack_ma.json"
+    },
+    {
+      "id": "larry_page",
+      "name": "Larry Page",
+      "file": "larry_page.json"
+    },
+    {
+      "id": "sergey_brin",
+      "name": "Sergey Brin",
+      "file": "sergey_brin.json"
+    }
+  ],
+  "media": [
+    {
+      "id": "oprah_winfrey",
+      "name": "Oprah Winfrey",
+      "file": "oprah_winfrey.json"
+    },
+    {
+      "id": "walt_disney",
+      "name": "Walt Disney",
+      "file": "walt_disney.json"
+    }
+  ],
+  "revolutionary": [
+    {
+      "id": "spartacus",
+      "name": "Spartacus",
+      "file": "spartacus.json"
+    },
+    {
+      "id": "cyrus_great",
+      "name": "Cyrus the Great",
+      "file": "cyrus_great.json"
+    },
+    {
+      "id": "toussaint_louverture",
+      "name": "Toussaint Louverture",
+      "file": "toussaint_louverture.json"
+    },
+    {
+      "id": "che_guevara",
+      "name": "Che Guevara",
+      "file": "che_guevara.json"
+    },
+    {
+      "id": "simon_bolivar",
+      "name": "Simón Bolívar",
+      "file": "simon_bolivar.json"
+    },
+    {
+      "id": "giuseppe_garibaldi",
+      "name": "Giuseppe Garibaldi",
+      "file": "giuseppe_garibaldi.json"
+    },
+    {
+      "id": "sun_yat_sen",
+      "name": "Sun Yat-sen",
+      "file": "sun_yat_sen.json"
+    },
+    {
+      "id": "leon_trotsky",
+      "name": "Leon Trotsky",
+      "file": "leon_trotsky.json"
+    },
+    {
+      "id": "thomas_paine",
+      "name": "Thomas Paine",
+      "file": "thomas_paine.json"
+    },
+    {
+      "id": "rani_lakshmibai",
+      "name": "Rani Lakshmibai",
+      "file": "rani_lakshmibai.json"
+    },
+    {
+      "id": "cato_younger",
+      "name": "Cato the Younger",
+      "file": "cato_younger.json"
+    },
+    {
+      "id": "boudica",
+      "name": "Boudica",
+      "file": "boudica.json"
+    },
+    {
+      "id": "sitting_bull",
+      "name": "Sitting Bull",
+      "file": "sitting_bull.json"
+    },
+    {
+      "id": "crazy_horse",
+      "name": "Crazy Horse",
+      "file": "crazy_horse.json"
+    },
+    {
+      "id": "emiliano_zapata",
+      "name": "Emiliano Zapata",
+      "file": "emiliano_zapata.json"
+    },
+    {
+      "id": "pancho_villa",
+      "name": "Pancho Villa",
+      "file": "pancho_villa.json"
+    },
+    {
+      "id": "jose_marti",
+      "name": "José Martí",
+      "file": "jose_marti.json"
+    },
+    {
+      "id": "rosa_luxemburg",
+      "name": "Rosa Luxemburg",
+      "file": "rosa_luxemburg.json"
+    },
+    {
+      "id": "sukarno",
+      "name": "Sukarno",
+      "file": "sukarno.json"
+    },
+    {
+      "id": "ho_chi_minh",
+      "name": "Ho Chi Minh",
+      "file": "ho_chi_minh.json"
+    },
+    {
+      "id": "mikhail_bakunin",
+      "name": "Mikhail Bakunin",
+      "file": "mikhail_bakunin.json"
+    },
+    {
+      "id": "emma_goldman",
+      "name": "Emma Goldman",
+      "file": "emma_goldman.json"
+    },
+    {
+      "id": "nat_turner",
+      "name": "Nat Turner",
+      "file": "nat_turner.json"
+    },
+    {
+      "id": "denmark_vesey",
+      "name": "Denmark Vesey",
+      "file": "denmark_vesey.json"
+    },
+    {
+      "id": "gabriel_prosser",
+      "name": "Gabriel Prosser",
+      "file": "gabriel_prosser.json"
+    },
+    {
+      "id": "geronimo",
+      "name": "Geronimo",
+      "file": "geronimo.json"
+    },
+    {
+      "id": "tecumseh",
+      "name": "Tecumseh",
+      "file": "tecumseh.json"
+    },
+    {
+      "id": "shaka_zulu",
+      "name": "Shaka Zulu",
+      "file": "shaka_zulu.json"
+    },
+    {
+      "id": "queen_nzinga",
+      "name": "Queen Nzinga",
+      "file": "queen_nzinga.json"
+    },
+    {
+      "id": "patrice_lumumba",
+      "name": "Patrice Lumumba",
+      "file": "patrice_lumumba.json"
+    },
+    {
+      "id": "thomas_sankara",
+      "name": "Thomas Sankara",
+      "file": "thomas_sankara.json"
+    },
+    {
+      "id": "kwame_nkrumah",
+      "name": "Kwame Nkrumah",
+      "file": "kwame_nkrumah.json"
+    }
+  ],
+  "activist": [
+    {
+      "id": "rosa_parks",
+      "name": "Rosa Parks",
+      "file": "rosa_parks.json"
+    },
+    {
+      "id": "malcolm_x",
+      "name": "Malcolm X",
+      "file": "malcolm_x.json"
+    },
+    {
+      "id": "emmeline_pankhurst",
+      "name": "Emmeline Pankhurst",
+      "file": "emmeline_pankhurst.json"
+    },
+    {
+      "id": "susan_b_anthony",
+      "name": "Susan B. Anthony",
+      "file": "susan_b_anthony.json"
+    },
+    {
+      "id": "harriet_tubman",
+      "name": "Harriet Tubman",
+      "file": "harriet_tubman.json"
+    },
+    {
+      "id": "vaclav_havel",
+      "name": "Václav Havel",
+      "file": "vaclav_havel.json"
+    },
+    {
+      "id": "lech_walesa",
+      "name": "Lech Wałęsa",
+      "file": "lech_walesa.json"
+    },
+    {
+      "id": "desmond_tutu",
+      "name": "Desmond Tutu",
+      "file": "desmond_tutu.json"
+    },
+    {
+      "id": "cheikh_anta_diop",
+      "name": "Cheikh Anta Diop",
+      "file": "cheikh_anta_diop.json"
+    },
+    {
+      "id": "john_brown",
+      "name": "John Brown",
+      "file": "john_brown.json"
+    },
+    {
+      "id": "frederick_douglass",
+      "name": "Frederick Douglass",
+      "file": "frederick_douglass.json"
+    },
+    {
+      "id": "cesar_chavez",
+      "name": "Cesar Chavez",
+      "file": "cesar_chavez.json"
+    },
+    {
+      "id": "sojourner_truth",
+      "name": "Sojourner Truth",
+      "file": "sojourner_truth.json"
+    },
+    {
+      "id": "william_wilberforce",
+      "name": "William Wilberforce",
+      "file": "william_wilberforce.json"
+    },
+    {
+      "id": "olympe_de_gouges",
+      "name": "Olympe de Gouges",
+      "file": "olympe_de_gouges.json"
+    },
+    {
+      "id": "mary_wollstonecraft_activist",
+      "name": "Mary Wollstonecraft",
+      "file": "mary_wollstonecraft_activist.json"
+    },
+    {
+      "id": "william_lloyd_garrison",
+      "name": "William Lloyd Garrison",
+      "file": "william_lloyd_garrison.json"
+    },
+    {
+      "id": "steve_biko",
+      "name": "Steve Biko",
+      "file": "steve_biko.json"
+    }
+  ],
+  "architect": [
+    {
+      "id": "frank_lloyd_wright",
+      "name": "Frank Lloyd Wright",
+      "file": "frank_lloyd_wright.json"
+    },
+    {
+      "id": "le_corbusier",
+      "name": "Le Corbusier",
+      "file": "le_corbusier.json"
+    },
+    {
+      "id": "zaha_hadid",
+      "name": "Zaha Hadid",
+      "file": "zaha_hadid.json"
+    },
+    {
+      "id": "louis_kahn",
+      "name": "Louis Kahn",
+      "file": "louis_kahn.json"
+    },
+    {
+      "id": "antoni_gaudi",
+      "name": "Antoni Gaudí",
+      "file": "antoni_gaudi.json"
+    },
+    {
+      "id": "im_pei",
+      "name": "I.M. Pei",
+      "file": "im_pei.json"
+    },
+    {
+      "id": "mies_van_der_rohe",
+      "name": "Ludwig Mies van der Rohe",
+      "file": "mies_van_der_rohe.json"
+    },
+    {
+      "id": "walter_gropius",
+      "name": "Walter Gropius",
+      "file": "walter_gropius.json"
+    },
+    {
+      "id": "philip_johnson",
+      "name": "Philip Johnson",
+      "file": "philip_johnson.json"
+    },
+    {
+      "id": "tadao_ando",
+      "name": "Tadao Ando",
+      "file": "tadao_ando.json"
+    },
+    {
+      "id": "oscar_niemeyer",
+      "name": "Oscar Niemeyer",
+      "file": "oscar_niemeyer.json"
+    },
+    {
+      "id": "alvar_aalto",
+      "name": "Alvar Aalto",
+      "file": "alvar_aalto.json"
+    },
+    {
+      "id": "buckminster_fuller",
+      "name": "Buckminster Fuller",
+      "file": "buckminster_fuller.json"
+    },
+    {
+      "id": "eero_saarinen",
+      "name": "Eero Saarinen",
+      "file": "eero_saarinen.json"
+    },
+    {
+      "id": "carlo_scarpa",
+      "name": "Carlo Scarpa",
+      "file": "carlo_scarpa.json"
+    },
+    {
+      "id": "aldo_rossi",
+      "name": "Aldo Rossi",
+      "file": "aldo_rossi.json"
+    },
+    {
+      "id": "luis_barragan",
+      "name": "Luis Barragán",
+      "file": "luis_barragan.json"
+    },
+    {
+      "id": "eileen_gray",
+      "name": "Eileen Gray",
+      "file": "eileen_gray.json"
+    },
+    {
+      "id": "charlotte_perriand",
+      "name": "Charlotte Perriand",
+      "file": "charlotte_perriand.json"
+    },
+    {
+      "id": "lina_bo_bardi",
+      "name": "Lina Bo Bardi",
+      "file": "lina_bo_bardi.json"
+    },
+    {
+      "id": "zeekay",
+      "name": "Zach Kelling",
+      "file": "zeekay.json"
+    }
+  ],
+  "pioneer": [
+    {
+      "id": "ada",
+      "name": "Ada Lovelace",
+      "file": "ada.json"
+    },
+    {
+      "id": "grace",
+      "name": "Grace Hopper",
+      "file": "grace.json"
+    },
+    {
+      "id": "turing",
+      "name": "Alan Turing",
+      "file": "turing.json"
+    }
+  ],
+  "systems": [
+    {
+      "id": "linus",
+      "name": "Linus Torvalds",
+      "file": "linus.json"
+    }
+  ],
+  "language-creator": [
+    {
+      "id": "guido",
+      "name": "Guido van Rossum",
+      "file": "guido.json"
+    }
+  ],
+  "gaming": [
+    {
+      "id": "carmack",
+      "name": "John Carmack",
+      "file": "carmack.json"
+    }
+  ],
+  "blockchain": [
+    {
+      "id": "satoshi",
+      "name": "Satoshi Nakamoto",
+      "file": "satoshi.json"
+    }
+  ],
+  "special": [
+    {
+      "id": "10x",
+      "name": "10x Engineer",
+      "file": "10x.json"
+    },
+    {
+      "id": "cloud_native",
+      "name": "Cloud Native Developer",
+      "file": "cloud_native.json"
+    }
+  ],
+  "master": [
+    {
+      "id": "dhh",
+      "name": "David Heinemeier Hansson",
+      "file": "dhh.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "karl_jaspers",
+  "name": "Karl Jaspers",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 75,
+    "neuroticism": 50
+  }
+}

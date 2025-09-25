@@ -1,0 +1,12 @@
+{
+  "id": "xenophon",
+  "name": "Xenophon",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 30
+  }
+}

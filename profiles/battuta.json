@@ -1,0 +1,12 @@
+{
+  "id": "battuta",
+  "name": "Ibn Battuta",
+  "category": "explorer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

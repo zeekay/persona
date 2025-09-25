@@ -1,0 +1,12 @@
+{
+  "id": "du_fu",
+  "name": "Du Fu",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 75,
+    "neuroticism": 55
+  }
+}

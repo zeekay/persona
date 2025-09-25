@@ -1,0 +1,12 @@
+{
+  "id": "francis",
+  "name": "Francis of Assisi",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 50,
+    "extraversion": 85,
+    "agreeableness": 98,
+    "neuroticism": 20
+  }
+}

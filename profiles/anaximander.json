@@ -1,0 +1,12 @@
+{
+  "id": "anaximander",
+  "name": "Anaximander",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 45,
+    "agreeableness": 60,
+    "neuroticism": 35
+  }
+}

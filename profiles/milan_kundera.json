@@ -1,0 +1,12 @@
+{
+  "id": "milan_kundera",
+  "name": "Milan Kundera",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 40,
+    "agreeableness": 55,
+    "neuroticism": 55
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "beethoven",
+  "name": "Ludwig van Beethoven",
+  "category": "composer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 50,
+    "agreeableness": 40,
+    "neuroticism": 70
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "peterson",
+  "name": "Jordan Peterson",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 70,
+    "agreeableness": 30,
+    "neuroticism": 50
+  }
+}

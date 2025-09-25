@@ -1,0 +1,12 @@
+{
+  "id": "hegel",
+  "name": "Georg Wilhelm Friedrich Hegel",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 30,
+    "neuroticism": 50
+  }
+}

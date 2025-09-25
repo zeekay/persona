@@ -1,0 +1,12 @@
+{
+  "id": "lebron_james",
+  "name": "LeBron James",
+  "category": "athlete",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 85,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

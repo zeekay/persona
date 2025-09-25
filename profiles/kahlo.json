@@ -1,0 +1,12 @@
+{
+  "id": "kahlo",
+  "name": "Frida Kahlo",
+  "category": "artist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 60,
+    "agreeableness": 50,
+    "neuroticism": 80
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nina_simone",
+  "name": "Nina Simone",
+  "category": "musician",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 55,
+    "agreeableness": 45,
+    "neuroticism": 70
+  }
+}

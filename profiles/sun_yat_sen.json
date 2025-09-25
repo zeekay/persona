@@ -1,0 +1,12 @@
+{
+  "id": "sun_yat_sen",
+  "name": "Sun Yat-sen",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 75,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

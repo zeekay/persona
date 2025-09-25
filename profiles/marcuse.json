@@ -1,0 +1,12 @@
+{
+  "id": "marcuse",
+  "name": "Herbert Marcuse",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 35,
+    "agreeableness": 55,
+    "neuroticism": 50
+  }
+}

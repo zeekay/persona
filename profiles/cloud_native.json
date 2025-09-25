@@ -1,0 +1,34 @@
+{
+  "id": "cloud_native",
+  "name": "Cloud Native Developer",
+  "category": "special",
+  "ocean": {
+    "openness": 78,
+    "conscientiousness": 88,
+    "extraversion": 62,
+    "agreeableness": 75,
+    "neuroticism": 30
+  },
+  "description": "Kubernetes-first development",
+  "philosophy": "Containers everywhere, orchestrate everything.",
+  "tools": {
+    "essential": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "ci_cd"
+    ],
+    "preferred": [
+      "helm",
+      "prometheus",
+      "grafana",
+      "gitops"
+    ],
+    "domains": [
+      "cloud",
+      "devops",
+      "infrastructure"
+    ]
+  },
+  "programmer": "Modern Cloud Developer"
+}

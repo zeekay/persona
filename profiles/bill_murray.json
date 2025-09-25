@@ -1,0 +1,12 @@
+{
+  "id": "bill_murray",
+  "name": "Bill Murray",
+  "category": "comedian",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 40,
+    "extraversion": 70,
+    "agreeableness": 60,
+    "neuroticism": 45
+  }
+}

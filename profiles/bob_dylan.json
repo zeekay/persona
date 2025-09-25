@@ -1,0 +1,12 @@
+{
+  "id": "bob_dylan",
+  "name": "Bob Dylan",
+  "category": "musician",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 50,
+    "neuroticism": 55
+  }
+}

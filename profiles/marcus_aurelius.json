@@ -1,0 +1,12 @@
+{
+  "id": "marcus_aurelius",
+  "name": "Marcus Aurelius",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 40,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

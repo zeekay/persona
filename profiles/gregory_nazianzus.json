@@ -1,0 +1,12 @@
+{
+  "id": "gregory_nazianzus",
+  "name": "Gregory of Nazianzus",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 75,
+    "neuroticism": 50
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lawrence",
+  "name": "T.E. Lawrence",
+  "category": "explorer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 50,
+    "neuroticism": 55
+  }
+}

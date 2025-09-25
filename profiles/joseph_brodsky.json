@@ -1,0 +1,12 @@
+{
+  "id": "joseph_brodsky",
+  "name": "Joseph Brodsky",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 45,
+    "agreeableness": 55,
+    "neuroticism": 60
+  }
+}

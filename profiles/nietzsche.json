@@ -1,0 +1,12 @@
+{
+  "id": "nietzsche",
+  "name": "Friedrich Nietzsche",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 30,
+    "agreeableness": 20,
+    "neuroticism": 70
+  }
+}

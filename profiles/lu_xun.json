@@ -1,0 +1,12 @@
+{
+  "id": "lu_xun",
+  "name": "Lu Xun",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 40,
+    "agreeableness": 60,
+    "neuroticism": 65
+  }
+}

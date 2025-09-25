@@ -1,0 +1,12 @@
+{
+  "id": "napoleon",
+  "name": "Napoleon Bonaparte",
+  "category": "leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 85,
+    "agreeableness": 35,
+    "neuroticism": 50
+  }
+}

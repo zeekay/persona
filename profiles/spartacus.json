@@ -1,0 +1,12 @@
+{
+  "id": "spartacus",
+  "name": "Spartacus",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 60,
+    "extraversion": 90,
+    "agreeableness": 35,
+    "neuroticism": 55
+  }
+}

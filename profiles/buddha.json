@@ -1,0 +1,12 @@
+{
+  "id": "buddha",
+  "name": "Siddhartha Gautama",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 50,
+    "agreeableness": 95,
+    "neuroticism": 10
+  }
+}

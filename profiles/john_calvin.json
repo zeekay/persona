@@ -1,0 +1,12 @@
+{
+  "id": "john_calvin",
+  "name": "John Calvin",
+  "category": "religious",
+  "ocean": {
+    "openness": 60,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 30,
+    "neuroticism": 25
+  }
+}

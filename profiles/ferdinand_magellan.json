@@ -1,0 +1,12 @@
+{
+  "id": "ferdinand_magellan",
+  "name": "Ferdinand Magellan",
+  "category": "explorer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 65,
+    "agreeableness": 40,
+    "neuroticism": 45
+  }
+}

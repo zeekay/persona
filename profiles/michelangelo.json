@@ -1,0 +1,12 @@
+{
+  "id": "michelangelo",
+  "name": "Michelangelo",
+  "category": "artist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 40,
+    "agreeableness": 35,
+    "neuroticism": 55
+  }
+}

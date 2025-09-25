@@ -1,0 +1,12 @@
+{
+  "id": "anne_sexton",
+  "name": "Anne Sexton",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 55,
+    "agreeableness": 60,
+    "neuroticism": 90
+  }
+}

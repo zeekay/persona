@@ -1,0 +1,12 @@
+{
+  "id": "salman_rushdie",
+  "name": "Salman Rushdie",
+  "category": "writer",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 60,
+    "neuroticism": 55
+  }
+}

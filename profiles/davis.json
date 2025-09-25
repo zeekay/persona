@@ -1,0 +1,12 @@
+{
+  "id": "davis",
+  "name": "Miles Davis",
+  "category": "composer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 55,
+    "agreeableness": 35,
+    "neuroticism": 50
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "walt_disney",
+  "name": "Walt Disney",
+  "category": "media",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 35
+  }
+}

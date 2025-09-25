@@ -1,0 +1,12 @@
+{
+  "id": "merleau_ponty",
+  "name": "Maurice Merleau-Ponty",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 50,
+    "agreeableness": 60,
+    "neuroticism": 25
+  }
+}

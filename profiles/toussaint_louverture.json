@@ -1,0 +1,12 @@
+{
+  "id": "toussaint_louverture",
+  "name": "Toussaint Louverture",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 60,
+    "neuroticism": 35
+  }
+}

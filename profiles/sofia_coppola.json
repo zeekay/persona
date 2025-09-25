@@ -1,0 +1,12 @@
+{
+  "id": "sofia_coppola",
+  "name": "Sofia Coppola",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 70,
+    "extraversion": 35,
+    "agreeableness": 75,
+    "neuroticism": 40
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "peter_thiel",
+  "name": "Peter Thiel",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 40,
+    "agreeableness": 25,
+    "neuroticism": 45
+  }
+}

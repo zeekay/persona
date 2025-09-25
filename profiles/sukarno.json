@@ -1,0 +1,12 @@
+{
+  "id": "sukarno",
+  "name": "Sukarno",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 90,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cato_younger",
+  "name": "Cato the Younger",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 95,
+    "extraversion": 35,
+    "agreeableness": 30,
+    "neuroticism": 25
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "simone_biles",
+  "name": "Simone Biles",
+  "category": "athlete",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 95,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "yukio_mishima",
+  "name": "Yukio Mishima",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 40,
+    "neuroticism": 75
+  }
+}

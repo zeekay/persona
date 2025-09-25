@@ -1,0 +1,12 @@
+{
+  "id": "david_lynch",
+  "name": "David Lynch",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 100,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 60,
+    "neuroticism": 65
+  }
+}

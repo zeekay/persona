@@ -1,0 +1,12 @@
+{
+  "id": "charlotte_bronte",
+  "name": "Charlotte Brontë",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 35,
+    "agreeableness": 65,
+    "neuroticism": 65
+  }
+}

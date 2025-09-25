@@ -1,0 +1,12 @@
+{
+  "id": "bourdieu",
+  "name": "Pierre Bourdieu",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 50,
+    "agreeableness": 60,
+    "neuroticism": 60
+  }
+}

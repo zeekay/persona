@@ -1,0 +1,12 @@
+{
+  "id": "meister_eckhart",
+  "name": "Meister Eckhart",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 60,
+    "neuroticism": 25
+  }
+}

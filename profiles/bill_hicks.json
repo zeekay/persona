@@ -1,0 +1,12 @@
+{
+  "id": "bill_hicks",
+  "name": "Bill Hicks",
+  "category": "comedian",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 40,
+    "extraversion": 75,
+    "agreeableness": 20,
+    "neuroticism": 75
+  }
+}

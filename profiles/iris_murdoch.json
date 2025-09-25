@@ -1,0 +1,12 @@
+{
+  "id": "iris_murdoch",
+  "name": "Iris Murdoch",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 75,
+    "neuroticism": 60
+  }
+}

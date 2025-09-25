@@ -1,0 +1,12 @@
+{
+  "id": "cristiano_ronaldo",
+  "name": "Cristiano Ronaldo",
+  "category": "athlete",
+  "ocean": {
+    "openness": 70,
+    "conscientiousness": 95,
+    "extraversion": 85,
+    "agreeableness": 40,
+    "neuroticism": 30
+  }
+}

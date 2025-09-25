@@ -1,0 +1,12 @@
+{
+  "id": "jerry_seinfeld",
+  "name": "Jerry Seinfeld",
+  "category": "comedian",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 50,
+    "neuroticism": 35
+  }
+}

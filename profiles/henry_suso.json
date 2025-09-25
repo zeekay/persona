@@ -1,0 +1,12 @@
+{
+  "id": "henry_suso",
+  "name": "Henry Suso",
+  "category": "religious",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 35,
+    "agreeableness": 75,
+    "neuroticism": 55
+  }
+}

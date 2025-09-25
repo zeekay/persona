@@ -1,0 +1,12 @@
+{
+  "id": "charlotte_perriand",
+  "name": "Charlotte Perriand",
+  "category": "architect",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

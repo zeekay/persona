@@ -1,0 +1,12 @@
+{
+  "id": "johannes_tauler",
+  "name": "Johannes Tauler",
+  "category": "religious",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 40,
+    "agreeableness": 70,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "janis_joplin",
+  "name": "Janis Joplin",
+  "category": "musician",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 40,
+    "extraversion": 80,
+    "agreeableness": 60,
+    "neuroticism": 75
+  }
+}

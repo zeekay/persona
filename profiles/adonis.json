@@ -1,0 +1,12 @@
+{
+  "id": "adonis",
+  "name": "Adonis (Ali Ahmad Said)",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 50,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

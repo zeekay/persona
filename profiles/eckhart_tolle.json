@@ -1,0 +1,12 @@
+{
+  "id": "eckhart_tolle",
+  "name": "Eckhart Tolle",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

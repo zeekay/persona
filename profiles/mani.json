@@ -1,0 +1,12 @@
+{
+  "id": "mani",
+  "name": "Mani",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 65,
+    "agreeableness": 75,
+    "neuroticism": 45
+  }
+}

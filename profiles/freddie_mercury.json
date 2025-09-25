@@ -1,0 +1,12 @@
+{
+  "id": "freddie_mercury",
+  "name": "Freddie Mercury",
+  "category": "musician",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 95,
+    "agreeableness": 65,
+    "neuroticism": 55
+  }
+}

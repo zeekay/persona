@@ -1,0 +1,12 @@
+{
+  "id": "william_penn",
+  "name": "William Penn",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 65,
+    "agreeableness": 85,
+    "neuroticism": 30
+  }
+}

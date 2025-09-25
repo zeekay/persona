@@ -1,0 +1,12 @@
+{
+  "id": "leibniz",
+  "name": "Gottfried Wilhelm Leibniz",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 55,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rosa_parks",
+  "name": "Rosa Parks",
+  "category": "activist",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 75,
+    "extraversion": 45,
+    "agreeableness": 80,
+    "neuroticism": 30
+  }
+}

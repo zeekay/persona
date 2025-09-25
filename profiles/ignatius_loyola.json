@@ -1,0 +1,12 @@
+{
+  "id": "ignatius_loyola",
+  "name": "Ignatius of Loyola",
+  "category": "religious",
+  "ocean": {
+    "openness": 60,
+    "conscientiousness": 95,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

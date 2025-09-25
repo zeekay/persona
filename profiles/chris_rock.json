@@ -1,0 +1,12 @@
+{
+  "id": "chris_rock",
+  "name": "Chris Rock",
+  "category": "comedian",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 70,
+    "extraversion": 80,
+    "agreeableness": 45,
+    "neuroticism": 50
+  }
+}

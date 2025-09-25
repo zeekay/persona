@@ -1,0 +1,12 @@
+{
+  "id": "jan_van_ruusbroec",
+  "name": "Jan van Ruusbroec",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

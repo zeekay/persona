@@ -1,0 +1,12 @@
+{
+  "id": "william_wilberforce",
+  "name": "William Wilberforce",
+  "category": "activist",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 85,
+    "neuroticism": 45
+  }
+}

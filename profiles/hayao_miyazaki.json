@@ -1,0 +1,12 @@
+{
+  "id": "hayao_miyazaki",
+  "name": "Hayao Miyazaki",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 85,
+    "extraversion": 45,
+    "agreeableness": 75,
+    "neuroticism": 30
+  }
+}

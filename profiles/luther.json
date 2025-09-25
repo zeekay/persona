@@ -1,0 +1,12 @@
+{
+  "id": "luther",
+  "name": "Martin Luther",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 70,
+    "agreeableness": 35,
+    "neuroticism": 60
+  }
+}

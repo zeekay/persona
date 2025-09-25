@@ -1,0 +1,12 @@
+{
+  "id": "kabir",
+  "name": "Kabir",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 85,
+    "neuroticism": 30
+  }
+}

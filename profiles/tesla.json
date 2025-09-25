@@ -1,0 +1,12 @@
+{
+  "id": "tesla",
+  "name": "Nikola Tesla",
+  "category": "scientist",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 70,
+    "extraversion": 25,
+    "agreeableness": 40,
+    "neuroticism": 55
+  }
+}

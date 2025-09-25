@@ -1,0 +1,12 @@
+{
+  "id": "ellen_degeneres",
+  "name": "Ellen DeGeneres",
+  "category": "comedian",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 80,
+    "extraversion": 90,
+    "agreeableness": 75,
+    "neuroticism": 30
+  }
+}

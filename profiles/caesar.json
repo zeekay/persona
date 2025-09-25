@@ -1,0 +1,12 @@
+{
+  "id": "caesar",
+  "name": "Julius Caesar",
+  "category": "leader",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 80,
+    "extraversion": 85,
+    "agreeableness": 35,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "john_cross",
+  "name": "St. John of the Cross",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 95,
+    "neuroticism": 60
+  }
+}

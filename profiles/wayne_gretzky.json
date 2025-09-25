@@ -1,0 +1,12 @@
+{
+  "id": "wayne_gretzky",
+  "name": "Wayne Gretzky",
+  "category": "athlete",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 65,
+    "agreeableness": 80,
+    "neuroticism": 25
+  }
+}

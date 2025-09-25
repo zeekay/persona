@@ -1,0 +1,12 @@
+{
+  "id": "tertullian",
+  "name": "Tertullian",
+  "category": "religious",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 90,
+    "extraversion": 65,
+    "agreeableness": 40,
+    "neuroticism": 60
+  }
+}

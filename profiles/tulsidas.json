@@ -1,0 +1,12 @@
+{
+  "id": "tulsidas",
+  "name": "Tulsidas",
+  "category": "poet",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 85,
+    "neuroticism": 35
+  }
+}

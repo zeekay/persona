@@ -1,0 +1,12 @@
+{
+  "id": "bo_burnham",
+  "name": "Bo Burnham",
+  "category": "comedian",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 45,
+    "agreeableness": 60,
+    "neuroticism": 70
+  }
+}

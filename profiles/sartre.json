@@ -1,0 +1,12 @@
+{
+  "id": "sartre",
+  "name": "Jean-Paul Sartre",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 70,
+    "extraversion": 50,
+    "agreeableness": 40,
+    "neuroticism": 65
+  }
+}

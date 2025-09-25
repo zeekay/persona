@@ -1,0 +1,12 @@
+{
+  "id": "rembrandt",
+  "name": "Rembrandt",
+  "category": "artist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 35,
+    "agreeableness": 55,
+    "neuroticism": 60
+  }
+}

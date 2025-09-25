@@ -1,0 +1,12 @@
+{
+  "id": "zhuangzi",
+  "name": "Zhuangzi",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 40,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

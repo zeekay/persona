@@ -1,0 +1,12 @@
+{
+  "id": "louis_kahn",
+  "name": "Louis Kahn",
+  "category": "architect",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 40,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

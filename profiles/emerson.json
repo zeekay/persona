@@ -1,0 +1,12 @@
+{
+  "id": "emerson",
+  "name": "Ralph Waldo Emerson",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

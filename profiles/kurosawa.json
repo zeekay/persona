@@ -1,0 +1,12 @@
+{
+  "id": "kurosawa",
+  "name": "Akira Kurosawa",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 55,
+    "agreeableness": 55,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "thomas_merton",
+  "name": "Thomas Merton",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 50,
+    "agreeableness": 75,
+    "neuroticism": 50
+  }
+}

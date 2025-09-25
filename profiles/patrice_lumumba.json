@@ -1,0 +1,12 @@
+{
+  "id": "patrice_lumumba",
+  "name": "Patrice Lumumba",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 80,
+    "agreeableness": 60,
+    "neuroticism": 55
+  }
+}

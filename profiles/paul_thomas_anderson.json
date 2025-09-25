@@ -1,0 +1,12 @@
+{
+  "id": "paul_thomas_anderson",
+  "name": "Paul Thomas Anderson",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 35,
+    "agreeableness": 50,
+    "neuroticism": 55
+  }
+}

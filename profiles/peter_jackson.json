@@ -1,0 +1,12 @@
+{
+  "id": "peter_jackson",
+  "name": "Peter Jackson",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 75,
+    "neuroticism": 35
+  }
+}

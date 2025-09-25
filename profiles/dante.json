@@ -1,0 +1,12 @@
+{
+  "id": "dante",
+  "name": "Dante Alighieri",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 55,
+    "agreeableness": 50,
+    "neuroticism": 55
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "philip_johnson",
+  "name": "Philip Johnson",
+  "category": "architect",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 40,
+    "neuroticism": 40
+  }
+}

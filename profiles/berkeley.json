@@ -1,0 +1,12 @@
+{
+  "id": "berkeley",
+  "name": "George Berkeley",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 50,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

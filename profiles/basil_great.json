@@ -1,0 +1,12 @@
+{
+  "id": "basil_great",
+  "name": "Basil the Great",
+  "category": "religious",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 95,
+    "extraversion": 60,
+    "agreeableness": 80,
+    "neuroticism": 35
+  }
+}

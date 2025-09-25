@@ -1,0 +1,2963 @@
+{
+  "total": 488,
+  "categories": [
+    "activist",
+    "architect",
+    "artist",
+    "athlete",
+    "blockchain",
+    "comedian",
+    "composer",
+    "explorer",
+    "filmmaker",
+    "gaming",
+    "historian",
+    "language-creator",
+    "leader",
+    "master",
+    "mathematician",
+    "media",
+    "musician",
+    "philosopher",
+    "pioneer",
+    "poet",
+    "religious",
+    "revolutionary",
+    "scientist",
+    "special",
+    "statesman",
+    "systems",
+    "tech_leader",
+    "writer"
+  ],
+  "personalities": [
+    {
+      "id": "10x",
+      "name": "10x Engineer",
+      "category": "special",
+      "file": "10x.json"
+    },
+    {
+      "id": "abraham",
+      "name": "Abraham",
+      "category": "religious",
+      "file": "abraham.json"
+    },
+    {
+      "id": "lincoln",
+      "name": "Abraham Lincoln",
+      "category": "statesman",
+      "file": "lincoln.json"
+    },
+    {
+      "id": "ada",
+      "name": "Ada Lovelace",
+      "category": "pioneer",
+      "file": "ada.json"
+    },
+    {
+      "id": "adam_smith",
+      "name": "Adam Smith",
+      "category": "philosopher",
+      "file": "adam_smith.json"
+    },
+    {
+      "id": "adi_shankara",
+      "name": "Adi Shankara",
+      "category": "religious",
+      "file": "adi_shankara.json"
+    },
+    {
+      "id": "adonis",
+      "name": "Adonis (Ali Ahmad Said)",
+      "category": "poet",
+      "file": "adonis.json"
+    },
+    {
+      "id": "kurosawa",
+      "name": "Akira Kurosawa",
+      "category": "filmmaker",
+      "file": "kurosawa.json"
+    },
+    {
+      "id": "al_ghazali",
+      "name": "Al-Ghazali",
+      "category": "religious",
+      "file": "al_ghazali.json"
+    },
+    {
+      "id": "turing",
+      "name": "Alan Turing",
+      "category": "pioneer",
+      "file": "turing.json"
+    },
+    {
+      "id": "alan_watts",
+      "name": "Alan Watts",
+      "category": "religious",
+      "file": "alan_watts.json"
+    },
+    {
+      "id": "macintyre",
+      "name": "Alasdair MacIntyre",
+      "category": "philosopher",
+      "file": "macintyre.json"
+    },
+    {
+      "id": "camus",
+      "name": "Albert Camus",
+      "category": "philosopher",
+      "file": "camus.json"
+    },
+    {
+      "id": "einstein",
+      "name": "Albert Einstein",
+      "category": "scientist",
+      "file": "einstein.json"
+    },
+    {
+      "id": "aldo_rossi",
+      "name": "Aldo Rossi",
+      "category": "architect",
+      "file": "aldo_rossi.json"
+    },
+    {
+      "id": "aldous_huxley",
+      "name": "Aldous Huxley",
+      "category": "religious",
+      "file": "aldous_huxley.json"
+    },
+    {
+      "id": "alexander",
+      "name": "Alexander the Great",
+      "category": "leader",
+      "file": "alexander.json"
+    },
+    {
+      "id": "alexis_de_tocqueville",
+      "name": "Alexis de Tocqueville",
+      "category": "philosopher",
+      "file": "alexis_de_tocqueville.json"
+    },
+    {
+      "id": "hitchcock",
+      "name": "Alfred Hitchcock",
+      "category": "filmmaker",
+      "file": "hitchcock.json"
+    },
+    {
+      "id": "ali_wong",
+      "name": "Ali Wong",
+      "category": "comedian",
+      "file": "ali_wong.json"
+    },
+    {
+      "id": "allan_bloom",
+      "name": "Allan Bloom",
+      "category": "philosopher",
+      "file": "allan_bloom.json"
+    },
+    {
+      "id": "alvar_aalto",
+      "name": "Alvar Aalto",
+      "category": "architect",
+      "file": "alvar_aalto.json"
+    },
+    {
+      "id": "amelia_earhart",
+      "name": "Amelia Earhart",
+      "category": "explorer",
+      "file": "amelia_earhart.json"
+    },
+    {
+      "id": "amy_poehler",
+      "name": "Amy Poehler",
+      "category": "comedian",
+      "file": "amy_poehler.json"
+    },
+    {
+      "id": "anaxagoras",
+      "name": "Anaxagoras",
+      "category": "philosopher",
+      "file": "anaxagoras.json"
+    },
+    {
+      "id": "anaximander",
+      "name": "Anaximander",
+      "category": "philosopher",
+      "file": "anaximander.json"
+    },
+    {
+      "id": "warhol",
+      "name": "Andy Warhol",
+      "category": "artist",
+      "file": "warhol.json"
+    },
+    {
+      "id": "anna_akhmatova",
+      "name": "Anna Akhmatova",
+      "category": "poet",
+      "file": "anna_akhmatova.json"
+    },
+    {
+      "id": "anne_sexton",
+      "name": "Anne Sexton",
+      "category": "poet",
+      "file": "anne_sexton.json"
+    },
+    {
+      "id": "anselm_canterbury",
+      "name": "Anselm of Canterbury",
+      "category": "religious",
+      "file": "anselm_canterbury.json"
+    },
+    {
+      "id": "antoni_gaudi",
+      "name": "Antoni Gaudí",
+      "category": "architect",
+      "file": "antoni_gaudi.json"
+    },
+    {
+      "id": "gramsci",
+      "name": "Antonio Gramsci",
+      "category": "philosopher",
+      "file": "gramsci.json"
+    },
+    {
+      "id": "aretha_franklin",
+      "name": "Aretha Franklin",
+      "category": "musician",
+      "file": "aretha_franklin.json"
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "category": "philosopher",
+      "file": "aristotle.json"
+    },
+    {
+      "id": "schopenhauer",
+      "name": "Arthur Schopenhauer",
+      "category": "philosopher",
+      "file": "schopenhauer.json"
+    },
+    {
+      "id": "arundhati_roy",
+      "name": "Arundhati Roy",
+      "category": "writer",
+      "file": "arundhati_roy.json"
+    },
+    {
+      "id": "attar",
+      "name": "Attar of Nishapur",
+      "category": "poet",
+      "file": "attar.json"
+    },
+    {
+      "id": "auguste_comte",
+      "name": "Auguste Comte",
+      "category": "philosopher",
+      "file": "auguste_comte.json"
+    },
+    {
+      "id": "averroes",
+      "name": "Averroes (Ibn Rushd)",
+      "category": "religious",
+      "file": "averroes.json"
+    },
+    {
+      "id": "avicenna",
+      "name": "Avicenna (Ibn Sina)",
+      "category": "religious",
+      "file": "avicenna.json"
+    },
+    {
+      "id": "aziz_ansari",
+      "name": "Aziz Ansari",
+      "category": "comedian",
+      "file": "aziz_ansari.json"
+    },
+    {
+      "id": "baha_ullah",
+      "name": "Bahá'u'lláh",
+      "category": "religious",
+      "file": "baha_ullah.json"
+    },
+    {
+      "id": "mcclintock",
+      "name": "Barbara McClintock",
+      "category": "scientist",
+      "file": "mcclintock.json"
+    },
+    {
+      "id": "spinoza",
+      "name": "Baruch Spinoza",
+      "category": "religious",
+      "file": "spinoza.json"
+    },
+    {
+      "id": "basil_great",
+      "name": "Basil the Great",
+      "category": "religious",
+      "file": "basil_great.json"
+    },
+    {
+      "id": "bernard_clairvaux",
+      "name": "Bernard of Clairvaux",
+      "category": "religious",
+      "file": "bernard_clairvaux.json"
+    },
+    {
+      "id": "russell",
+      "name": "Bertrand Russell",
+      "category": "philosopher",
+      "file": "russell.json"
+    },
+    {
+      "id": "bill_gates",
+      "name": "Bill Gates",
+      "category": "tech_leader",
+      "file": "bill_gates.json"
+    },
+    {
+      "id": "bill_hicks",
+      "name": "Bill Hicks",
+      "category": "comedian",
+      "file": "bill_hicks.json"
+    },
+    {
+      "id": "bill_murray",
+      "name": "Bill Murray",
+      "category": "comedian",
+      "file": "bill_murray.json"
+    },
+    {
+      "id": "billie_holiday",
+      "name": "Billie Holiday",
+      "category": "musician",
+      "file": "billie_holiday.json"
+    },
+    {
+      "id": "bo_burnham",
+      "name": "Bo Burnham",
+      "category": "comedian",
+      "file": "bo_burnham.json"
+    },
+    {
+      "id": "bob_dylan",
+      "name": "Bob Dylan",
+      "category": "musician",
+      "file": "bob_dylan.json"
+    },
+    {
+      "id": "boethius",
+      "name": "Boethius",
+      "category": "philosopher",
+      "file": "boethius.json"
+    },
+    {
+      "id": "boudica",
+      "name": "Boudica",
+      "category": "revolutionary",
+      "file": "boudica.json"
+    },
+    {
+      "id": "buckminster_fuller",
+      "name": "Buckminster Fuller",
+      "category": "architect",
+      "file": "buckminster_fuller.json"
+    },
+    {
+      "id": "cs_lewis",
+      "name": "C.S. Lewis",
+      "category": "religious",
+      "file": "cs_lewis.json"
+    },
+    {
+      "id": "paglia",
+      "name": "Camille Paglia",
+      "category": "philosopher",
+      "file": "paglia.json"
+    },
+    {
+      "id": "sagan",
+      "name": "Carl Sagan",
+      "category": "scientist",
+      "file": "sagan.json"
+    },
+    {
+      "id": "carlo_scarpa",
+      "name": "Carlo Scarpa",
+      "category": "architect",
+      "file": "carlo_scarpa.json"
+    },
+    {
+      "id": "catherine_siena",
+      "name": "Catherine of Siena",
+      "category": "religious",
+      "file": "catherine_siena.json"
+    },
+    {
+      "id": "catherine",
+      "name": "Catherine the Great",
+      "category": "leader",
+      "file": "catherine.json"
+    },
+    {
+      "id": "cato_younger",
+      "name": "Cato the Younger",
+      "category": "revolutionary",
+      "file": "cato_younger.json"
+    },
+    {
+      "id": "cesar_chavez",
+      "name": "Cesar Chavez",
+      "category": "activist",
+      "file": "cesar_chavez.json"
+    },
+    {
+      "id": "baudelaire",
+      "name": "Charles Baudelaire",
+      "category": "writer",
+      "file": "baudelaire.json"
+    },
+    {
+      "id": "darwin",
+      "name": "Charles Darwin",
+      "category": "scientist",
+      "file": "darwin.json"
+    },
+    {
+      "id": "charles_taylor",
+      "name": "Charles Taylor",
+      "category": "philosopher",
+      "file": "charles_taylor.json"
+    },
+    {
+      "id": "charlotte_bronte",
+      "name": "Charlotte Brontë",
+      "category": "writer",
+      "file": "charlotte_bronte.json"
+    },
+    {
+      "id": "charlotte_perriand",
+      "name": "Charlotte Perriand",
+      "category": "architect",
+      "file": "charlotte_perriand.json"
+    },
+    {
+      "id": "che_guevara",
+      "name": "Che Guevara",
+      "category": "revolutionary",
+      "file": "che_guevara.json"
+    },
+    {
+      "id": "cheikh_anta_diop",
+      "name": "Cheikh Anta Diop",
+      "category": "activist",
+      "file": "cheikh_anta_diop.json"
+    },
+    {
+      "id": "chinua_achebe",
+      "name": "Chinua Achebe",
+      "category": "writer",
+      "file": "chinua_achebe.json"
+    },
+    {
+      "id": "chris_rock",
+      "name": "Chris Rock",
+      "category": "comedian",
+      "file": "chris_rock.json"
+    },
+    {
+      "id": "christopher_columbus",
+      "name": "Christopher Columbus",
+      "category": "explorer",
+      "file": "christopher_columbus.json"
+    },
+    {
+      "id": "christopher_nolan",
+      "name": "Christopher Nolan",
+      "category": "filmmaker",
+      "file": "christopher_nolan.json"
+    },
+    {
+      "id": "cicero",
+      "name": "Cicero",
+      "category": "philosopher",
+      "file": "cicero.json"
+    },
+    {
+      "id": "debussy",
+      "name": "Claude Debussy",
+      "category": "composer",
+      "file": "debussy.json"
+    },
+    {
+      "id": "levi_strauss",
+      "name": "Claude Lévi-Strauss",
+      "category": "philosopher",
+      "file": "levi_strauss.json"
+    },
+    {
+      "id": "monet",
+      "name": "Claude Monet",
+      "category": "artist",
+      "file": "monet.json"
+    },
+    {
+      "id": "clement_alexandria",
+      "name": "Clement of Alexandria",
+      "category": "religious",
+      "file": "clement_alexandria.json"
+    },
+    {
+      "id": "cloud_native",
+      "name": "Cloud Native Developer",
+      "category": "special",
+      "file": "cloud_native.json"
+    },
+    {
+      "id": "coen_brothers",
+      "name": "Coen Brothers",
+      "category": "filmmaker",
+      "file": "coen_brothers.json"
+    },
+    {
+      "id": "conan_obrien",
+      "name": "Conan O'Brien",
+      "category": "comedian",
+      "file": "conan_obrien.json"
+    },
+    {
+      "id": "confucius",
+      "name": "Confucius",
+      "category": "philosopher",
+      "file": "confucius.json"
+    },
+    {
+      "id": "west",
+      "name": "Cornel West",
+      "category": "philosopher",
+      "file": "west.json"
+    },
+    {
+      "id": "crazy_horse",
+      "name": "Crazy Horse",
+      "category": "revolutionary",
+      "file": "crazy_horse.json"
+    },
+    {
+      "id": "cristiano_ronaldo",
+      "name": "Cristiano Ronaldo",
+      "category": "athlete",
+      "file": "cristiano_ronaldo.json"
+    },
+    {
+      "id": "cyrus_great",
+      "name": "Cyrus the Great",
+      "category": "revolutionary",
+      "file": "cyrus_great.json"
+    },
+    {
+      "id": "czeslaw_milosz",
+      "name": "Czesław Miłosz",
+      "category": "poet",
+      "file": "czeslaw_milosz.json"
+    },
+    {
+      "id": "dalai_lama",
+      "name": "Dalai Lama (14th)",
+      "category": "religious",
+      "file": "dalai_lama.json"
+    },
+    {
+      "id": "dante",
+      "name": "Dante Alighieri",
+      "category": "poet",
+      "file": "dante.json"
+    },
+    {
+      "id": "dave_chappelle",
+      "name": "Dave Chappelle",
+      "category": "comedian",
+      "file": "dave_chappelle.json"
+    },
+    {
+      "id": "david_bowie",
+      "name": "David Bowie",
+      "category": "musician",
+      "file": "david_bowie.json"
+    },
+    {
+      "id": "dhh",
+      "name": "David Heinemeier Hansson",
+      "category": "master",
+      "file": "dhh.json"
+    },
+    {
+      "id": "hume",
+      "name": "David Hume",
+      "category": "philosopher",
+      "file": "hume.json"
+    },
+    {
+      "id": "david_lynch",
+      "name": "David Lynch",
+      "category": "filmmaker",
+      "file": "david_lynch.json"
+    },
+    {
+      "id": "democritus",
+      "name": "Democritus",
+      "category": "philosopher",
+      "file": "democritus.json"
+    },
+    {
+      "id": "denmark_vesey",
+      "name": "Denmark Vesey",
+      "category": "revolutionary",
+      "file": "denmark_vesey.json"
+    },
+    {
+      "id": "derek_walcott",
+      "name": "Derek Walcott",
+      "category": "poet",
+      "file": "derek_walcott.json"
+    },
+    {
+      "id": "desmond_tutu",
+      "name": "Desmond Tutu",
+      "category": "activist",
+      "file": "desmond_tutu.json"
+    },
+    {
+      "id": "bonhoeffer",
+      "name": "Dietrich Bonhoeffer",
+      "category": "religious",
+      "file": "bonhoeffer.json"
+    },
+    {
+      "id": "diogenes",
+      "name": "Diogenes of Sinope",
+      "category": "philosopher",
+      "file": "diogenes.json"
+    },
+    {
+      "id": "du_fu",
+      "name": "Du Fu",
+      "category": "poet",
+      "file": "du_fu.json"
+    },
+    {
+      "id": "duns_scotus",
+      "name": "Duns Scotus",
+      "category": "religious",
+      "file": "duns_scotus.json"
+    },
+    {
+      "id": "eckhart_tolle",
+      "name": "Eckhart Tolle",
+      "category": "religious",
+      "file": "eckhart_tolle.json"
+    },
+    {
+      "id": "eddie_murphy",
+      "name": "Eddie Murphy",
+      "category": "comedian",
+      "file": "eddie_murphy.json"
+    },
+    {
+      "id": "edmund_burke",
+      "name": "Edmund Burke",
+      "category": "philosopher",
+      "file": "edmund_burke.json"
+    },
+    {
+      "id": "said",
+      "name": "Edward Said",
+      "category": "philosopher",
+      "file": "said.json"
+    },
+    {
+      "id": "eero_saarinen",
+      "name": "Eero Saarinen",
+      "category": "architect",
+      "file": "eero_saarinen.json"
+    },
+    {
+      "id": "eileen_gray",
+      "name": "Eileen Gray",
+      "category": "architect",
+      "file": "eileen_gray.json"
+    },
+    {
+      "id": "ellen_degeneres",
+      "name": "Ellen DeGeneres",
+      "category": "comedian",
+      "file": "ellen_degeneres.json"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk",
+      "category": "tech_leader",
+      "file": "elon_musk.json"
+    },
+    {
+      "id": "swedenborg",
+      "name": "Emanuel Swedenborg",
+      "category": "religious",
+      "file": "swedenborg.json"
+    },
+    {
+      "id": "durkheim",
+      "name": "Émile Durkheim",
+      "category": "philosopher",
+      "file": "durkheim.json"
+    },
+    {
+      "id": "emiliano_zapata",
+      "name": "Emiliano Zapata",
+      "category": "revolutionary",
+      "file": "emiliano_zapata.json"
+    },
+    {
+      "id": "dickinson",
+      "name": "Emily Dickinson",
+      "category": "poet",
+      "file": "dickinson.json"
+    },
+    {
+      "id": "emma_goldman",
+      "name": "Emma Goldman",
+      "category": "revolutionary",
+      "file": "emma_goldman.json"
+    },
+    {
+      "id": "emmeline_pankhurst",
+      "name": "Emmeline Pankhurst",
+      "category": "activist",
+      "file": "emmeline_pankhurst.json"
+    },
+    {
+      "id": "empedocles",
+      "name": "Empedocles",
+      "category": "philosopher",
+      "file": "empedocles.json"
+    },
+    {
+      "id": "fermi",
+      "name": "Enrico Fermi",
+      "category": "scientist",
+      "file": "fermi.json"
+    },
+    {
+      "id": "epictetus",
+      "name": "Epictetus",
+      "category": "philosopher",
+      "file": "epictetus.json"
+    },
+    {
+      "id": "epicurus",
+      "name": "Epicurus",
+      "category": "philosopher",
+      "file": "epicurus.json"
+    },
+    {
+      "id": "erasmus",
+      "name": "Erasmus",
+      "category": "philosopher",
+      "file": "erasmus.json"
+    },
+    {
+      "id": "shackleton",
+      "name": "Ernest Shackleton",
+      "category": "explorer",
+      "file": "shackleton.json"
+    },
+    {
+      "id": "goffman",
+      "name": "Erving Goffman",
+      "category": "philosopher",
+      "file": "goffman.json"
+    },
+    {
+      "id": "federico_garcia_lorca",
+      "name": "Federico García Lorca",
+      "category": "poet",
+      "file": "federico_garcia_lorca.json"
+    },
+    {
+      "id": "ferdinand_magellan",
+      "name": "Ferdinand Magellan",
+      "category": "explorer",
+      "file": "ferdinand_magellan.json"
+    },
+    {
+      "id": "ferdowsi",
+      "name": "Ferdowsi",
+      "category": "poet",
+      "file": "ferdowsi.json"
+    },
+    {
+      "id": "nightingale",
+      "name": "Florence Nightingale",
+      "category": "scientist",
+      "file": "nightingale.json"
+    },
+    {
+      "id": "francis_bacon",
+      "name": "Francis Bacon",
+      "category": "philosopher",
+      "file": "francis_bacon.json"
+    },
+    {
+      "id": "francis",
+      "name": "Francis of Assisi",
+      "category": "religious",
+      "file": "francis.json"
+    },
+    {
+      "id": "frank_lloyd_wright",
+      "name": "Frank Lloyd Wright",
+      "category": "architect",
+      "file": "frank_lloyd_wright.json"
+    },
+    {
+      "id": "fanon",
+      "name": "Frantz Fanon",
+      "category": "philosopher",
+      "file": "fanon.json"
+    },
+    {
+      "id": "kafka",
+      "name": "Franz Kafka",
+      "category": "writer",
+      "file": "kafka.json"
+    },
+    {
+      "id": "freddie_mercury",
+      "name": "Freddie Mercury",
+      "category": "musician",
+      "file": "freddie_mercury.json"
+    },
+    {
+      "id": "frederick_douglass",
+      "name": "Frederick Douglass",
+      "category": "activist",
+      "file": "frederick_douglass.json"
+    },
+    {
+      "id": "kahlo",
+      "name": "Frida Kahlo",
+      "category": "artist",
+      "file": "kahlo.json"
+    },
+    {
+      "id": "nietzsche",
+      "name": "Friedrich Nietzsche",
+      "category": "philosopher",
+      "file": "nietzsche.json"
+    },
+    {
+      "id": "dostoevsky",
+      "name": "Fyodor Dostoevsky",
+      "category": "writer",
+      "file": "dostoevsky.json"
+    },
+    {
+      "id": "gk_chesterton",
+      "name": "G.K. Chesterton",
+      "category": "religious",
+      "file": "gk_chesterton.json"
+    },
+    {
+      "id": "gabriel_garcia_marquez",
+      "name": "Gabriel García Márquez",
+      "category": "writer",
+      "file": "gabriel_garcia_marquez.json"
+    },
+    {
+      "id": "gabriel_prosser",
+      "name": "Gabriel Prosser",
+      "category": "revolutionary",
+      "file": "gabriel_prosser.json"
+    },
+    {
+      "id": "gabriela_mistral",
+      "name": "Gabriela Mistral",
+      "category": "poet",
+      "file": "gabriela_mistral.json"
+    },
+    {
+      "id": "galileo",
+      "name": "Galileo Galilei",
+      "category": "scientist",
+      "file": "galileo.json"
+    },
+    {
+      "id": "gao_xingjian",
+      "name": "Gao Xingjian",
+      "category": "writer",
+      "file": "gao_xingjian.json"
+    },
+    {
+      "id": "hegel",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "category": "philosopher",
+      "file": "hegel.json"
+    },
+    {
+      "id": "berkeley",
+      "name": "George Berkeley",
+      "category": "philosopher",
+      "file": "berkeley.json"
+    },
+    {
+      "id": "george_carlin",
+      "name": "George Carlin",
+      "category": "comedian",
+      "file": "george_carlin.json"
+    },
+    {
+      "id": "george_fox",
+      "name": "George Fox",
+      "category": "religious",
+      "file": "george_fox.json"
+    },
+    {
+      "id": "george_lucas",
+      "name": "George Lucas",
+      "category": "filmmaker",
+      "file": "george_lucas.json"
+    },
+    {
+      "id": "okeeffe",
+      "name": "Georgia O'Keeffe",
+      "category": "artist",
+      "file": "okeeffe.json"
+    },
+    {
+      "id": "geronimo",
+      "name": "Geronimo",
+      "category": "revolutionary",
+      "file": "geronimo.json"
+    },
+    {
+      "id": "deleuze",
+      "name": "Gilles Deleuze",
+      "category": "philosopher",
+      "file": "deleuze.json"
+    },
+    {
+      "id": "giordano_bruno",
+      "name": "Giordano Bruno",
+      "category": "philosopher",
+      "file": "giordano_bruno.json"
+    },
+    {
+      "id": "giuseppe_garibaldi",
+      "name": "Giuseppe Garibaldi",
+      "category": "revolutionary",
+      "file": "giuseppe_garibaldi.json"
+    },
+    {
+      "id": "leibniz",
+      "name": "Gottfried Wilhelm Leibniz",
+      "category": "philosopher",
+      "file": "leibniz.json"
+    },
+    {
+      "id": "grace",
+      "name": "Grace Hopper",
+      "category": "pioneer",
+      "file": "grace.json"
+    },
+    {
+      "id": "gregory_nazianzus",
+      "name": "Gregory of Nazianzus",
+      "category": "religious",
+      "file": "gregory_nazianzus.json"
+    },
+    {
+      "id": "gregory_palamas",
+      "name": "Gregory Palamas",
+      "category": "religious",
+      "file": "gregory_palamas.json"
+    },
+    {
+      "id": "guido",
+      "name": "Guido van Rossum",
+      "category": "language-creator",
+      "file": "guido.json"
+    },
+    {
+      "id": "guillermo_del_toro",
+      "name": "Guillermo del Toro",
+      "category": "filmmaker",
+      "file": "guillermo_del_toro.json"
+    },
+    {
+      "id": "guru_nanak",
+      "name": "Guru Nanak",
+      "category": "religious",
+      "file": "guru_nanak.json"
+    },
+    {
+      "id": "mahler",
+      "name": "Gustav Mahler",
+      "category": "composer",
+      "file": "mahler.json"
+    },
+    {
+      "id": "hafez",
+      "name": "Hafez",
+      "category": "poet",
+      "file": "hafez.json"
+    },
+    {
+      "id": "arendt",
+      "name": "Hannah Arendt",
+      "category": "philosopher",
+      "file": "arendt.json"
+    },
+    {
+      "id": "harriet_tubman",
+      "name": "Harriet Tubman",
+      "category": "activist",
+      "file": "harriet_tubman.json"
+    },
+    {
+      "id": "murakami",
+      "name": "Haruki Murakami",
+      "category": "writer",
+      "file": "murakami.json"
+    },
+    {
+      "id": "hayao_miyazaki",
+      "name": "Hayao Miyazaki",
+      "category": "filmmaker",
+      "file": "hayao_miyazaki.json"
+    },
+    {
+      "id": "thoreau",
+      "name": "Henry David Thoreau",
+      "category": "religious",
+      "file": "thoreau.json"
+    },
+    {
+      "id": "henry_thoreau",
+      "name": "Henry David Thoreau",
+      "category": "philosopher",
+      "file": "henry_thoreau.json"
+    },
+    {
+      "id": "henry_suso",
+      "name": "Henry Suso",
+      "category": "religious",
+      "file": "henry_suso.json"
+    },
+    {
+      "id": "heraclitus",
+      "name": "Heraclitus",
+      "category": "philosopher",
+      "file": "heraclitus.json"
+    },
+    {
+      "id": "marcuse",
+      "name": "Herbert Marcuse",
+      "category": "philosopher",
+      "file": "marcuse.json"
+    },
+    {
+      "id": "herodotus",
+      "name": "Herodotus",
+      "category": "historian",
+      "file": "herodotus.json"
+    },
+    {
+      "id": "hildegard_bingen",
+      "name": "Hildegard of Bingen",
+      "category": "religious",
+      "file": "hildegard_bingen.json"
+    },
+    {
+      "id": "ho_chi_minh",
+      "name": "Ho Chi Minh",
+      "category": "revolutionary",
+      "file": "ho_chi_minh.json"
+    },
+    {
+      "id": "homer",
+      "name": "Homer",
+      "category": "poet",
+      "file": "homer.json"
+    },
+    {
+      "id": "hugh_victor",
+      "name": "Hugh of St. Victor",
+      "category": "religious",
+      "file": "hugh_victor.json"
+    },
+    {
+      "id": "hypatia",
+      "name": "Hypatia",
+      "category": "philosopher",
+      "file": "hypatia.json"
+    },
+    {
+      "id": "im_pei",
+      "name": "I.M. Pei",
+      "category": "architect",
+      "file": "im_pei.json"
+    },
+    {
+      "id": "ibn_arabi",
+      "name": "Ibn Arabi",
+      "category": "religious",
+      "file": "ibn_arabi.json"
+    },
+    {
+      "id": "battuta",
+      "name": "Ibn Battuta",
+      "category": "explorer",
+      "file": "battuta.json"
+    },
+    {
+      "id": "ignatius_loyola",
+      "name": "Ignatius of Loyola",
+      "category": "religious",
+      "file": "ignatius_loyola.json"
+    },
+    {
+      "id": "stravinsky",
+      "name": "Igor Stravinsky",
+      "category": "composer",
+      "file": "stravinsky.json"
+    },
+    {
+      "id": "kant",
+      "name": "Immanuel Kant",
+      "category": "philosopher",
+      "file": "kant.json"
+    },
+    {
+      "id": "irenaeus",
+      "name": "Irenaeus",
+      "category": "religious",
+      "file": "irenaeus.json"
+    },
+    {
+      "id": "iris_murdoch",
+      "name": "Iris Murdoch",
+      "category": "philosopher",
+      "file": "iris_murdoch.json"
+    },
+    {
+      "id": "newton",
+      "name": "Isaac Newton",
+      "category": "scientist",
+      "file": "newton.json"
+    },
+    {
+      "id": "isabel_allende",
+      "name": "Isabel Allende",
+      "category": "writer",
+      "file": "isabel_allende.json"
+    },
+    {
+      "id": "jk_rowling",
+      "name": "J.K. Rowling",
+      "category": "writer",
+      "file": "jk_rowling.json"
+    },
+    {
+      "id": "jack_ma",
+      "name": "Jack Ma",
+      "category": "tech_leader",
+      "file": "jack_ma.json"
+    },
+    {
+      "id": "jacob_boehme",
+      "name": "Jacob Boehme",
+      "category": "religious",
+      "file": "jacob_boehme.json"
+    },
+    {
+      "id": "jacques_cousteau",
+      "name": "Jacques Cousteau",
+      "category": "explorer",
+      "file": "jacques_cousteau.json"
+    },
+    {
+      "id": "derrida",
+      "name": "Jacques Derrida",
+      "category": "philosopher",
+      "file": "derrida.json"
+    },
+    {
+      "id": "baldwin",
+      "name": "James Baldwin",
+      "category": "writer",
+      "file": "baldwin.json"
+    },
+    {
+      "id": "james_cameron",
+      "name": "James Cameron",
+      "category": "filmmaker",
+      "file": "james_cameron.json"
+    },
+    {
+      "id": "maxwell",
+      "name": "James Clerk Maxwell",
+      "category": "scientist",
+      "file": "maxwell.json"
+    },
+    {
+      "id": "joyce",
+      "name": "James Joyce",
+      "category": "writer",
+      "file": "joyce.json"
+    },
+    {
+      "id": "jan_van_ruusbroec",
+      "name": "Jan van Ruusbroec",
+      "category": "religious",
+      "file": "jan_van_ruusbroec.json"
+    },
+    {
+      "id": "jane_austen",
+      "name": "Jane Austen",
+      "category": "writer",
+      "file": "jane_austen.json"
+    },
+    {
+      "id": "goodall",
+      "name": "Jane Goodall",
+      "category": "scientist",
+      "file": "goodall.json"
+    },
+    {
+      "id": "janis_joplin",
+      "name": "Janis Joplin",
+      "category": "musician",
+      "file": "janis_joplin.json"
+    },
+    {
+      "id": "baudrillard",
+      "name": "Jean Baudrillard",
+      "category": "philosopher",
+      "file": "baudrillard.json"
+    },
+    {
+      "id": "rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "category": "philosopher",
+      "file": "rousseau.json"
+    },
+    {
+      "id": "sartre",
+      "name": "Jean-Paul Sartre",
+      "category": "philosopher",
+      "file": "sartre.json"
+    },
+    {
+      "id": "jeff_bezos",
+      "name": "Jeff Bezos",
+      "category": "tech_leader",
+      "file": "jeff_bezos.json"
+    },
+    {
+      "id": "jeremy_bentham",
+      "name": "Jeremy Bentham",
+      "category": "philosopher",
+      "file": "jeremy_bentham.json"
+    },
+    {
+      "id": "jerry_seinfeld",
+      "name": "Jerry Seinfeld",
+      "category": "comedian",
+      "file": "jerry_seinfeld.json"
+    },
+    {
+      "id": "jesus",
+      "name": "Jesus of Nazareth",
+      "category": "religious",
+      "file": "jesus.json"
+    },
+    {
+      "id": "jimi_hendrix",
+      "name": "Jimi Hendrix",
+      "category": "musician",
+      "file": "jimi_hendrix.json"
+    },
+    {
+      "id": "joan_rivers",
+      "name": "Joan Rivers",
+      "category": "comedian",
+      "file": "joan_rivers.json"
+    },
+    {
+      "id": "bach",
+      "name": "Johann Sebastian Bach",
+      "category": "composer",
+      "file": "bach.json"
+    },
+    {
+      "id": "goethe",
+      "name": "Johann Wolfgang von Goethe",
+      "category": "poet",
+      "file": "goethe.json"
+    },
+    {
+      "id": "kepler",
+      "name": "Johannes Kepler",
+      "category": "scientist",
+      "file": "kepler.json"
+    },
+    {
+      "id": "johannes_tauler",
+      "name": "Johannes Tauler",
+      "category": "religious",
+      "file": "johannes_tauler.json"
+    },
+    {
+      "id": "john_brown",
+      "name": "John Brown",
+      "category": "activist",
+      "file": "john_brown.json"
+    },
+    {
+      "id": "john_calvin",
+      "name": "John Calvin",
+      "category": "religious",
+      "file": "john_calvin.json"
+    },
+    {
+      "id": "carmack",
+      "name": "John Carmack",
+      "category": "gaming",
+      "file": "carmack.json"
+    },
+    {
+      "id": "john_chrysostom",
+      "name": "John Chrysostom",
+      "category": "religious",
+      "file": "john_chrysostom.json"
+    },
+    {
+      "id": "john_cleese",
+      "name": "John Cleese",
+      "category": "comedian",
+      "file": "john_cleese.json"
+    },
+    {
+      "id": "coltrane",
+      "name": "John Coltrane",
+      "category": "composer",
+      "file": "coltrane.json"
+    },
+    {
+      "id": "locke",
+      "name": "John Locke",
+      "category": "philosopher",
+      "file": "locke.json"
+    },
+    {
+      "id": "john_mulaney",
+      "name": "John Mulaney",
+      "category": "comedian",
+      "file": "john_mulaney.json"
+    },
+    {
+      "id": "john_damascene",
+      "name": "John of Damascus",
+      "category": "religious",
+      "file": "john_damascene.json"
+    },
+    {
+      "id": "john_stuart_mill",
+      "name": "John Stuart Mill",
+      "category": "philosopher",
+      "file": "john_stuart_mill.json"
+    },
+    {
+      "id": "vonneumann",
+      "name": "John von Neumann",
+      "category": "mathematician",
+      "file": "vonneumann.json"
+    },
+    {
+      "id": "john_wesley",
+      "name": "John Wesley",
+      "category": "religious",
+      "file": "john_wesley.json"
+    },
+    {
+      "id": "johnny_cash",
+      "name": "Johnny Cash",
+      "category": "musician",
+      "file": "johnny_cash.json"
+    },
+    {
+      "id": "jon_stewart",
+      "name": "Jon Stewart",
+      "category": "comedian",
+      "file": "jon_stewart.json"
+    },
+    {
+      "id": "salk",
+      "name": "Jonas Salk",
+      "category": "scientist",
+      "file": "salk.json"
+    },
+    {
+      "id": "peterson",
+      "name": "Jordan Peterson",
+      "category": "philosopher",
+      "file": "peterson.json"
+    },
+    {
+      "id": "borges",
+      "name": "Jorge Luis Borges",
+      "category": "writer",
+      "file": "borges.json"
+    },
+    {
+      "id": "jose_marti",
+      "name": "José Martí",
+      "category": "revolutionary",
+      "file": "jose_marti.json"
+    },
+    {
+      "id": "joseph_brodsky",
+      "name": "Joseph Brodsky",
+      "category": "poet",
+      "file": "joseph_brodsky.json"
+    },
+    {
+      "id": "joseph_smith",
+      "name": "Joseph Smith",
+      "category": "religious",
+      "file": "joseph_smith.json"
+    },
+    {
+      "id": "butler",
+      "name": "Judith Butler",
+      "category": "philosopher",
+      "file": "butler.json"
+    },
+    {
+      "id": "julian_norwich",
+      "name": "Julian of Norwich",
+      "category": "religious",
+      "file": "julian_norwich.json"
+    },
+    {
+      "id": "julio_cortazar",
+      "name": "Julio Cortázar",
+      "category": "writer",
+      "file": "julio_cortazar.json"
+    },
+    {
+      "id": "caesar",
+      "name": "Julius Caesar",
+      "category": "leader",
+      "file": "caesar.json"
+    },
+    {
+      "id": "habermas",
+      "name": "Jürgen Habermas",
+      "category": "philosopher",
+      "file": "habermas.json"
+    },
+    {
+      "id": "kabir",
+      "name": "Kabir",
+      "category": "poet",
+      "file": "kabir.json"
+    },
+    {
+      "id": "kalidasa",
+      "name": "Kalidasa",
+      "category": "poet",
+      "file": "kalidasa.json"
+    },
+    {
+      "id": "karl_jaspers",
+      "name": "Karl Jaspers",
+      "category": "philosopher",
+      "file": "karl_jaspers.json"
+    },
+    {
+      "id": "karl_marx",
+      "name": "Karl Marx",
+      "category": "philosopher",
+      "file": "karl_marx.json"
+    },
+    {
+      "id": "kenzaburo_oe",
+      "name": "Kenzaburō Ōe",
+      "category": "writer",
+      "file": "kenzaburo_oe.json"
+    },
+    {
+      "id": "kevin_hart",
+      "name": "Kevin Hart",
+      "category": "comedian",
+      "file": "kevin_hart.json"
+    },
+    {
+      "id": "kurt_cobain",
+      "name": "Kurt Cobain",
+      "category": "musician",
+      "file": "kurt_cobain.json"
+    },
+    {
+      "id": "godel",
+      "name": "Kurt Gödel",
+      "category": "mathematician",
+      "file": "godel.json"
+    },
+    {
+      "id": "kwame_nkrumah",
+      "name": "Kwame Nkrumah",
+      "category": "revolutionary",
+      "file": "kwame_nkrumah.json"
+    },
+    {
+      "id": "langston_hughes",
+      "name": "Langston Hughes",
+      "category": "poet",
+      "file": "langston_hughes.json"
+    },
+    {
+      "id": "laozi",
+      "name": "Laozi",
+      "category": "philosopher",
+      "file": "laozi.json"
+    },
+    {
+      "id": "larry_david",
+      "name": "Larry David",
+      "category": "comedian",
+      "file": "larry_david.json"
+    },
+    {
+      "id": "larry_page",
+      "name": "Larry Page",
+      "category": "tech_leader",
+      "file": "larry_page.json"
+    },
+    {
+      "id": "le_corbusier",
+      "name": "Le Corbusier",
+      "category": "architect",
+      "file": "le_corbusier.json"
+    },
+    {
+      "id": "lebron_james",
+      "name": "LeBron James",
+      "category": "athlete",
+      "file": "lebron_james.json"
+    },
+    {
+      "id": "lech_walesa",
+      "name": "Lech Wałęsa",
+      "category": "activist",
+      "file": "lech_walesa.json"
+    },
+    {
+      "id": "leo_strauss",
+      "name": "Leo Strauss",
+      "category": "philosopher",
+      "file": "leo_strauss.json"
+    },
+    {
+      "id": "tolstoy",
+      "name": "Leo Tolstoy",
+      "category": "writer",
+      "file": "tolstoy.json"
+    },
+    {
+      "id": "leon_trotsky",
+      "name": "Leon Trotsky",
+      "category": "revolutionary",
+      "file": "leon_trotsky.json"
+    },
+    {
+      "id": "davinci",
+      "name": "Leonardo da Vinci",
+      "category": "artist",
+      "file": "davinci.json"
+    },
+    {
+      "id": "euler",
+      "name": "Leonhard Euler",
+      "category": "mathematician",
+      "file": "euler.json"
+    },
+    {
+      "id": "li_bai",
+      "name": "Li Bai",
+      "category": "poet",
+      "file": "li_bai.json"
+    },
+    {
+      "id": "lina_bo_bardi",
+      "name": "Lina Bo Bardi",
+      "category": "architect",
+      "file": "lina_bo_bardi.json"
+    },
+    {
+      "id": "linus",
+      "name": "Linus Torvalds",
+      "category": "systems",
+      "file": "linus.json"
+    },
+    {
+      "id": "lionel_messi",
+      "name": "Lionel Messi",
+      "category": "athlete",
+      "file": "lionel_messi.json"
+    },
+    {
+      "id": "louis_ck",
+      "name": "Louis C.K.",
+      "category": "comedian",
+      "file": "louis_ck.json"
+    },
+    {
+      "id": "louis_kahn",
+      "name": "Louis Kahn",
+      "category": "architect",
+      "file": "louis_kahn.json"
+    },
+    {
+      "id": "lu_xun",
+      "name": "Lu Xun",
+      "category": "writer",
+      "file": "lu_xun.json"
+    },
+    {
+      "id": "lucretius",
+      "name": "Lucretius",
+      "category": "philosopher",
+      "file": "lucretius.json"
+    },
+    {
+      "id": "mies_van_der_rohe",
+      "name": "Ludwig Mies van der Rohe",
+      "category": "architect",
+      "file": "mies_van_der_rohe.json"
+    },
+    {
+      "id": "beethoven",
+      "name": "Ludwig van Beethoven",
+      "category": "composer",
+      "file": "beethoven.json"
+    },
+    {
+      "id": "wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "category": "philosopher",
+      "file": "wittgenstein.json"
+    },
+    {
+      "id": "luis_barragan",
+      "name": "Luis Barragán",
+      "category": "architect",
+      "file": "luis_barragan.json"
+    },
+    {
+      "id": "madonna",
+      "name": "Madonna",
+      "category": "musician",
+      "file": "madonna.json"
+    },
+    {
+      "id": "gandhi",
+      "name": "Mahatma Gandhi",
+      "category": "statesman",
+      "file": "gandhi.json"
+    },
+    {
+      "id": "mahmoud_darwish",
+      "name": "Mahmoud Darwish",
+      "category": "poet",
+      "file": "mahmoud_darwish.json"
+    },
+    {
+      "id": "maimonides",
+      "name": "Maimonides",
+      "category": "religious",
+      "file": "maimonides.json"
+    },
+    {
+      "id": "malcolm_x",
+      "name": "Malcolm X",
+      "category": "activist",
+      "file": "malcolm_x.json"
+    },
+    {
+      "id": "mani",
+      "name": "Mani",
+      "category": "religious",
+      "file": "mani.json"
+    },
+    {
+      "id": "marcel_mauss",
+      "name": "Marcel Mauss",
+      "category": "philosopher",
+      "file": "marcel_mauss.json"
+    },
+    {
+      "id": "proust",
+      "name": "Marcel Proust",
+      "category": "writer",
+      "file": "proust.json"
+    },
+    {
+      "id": "polo",
+      "name": "Marco Polo",
+      "category": "explorer",
+      "file": "polo.json"
+    },
+    {
+      "id": "marcus_aurelius",
+      "name": "Marcus Aurelius",
+      "category": "philosopher",
+      "file": "marcus_aurelius.json"
+    },
+    {
+      "id": "curie",
+      "name": "Marie Curie",
+      "category": "scientist",
+      "file": "curie.json"
+    },
+    {
+      "id": "marina_tsvetaeva",
+      "name": "Marina Tsvetaeva",
+      "category": "poet",
+      "file": "marina_tsvetaeva.json"
+    },
+    {
+      "id": "mark_zuckerberg",
+      "name": "Mark Zuckerberg",
+      "category": "tech_leader",
+      "file": "mark_zuckerberg.json"
+    },
+    {
+      "id": "martha_nussbaum",
+      "name": "Martha Nussbaum",
+      "category": "philosopher",
+      "file": "martha_nussbaum.json"
+    },
+    {
+      "id": "luther",
+      "name": "Martin Luther",
+      "category": "religious",
+      "file": "luther.json"
+    },
+    {
+      "id": "mlk",
+      "name": "Martin Luther King Jr.",
+      "category": "statesman",
+      "file": "mlk.json"
+    },
+    {
+      "id": "scorsese",
+      "name": "Martin Scorsese",
+      "category": "filmmaker",
+      "file": "scorsese.json"
+    },
+    {
+      "id": "mary_baker_eddy",
+      "name": "Mary Baker Eddy",
+      "category": "religious",
+      "file": "mary_baker_eddy.json"
+    },
+    {
+      "id": "mary_shelley",
+      "name": "Mary Shelley",
+      "category": "writer",
+      "file": "mary_shelley.json"
+    },
+    {
+      "id": "mary_wollstonecraft",
+      "name": "Mary Wollstonecraft",
+      "category": "philosopher",
+      "file": "mary_wollstonecraft.json"
+    },
+    {
+      "id": "mary_wollstonecraft_activist",
+      "name": "Mary Wollstonecraft",
+      "category": "activist",
+      "file": "mary_wollstonecraft_activist.json"
+    },
+    {
+      "id": "basho",
+      "name": "Matsuo Bashō",
+      "category": "poet",
+      "file": "basho.json"
+    },
+    {
+      "id": "merleau_ponty",
+      "name": "Maurice Merleau-Ponty",
+      "category": "philosopher",
+      "file": "merleau_ponty.json"
+    },
+    {
+      "id": "horkheimer",
+      "name": "Max Horkheimer",
+      "category": "philosopher",
+      "file": "horkheimer.json"
+    },
+    {
+      "id": "planck",
+      "name": "Max Planck",
+      "category": "scientist",
+      "file": "planck.json"
+    },
+    {
+      "id": "maximus_confessor",
+      "name": "Maximus the Confessor",
+      "category": "religious",
+      "file": "maximus_confessor.json"
+    },
+    {
+      "id": "angelou",
+      "name": "Maya Angelou",
+      "category": "poet",
+      "file": "angelou.json"
+    },
+    {
+      "id": "meister_eckhart",
+      "name": "Meister Eckhart",
+      "category": "religious",
+      "file": "meister_eckhart.json"
+    },
+    {
+      "id": "mencius",
+      "name": "Mencius",
+      "category": "religious",
+      "file": "mencius.json"
+    },
+    {
+      "id": "faraday",
+      "name": "Michael Faraday",
+      "category": "scientist",
+      "file": "faraday.json"
+    },
+    {
+      "id": "michael_jordan",
+      "name": "Michael Jordan",
+      "category": "athlete",
+      "file": "michael_jordan.json"
+    },
+    {
+      "id": "montaigne",
+      "name": "Michel de Montaigne",
+      "category": "philosopher",
+      "file": "montaigne.json"
+    },
+    {
+      "id": "foucault",
+      "name": "Michel Foucault",
+      "category": "philosopher",
+      "file": "foucault.json"
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "category": "artist",
+      "file": "michelangelo.json"
+    },
+    {
+      "id": "antonioni",
+      "name": "Michelangelo Antonioni",
+      "category": "filmmaker",
+      "file": "antonioni.json"
+    },
+    {
+      "id": "mikhail_bakunin",
+      "name": "Mikhail Bakunin",
+      "category": "revolutionary",
+      "file": "mikhail_bakunin.json"
+    },
+    {
+      "id": "milan_kundera",
+      "name": "Milan Kundera",
+      "category": "writer",
+      "file": "milan_kundera.json"
+    },
+    {
+      "id": "davis",
+      "name": "Miles Davis",
+      "category": "composer",
+      "file": "davis.json"
+    },
+    {
+      "id": "mindy_kaling",
+      "name": "Mindy Kaling",
+      "category": "comedian",
+      "file": "mindy_kaling.json"
+    },
+    {
+      "id": "mirabai",
+      "name": "Mirabai",
+      "category": "poet",
+      "file": "mirabai.json"
+    },
+    {
+      "id": "mo_yan",
+      "name": "Mo Yan",
+      "category": "writer",
+      "file": "mo_yan.json"
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "category": "religious",
+      "file": "moses.json"
+    },
+    {
+      "id": "muhammad",
+      "name": "Muhammad",
+      "category": "religious",
+      "file": "muhammad.json"
+    },
+    {
+      "id": "muhammad_ali",
+      "name": "Muhammad Ali",
+      "category": "athlete",
+      "file": "muhammad_ali.json"
+    },
+    {
+      "id": "murasaki_shikibu",
+      "name": "Murasaki Shikibu",
+      "category": "writer",
+      "file": "murasaki_shikibu.json"
+    },
+    {
+      "id": "naguib_mahfouz",
+      "name": "Naguib Mahfouz",
+      "category": "writer",
+      "file": "naguib_mahfouz.json"
+    },
+    {
+      "id": "napoleon",
+      "name": "Napoleon Bonaparte",
+      "category": "leader",
+      "file": "napoleon.json"
+    },
+    {
+      "id": "nat_turner",
+      "name": "Nat Turner",
+      "category": "revolutionary",
+      "file": "nat_turner.json"
+    },
+    {
+      "id": "neil_armstrong",
+      "name": "Neil Armstrong",
+      "category": "explorer",
+      "file": "neil_armstrong.json"
+    },
+    {
+      "id": "mandela",
+      "name": "Nelson Mandela",
+      "category": "statesman",
+      "file": "mandela.json"
+    },
+    {
+      "id": "ngugi_wa_thiongo",
+      "name": "Ngũgĩ wa Thiong'o",
+      "category": "writer",
+      "file": "ngugi_wa_thiongo.json"
+    },
+    {
+      "id": "machiavelli",
+      "name": "Niccolò Machiavelli",
+      "category": "philosopher",
+      "file": "machiavelli.json"
+    },
+    {
+      "id": "bohr",
+      "name": "Niels Bohr",
+      "category": "scientist",
+      "file": "bohr.json"
+    },
+    {
+      "id": "tesla",
+      "name": "Nikola Tesla",
+      "category": "scientist",
+      "file": "tesla.json"
+    },
+    {
+      "id": "nina_simone",
+      "name": "Nina Simone",
+      "category": "musician",
+      "file": "nina_simone.json"
+    },
+    {
+      "id": "nizami",
+      "name": "Nizami Ganjavi",
+      "category": "poet",
+      "file": "nizami.json"
+    },
+    {
+      "id": "chomsky",
+      "name": "Noam Chomsky",
+      "category": "philosopher",
+      "file": "chomsky.json"
+    },
+    {
+      "id": "octavio_paz",
+      "name": "Octavio Paz",
+      "category": "poet",
+      "file": "octavio_paz.json"
+    },
+    {
+      "id": "olympe_de_gouges",
+      "name": "Olympe de Gouges",
+      "category": "activist",
+      "file": "olympe_de_gouges.json"
+    },
+    {
+      "id": "omar_khayyam",
+      "name": "Omar Khayyam",
+      "category": "poet",
+      "file": "omar_khayyam.json"
+    },
+    {
+      "id": "oprah_winfrey",
+      "name": "Oprah Winfrey",
+      "category": "media",
+      "file": "oprah_winfrey.json"
+    },
+    {
+      "id": "orhan_pamuk",
+      "name": "Orhan Pamuk",
+      "category": "writer",
+      "file": "orhan_pamuk.json"
+    },
+    {
+      "id": "origen",
+      "name": "Origen",
+      "category": "religious",
+      "file": "origen.json"
+    },
+    {
+      "id": "oscar_niemeyer",
+      "name": "Oscar Niemeyer",
+      "category": "architect",
+      "file": "oscar_niemeyer.json"
+    },
+    {
+      "id": "osip_mandelstam",
+      "name": "Osip Mandelstam",
+      "category": "poet",
+      "file": "osip_mandelstam.json"
+    },
+    {
+      "id": "neruda",
+      "name": "Pablo Neruda",
+      "category": "poet",
+      "file": "neruda.json"
+    },
+    {
+      "id": "picasso",
+      "name": "Pablo Picasso",
+      "category": "artist",
+      "file": "picasso.json"
+    },
+    {
+      "id": "pancho_villa",
+      "name": "Pancho Villa",
+      "category": "revolutionary",
+      "file": "pancho_villa.json"
+    },
+    {
+      "id": "yogananda",
+      "name": "Paramahansa Yogananda",
+      "category": "religious",
+      "file": "yogananda.json"
+    },
+    {
+      "id": "parmenides",
+      "name": "Parmenides",
+      "category": "philosopher",
+      "file": "parmenides.json"
+    },
+    {
+      "id": "patrice_lumumba",
+      "name": "Patrice Lumumba",
+      "category": "revolutionary",
+      "file": "patrice_lumumba.json"
+    },
+    {
+      "id": "paul_thomas_anderson",
+      "name": "Paul Thomas Anderson",
+      "category": "filmmaker",
+      "file": "paul_thomas_anderson.json"
+    },
+    {
+      "id": "peter_jackson",
+      "name": "Peter Jackson",
+      "category": "filmmaker",
+      "file": "peter_jackson.json"
+    },
+    {
+      "id": "peter_thiel",
+      "name": "Peter Thiel",
+      "category": "tech_leader",
+      "file": "peter_thiel.json"
+    },
+    {
+      "id": "philip_johnson",
+      "name": "Philip Johnson",
+      "category": "architect",
+      "file": "philip_johnson.json"
+    },
+    {
+      "id": "bourdieu",
+      "name": "Pierre Bourdieu",
+      "category": "philosopher",
+      "file": "bourdieu.json"
+    },
+    {
+      "id": "plato",
+      "name": "Plato",
+      "category": "philosopher",
+      "file": "plato.json"
+    },
+    {
+      "id": "plotinus",
+      "name": "Plotinus",
+      "category": "philosopher",
+      "file": "plotinus.json"
+    },
+    {
+      "id": "prince",
+      "name": "Prince",
+      "category": "musician",
+      "file": "prince.json"
+    },
+    {
+      "id": "pseudo_dionysius",
+      "name": "Pseudo-Dionysius",
+      "category": "religious",
+      "file": "pseudo_dionysius.json"
+    },
+    {
+      "id": "pythagoras",
+      "name": "Pythagoras",
+      "category": "philosopher",
+      "file": "pythagoras.json"
+    },
+    {
+      "id": "elizabeth",
+      "name": "Queen Elizabeth I",
+      "category": "leader",
+      "file": "elizabeth.json"
+    },
+    {
+      "id": "queen_nzinga",
+      "name": "Queen Nzinga",
+      "category": "revolutionary",
+      "file": "queen_nzinga.json"
+    },
+    {
+      "id": "tarantino",
+      "name": "Quentin Tarantino",
+      "category": "filmmaker",
+      "file": "tarantino.json"
+    },
+    {
+      "id": "tagore",
+      "name": "Rabindranath Tagore",
+      "category": "religious",
+      "file": "tagore.json"
+    },
+    {
+      "id": "ralph_ellison",
+      "name": "Ralph Ellison",
+      "category": "writer",
+      "file": "ralph_ellison.json"
+    },
+    {
+      "id": "emerson",
+      "name": "Ralph Waldo Emerson",
+      "category": "religious",
+      "file": "emerson.json"
+    },
+    {
+      "id": "ramanuja",
+      "name": "Ramanuja",
+      "category": "religious",
+      "file": "ramanuja.json"
+    },
+    {
+      "id": "rani_lakshmibai",
+      "name": "Rani Lakshmibai",
+      "category": "revolutionary",
+      "file": "rani_lakshmibai.json"
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "category": "artist",
+      "file": "rembrandt.json"
+    },
+    {
+      "id": "descartes",
+      "name": "René Descartes",
+      "category": "philosopher",
+      "file": "descartes.json"
+    },
+    {
+      "id": "feynman",
+      "name": "Richard Feynman",
+      "category": "scientist",
+      "file": "feynman.json"
+    },
+    {
+      "id": "richard_victor",
+      "name": "Richard of St. Victor",
+      "category": "religious",
+      "file": "richard_victor.json"
+    },
+    {
+      "id": "richard_pryor",
+      "name": "Richard Pryor",
+      "category": "comedian",
+      "file": "richard_pryor.json"
+    },
+    {
+      "id": "richard_rorty",
+      "name": "Richard Rorty",
+      "category": "philosopher",
+      "file": "richard_rorty.json"
+    },
+    {
+      "id": "richard_wright",
+      "name": "Richard Wright",
+      "category": "writer",
+      "file": "richard_wright.json"
+    },
+    {
+      "id": "ricky_gervais",
+      "name": "Ricky Gervais",
+      "category": "comedian",
+      "file": "ricky_gervais.json"
+    },
+    {
+      "id": "ridley_scott",
+      "name": "Ridley Scott",
+      "category": "filmmaker",
+      "file": "ridley_scott.json"
+    },
+    {
+      "id": "roberto_bolano",
+      "name": "Roberto Bolaño",
+      "category": "writer",
+      "file": "roberto_bolano.json"
+    },
+    {
+      "id": "robin_williams",
+      "name": "Robin Williams",
+      "category": "comedian",
+      "file": "robin_williams.json"
+    },
+    {
+      "id": "roger_federer",
+      "name": "Roger Federer",
+      "category": "athlete",
+      "file": "roger_federer.json"
+    },
+    {
+      "id": "rosa_luxemburg",
+      "name": "Rosa Luxemburg",
+      "category": "revolutionary",
+      "file": "rosa_luxemburg.json"
+    },
+    {
+      "id": "rosa_parks",
+      "name": "Rosa Parks",
+      "category": "activist",
+      "file": "rosa_parks.json"
+    },
+    {
+      "id": "franklin_rosalind",
+      "name": "Rosalind Franklin",
+      "category": "scientist",
+      "file": "franklin_rosalind.json"
+    },
+    {
+      "id": "rumi",
+      "name": "Rumi",
+      "category": "poet",
+      "file": "rumi.json"
+    },
+    {
+      "id": "saadi",
+      "name": "Saadi Shirazi",
+      "category": "poet",
+      "file": "saadi.json"
+    },
+    {
+      "id": "salman_rushdie",
+      "name": "Salman Rushdie",
+      "category": "writer",
+      "file": "salman_rushdie.json"
+    },
+    {
+      "id": "dali",
+      "name": "Salvador Dalí",
+      "category": "artist",
+      "file": "dali.json"
+    },
+    {
+      "id": "sarah_silverman",
+      "name": "Sarah Silverman",
+      "category": "comedian",
+      "file": "sarah_silverman.json"
+    },
+    {
+      "id": "satoshi",
+      "name": "Satoshi Nakamoto",
+      "category": "blockchain",
+      "file": "satoshi.json"
+    },
+    {
+      "id": "satya_nadella",
+      "name": "Satya Nadella",
+      "category": "tech_leader",
+      "file": "satya_nadella.json"
+    },
+    {
+      "id": "seamus_heaney",
+      "name": "Seamus Heaney",
+      "category": "poet",
+      "file": "seamus_heaney.json"
+    },
+    {
+      "id": "sei_shonagon",
+      "name": "Sei Shōnagon",
+      "category": "writer",
+      "file": "sei_shonagon.json"
+    },
+    {
+      "id": "seneca",
+      "name": "Seneca",
+      "category": "philosopher",
+      "file": "seneca.json"
+    },
+    {
+      "id": "serena_williams",
+      "name": "Serena Williams",
+      "category": "athlete",
+      "file": "serena_williams.json"
+    },
+    {
+      "id": "sergey_brin",
+      "name": "Sergey Brin",
+      "category": "tech_leader",
+      "file": "sergey_brin.json"
+    },
+    {
+      "id": "shaka_zulu",
+      "name": "Shaka Zulu",
+      "category": "revolutionary",
+      "file": "shaka_zulu.json"
+    },
+    {
+      "id": "sheryl_sandberg",
+      "name": "Sheryl Sandberg",
+      "category": "tech_leader",
+      "file": "sheryl_sandberg.json"
+    },
+    {
+      "id": "buddha",
+      "name": "Siddhartha Gautama",
+      "category": "religious",
+      "file": "buddha.json"
+    },
+    {
+      "id": "simon_bolivar",
+      "name": "Simón Bolívar",
+      "category": "revolutionary",
+      "file": "simon_bolivar.json"
+    },
+    {
+      "id": "simone_biles",
+      "name": "Simone Biles",
+      "category": "athlete",
+      "file": "simone_biles.json"
+    },
+    {
+      "id": "beauvoir",
+      "name": "Simone de Beauvoir",
+      "category": "philosopher",
+      "file": "beauvoir.json"
+    },
+    {
+      "id": "simone_weil",
+      "name": "Simone Weil",
+      "category": "philosopher",
+      "file": "simone_weil.json"
+    },
+    {
+      "id": "sitting_bull",
+      "name": "Sitting Bull",
+      "category": "revolutionary",
+      "file": "sitting_bull.json"
+    },
+    {
+      "id": "zizek",
+      "name": "Slavoj Žižek",
+      "category": "philosopher",
+      "file": "zizek.json"
+    },
+    {
+      "id": "socrates",
+      "name": "Socrates",
+      "category": "philosopher",
+      "file": "socrates.json"
+    },
+    {
+      "id": "sofia_coppola",
+      "name": "Sofia Coppola",
+      "category": "filmmaker",
+      "file": "sofia_coppola.json"
+    },
+    {
+      "id": "sojourner_truth",
+      "name": "Sojourner Truth",
+      "category": "activist",
+      "file": "sojourner_truth.json"
+    },
+    {
+      "id": "kierkegaard",
+      "name": "Søren Kierkegaard",
+      "category": "philosopher",
+      "file": "kierkegaard.json"
+    },
+    {
+      "id": "spartacus",
+      "name": "Spartacus",
+      "category": "revolutionary",
+      "file": "spartacus.json"
+    },
+    {
+      "id": "sri_ramakrishna",
+      "name": "Sri Ramakrishna",
+      "category": "religious",
+      "file": "sri_ramakrishna.json"
+    },
+    {
+      "id": "augustine",
+      "name": "St. Augustine of Hippo",
+      "category": "religious",
+      "file": "augustine.json"
+    },
+    {
+      "id": "bonaventure",
+      "name": "St. Bonaventure",
+      "category": "religious",
+      "file": "bonaventure.json"
+    },
+    {
+      "id": "john_cross",
+      "name": "St. John of the Cross",
+      "category": "religious",
+      "file": "john_cross.json"
+    },
+    {
+      "id": "paul_apostle",
+      "name": "St. Paul (Paul of Tarsus)",
+      "category": "religious",
+      "file": "paul_apostle.json"
+    },
+    {
+      "id": "teresa_avila",
+      "name": "St. Teresa of Ávila",
+      "category": "religious",
+      "file": "teresa_avila.json"
+    },
+    {
+      "id": "stanley_kubrick",
+      "name": "Stanley Kubrick",
+      "category": "filmmaker",
+      "file": "stanley_kubrick.json"
+    },
+    {
+      "id": "stephen_colbert",
+      "name": "Stephen Colbert",
+      "category": "comedian",
+      "file": "stephen_colbert.json"
+    },
+    {
+      "id": "hawking",
+      "name": "Stephen Hawking",
+      "category": "scientist",
+      "file": "hawking.json"
+    },
+    {
+      "id": "steve_biko",
+      "name": "Steve Biko",
+      "category": "activist",
+      "file": "steve_biko.json"
+    },
+    {
+      "id": "steve_carell",
+      "name": "Steve Carell",
+      "category": "comedian",
+      "file": "steve_carell.json"
+    },
+    {
+      "id": "steve_jobs",
+      "name": "Steve Jobs",
+      "category": "tech_leader",
+      "file": "steve_jobs.json"
+    },
+    {
+      "id": "steve_martin",
+      "name": "Steve Martin",
+      "category": "comedian",
+      "file": "steve_martin.json"
+    },
+    {
+      "id": "spielberg",
+      "name": "Steven Spielberg",
+      "category": "filmmaker",
+      "file": "spielberg.json"
+    },
+    {
+      "id": "su_shi",
+      "name": "Su Shi (Su Dongpo)",
+      "category": "poet",
+      "file": "su_shi.json"
+    },
+    {
+      "id": "sukarno",
+      "name": "Sukarno",
+      "category": "revolutionary",
+      "file": "sukarno.json"
+    },
+    {
+      "id": "sun_yat_sen",
+      "name": "Sun Yat-sen",
+      "category": "revolutionary",
+      "file": "sun_yat_sen.json"
+    },
+    {
+      "id": "sundar_pichai",
+      "name": "Sundar Pichai",
+      "category": "tech_leader",
+      "file": "sundar_pichai.json"
+    },
+    {
+      "id": "susan_b_anthony",
+      "name": "Susan B. Anthony",
+      "category": "activist",
+      "file": "susan_b_anthony.json"
+    },
+    {
+      "id": "sontag",
+      "name": "Susan Sontag",
+      "category": "philosopher",
+      "file": "sontag.json"
+    },
+    {
+      "id": "vivekananda",
+      "name": "Swami Vivekananda",
+      "category": "religious",
+      "file": "vivekananda.json"
+    },
+    {
+      "id": "sylvia_plath",
+      "name": "Sylvia Plath",
+      "category": "poet",
+      "file": "sylvia_plath.json"
+    },
+    {
+      "id": "symeon_theologian",
+      "name": "Symeon the New Theologian",
+      "category": "religious",
+      "file": "symeon_theologian.json"
+    },
+    {
+      "id": "lawrence",
+      "name": "T.E. Lawrence",
+      "category": "explorer",
+      "file": "lawrence.json"
+    },
+    {
+      "id": "eliot",
+      "name": "T.S. Eliot",
+      "category": "poet",
+      "file": "eliot.json"
+    },
+    {
+      "id": "tadao_ando",
+      "name": "Tadao Ando",
+      "category": "architect",
+      "file": "tadao_ando.json"
+    },
+    {
+      "id": "talcott_parsons",
+      "name": "Talcott Parsons",
+      "category": "philosopher",
+      "file": "talcott_parsons.json"
+    },
+    {
+      "id": "tecumseh",
+      "name": "Tecumseh",
+      "category": "revolutionary",
+      "file": "tecumseh.json"
+    },
+    {
+      "id": "tertullian",
+      "name": "Tertullian",
+      "category": "religious",
+      "file": "tertullian.json"
+    },
+    {
+      "id": "thales",
+      "name": "Thales",
+      "category": "philosopher",
+      "file": "thales.json"
+    },
+    {
+      "id": "adorno",
+      "name": "Theodor Adorno",
+      "category": "philosopher",
+      "file": "adorno.json"
+    },
+    {
+      "id": "thich_nhat_hanh",
+      "name": "Thich Nhat Hanh",
+      "category": "religious",
+      "file": "thich_nhat_hanh.json"
+    },
+    {
+      "id": "aquinas",
+      "name": "Thomas Aquinas",
+      "category": "philosopher",
+      "file": "aquinas.json"
+    },
+    {
+      "id": "hobbes",
+      "name": "Thomas Hobbes",
+      "category": "philosopher",
+      "file": "hobbes.json"
+    },
+    {
+      "id": "thomas_merton",
+      "name": "Thomas Merton",
+      "category": "religious",
+      "file": "thomas_merton.json"
+    },
+    {
+      "id": "thomas_paine",
+      "name": "Thomas Paine",
+      "category": "revolutionary",
+      "file": "thomas_paine.json"
+    },
+    {
+      "id": "thomas_sankara",
+      "name": "Thomas Sankara",
+      "category": "revolutionary",
+      "file": "thomas_sankara.json"
+    },
+    {
+      "id": "thor_heyerdahl",
+      "name": "Thor Heyerdahl",
+      "category": "explorer",
+      "file": "thor_heyerdahl.json"
+    },
+    {
+      "id": "tiger_woods",
+      "name": "Tiger Woods",
+      "category": "athlete",
+      "file": "tiger_woods.json"
+    },
+    {
+      "id": "tim_burton",
+      "name": "Tim Burton",
+      "category": "filmmaker",
+      "file": "tim_burton.json"
+    },
+    {
+      "id": "tina_fey",
+      "name": "Tina Fey",
+      "category": "comedian",
+      "file": "tina_fey.json"
+    },
+    {
+      "id": "tom_brady",
+      "name": "Tom Brady",
+      "category": "athlete",
+      "file": "tom_brady.json"
+    },
+    {
+      "id": "morrison",
+      "name": "Toni Morrison",
+      "category": "writer",
+      "file": "morrison.json"
+    },
+    {
+      "id": "toussaint_louverture",
+      "name": "Toussaint Louverture",
+      "category": "revolutionary",
+      "file": "toussaint_louverture.json"
+    },
+    {
+      "id": "trevor_noah",
+      "name": "Trevor Noah",
+      "category": "comedian",
+      "file": "trevor_noah.json"
+    },
+    {
+      "id": "tulsidas",
+      "name": "Tulsidas",
+      "category": "poet",
+      "file": "tulsidas.json"
+    },
+    {
+      "id": "usain_bolt",
+      "name": "Usain Bolt",
+      "category": "athlete",
+      "file": "usain_bolt.json"
+    },
+    {
+      "id": "vaclav_havel",
+      "name": "Václav Havel",
+      "category": "writer",
+      "file": "vaclav_havel.json"
+    },
+    {
+      "id": "vaclav_havel",
+      "name": "Václav Havel",
+      "category": "activist",
+      "file": "vaclav_havel.json"
+    },
+    {
+      "id": "valmiki",
+      "name": "Valmiki",
+      "category": "poet",
+      "file": "valmiki.json"
+    },
+    {
+      "id": "hugo",
+      "name": "Victor Hugo",
+      "category": "writer",
+      "file": "hugo.json"
+    },
+    {
+      "id": "vangogh",
+      "name": "Vincent van Gogh",
+      "category": "artist",
+      "file": "vangogh.json"
+    },
+    {
+      "id": "virginia_woolf",
+      "name": "Virginia Woolf",
+      "category": "writer",
+      "file": "virginia_woolf.json"
+    },
+    {
+      "id": "voltaire",
+      "name": "Voltaire",
+      "category": "philosopher",
+      "file": "voltaire.json"
+    },
+    {
+      "id": "vyasa",
+      "name": "Vyasa",
+      "category": "poet",
+      "file": "vyasa.json"
+    },
+    {
+      "id": "walt_disney",
+      "name": "Walt Disney",
+      "category": "media",
+      "file": "walt_disney.json"
+    },
+    {
+      "id": "whitman",
+      "name": "Walt Whitman",
+      "category": "poet",
+      "file": "whitman.json"
+    },
+    {
+      "id": "benjamin",
+      "name": "Walter Benjamin",
+      "category": "philosopher",
+      "file": "benjamin.json"
+    },
+    {
+      "id": "walter_gropius",
+      "name": "Walter Gropius",
+      "category": "architect",
+      "file": "walter_gropius.json"
+    },
+    {
+      "id": "wang_wei",
+      "name": "Wang Wei",
+      "category": "poet",
+      "file": "wang_wei.json"
+    },
+    {
+      "id": "warren_buffett",
+      "name": "Warren Buffett",
+      "category": "tech_leader",
+      "file": "warren_buffett.json"
+    },
+    {
+      "id": "wayne_gretzky",
+      "name": "Wayne Gretzky",
+      "category": "athlete",
+      "file": "wayne_gretzky.json"
+    },
+    {
+      "id": "wes_anderson",
+      "name": "Wes Anderson",
+      "category": "filmmaker",
+      "file": "wes_anderson.json"
+    },
+    {
+      "id": "william_james",
+      "name": "William James",
+      "category": "religious",
+      "file": "william_james.json"
+    },
+    {
+      "id": "william_lloyd_garrison",
+      "name": "William Lloyd Garrison",
+      "category": "activist",
+      "file": "william_lloyd_garrison.json"
+    },
+    {
+      "id": "william_ockham",
+      "name": "William of Ockham",
+      "category": "religious",
+      "file": "william_ockham.json"
+    },
+    {
+      "id": "william_penn",
+      "name": "William Penn",
+      "category": "religious",
+      "file": "william_penn.json"
+    },
+    {
+      "id": "shakespeare",
+      "name": "William Shakespeare",
+      "category": "poet",
+      "file": "shakespeare.json"
+    },
+    {
+      "id": "william_wilberforce",
+      "name": "William Wilberforce",
+      "category": "activist",
+      "file": "william_wilberforce.json"
+    },
+    {
+      "id": "churchill",
+      "name": "Winston Churchill",
+      "category": "statesman",
+      "file": "churchill.json"
+    },
+    {
+      "id": "wislawa_szymborska",
+      "name": "Wisława Szymborska",
+      "category": "poet",
+      "file": "wislawa_szymborska.json"
+    },
+    {
+      "id": "wole_soyinka",
+      "name": "Wole Soyinka",
+      "category": "writer",
+      "file": "wole_soyinka.json"
+    },
+    {
+      "id": "mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "category": "composer",
+      "file": "mozart.json"
+    },
+    {
+      "id": "xenophon",
+      "name": "Xenophon",
+      "category": "philosopher",
+      "file": "xenophon.json"
+    },
+    {
+      "id": "xunzi",
+      "name": "Xunzi",
+      "category": "religious",
+      "file": "xunzi.json"
+    },
+    {
+      "id": "yasunari_kawabata",
+      "name": "Yasunari Kawabata",
+      "category": "writer",
+      "file": "yasunari_kawabata.json"
+    },
+    {
+      "id": "yevgeny_yevtushenko",
+      "name": "Yevgeny Yevtushenko",
+      "category": "poet",
+      "file": "yevgeny_yevtushenko.json"
+    },
+    {
+      "id": "yukio_mishima",
+      "name": "Yukio Mishima",
+      "category": "writer",
+      "file": "yukio_mishima.json"
+    },
+    {
+      "id": "yuri_gagarin",
+      "name": "Yuri Gagarin",
+      "category": "explorer",
+      "file": "yuri_gagarin.json"
+    },
+    {
+      "id": "zeekay",
+      "name": "Zach Kelling",
+      "category": "architect",
+      "file": "zeekay.json"
+    },
+    {
+      "id": "zaha_hadid",
+      "name": "Zaha Hadid",
+      "category": "architect",
+      "file": "zaha_hadid.json"
+    },
+    {
+      "id": "zeno_elea",
+      "name": "Zeno of Elea",
+      "category": "philosopher",
+      "file": "zeno_elea.json"
+    },
+    {
+      "id": "zhuangzi",
+      "name": "Zhuangzi",
+      "category": "religious",
+      "file": "zhuangzi.json"
+    },
+    {
+      "id": "zora_neale_hurston",
+      "name": "Zora Neale Hurston",
+      "category": "writer",
+      "file": "zora_neale_hurston.json"
+    },
+    {
+      "id": "zoroaster",
+      "name": "Zoroaster",
+      "category": "religious",
+      "file": "zoroaster.json"
+    }
+  ]
+}

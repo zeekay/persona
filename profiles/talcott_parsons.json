@@ -1,0 +1,12 @@
+{
+  "id": "talcott_parsons",
+  "name": "Talcott Parsons",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 60,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 60,
+    "neuroticism": 25
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mahmoud_darwish",
+  "name": "Mahmoud Darwish",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 55
+  }
+}

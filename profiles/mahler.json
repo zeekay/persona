@@ -1,0 +1,12 @@
+{
+  "id": "mahler",
+  "name": "Gustav Mahler",
+  "category": "composer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 50,
+    "neuroticism": 75
+  }
+}

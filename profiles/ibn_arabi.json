@@ -1,0 +1,12 @@
+{
+  "id": "ibn_arabi",
+  "name": "Ibn Arabi",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 60,
+    "neuroticism": 25
+  }
+}

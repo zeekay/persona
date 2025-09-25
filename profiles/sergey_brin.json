@@ -1,0 +1,12 @@
+{
+  "id": "sergey_brin",
+  "name": "Sergey Brin",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 45,
+    "agreeableness": 65,
+    "neuroticism": 30
+  }
+}

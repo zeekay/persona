@@ -1,0 +1,12 @@
+{
+  "id": "confucius",
+  "name": "Confucius",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 50,
+    "agreeableness": 85,
+    "neuroticism": 25
+  }
+}

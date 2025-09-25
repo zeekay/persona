@@ -1,0 +1,12 @@
+{
+  "id": "sundar_pichai",
+  "name": "Sundar Pichai",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 55,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

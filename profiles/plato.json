@@ -1,0 +1,12 @@
+{
+  "id": "plato",
+  "name": "Plato",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 60,
+    "neuroticism": 40
+  }
+}

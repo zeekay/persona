@@ -1,0 +1,12 @@
+{
+  "id": "christopher_columbus",
+  "name": "Christopher Columbus",
+  "category": "explorer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 35,
+    "neuroticism": 50
+  }
+}

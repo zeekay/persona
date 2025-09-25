@@ -1,0 +1,12 @@
+{
+  "id": "aristotle",
+  "name": "Aristotle",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 90,
+    "extraversion": 45,
+    "agreeableness": 65,
+    "neuroticism": 30
+  }
+}

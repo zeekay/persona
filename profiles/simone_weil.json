@@ -1,0 +1,12 @@
+{
+  "id": "simone_weil",
+  "name": "Simone Weil",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 95,
+    "neuroticism": 85
+  }
+}

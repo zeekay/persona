@@ -1,0 +1,12 @@
+{
+  "id": "churchill",
+  "name": "Winston Churchill",
+  "category": "statesman",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 65,
+    "extraversion": 85,
+    "agreeableness": 45,
+    "neuroticism": 55
+  }
+}

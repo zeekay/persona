@@ -1,0 +1,12 @@
+{
+  "id": "joseph_smith",
+  "name": "Joseph Smith",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 70,
+    "extraversion": 80,
+    "agreeableness": 65,
+    "neuroticism": 55
+  }
+}

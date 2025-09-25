@@ -1,0 +1,12 @@
+{
+  "id": "vaclav_havel",
+  "name": "Václav Havel",
+  "category": "activist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 80,
+    "neuroticism": 35
+  }
+}

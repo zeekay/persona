@@ -1,0 +1,12 @@
+{
+  "id": "russell",
+  "name": "Bertrand Russell",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 65,
+    "neuroticism": 35
+  }
+}

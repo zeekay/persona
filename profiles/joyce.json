@@ -1,0 +1,12 @@
+{
+  "id": "joyce",
+  "name": "James Joyce",
+  "category": "writer",
+  "ocean": {
+    "openness": 100,
+    "conscientiousness": 65,
+    "extraversion": 60,
+    "agreeableness": 45,
+    "neuroticism": 55
+  }
+}

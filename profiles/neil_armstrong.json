@@ -1,0 +1,12 @@
+{
+  "id": "neil_armstrong",
+  "name": "Neil Armstrong",
+  "category": "explorer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 40,
+    "agreeableness": 70,
+    "neuroticism": 20
+  }
+}

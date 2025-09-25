@@ -1,0 +1,12 @@
+{
+  "id": "thor_heyerdahl",
+  "name": "Thor Heyerdahl",
+  "category": "explorer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 75,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "marcel_mauss",
+  "name": "Marcel Mauss",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 50,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

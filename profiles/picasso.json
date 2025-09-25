@@ -1,0 +1,12 @@
+{
+  "id": "picasso",
+  "name": "Pablo Picasso",
+  "category": "artist",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 70,
+    "extraversion": 80,
+    "agreeableness": 40,
+    "neuroticism": 45
+  }
+}

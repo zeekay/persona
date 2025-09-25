@@ -1,0 +1,12 @@
+{
+  "id": "debussy",
+  "name": "Claude Debussy",
+  "category": "composer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 50,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "muhammad_ali",
+  "name": "Muhammad Ali",
+  "category": "athlete",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 95,
+    "agreeableness": 60,
+    "neuroticism": 40
+  }
+}

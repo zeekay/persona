@@ -1,0 +1,12 @@
+{
+  "id": "sitting_bull",
+  "name": "Sitting Bull",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 70,
+    "extraversion": 60,
+    "agreeableness": 55,
+    "neuroticism": 45
+  }
+}

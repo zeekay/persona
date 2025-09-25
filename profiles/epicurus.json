@@ -1,0 +1,12 @@
+{
+  "id": "epicurus",
+  "name": "Epicurus",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 55,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

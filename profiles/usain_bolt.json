@@ -1,0 +1,12 @@
+{
+  "id": "usain_bolt",
+  "name": "Usain Bolt",
+  "category": "athlete",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 85,
+    "extraversion": 90,
+    "agreeableness": 80,
+    "neuroticism": 20
+  }
+}

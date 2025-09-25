@@ -1,0 +1,12 @@
+{
+  "id": "chomsky",
+  "name": "Noam Chomsky",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

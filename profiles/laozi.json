@@ -1,0 +1,12 @@
+{
+  "id": "laozi",
+  "name": "Laozi",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 20,
+    "agreeableness": 90,
+    "neuroticism": 20
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bernard_clairvaux",
+  "name": "Bernard of Clairvaux",
+  "category": "religious",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 45
+  }
+}

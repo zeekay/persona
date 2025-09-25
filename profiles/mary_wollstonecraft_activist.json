@@ -1,0 +1,12 @@
+{
+  "id": "mary_wollstonecraft_activist",
+  "name": "Mary Wollstonecraft",
+  "category": "activist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 65,
+    "neuroticism": 55
+  }
+}

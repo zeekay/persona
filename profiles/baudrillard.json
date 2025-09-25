@@ -1,0 +1,12 @@
+{
+  "id": "baudrillard",
+  "name": "Jean Baudrillard",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 50,
+    "agreeableness": 30,
+    "neuroticism": 65
+  }
+}

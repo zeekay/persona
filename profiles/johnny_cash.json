@@ -1,0 +1,12 @@
+{
+  "id": "johnny_cash",
+  "name": "Johnny Cash",
+  "category": "musician",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 60,
+    "agreeableness": 75,
+    "neuroticism": 60
+  }
+}

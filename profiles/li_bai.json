@@ -1,0 +1,12 @@
+{
+  "id": "li_bai",
+  "name": "Li Bai",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 50,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 45
+  }
+}

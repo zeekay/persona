@@ -1,0 +1,12 @@
+{
+  "id": "montaigne",
+  "name": "Michel de Montaigne",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 70,
+    "extraversion": 50,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

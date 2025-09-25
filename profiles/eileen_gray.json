@@ -1,0 +1,12 @@
+{
+  "id": "eileen_gray",
+  "name": "Eileen Gray",
+  "category": "architect",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 35,
+    "agreeableness": 60,
+    "neuroticism": 45
+  }
+}

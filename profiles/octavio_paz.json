@@ -1,0 +1,12 @@
+{
+  "id": "octavio_paz",
+  "name": "Octavio Paz",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 60,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

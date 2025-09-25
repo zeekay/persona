@@ -1,0 +1,12 @@
+{
+  "id": "leo_strauss",
+  "name": "Leo Strauss",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 30,
+    "neuroticism": 60
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bill_gates",
+  "name": "Bill Gates",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 95,
+    "extraversion": 40,
+    "agreeableness": 75,
+    "neuroticism": 30
+  }
+}

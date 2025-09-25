@@ -1,0 +1,12 @@
+{
+  "id": "leon_trotsky",
+  "name": "Leon Trotsky",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 80,
+    "agreeableness": 30,
+    "neuroticism": 65
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aldous_huxley",
+  "name": "Aldous Huxley",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 60
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mary_wollstonecraft",
+  "name": "Mary Wollstonecraft",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 55
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hildegard_bingen",
+  "name": "Hildegard of Bingen",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 50,
+    "agreeableness": 80,
+    "neuroticism": 55
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "olympe_de_gouges",
+  "name": "Olympe de Gouges",
+  "category": "activist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 75,
+    "agreeableness": 60,
+    "neuroticism": 55
+  }
+}

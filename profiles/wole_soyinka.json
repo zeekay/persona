@@ -1,0 +1,12 @@
+{
+  "id": "wole_soyinka",
+  "name": "Wole Soyinka",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 60,
+    "neuroticism": 45
+  }
+}

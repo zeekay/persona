@@ -1,0 +1,12 @@
+{
+  "id": "karl_marx",
+  "name": "Karl Marx",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 90,
+    "agreeableness": 30,
+    "neuroticism": 60
+  }
+}

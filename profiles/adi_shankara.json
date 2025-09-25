@@ -1,0 +1,12 @@
+{
+  "id": "adi_shankara",
+  "name": "Adi Shankara",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 60,
+    "neuroticism": 25
+  }
+}

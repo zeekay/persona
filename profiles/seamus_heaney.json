@@ -1,0 +1,12 @@
+{
+  "id": "seamus_heaney",
+  "name": "Seamus Heaney",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 80,
+    "neuroticism": 35
+  }
+}

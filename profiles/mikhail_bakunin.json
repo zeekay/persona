@@ -1,0 +1,12 @@
+{
+  "id": "mikhail_bakunin",
+  "name": "Mikhail Bakunin",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 40,
+    "extraversion": 80,
+    "agreeableness": 25,
+    "neuroticism": 70
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cs_lewis",
+  "name": "C.S. Lewis",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 50,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

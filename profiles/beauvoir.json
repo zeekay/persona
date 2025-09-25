@@ -1,0 +1,12 @@
+{
+  "id": "beauvoir",
+  "name": "Simone de Beauvoir",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 55,
+    "agreeableness": 65,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "jeremy_bentham",
+  "name": "Jeremy Bentham",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 45,
+    "agreeableness": 60,
+    "neuroticism": 40
+  }
+}

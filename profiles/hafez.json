@@ -1,0 +1,12 @@
+{
+  "id": "hafez",
+  "name": "Hafez",
+  "category": "poet",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 70,
+    "extraversion": 55,
+    "agreeableness": 85,
+    "neuroticism": 35
+  }
+}

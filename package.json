@@ -1,34 +1,32 @@
 {
   "name": "@hanzo/persona",
   "version": "1.0.0",
-  "description": "Unified programmer personality profiles for Hanzo ecosystem",
-  "main": "personalities/personality_loader.js",
-  "types": "personalities/personality_loader.ts",
-  "files": [
-    "personalities/",
-    "schemas/",
-    "tools/",
-    "README.md"
-  ],
+  "description": "Comprehensive personality profiles with OCEAN scores for AI modeling",
+  "main": "profiles/loader.js",
+  "type": "module",
+  "exports": {
+    ".": "./profiles/loader.js",
+    "./profiles/*": "./profiles/*",
+    "./index": "./profiles/index.json",
+    "./categories": "./profiles/categories.json"
+  },
   "scripts": {
-    "build": "tsc",
-    "test": "node -e \"const loader = require('./personalities/personality_loader'); console.log('Loaded', loader.countPersonalities(), 'personalities');\""
+    "split": "node scripts/split-personalities.js",
+    "validate": "node scripts/validate.js",
+    "test": "node test/test-loader.js"
   },
   "keywords": [
-    "hanzo",
     "personality",
-    "personas",
-    "programmer",
-    "ai"
+    "ocean",
+    "big-five",
+    "psychology",
+    "ai",
+    "personas"
   ],
   "author": "Hanzo AI",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hanzoai/persona.git"
-  },
-  "devDependencies": {
-    "@types/node": "^20.0.0",
-    "typescript": "^5.0.0"
+    "url": "git+https://github.com/hanzoai/persona.git"
   }
 }

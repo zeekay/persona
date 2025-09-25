@@ -1,0 +1,12 @@
+{
+  "id": "amelia_earhart",
+  "name": "Amelia Earhart",
+  "category": "explorer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

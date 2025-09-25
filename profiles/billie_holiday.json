@@ -1,0 +1,12 @@
+{
+  "id": "billie_holiday",
+  "name": "Billie Holiday",
+  "category": "musician",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 55,
+    "extraversion": 60,
+    "agreeableness": 65,
+    "neuroticism": 80
+  }
+}

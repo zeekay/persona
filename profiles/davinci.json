@@ -1,0 +1,12 @@
+{
+  "id": "davinci",
+  "name": "Leonardo da Vinci",
+  "category": "artist",
+  "ocean": {
+    "openness": 100,
+    "conscientiousness": 80,
+    "extraversion": 50,
+    "agreeableness": 55,
+    "neuroticism": 40
+  }
+}

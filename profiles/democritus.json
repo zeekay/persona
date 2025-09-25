@@ -1,0 +1,12 @@
+{
+  "id": "democritus",
+  "name": "Democritus",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 30
+  }
+}

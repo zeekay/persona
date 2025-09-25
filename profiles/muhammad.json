@@ -1,0 +1,12 @@
+{
+  "id": "muhammad",
+  "name": "Muhammad",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 85,
+    "agreeableness": 80,
+    "neuroticism": 40
+  }
+}

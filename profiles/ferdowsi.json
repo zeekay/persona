@@ -1,0 +1,12 @@
+{
+  "id": "ferdowsi",
+  "name": "Ferdowsi",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 90,
+    "extraversion": 55,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

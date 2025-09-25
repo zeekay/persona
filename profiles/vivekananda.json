@@ -1,0 +1,12 @@
+{
+  "id": "vivekananda",
+  "name": "Swami Vivekananda",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 90,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

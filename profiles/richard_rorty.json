@@ -1,0 +1,12 @@
+{
+  "id": "richard_rorty",
+  "name": "Richard Rorty",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 50
+  }
+}

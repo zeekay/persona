@@ -1,0 +1,12 @@
+{
+  "id": "goodall",
+  "name": "Jane Goodall",
+  "category": "scientist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 90,
+    "neuroticism": 30
+  }
+}

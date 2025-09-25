@@ -1,0 +1,12 @@
+{
+  "id": "william_james",
+  "name": "William James",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 50,
+    "agreeableness": 75,
+    "neuroticism": 50
+  }
+}

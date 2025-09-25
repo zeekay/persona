@@ -1,0 +1,12 @@
+{
+  "id": "gao_xingjian",
+  "name": "Gao Xingjian",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 35,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

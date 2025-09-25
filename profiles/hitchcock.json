@@ -1,0 +1,12 @@
+{
+  "id": "hitchcock",
+  "name": "Alfred Hitchcock",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 30,
+    "agreeableness": 30,
+    "neuroticism": 55
+  }
+}

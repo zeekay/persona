@@ -1,0 +1,12 @@
+{
+  "id": "guillermo_del_toro",
+  "name": "Guillermo del Toro",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 80,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hypatia",
+  "name": "Hypatia",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 55,
+    "agreeableness": 70,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "roger_federer",
+  "name": "Roger Federer",
+  "category": "athlete",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 95,
+    "extraversion": 60,
+    "agreeableness": 85,
+    "neuroticism": 20
+  }
+}

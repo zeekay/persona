@@ -1,0 +1,12 @@
+{
+  "id": "langston_hughes",
+  "name": "Langston Hughes",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "baudelaire",
+  "name": "Charles Baudelaire",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 55,
+    "agreeableness": 35,
+    "neuroticism": 80
+  }
+}

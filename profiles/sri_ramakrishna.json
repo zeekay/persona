@@ -1,0 +1,12 @@
+{
+  "id": "sri_ramakrishna",
+  "name": "Sri Ramakrishna",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 40,
+    "extraversion": 70,
+    "agreeableness": 95,
+    "neuroticism": 60
+  }
+}

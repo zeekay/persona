@@ -1,0 +1,12 @@
+{
+  "id": "warhol",
+  "name": "Andy Warhol",
+  "category": "artist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 65,
+    "extraversion": 55,
+    "agreeableness": 40,
+    "neuroticism": 55
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mirabai",
+  "name": "Mirabai",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 55,
+    "extraversion": 65,
+    "agreeableness": 90,
+    "neuroticism": 60
+  }
+}

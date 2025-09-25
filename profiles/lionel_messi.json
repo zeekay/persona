@@ -1,0 +1,12 @@
+{
+  "id": "lionel_messi",
+  "name": "Lionel Messi",
+  "category": "athlete",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 90,
+    "extraversion": 35,
+    "agreeableness": 70,
+    "neuroticism": 25
+  }
+}

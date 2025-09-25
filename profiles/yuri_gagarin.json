@@ -1,0 +1,12 @@
+{
+  "id": "yuri_gagarin",
+  "name": "Yuri Gagarin",
+  "category": "explorer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 25
+  }
+}

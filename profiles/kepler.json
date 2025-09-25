@@ -1,0 +1,12 @@
+{
+  "id": "kepler",
+  "name": "Johannes Kepler",
+  "category": "scientist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 30,
+    "agreeableness": 50,
+    "neuroticism": 60
+  }
+}

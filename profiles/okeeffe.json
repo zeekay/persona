@@ -1,0 +1,12 @@
+{
+  "id": "okeeffe",
+  "name": "Georgia O'Keeffe",
+  "category": "artist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 65,
+    "neuroticism": 35
+  }
+}

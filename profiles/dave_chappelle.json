@@ -1,0 +1,12 @@
+{
+  "id": "dave_chappelle",
+  "name": "Dave Chappelle",
+  "category": "comedian",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 50,
+    "neuroticism": 55
+  }
+}

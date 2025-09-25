@@ -1,0 +1,12 @@
+{
+  "id": "tadao_ando",
+  "name": "Tadao Ando",
+  "category": "architect",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 65,
+    "neuroticism": 35
+  }
+}

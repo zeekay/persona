@@ -1,0 +1,12 @@
+{
+  "id": "socrates",
+  "name": "Socrates",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 60,
+    "neuroticism": 35
+  }
+}

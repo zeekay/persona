@@ -1,0 +1,12 @@
+{
+  "id": "kalidasa",
+  "name": "Kalidasa",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 60,
+    "agreeableness": 75,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "arendt",
+  "name": "Hannah Arendt",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 50,
+    "neuroticism": 50
+  }
+}

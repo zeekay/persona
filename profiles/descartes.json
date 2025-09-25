@@ -1,0 +1,12 @@
+{
+  "id": "descartes",
+  "name": "René Descartes",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 95,
+    "extraversion": 35,
+    "agreeableness": 50,
+    "neuroticism": 40
+  }
+}

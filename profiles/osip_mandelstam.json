@@ -1,0 +1,12 @@
+{
+  "id": "osip_mandelstam",
+  "name": "Osip Mandelstam",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 35,
+    "agreeableness": 60,
+    "neuroticism": 75
+  }
+}

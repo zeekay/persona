@@ -1,0 +1,12 @@
+{
+  "id": "le_corbusier",
+  "name": "Le Corbusier",
+  "category": "architect",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 65,
+    "agreeableness": 30,
+    "neuroticism": 40
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "west",
+  "name": "Cornel West",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 90,
+    "agreeableness": 85,
+    "neuroticism": 25
+  }
+}

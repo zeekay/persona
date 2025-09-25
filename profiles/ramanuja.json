@@ -1,0 +1,12 @@
+{
+  "id": "ramanuja",
+  "name": "Ramanuja",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

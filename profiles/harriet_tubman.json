@@ -1,0 +1,12 @@
+{
+  "id": "harriet_tubman",
+  "name": "Harriet Tubman",
+  "category": "activist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 30
+  }
+}

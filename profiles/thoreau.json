@@ -1,0 +1,12 @@
+{
+  "id": "thoreau",
+  "name": "Henry David Thoreau",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 75,
+    "neuroticism": 60
+  }
+}

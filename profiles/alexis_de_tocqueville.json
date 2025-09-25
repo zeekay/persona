@@ -1,0 +1,12 @@
+{
+  "id": "alexis_de_tocqueville",
+  "name": "Alexis de Tocqueville",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

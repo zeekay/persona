@@ -1,0 +1,12 @@
+{
+  "id": "mandela",
+  "name": "Nelson Mandela",
+  "category": "statesman",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 95,
+    "neuroticism": 25
+  }
+}

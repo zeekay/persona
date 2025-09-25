@@ -1,0 +1,12 @@
+{
+  "id": "gabriel_prosser",
+  "name": "Gabriel Prosser",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 50,
+    "neuroticism": 55
+  }
+}

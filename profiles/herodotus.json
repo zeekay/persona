@@ -1,0 +1,12 @@
+{
+  "id": "herodotus",
+  "name": "Herodotus",
+  "category": "historian",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 70,
+    "extraversion": 60,
+    "agreeableness": 65,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "amy_poehler",
+  "name": "Amy Poehler",
+  "category": "comedian",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 85,
+    "agreeableness": 80,
+    "neuroticism": 30
+  }
+}

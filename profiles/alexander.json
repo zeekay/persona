@@ -1,0 +1,12 @@
+{
+  "id": "alexander",
+  "name": "Alexander the Great",
+  "category": "leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 90,
+    "agreeableness": 30,
+    "neuroticism": 40
+  }
+}

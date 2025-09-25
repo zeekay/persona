@@ -1,0 +1,12 @@
+{
+  "id": "queen_nzinga",
+  "name": "Queen Nzinga",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 45,
+    "neuroticism": 45
+  }
+}

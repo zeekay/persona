@@ -1,0 +1,12 @@
+{
+  "id": "im_pei",
+  "name": "I.M. Pei",
+  "category": "architect",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 95,
+    "extraversion": 55,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

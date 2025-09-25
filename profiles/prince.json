@@ -1,0 +1,12 @@
+{
+  "id": "prince",
+  "name": "Prince",
+  "category": "musician",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 40,
+    "neuroticism": 55
+  }
+}

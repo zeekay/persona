@@ -1,0 +1,12 @@
+{
+  "id": "benjamin",
+  "name": "Walter Benjamin",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 40,
+    "extraversion": 30,
+    "agreeableness": 55,
+    "neuroticism": 70
+  }
+}

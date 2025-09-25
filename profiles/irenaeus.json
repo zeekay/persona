@@ -1,0 +1,12 @@
+{
+  "id": "irenaeus",
+  "name": "Irenaeus",
+  "category": "religious",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 55,
+    "agreeableness": 75,
+    "neuroticism": 40
+  }
+}

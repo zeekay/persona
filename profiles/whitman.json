@@ -1,0 +1,12 @@
+{
+  "id": "whitman",
+  "name": "Walt Whitman",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 85,
+    "agreeableness": 80,
+    "neuroticism": 40
+  }
+}

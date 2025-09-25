@@ -1,0 +1,12 @@
+{
+  "id": "carlo_scarpa",
+  "name": "Carlo Scarpa",
+  "category": "architect",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 35,
+    "agreeableness": 65,
+    "neuroticism": 45
+  }
+}

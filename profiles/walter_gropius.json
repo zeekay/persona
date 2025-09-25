@@ -1,0 +1,12 @@
+{
+  "id": "walter_gropius",
+  "name": "Walter Gropius",
+  "category": "architect",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 90,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "crazy_horse",
+  "name": "Crazy Horse",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 65,
+    "extraversion": 45,
+    "agreeableness": 40,
+    "neuroticism": 50
+  }
+}

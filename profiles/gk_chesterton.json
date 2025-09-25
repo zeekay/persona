@@ -1,0 +1,12 @@
+{
+  "id": "gk_chesterton",
+  "name": "G.K. Chesterton",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

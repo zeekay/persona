@@ -1,0 +1,12 @@
+{
+  "id": "eliot",
+  "name": "T.S. Eliot",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 30,
+    "agreeableness": 45,
+    "neuroticism": 65
+  }
+}

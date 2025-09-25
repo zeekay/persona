@@ -1,0 +1,12 @@
+{
+  "id": "wislawa_szymborska",
+  "name": "Wisława Szymborska",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 35,
+    "agreeableness": 75,
+    "neuroticism": 40
+  }
+}

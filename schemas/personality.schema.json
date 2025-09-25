@@ -1,0 +1,228 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://hanzo.ai/schemas/personality.json",
+  "title": "Personality Schema",
+  "description": "Schema for individual personality definitions",
+  "type": "object",
+  "required": ["id", "name", "category", "ocean", "personality"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Schema reference"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_-]+$",
+      "description": "Unique identifier (lowercase, alphanumeric, hyphens, underscores)"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "fullName": {
+      "type": "string",
+      "description": "Full legal name"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "programmer",
+        "philosopher",
+        "scientist",
+        "religious",
+        "revolutionary",
+        "writer",
+        "artist",
+        "musician",
+        "filmmaker",
+        "comedian",
+        "architect",
+        "athlete",
+        "explorer",
+        "activist",
+        "tech_leader",
+        "leader",
+        "pioneer",
+        "special"
+      ],
+      "description": "Primary category"
+    },
+    "subcategory": {
+      "type": "string",
+      "description": "Optional subcategory"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Searchable tags"
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "born": {
+          "type": "string",
+          "description": "Birth year or date"
+        },
+        "died": {
+          "type": "string",
+          "description": "Death year or date (if applicable)"
+        },
+        "nationality": {
+          "type": "string"
+        },
+        "active": {
+          "type": "boolean",
+          "description": "Still alive/active"
+        },
+        "company": {
+          "type": "string",
+          "description": "Primary affiliation"
+        },
+        "achievements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "ocean": {
+      "type": "object",
+      "required": ["openness", "conscientiousness", "extraversion", "agreeableness", "neuroticism"],
+      "properties": {
+        "openness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Openness to experience (0-100)"
+        },
+        "conscientiousness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Conscientiousness (0-100)"
+        },
+        "extraversion": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Extraversion (0-100)"
+        },
+        "agreeableness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Agreeableness (0-100)"
+        },
+        "neuroticism": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Neuroticism (0-100)"
+        }
+      }
+    },
+    "personality": {
+      "type": "object",
+      "required": ["summary", "philosophy"],
+      "properties": {
+        "summary": {
+          "type": "string",
+          "description": "Brief personality summary"
+        },
+        "philosophy": {
+          "type": "string",
+          "description": "Core philosophy or motto"
+        },
+        "approach": {
+          "type": "string",
+          "description": "General approach to problems"
+        },
+        "communication": {
+          "type": "string",
+          "description": "Communication style"
+        },
+        "values": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Core values"
+        }
+      }
+    },
+    "technical": {
+      "type": "object",
+      "properties": {
+        "languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Programming languages (for programmers)"
+        },
+        "domains": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Domain expertise"
+        },
+        "tools": {
+          "type": "object",
+          "properties": {
+            "essential": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "preferred": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "created": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Tools/projects created by this person"
+            }
+          }
+        }
+      }
+    },
+    "quotes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Famous quotes"
+    },
+    "behavioral": {
+      "type": "object",
+      "properties": {
+        "codeStyle": {
+          "type": "string",
+          "description": "Coding style (for programmers)"
+        },
+        "reviewStyle": {
+          "type": "string",
+          "description": "Code review style"
+        },
+        "workStyle": {
+          "type": "string",
+          "description": "Work habits and patterns"
+        },
+        "collaboration": {
+          "type": "string",
+          "description": "Collaboration preferences"
+        }
+      }
+    }
+  }
+}

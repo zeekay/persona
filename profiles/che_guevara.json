@@ -1,0 +1,12 @@
+{
+  "id": "che_guevara",
+  "name": "Che Guevara",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 75,
+    "agreeableness": 30,
+    "neuroticism": 60
+  }
+}

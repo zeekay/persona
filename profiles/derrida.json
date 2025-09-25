@@ -1,0 +1,12 @@
+{
+  "id": "derrida",
+  "name": "Jacques Derrida",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 45,
+    "extraversion": 50,
+    "agreeableness": 30,
+    "neuroticism": 55
+  }
+}

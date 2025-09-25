@@ -1,0 +1,12 @@
+{
+  "id": "julio_cortazar",
+  "name": "Julio Cortázar",
+  "category": "writer",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 65,
+    "extraversion": 55,
+    "agreeableness": 65,
+    "neuroticism": 50
+  }
+}

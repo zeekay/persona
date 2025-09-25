@@ -1,0 +1,12 @@
+{
+  "id": "larry_page",
+  "name": "Larry Page",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 30,
+    "agreeableness": 60,
+    "neuroticism": 35
+  }
+}

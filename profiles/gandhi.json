@@ -1,0 +1,12 @@
+{
+  "id": "gandhi",
+  "name": "Mahatma Gandhi",
+  "category": "statesman",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 50,
+    "agreeableness": 95,
+    "neuroticism": 30
+  }
+}

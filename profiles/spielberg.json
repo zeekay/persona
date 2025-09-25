@@ -1,0 +1,12 @@
+{
+  "id": "spielberg",
+  "name": "Steven Spielberg",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 25
+  }
+}

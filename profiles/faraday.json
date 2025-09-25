@@ -1,0 +1,12 @@
+{
+  "id": "faraday",
+  "name": "Michael Faraday",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 55,
+    "agreeableness": 80,
+    "neuroticism": 25
+  }
+}

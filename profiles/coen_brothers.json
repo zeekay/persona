@@ -1,0 +1,12 @@
+{
+  "id": "coen_brothers",
+  "name": "Coen Brothers",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 55,
+    "neuroticism": 40
+  }
+}

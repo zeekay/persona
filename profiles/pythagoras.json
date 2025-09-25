@@ -1,0 +1,12 @@
+{
+  "id": "pythagoras",
+  "name": "Pythagoras",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 60,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

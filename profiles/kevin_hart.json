@@ -1,0 +1,12 @@
+{
+  "id": "kevin_hart",
+  "name": "Kevin Hart",
+  "category": "comedian",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 85,
+    "extraversion": 90,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

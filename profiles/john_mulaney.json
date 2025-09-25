@@ -1,0 +1,12 @@
+{
+  "id": "john_mulaney",
+  "name": "John Mulaney",
+  "category": "comedian",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 55
+  }
+}

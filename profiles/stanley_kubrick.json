@@ -1,0 +1,12 @@
+{
+  "id": "stanley_kubrick",
+  "name": "Stanley Kubrick",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 95,
+    "extraversion": 25,
+    "agreeableness": 25,
+    "neuroticism": 70
+  }
+}

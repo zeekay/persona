@@ -1,0 +1,12 @@
+{
+  "id": "borges",
+  "name": "Jorge Luis Borges",
+  "category": "writer",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 75,
+    "extraversion": 40,
+    "agreeableness": 60,
+    "neuroticism": 45
+  }
+}

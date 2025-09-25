@@ -1,0 +1,12 @@
+{
+  "id": "nightingale",
+  "name": "Florence Nightingale",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 45,
+    "agreeableness": 90,
+    "neuroticism": 40
+  }
+}

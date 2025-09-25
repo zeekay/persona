@@ -1,0 +1,12 @@
+{
+  "id": "emma_goldman",
+  "name": "Emma Goldman",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 85,
+    "agreeableness": 45,
+    "neuroticism": 60
+  }
+}

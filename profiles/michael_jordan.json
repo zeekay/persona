@@ -1,0 +1,12 @@
+{
+  "id": "michael_jordan",
+  "name": "Michael Jordan",
+  "category": "athlete",
+  "ocean": {
+    "openness": 75,
+    "conscientiousness": 95,
+    "extraversion": 85,
+    "agreeableness": 45,
+    "neuroticism": 25
+  }
+}

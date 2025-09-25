@@ -1,0 +1,12 @@
+{
+  "id": "arundhati_roy",
+  "name": "Arundhati Roy",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 50
+  }
+}

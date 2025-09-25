@@ -1,0 +1,12 @@
+{
+  "id": "warren_buffett",
+  "name": "Warren Buffett",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 95,
+    "extraversion": 45,
+    "agreeableness": 75,
+    "neuroticism": 20
+  }
+}

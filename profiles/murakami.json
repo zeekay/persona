@@ -1,0 +1,12 @@
+{
+  "id": "murakami",
+  "name": "Haruki Murakami",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 35,
+    "agreeableness": 60,
+    "neuroticism": 55
+  }
+}

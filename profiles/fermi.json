@@ -1,0 +1,12 @@
+{
+  "id": "fermi",
+  "name": "Enrico Fermi",
+  "category": "scientist",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 95,
+    "extraversion": 50,
+    "agreeableness": 60,
+    "neuroticism": 25
+  }
+}

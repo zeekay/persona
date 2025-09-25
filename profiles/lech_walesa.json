@@ -1,0 +1,12 @@
+{
+  "id": "lech_walesa",
+  "name": "Lech Wałęsa",
+  "category": "activist",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 80,
+    "extraversion": 85,
+    "agreeableness": 65,
+    "neuroticism": 45
+  }
+}

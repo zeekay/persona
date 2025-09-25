@@ -1,0 +1,12 @@
+{
+  "id": "anna_akhmatova",
+  "name": "Anna Akhmatova",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 65,
+    "neuroticism": 70
+  }
+}

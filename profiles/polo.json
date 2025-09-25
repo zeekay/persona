@@ -1,0 +1,12 @@
+{
+  "id": "polo",
+  "name": "Marco Polo",
+  "category": "explorer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 60,
+    "neuroticism": 40
+  }
+}

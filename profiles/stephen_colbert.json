@@ -1,0 +1,12 @@
+{
+  "id": "stephen_colbert",
+  "name": "Stephen Colbert",
+  "category": "comedian",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

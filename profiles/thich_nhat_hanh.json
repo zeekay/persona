@@ -1,0 +1,12 @@
+{
+  "id": "thich_nhat_hanh",
+  "name": "Thich Nhat Hanh",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 95,
+    "neuroticism": 10
+  }
+}

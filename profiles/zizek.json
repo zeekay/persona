@@ -1,0 +1,12 @@
+{
+  "id": "zizek",
+  "name": "Slavoj Žižek",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 45,
+    "extraversion": 75,
+    "agreeableness": 25,
+    "neuroticism": 70
+  }
+}

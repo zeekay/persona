@@ -1,0 +1,12 @@
+{
+  "id": "tom_brady",
+  "name": "Tom Brady",
+  "category": "athlete",
+  "ocean": {
+    "openness": 70,
+    "conscientiousness": 98,
+    "extraversion": 70,
+    "agreeableness": 60,
+    "neuroticism": 20
+  }
+}

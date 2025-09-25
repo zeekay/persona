@@ -1,0 +1,12 @@
+{
+  "id": "serena_williams",
+  "name": "Serena Williams",
+  "category": "athlete",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 95,
+    "extraversion": 75,
+    "agreeableness": 65,
+    "neuroticism": 30
+  }
+}

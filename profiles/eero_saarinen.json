@@ -1,0 +1,12 @@
+{
+  "id": "eero_saarinen",
+  "name": "Eero Saarinen",
+  "category": "architect",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

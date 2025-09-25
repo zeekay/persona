@@ -1,0 +1,12 @@
+{
+  "id": "martha_nussbaum",
+  "name": "Martha Nussbaum",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 50,
+    "agreeableness": 75,
+    "neuroticism": 25
+  }
+}

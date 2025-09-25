@@ -1,0 +1,12 @@
+{
+  "id": "morrison",
+  "name": "Toni Morrison",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

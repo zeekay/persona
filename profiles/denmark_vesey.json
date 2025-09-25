@@ -1,0 +1,12 @@
+{
+  "id": "denmark_vesey",
+  "name": "Denmark Vesey",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 45,
+    "neuroticism": 60
+  }
+}

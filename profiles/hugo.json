@@ -1,0 +1,12 @@
+{
+  "id": "hugo",
+  "name": "Victor Hugo",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 70,
+    "agreeableness": 65,
+    "neuroticism": 45
+  }
+}

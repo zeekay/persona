@@ -1,0 +1,12 @@
+{
+  "id": "goethe",
+  "name": "Johann Wolfgang von Goethe",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

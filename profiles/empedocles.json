@@ -1,0 +1,12 @@
+{
+  "id": "empedocles",
+  "name": "Empedocles",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 65,
+    "agreeableness": 60,
+    "neuroticism": 55
+  }
+}

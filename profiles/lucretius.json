@@ -1,0 +1,12 @@
+{
+  "id": "lucretius",
+  "name": "Lucretius",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 35,
+    "agreeableness": 60,
+    "neuroticism": 55
+  }
+}

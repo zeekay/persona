@@ -1,0 +1,12 @@
+{
+  "id": "zaha_hadid",
+  "name": "Zaha Hadid",
+  "category": "architect",
+  "ocean": {
+    "openness": 100,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 35,
+    "neuroticism": 45
+  }
+}

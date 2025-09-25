@@ -1,0 +1,12 @@
+{
+  "id": "jon_stewart",
+  "name": "Jon Stewart",
+  "category": "comedian",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 70,
+    "agreeableness": 65,
+    "neuroticism": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dalai_lama",
+  "name": "Dalai Lama (14th)",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 95,
+    "neuroticism": 25
+  }
+}

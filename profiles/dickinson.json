@@ -1,0 +1,12 @@
+{
+  "id": "dickinson",
+  "name": "Emily Dickinson",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 20,
+    "agreeableness": 55,
+    "neuroticism": 75
+  }
+}

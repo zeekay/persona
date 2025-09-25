@@ -1,0 +1,12 @@
+{
+  "id": "robin_williams",
+  "name": "Robin Williams",
+  "category": "comedian",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 45,
+    "extraversion": 95,
+    "agreeableness": 85,
+    "neuroticism": 80
+  }
+}

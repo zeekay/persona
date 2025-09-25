@@ -1,0 +1,12 @@
+{
+  "id": "john_brown",
+  "name": "John Brown",
+  "category": "activist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 75,
+    "agreeableness": 30,
+    "neuroticism": 70
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shaka_zulu",
+  "name": "Shaka Zulu",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 85,
+    "agreeableness": 25,
+    "neuroticism": 55
+  }
+}

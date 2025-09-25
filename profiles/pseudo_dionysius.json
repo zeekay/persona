@@ -1,0 +1,12 @@
+{
+  "id": "pseudo_dionysius",
+  "name": "Pseudo-Dionysius",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 25,
+    "agreeableness": 60,
+    "neuroticism": 40
+  }
+}

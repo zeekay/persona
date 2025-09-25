@@ -1,0 +1,12 @@
+{
+  "id": "rosa_luxemburg",
+  "name": "Rosa Luxemburg",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 50,
+    "neuroticism": 60
+  }
+}

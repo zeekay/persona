@@ -1,0 +1,12 @@
+{
+  "id": "dali",
+  "name": "Salvador Dalí",
+  "category": "artist",
+  "ocean": {
+    "openness": 100,
+    "conscientiousness": 60,
+    "extraversion": 85,
+    "agreeableness": 35,
+    "neuroticism": 50
+  }
+}

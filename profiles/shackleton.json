@@ -1,0 +1,12 @@
+{
+  "id": "shackleton",
+  "name": "Ernest Shackleton",
+  "category": "explorer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 70,
+    "agreeableness": 80,
+    "neuroticism": 30
+  }
+}

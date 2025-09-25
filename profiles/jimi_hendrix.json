@@ -1,0 +1,12 @@
+{
+  "id": "jimi_hendrix",
+  "name": "Jimi Hendrix",
+  "category": "musician",
+  "ocean": {
+    "openness": 100,
+    "conscientiousness": 45,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 50
+  }
+}

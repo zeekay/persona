@@ -1,0 +1,12 @@
+{
+  "id": "marina_tsvetaeva",
+  "name": "Marina Tsvetaeva",
+  "category": "poet",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 65,
+    "extraversion": 50,
+    "agreeableness": 55,
+    "neuroticism": 85
+  }
+}

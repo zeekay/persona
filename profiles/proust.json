@@ -1,0 +1,12 @@
+{
+  "id": "proust",
+  "name": "Marcel Proust",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 35,
+    "agreeableness": 45,
+    "neuroticism": 80
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kurt_cobain",
+  "name": "Kurt Cobain",
+  "category": "musician",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 45,
+    "extraversion": 35,
+    "agreeableness": 65,
+    "neuroticism": 90
+  }
+}

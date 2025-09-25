@@ -1,0 +1,12 @@
+{
+  "id": "virginia_woolf",
+  "name": "Virginia Woolf",
+  "category": "writer",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 70,
+    "extraversion": 35,
+    "agreeableness": 60,
+    "neuroticism": 85
+  }
+}

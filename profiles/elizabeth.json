@@ -1,0 +1,12 @@
+{
+  "id": "elizabeth",
+  "name": "Queen Elizabeth I",
+  "category": "leader",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 45,
+    "neuroticism": 35
+  }
+}

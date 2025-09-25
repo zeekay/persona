@@ -1,0 +1,12 @@
+{
+  "id": "oscar_niemeyer",
+  "name": "Oscar Niemeyer",
+  "category": "architect",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cicero",
+  "name": "Cicero",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 65,
+    "neuroticism": 45
+  }
+}

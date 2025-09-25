@@ -1,0 +1,12 @@
+{
+  "id": "gabriela_mistral",
+  "name": "Gabriela Mistral",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 55,
+    "agreeableness": 80,
+    "neuroticism": 50
+  }
+}

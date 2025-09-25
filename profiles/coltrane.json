@@ -1,0 +1,12 @@
+{
+  "id": "coltrane",
+  "name": "John Coltrane",
+  "category": "composer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

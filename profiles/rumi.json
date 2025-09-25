@@ -1,0 +1,12 @@
+{
+  "id": "rumi",
+  "name": "Rumi",
+  "category": "poet",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 70,
+    "extraversion": 60,
+    "agreeableness": 90,
+    "neuroticism": 20
+  }
+}

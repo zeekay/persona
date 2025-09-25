@@ -1,0 +1,12 @@
+{
+  "id": "luis_barragan",
+  "name": "Luis Barragán",
+  "category": "architect",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 30,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "butler",
+  "name": "Judith Butler",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 50,
+    "agreeableness": 55,
+    "neuroticism": 65
+  }
+}

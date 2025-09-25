@@ -1,0 +1,12 @@
+{
+  "id": "thomas_paine",
+  "name": "Thomas Paine",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 75,
+    "agreeableness": 40,
+    "neuroticism": 55
+  }
+}

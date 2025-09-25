@@ -1,0 +1,12 @@
+{
+  "id": "nat_turner",
+  "name": "Nat Turner",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 40,
+    "neuroticism": 65
+  }
+}

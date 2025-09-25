@@ -1,0 +1,12 @@
+{
+  "id": "homer",
+  "name": "Homer",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 60,
+    "neuroticism": 40
+  }
+}

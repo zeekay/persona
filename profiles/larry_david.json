@@ -1,0 +1,12 @@
+{
+  "id": "larry_david",
+  "name": "Larry David",
+  "category": "comedian",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 70,
+    "extraversion": 35,
+    "agreeableness": 25,
+    "neuroticism": 70
+  }
+}

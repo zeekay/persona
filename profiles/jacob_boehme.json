@@ -1,0 +1,12 @@
+{
+  "id": "jacob_boehme",
+  "name": "Jacob Boehme",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 70,
+    "neuroticism": 65
+  }
+}

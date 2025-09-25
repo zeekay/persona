@@ -1,0 +1,12 @@
+{
+  "id": "mark_zuckerberg",
+  "name": "Mark Zuckerberg",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 85,
+    "extraversion": 35,
+    "agreeableness": 40,
+    "neuroticism": 45
+  }
+}

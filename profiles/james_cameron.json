@@ -1,0 +1,12 @@
+{
+  "id": "james_cameron",
+  "name": "James Cameron",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 70,
+    "agreeableness": 40,
+    "neuroticism": 30
+  }
+}

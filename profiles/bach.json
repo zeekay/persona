@@ -1,0 +1,12 @@
+{
+  "id": "bach",
+  "name": "Johann Sebastian Bach",
+  "category": "composer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 100,
+    "extraversion": 35,
+    "agreeableness": 70,
+    "neuroticism": 30
+  }
+}

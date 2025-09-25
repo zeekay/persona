@@ -1,0 +1,12 @@
+{
+  "id": "duns_scotus",
+  "name": "Duns Scotus",
+  "category": "religious",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 55,
+    "neuroticism": 40
+  }
+}

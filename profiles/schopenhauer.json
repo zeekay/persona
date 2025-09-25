@@ -1,0 +1,12 @@
+{
+  "id": "schopenhauer",
+  "name": "Arthur Schopenhauer",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 10,
+    "neuroticism": 85
+  }
+}

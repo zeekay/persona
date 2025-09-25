@@ -1,0 +1,12 @@
+{
+  "id": "mies_van_der_rohe",
+  "name": "Ludwig Mies van der Rohe",
+  "category": "architect",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 100,
+    "extraversion": 35,
+    "agreeableness": 45,
+    "neuroticism": 30
+  }
+}

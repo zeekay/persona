@@ -1,0 +1,12 @@
+{
+  "id": "ricky_gervais",
+  "name": "Ricky Gervais",
+  "category": "comedian",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 65,
+    "extraversion": 75,
+    "agreeableness": 30,
+    "neuroticism": 45
+  }
+}

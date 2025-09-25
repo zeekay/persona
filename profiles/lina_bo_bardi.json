@@ -1,0 +1,12 @@
+{
+  "id": "lina_bo_bardi",
+  "name": "Lina Bo Bardi",
+  "category": "architect",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

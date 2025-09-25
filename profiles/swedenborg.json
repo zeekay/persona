@@ -1,0 +1,12 @@
+{
+  "id": "swedenborg",
+  "name": "Emanuel Swedenborg",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 75,
+    "neuroticism": 60
+  }
+}

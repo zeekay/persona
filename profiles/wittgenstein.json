@@ -1,0 +1,12 @@
+{
+  "id": "wittgenstein",
+  "name": "Ludwig Wittgenstein",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 25,
+    "agreeableness": 30,
+    "neuroticism": 75
+  }
+}

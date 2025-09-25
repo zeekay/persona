@@ -1,0 +1,12 @@
+{
+  "id": "epictetus",
+  "name": "Epictetus",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 45,
+    "agreeableness": 70,
+    "neuroticism": 30
+  }
+}

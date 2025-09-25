@@ -1,0 +1,12 @@
+{
+  "id": "steve_martin",
+  "name": "Steve Martin",
+  "category": "comedian",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 45
+  }
+}

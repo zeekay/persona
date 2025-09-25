@@ -1,0 +1,12 @@
+{
+  "id": "hobbes",
+  "name": "Thomas Hobbes",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 85,
+    "extraversion": 35,
+    "agreeableness": 30,
+    "neuroticism": 55
+  }
+}

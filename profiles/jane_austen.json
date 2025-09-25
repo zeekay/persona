@@ -1,0 +1,12 @@
+{
+  "id": "jane_austen",
+  "name": "Jane Austen",
+  "category": "writer",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 45,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

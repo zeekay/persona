@@ -1,0 +1,12 @@
+{
+  "id": "gabriel_garcia_marquez",
+  "name": "Gabriel García Márquez",
+  "category": "writer",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 75,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

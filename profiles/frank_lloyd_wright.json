@@ -1,0 +1,12 @@
+{
+  "id": "frank_lloyd_wright",
+  "name": "Frank Lloyd Wright",
+  "category": "architect",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 95,
+    "extraversion": 85,
+    "agreeableness": 25,
+    "neuroticism": 20
+  }
+}

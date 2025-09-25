@@ -1,0 +1,12 @@
+{
+  "id": "basho",
+  "name": "Matsuo Bashō",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 30,
+    "agreeableness": 80,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "averroes",
+  "name": "Averroes (Ibn Rushd)",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 30,
+    "neuroticism": 25
+  }
+}

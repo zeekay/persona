@@ -1,0 +1,12 @@
+{
+  "id": "scorsese",
+  "name": "Martin Scorsese",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 60,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

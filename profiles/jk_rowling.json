@@ -1,0 +1,12 @@
+{
+  "id": "jk_rowling",
+  "name": "J.K. Rowling",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 40,
+    "agreeableness": 70,
+    "neuroticism": 50
+  }
+}

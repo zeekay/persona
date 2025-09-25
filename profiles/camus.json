@@ -1,0 +1,12 @@
+{
+  "id": "camus",
+  "name": "Albert Camus",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 50
+  }
+}

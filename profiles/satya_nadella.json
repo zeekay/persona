@@ -1,0 +1,12 @@
+{
+  "id": "satya_nadella",
+  "name": "Satya Nadella",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 60,
+    "agreeableness": 80,
+    "neuroticism": 25
+  }
+}

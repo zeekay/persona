@@ -1,0 +1,12 @@
+{
+  "id": "ho_chi_minh",
+  "name": "Ho Chi Minh",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 50,
+    "neuroticism": 45
+  }
+}

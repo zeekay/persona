@@ -1,0 +1,12 @@
+{
+  "id": "tolstoy",
+  "name": "Leo Tolstoy",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 55,
+    "agreeableness": 80,
+    "neuroticism": 45
+  }
+}

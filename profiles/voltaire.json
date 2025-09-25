@@ -1,0 +1,12 @@
+{
+  "id": "voltaire",
+  "name": "Voltaire",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 45,
+    "neuroticism": 40
+  }
+}

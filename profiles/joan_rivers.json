@@ -1,0 +1,12 @@
+{
+  "id": "joan_rivers",
+  "name": "Joan Rivers",
+  "category": "comedian",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 90,
+    "agreeableness": 30,
+    "neuroticism": 60
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "henry_thoreau",
+  "name": "Henry David Thoreau",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 25,
+    "agreeableness": 70,
+    "neuroticism": 55
+  }
+}

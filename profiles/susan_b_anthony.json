@@ -1,0 +1,12 @@
+{
+  "id": "susan_b_anthony",
+  "name": "Susan B. Anthony",
+  "category": "activist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 65,
+    "agreeableness": 70,
+    "neuroticism": 35
+  }
+}

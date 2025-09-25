@@ -1,0 +1,12 @@
+{
+  "id": "einstein",
+  "name": "Albert Einstein",
+  "category": "scientist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 65,
+    "neuroticism": 40
+  }
+}

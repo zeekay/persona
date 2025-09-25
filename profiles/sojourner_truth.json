@@ -1,0 +1,12 @@
+{
+  "id": "sojourner_truth",
+  "name": "Sojourner Truth",
+  "category": "activist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 80,
+    "agreeableness": 75,
+    "neuroticism": 40
+  }
+}

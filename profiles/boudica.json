@@ -1,0 +1,12 @@
+{
+  "id": "boudica",
+  "name": "Boudica",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 90,
+    "agreeableness": 35,
+    "neuroticism": 55
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "su_shi",
+  "name": "Su Shi (Su Dongpo)",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 65,
+    "agreeableness": 75,
+    "neuroticism": 40
+  }
+}

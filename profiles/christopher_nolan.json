@@ -1,0 +1,12 @@
+{
+  "id": "christopher_nolan",
+  "name": "Christopher Nolan",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 50,
+    "agreeableness": 30,
+    "neuroticism": 25
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "simon_bolivar",
+  "name": "Simón Bolívar",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 90,
+    "agreeableness": 45,
+    "neuroticism": 55
+  }
+}

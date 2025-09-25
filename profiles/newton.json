@@ -1,0 +1,12 @@
+{
+  "id": "newton",
+  "name": "Isaac Newton",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 20,
+    "agreeableness": 20,
+    "neuroticism": 60
+  }
+}

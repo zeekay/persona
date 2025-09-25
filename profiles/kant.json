@@ -1,0 +1,12 @@
+{
+  "id": "kant",
+  "name": "Immanuel Kant",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 100,
+    "extraversion": 20,
+    "agreeableness": 50,
+    "neuroticism": 60
+  }
+}

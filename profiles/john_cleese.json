@@ -1,0 +1,12 @@
+{
+  "id": "john_cleese",
+  "name": "John Cleese",
+  "category": "comedian",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 55,
+    "neuroticism": 50
+  }
+}

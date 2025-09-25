@@ -1,0 +1,12 @@
+{
+  "id": "federico_garcia_lorca",
+  "name": "Federico García Lorca",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 60
+  }
+}

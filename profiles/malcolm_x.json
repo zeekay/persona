@@ -1,0 +1,12 @@
+{
+  "id": "malcolm_x",
+  "name": "Malcolm X",
+  "category": "activist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 85,
+    "agreeableness": 40,
+    "neuroticism": 55
+  }
+}

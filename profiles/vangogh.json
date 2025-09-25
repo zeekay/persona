@@ -1,0 +1,12 @@
+{
+  "id": "vangogh",
+  "name": "Vincent van Gogh",
+  "category": "artist",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 45,
+    "neuroticism": 95
+  }
+}

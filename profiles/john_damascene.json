@@ -1,0 +1,12 @@
+{
+  "id": "john_damascene",
+  "name": "John of Damascus",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 45,
+    "agreeableness": 70,
+    "neuroticism": 40
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lincoln",
+  "name": "Abraham Lincoln",
+  "category": "statesman",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 50,
+    "agreeableness": 70,
+    "neuroticism": 50
+  }
+}

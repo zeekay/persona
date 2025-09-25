@@ -1,0 +1,12 @@
+{
+  "id": "sontag",
+  "name": "Susan Sontag",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 40,
+    "extraversion": 70,
+    "agreeableness": 55,
+    "neuroticism": 65
+  }
+}

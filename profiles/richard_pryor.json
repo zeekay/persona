@@ -1,0 +1,12 @@
+{
+  "id": "richard_pryor",
+  "name": "Richard Pryor",
+  "category": "comedian",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 50,
+    "extraversion": 85,
+    "agreeableness": 55,
+    "neuroticism": 75
+  }
+}

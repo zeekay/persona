@@ -1,0 +1,12 @@
+{
+  "id": "jack_ma",
+  "name": "Jack Ma",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 80,
+    "agreeableness": 70,
+    "neuroticism": 30
+  }
+}

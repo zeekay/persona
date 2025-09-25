@@ -1,0 +1,12 @@
+{
+  "id": "william_lloyd_garrison",
+  "name": "William Lloyd Garrison",
+  "category": "activist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 85,
+    "extraversion": 75,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

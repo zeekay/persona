@@ -1,0 +1,12 @@
+{
+  "id": "yasunari_kawabata",
+  "name": "Yasunari Kawabata",
+  "category": "writer",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 65,
+    "neuroticism": 60
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sylvia_plath",
+  "name": "Sylvia Plath",
+  "category": "poet",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 40,
+    "agreeableness": 55,
+    "neuroticism": 95
+  }
+}

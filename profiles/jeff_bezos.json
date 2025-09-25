@@ -1,0 +1,12 @@
+{
+  "id": "jeff_bezos",
+  "name": "Jeff Bezos",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 45,
+    "agreeableness": 25,
+    "neuroticism": 35
+  }
+}

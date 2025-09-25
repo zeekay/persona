@@ -1,0 +1,12 @@
+{
+  "id": "william_ockham",
+  "name": "William of Ockham",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 35,
+    "agreeableness": 45,
+    "neuroticism": 45
+  }
+}

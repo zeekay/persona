@@ -1,0 +1,12 @@
+{
+  "id": "antoni_gaudi",
+  "name": "Antoni Gaudí",
+  "category": "architect",
+  "ocean": {
+    "openness": 100,
+    "conscientiousness": 85,
+    "extraversion": 30,
+    "agreeableness": 70,
+    "neuroticism": 55
+  }
+}

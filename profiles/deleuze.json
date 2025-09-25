@@ -1,0 +1,12 @@
+{
+  "id": "deleuze",
+  "name": "Gilles Deleuze",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 75,
+    "extraversion": 30,
+    "agreeableness": 55,
+    "neuroticism": 25
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "godel",
+  "name": "Kurt Gödel",
+  "category": "mathematician",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 15,
+    "agreeableness": 35,
+    "neuroticism": 80
+  }
+}

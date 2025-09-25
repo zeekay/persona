@@ -1,0 +1,12 @@
+{
+  "id": "alan_watts",
+  "name": "Alan Watts",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 40,
+    "extraversion": 70,
+    "agreeableness": 75,
+    "neuroticism": 50
+  }
+}

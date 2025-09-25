@@ -1,0 +1,12 @@
+{
+  "id": "origen",
+  "name": "Origen",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 90,
+    "extraversion": 40,
+    "agreeableness": 65,
+    "neuroticism": 50
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tarantino",
+  "name": "Quentin Tarantino",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 40,
+    "extraversion": 80,
+    "agreeableness": 35,
+    "neuroticism": 55
+  }
+}

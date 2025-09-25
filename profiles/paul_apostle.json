@@ -1,0 +1,12 @@
+{
+  "id": "paul_apostle",
+  "name": "St. Paul (Paul of Tarsus)",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 90,
+    "agreeableness": 60,
+    "neuroticism": 60
+  }
+}

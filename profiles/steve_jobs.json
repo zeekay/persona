@@ -1,0 +1,12 @@
+{
+  "id": "steve_jobs",
+  "name": "Steve Jobs",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 20,
+    "neuroticism": 65
+  }
+}

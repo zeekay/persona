@@ -1,0 +1,12 @@
+{
+  "id": "tim_burton",
+  "name": "Tim Burton",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 55,
+    "neuroticism": 65
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "saadi",
+  "name": "Saadi Shirazi",
+  "category": "poet",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 65,
+    "agreeableness": 85,
+    "neuroticism": 30
+  }
+}

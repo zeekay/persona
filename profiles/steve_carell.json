@@ -1,0 +1,12 @@
+{
+  "id": "steve_carell",
+  "name": "Steve Carell",
+  "category": "comedian",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 85,
+    "extraversion": 65,
+    "agreeableness": 85,
+    "neuroticism": 35
+  }
+}

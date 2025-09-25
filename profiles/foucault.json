@@ -1,0 +1,12 @@
+{
+  "id": "foucault",
+  "name": "Michel Foucault",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 65,
+    "extraversion": 50,
+    "agreeableness": 35,
+    "neuroticism": 55
+  }
+}

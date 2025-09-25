@@ -1,0 +1,12 @@
+{
+  "id": "bohr",
+  "name": "Niels Bohr",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 40,
+    "agreeableness": 75,
+    "neuroticism": 35
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "goffman",
+  "name": "Erving Goffman",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 60,
+    "neuroticism": 60
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mlk",
+  "name": "Martin Luther King Jr.",
+  "category": "statesman",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 85,
+    "agreeableness": 90,
+    "neuroticism": 35
+  }
+}

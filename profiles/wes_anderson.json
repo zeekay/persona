@@ -1,0 +1,12 @@
+{
+  "id": "wes_anderson",
+  "name": "Wes Anderson",
+  "category": "filmmaker",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 65,
+    "neuroticism": 45
+  }
+}

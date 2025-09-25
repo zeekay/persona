@@ -1,0 +1,12 @@
+{
+  "id": "giuseppe_garibaldi",
+  "name": "Giuseppe Garibaldi",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 65,
+    "extraversion": 85,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

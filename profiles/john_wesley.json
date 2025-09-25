@@ -1,0 +1,12 @@
+{
+  "id": "john_wesley",
+  "name": "John Wesley",
+  "category": "religious",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 95,
+    "extraversion": 75,
+    "agreeableness": 80,
+    "neuroticism": 40
+  }
+}

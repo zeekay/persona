@@ -1,0 +1,12 @@
+{
+  "id": "pancho_villa",
+  "name": "Pancho Villa",
+  "category": "revolutionary",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 45,
+    "extraversion": 90,
+    "agreeableness": 35,
+    "neuroticism": 65
+  }
+}

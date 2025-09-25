@@ -1,0 +1,12 @@
+{
+  "id": "sarah_silverman",
+  "name": "Sarah Silverman",
+  "category": "comedian",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 60,
+    "extraversion": 75,
+    "agreeableness": 50,
+    "neuroticism": 60
+  }
+}

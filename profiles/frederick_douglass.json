@@ -1,0 +1,12 @@
+{
+  "id": "frederick_douglass",
+  "name": "Frederick Douglass",
+  "category": "activist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 80,
+    "agreeableness": 70,
+    "neuroticism": 50
+  }
+}

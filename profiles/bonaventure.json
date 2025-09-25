@@ -1,0 +1,12 @@
+{
+  "id": "bonaventure",
+  "name": "St. Bonaventure",
+  "category": "religious",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 50,
+    "agreeableness": 80,
+    "neuroticism": 35
+  }
+}

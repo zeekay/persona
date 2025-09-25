@@ -1,0 +1,12 @@
+{
+  "id": "vonneumann",
+  "name": "John von Neumann",
+  "category": "mathematician",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 60,
+    "agreeableness": 50,
+    "neuroticism": 30
+  }
+}

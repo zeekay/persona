@@ -1,0 +1,12 @@
+{
+  "id": "rousseau",
+  "name": "Jean-Jacques Rousseau",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 70,
+    "extraversion": 60,
+    "agreeableness": 50,
+    "neuroticism": 65
+  }
+}

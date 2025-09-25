@@ -1,0 +1,12 @@
+{
+  "id": "hume",
+  "name": "David Hume",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 80,
+    "extraversion": 60,
+    "agreeableness": 80,
+    "neuroticism": 40
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "giordano_bruno",
+  "name": "Giordano Bruno",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 65,
+    "extraversion": 70,
+    "agreeableness": 45,
+    "neuroticism": 60
+  }
+}

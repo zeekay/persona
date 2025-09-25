@@ -1,0 +1,12 @@
+{
+  "id": "teresa_avila",
+  "name": "St. Teresa of Ávila",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 50,
+    "agreeableness": 95,
+    "neuroticism": 60
+  }
+}

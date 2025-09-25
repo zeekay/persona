@@ -1,0 +1,12 @@
+{
+  "id": "john_chrysostom",
+  "name": "John Chrysostom",
+  "category": "religious",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 90,
+    "extraversion": 75,
+    "agreeableness": 70,
+    "neuroticism": 45
+  }
+}

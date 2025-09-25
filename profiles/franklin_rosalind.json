@@ -1,0 +1,12 @@
+{
+  "id": "franklin_rosalind",
+  "name": "Rosalind Franklin",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 35,
+    "agreeableness": 55,
+    "neuroticism": 40
+  }
+}

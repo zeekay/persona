@@ -1,0 +1,12 @@
+{
+  "id": "louis_ck",
+  "name": "Louis C.K.",
+  "category": "comedian",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 40,
+    "neuroticism": 65
+  }
+}

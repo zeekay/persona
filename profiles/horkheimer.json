@@ -1,0 +1,12 @@
+{
+  "id": "horkheimer",
+  "name": "Max Horkheimer",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 30,
+    "agreeableness": 60,
+    "neuroticism": 50
+  }
+}

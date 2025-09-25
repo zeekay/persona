@@ -1,0 +1,12 @@
+{
+  "id": "madonna",
+  "name": "Madonna",
+  "category": "musician",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 80,
+    "extraversion": 90,
+    "agreeableness": 35,
+    "neuroticism": 45
+  }
+}

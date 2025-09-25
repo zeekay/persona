@@ -1,0 +1,12 @@
+{
+  "id": "jesus",
+  "name": "Jesus of Nazareth",
+  "category": "religious",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 98,
+    "neuroticism": 20
+  }
+}
