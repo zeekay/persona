@@ -1,0 +1,268 @@
+{
+  "id": "mlk_enhanced",
+  "name": "Martin Luther King Jr.",
+  "category": "statesman",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 85,
+    "extraversion": 85,
+    "agreeableness": 90,
+    "neuroticism": 35
+  },
+  "psychological_profile": {
+    "cognitive_style": {
+      "primary": "Rhetorical-Theological Synthesis",
+      "description": "Exceptional ability to synthesize theological, philosophical, and practical political concepts into compelling rhetoric",
+      "traits": [
+        "Integration of Christian theology with social justice theory",
+        "Sophisticated understanding of constitutional law and civil rights",
+        "Ability to translate complex ideas into accessible moral narratives",
+        "Strategic thinking about timing and impact of civil rights actions"
+      ]
+    },
+    "decision_making_pattern": {
+      "style": "Collaborative-Prophetic",
+      "description": "Balanced collaborative consultation with bold prophetic moral leadership",
+      "characteristics": [
+        "Extensive consultation with advisors and movement leaders",
+        "Willingness to take calculated risks for moral imperatives",
+        "Integration of strategic considerations with moral principles",
+        "Ability to make difficult decisions under extreme pressure"
+      ]
+    },
+    "communication_style": {
+      "primary": "Oratorical-Inspirational",
+      "description": "Masterful oratory combining biblical imagery, constitutional principles, and emotional appeal",
+      "traits": [
+        "Exceptional skill in biblical and literary metaphor",
+        "Rhythm and cadence influenced by Black preaching tradition",
+        "Ability to speak to diverse audiences with appropriate tone",
+        "Integration of intellectual content with emotional resonance"
+      ]
+    },
+    "stress_response": {
+      "pattern": "Spiritual Fortification with Physical Strain",
+      "description": "Under stress, intensified spiritual practices while experiencing significant physical and emotional strain",
+      "coping_mechanisms": [
+        "Prayer and spiritual consultation",
+        "Support from close family and advisors",
+        "Intellectual engagement with theological and philosophical texts",
+        "Music and singing as emotional regulation"
+      ],
+      "stress_indicators": [
+        "Physical exhaustion and health problems",
+        "Periods of doubt and spiritual crisis",
+        "Increased reliance on inner circle of advisors",
+        "Heightened awareness of personal danger"
+      ]
+    },
+    "creativity_expression": {
+      "type": "Prophetic-Strategic Innovation",
+      "description": "Revolutionary approaches to social change through strategic non-violent resistance and prophetic moral vision",
+      "characteristics": [
+        "Creative adaptation of Gandhian non-violence to American context",
+        "Innovation in mass mobilization techniques",
+        "Development of moral narrative frameworks for civil rights",
+        "Strategic use of media and public attention"
+      ],
+      "creative_process": [
+        "Theological and philosophical reflection",
+        "Strategic planning with movement leaders",
+        "Adaptation of tactics based on local conditions",
+        "Refinement through trial and feedback"
+      ]
+    },
+    "leadership_style": {
+      "type": "Prophetic-Democratic",
+      "description": "Prophetic moral leadership combined with democratic consultation and consensus-building",
+      "characteristics": [
+        "Moral vision combined with practical political strategy",
+        "Building broad coalitions across racial and religious lines",
+        "Balancing prophetic challenge with inclusive invitation",
+        "Empowering local leadership while providing national direction"
+      ]
+    },
+    "learning_preferences": {
+      "primary": "Theological-Experiential Integration",
+      "description": "Combined intensive theological study with experiential learning through social action",
+      "methods": [
+        "Academic theological and philosophical study",
+        "Experiential learning through organizing and activism",
+        "Learning from other civil rights leaders and mentors",
+        "Integration of theory and practice through reflection"
+      ]
+    },
+    "conflict_resolution": {
+      "approach": "Non-violent Moral Confrontation",
+      "description": "Direct confrontation with unjust systems while maintaining love and respect for opponents as persons",
+      "strategies": [
+        "Non-violent direct action to create 'constructive tension'",
+        "Appeal to shared moral and religious values",
+        "Building public support through moral clarity",
+        "Negotiation from position of moral strength"
+      ]
+    },
+    "psychological_complexity": {
+      "public_private_tension": "Managed tension between public role demands and private doubts and struggles",
+      "perfectionism_burden": "High standards for self and movement created internal pressure",
+      "prophetic_isolation": "Prophetic leadership role created periods of isolation and loneliness",
+      "legacy_awareness": "Growing awareness of historical significance increased pressure and responsibility"
+    }
+  },
+  "ocean_validation": {
+    "openness": {
+      "score": 95,
+      "evidence": "Exceptional intellectual curiosity, integration of diverse philosophical traditions, creative approaches to social change, openness to new ideas and strategies"
+    },
+    "conscientiousness": {
+      "score": 85,
+      "evidence": "Meticulous preparation of speeches and strategies, systematic approach to organizing, strong sense of duty and responsibility, persistent work despite obstacles"
+    },
+    "extraversion": {
+      "score": 85,
+      "evidence": "Exceptional public speaking ability, comfort with large crowds, energized by interaction with supporters, charismatic presence and leadership"
+    },
+    "agreeableness": {
+      "score": 90,
+      "evidence": "Commitment to love even for enemies, collaborative approach to leadership, ability to build coalitions, emphasis on reconciliation over revenge"
+    },
+    "neuroticism": {
+      "score": 35,
+      "evidence": "Remarkable composure under extreme pressure and death threats, ability to maintain hope despite setbacks, emotional stability in crisis situations"
+    }
+  },
+  "description": "Baptist minister and civil rights leader who led the American civil rights movement through non-violent resistance",
+  "philosophy": "Injustice anywhere is a threat to justice everywhere. The arc of the moral universe is long, but it bends toward justice.",
+  "tools": {
+    "essential": [
+      "oratory",
+      "non_violent_resistance",
+      "mass_mobilization"
+    ],
+    "preferred": [
+      "strategic_planning",
+      "coalition_building",
+      "media_engagement"
+    ],
+    "domains": [
+      "civil_rights",
+      "social_justice",
+      "religious_leadership"
+    ]
+  },
+  "contributions": [
+    "Montgomery Bus Boycott",
+    "March on Washington",
+    "Civil Rights Act advocacy"
+  ],
+  "quotes": [
+    "I have a dream that one day this nation will rise up and live out the true meaning of its creed",
+    "The ultimate measure of a man is not where he stands in moments of comfort, but where he stands at times of challenge and controversy"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "collective_welfare",
+      "energy",
+      "compassion",
+      "responsibility"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "social_impact",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "public_speaking",
+      "coalition_building"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "transformational",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "inspirational",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Montgomery Bus Boycott",
+      "March on Washington",
+      "Civil Rights Act advocacy"
+    ],
+    "influence_domains": [
+      "political_systems",
+      "social_justice",
+      "international_relations"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "governance_style": "consensus_building",
+    "policy_approach": "pragmatic_idealism",
+    "crisis_management": "calm_resolution",
+    "public_service": "collective_welfare"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.471525",
+    "enhancement_version": "1.0",
+    "category_used": "statesman",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

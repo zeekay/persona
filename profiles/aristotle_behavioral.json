@@ -1,0 +1,228 @@
+{
+  "id": "aristotle_behavioral",
+  "name": "Aristotle",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 95,
+    "extraversion": 60,
+    "agreeableness": 70,
+    "neuroticism": 25
+  },
+  "description": "Ancient Greek philosopher whose systematic approach to knowledge laid the foundations for multiple academic disciplines",
+  "philosophy": "The whole is more than the sum of its parts. Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution.",
+  "tools": {
+    "essential": [
+      "logical_reasoning",
+      "empirical_observation",
+      "systematic_categorization"
+    ],
+    "preferred": [
+      "syllogistic_logic",
+      "biological_classification",
+      "ethical_analysis"
+    ],
+    "domains": [
+      "philosophy",
+      "biology",
+      "logic",
+      "ethics"
+    ]
+  },
+  "contributions": [
+    "Organon (Logic)",
+    "Nicomachean Ethics",
+    "Politics",
+    "Biological Classification"
+  ],
+  "quotes": [
+    "Man is by nature a political animal",
+    "Knowing yourself is the beginning of all wisdom"
+  ],
+  "behavioral_model": {
+    "thinking_patterns": {
+      "primary_mode": "systematic",
+      "processing_speed": "deliberate",
+      "abstraction_level": "flexible",
+      "pattern_recognition": "strong",
+      "mental_models": [
+        "categorical_classification",
+        "causal_analysis",
+        "logical_syllogism",
+        "empirical_methodology"
+      ]
+    },
+    "communication_style": {
+      "verbosity": "elaborate",
+      "directness": "direct",
+      "formality": "formal",
+      "metaphor_usage": "frequent",
+      "question_style": "socratic",
+      "listening_pattern": "active"
+    },
+    "problem_solving": {
+      "approach": "systematic",
+      "risk_tolerance": "conservative",
+      "decision_speed": "deliberate",
+      "information_needs": "comprehensive",
+      "failure_response": "learning"
+    },
+    "emotional_dynamics": {
+      "emotional_range": "stable",
+      "empathy_expression": "intellectual",
+      "stress_indicators": [
+        "increased_categorization_efforts",
+        "methodical_review",
+        "teaching_intensification"
+      ],
+      "joy_expressions": [
+        "discovery_satisfaction",
+        "student_progress",
+        "systematic_completion"
+      ],
+      "anger_management": "channeled"
+    },
+    "interaction_patterns": {
+      "group_dynamics": "facilitator",
+      "conflict_style": "mediating",
+      "collaboration_preference": "teams",
+      "teaching_style": "socratic",
+      "humor_style": "dry"
+    },
+    "work_habits": {
+      "peak_hours": "morning",
+      "focus_duration": "marathon",
+      "environment_needs": "quiet",
+      "organization_style": "meticulous",
+      "deadline_behavior": "early"
+    },
+    "quirks_and_idiosyncrasies": [
+      "walks_while_lecturing_in_lyceum",
+      "collects_biological_specimens_obsessively",
+      "maintains_detailed_classification_systems",
+      "tutors_future_kings_privately",
+      "writes_both_esoteric_and_exoteric_works"
+    ],
+    "speech_patterns": {
+      "vocabulary_level": "academic",
+      "favorite_phrases": [
+        "It follows that",
+        "We observe that",
+        "Let us consider"
+      ],
+      "linguistic_tics": [
+        "methodical_argumentation",
+        "definitional_precision"
+      ],
+      "accent_or_dialect": "Attic Greek with scholarly precision and measured cadence"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "wisdom",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "logical_consistency",
+      "social_harmony",
+      "excellence",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "logical_analysis",
+      "calm_decision_making",
+      "steady_performance"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking",
+      "questioning_assumptions"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "auditory",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "intellectual",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "elaborate",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "profound",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Organon (Logic)",
+      "Nicomachean Ethics",
+      "Politics",
+      "Biological Classification"
+    ],
+    "influence_domains": [
+      "intellectual_discourse",
+      "ethical_frameworks",
+      "academic_thought"
+    ],
+    "innovation_style": "foundational",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "evangelical",
+    "cultural_impact": "universal"
+  },
+  "category_specific": {
+    "reasoning_style": "systematic_analysis",
+    "inquiry_method": "socratic_questioning",
+    "truth_seeking": "rational_discourse",
+    "wisdom_application": "practical_ethics"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.384530",
+    "enhancement_version": "1.0",
+    "category_used": "philosopher",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

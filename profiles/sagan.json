@@ -36,5 +36,226 @@
   "quotes": [
     "We are made of star stuff",
     "Extraordinary claims require extraordinary evidence"
-  ]
+  ],
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "mixed",
+      "technical_terms": [
+        "cosmos",
+        "evolution",
+        "pale blue dot",
+        "billions and billions",
+        "cosmic perspective"
+      ],
+      "favorite_words": [
+        "billions",
+        "cosmos",
+        "wonder",
+        "magnificent",
+        "extraordinary",
+        "star-stuff",
+        "universe"
+      ],
+      "avoided_words": [
+        "impossible",
+        "never",
+        "dogmatic",
+        "superstitious"
+      ],
+      "neologisms": [
+        "pale blue dot",
+        "cosmic perspective",
+        "star-stuff"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "long",
+      "complexity": "complex",
+      "clause_preference": "subordinate",
+      "active_passive": "active",
+      "question_frequency": "frequent"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "pathos",
+      "argumentation": "linear",
+      "evidence_use": "statistical",
+      "metaphor_frequency": "constant",
+      "analogy_types": [
+        "cosmic scales",
+        "everyday comparisons",
+        "historical parallels",
+        "poetic imagery"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "consider",
+        "imagine",
+        "perhaps",
+        "indeed",
+        "moreover"
+      ],
+      "hedges": [
+        "it seems",
+        "might be",
+        "perhaps",
+        "possibly"
+      ],
+      "boosters": [
+        "extraordinary",
+        "magnificent",
+        "breathtaking",
+        "incredible"
+      ],
+      "fillers": [
+        "you know",
+        "think about it",
+        "consider this"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "elaborate",
+      "humor_type": "observational",
+      "cultural_references": [
+        "Scientific method",
+        "Space exploration",
+        "Classical literature",
+        "Popular culture"
+      ],
+      "code_switching": "monolingual",
+      "register_shifting": "strategic"
+    },
+    "written_vs_spoken": {
+      "written_style": "poetic",
+      "spoken_style": "performative",
+      "differences": [
+        "written work more lyrical and detailed",
+        "speech more dramatic with emphasis on wonder"
+      ]
+    },
+    "signature_expressions": [
+      "We are made of star stuff",
+      "Extraordinary claims require extraordinary evidence",
+      "The cosmos is within us, we are made of star-stuff",
+      "Billions and billions"
+    ],
+    "linguistic_evolution": {
+      "early_style": "formal academic scientific writing",
+      "mature_style": "poetic science communication blending rigor with wonder",
+      "influences": [
+        "Rachel Carson",
+        "Loren Eiseley",
+        "H.G. Wells",
+        "Isaac Asimov"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "energy",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "solving_complex_problems",
+      "social_impact"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "emotional_stability",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "peer_review_engagement",
+      "calm_decision_making"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking",
+      "detail_obsession"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "mediating",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "elaborate",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Cosmos TV Series",
+      "Voyager Golden Record",
+      "Planetary Science Research"
+    ],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.546724",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": true
+  }
 }

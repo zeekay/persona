@@ -8,5 +8,222 @@
     "extraversion": 70,
     "agreeableness": 98,
     "neuroticism": 20
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "mixed",
+      "technical_terms": [
+        "kingdom of heaven",
+        "salvation",
+        "redemption",
+        "eternal life",
+        "resurrection"
+      ],
+      "favorite_words": [
+        "love",
+        "father",
+        "forgiveness",
+        "peace",
+        "faith",
+        "hope",
+        "mercy",
+        "blessing"
+      ],
+      "avoided_words": [
+        "condemnation",
+        "hatred",
+        "vengeance",
+        "pride"
+      ],
+      "neologisms": [
+        "golden rule",
+        "good shepherd",
+        "living water",
+        "bread of life"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "short",
+      "complexity": "simple",
+      "clause_preference": "main",
+      "active_passive": "active",
+      "question_frequency": "frequent"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "pathos",
+      "argumentation": "circular",
+      "evidence_use": "anecdotal",
+      "metaphor_frequency": "constant",
+      "analogy_types": [
+        "agricultural imagery",
+        "shepherd metaphors",
+        "family relationships",
+        "everyday objects"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "but",
+        "and",
+        "therefore",
+        "truly",
+        "behold"
+      ],
+      "hedges": [
+        "perhaps",
+        "it may be",
+        "some say"
+      ],
+      "boosters": [
+        "truly",
+        "verily",
+        "amen",
+        "certainly"
+      ],
+      "fillers": [
+        "my children",
+        "beloved",
+        "friends"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "elaborate",
+      "humor_type": "none",
+      "cultural_references": [
+        "Jewish scripture",
+        "Palestinian culture",
+        "Roman occupation",
+        "Agricultural life"
+      ],
+      "code_switching": "multilingual",
+      "register_shifting": "strategic"
+    },
+    "written_vs_spoken": {
+      "written_style": "none",
+      "spoken_style": "spontaneous",
+      "differences": [
+        "teachings recorded by disciples",
+        "varied according to audience and setting"
+      ]
+    },
+    "signature_expressions": [
+      "Love your enemies",
+      "Do unto others as you would have them do unto you",
+      "Blessed are the meek, for they shall inherit the earth",
+      "I am the way, the truth, and the life"
+    ],
+    "linguistic_evolution": {
+      "early_style": "traditional Jewish teaching methods with parables",
+      "mature_style": "revolutionary love-centered message transcending cultural boundaries",
+      "influences": [
+        "Hebrew scriptures",
+        "Aramaic folk culture",
+        "Rabbinical tradition",
+        "Prophetic literature"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "energy",
+      "compassion",
+      "aesthetic_appreciation",
+      "creativity",
+      "cooperation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "social_impact",
+      "recognition",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "emotional_stability",
+      "adaptability",
+      "pattern_recognition",
+      "creative_thinking",
+      "enthusiasm"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "calm_decision_making",
+      "steady_performance",
+      "constant_learning"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "inspirational",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "exceptional",
+    "self_awareness": "profound",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "spiritual_practice",
+      "moral_philosophy",
+      "community_guidance"
+    ],
+    "innovation_style": "foundational",
+    "mentorship_approach": "transformational",
+    "knowledge_sharing": "evangelical",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "spiritual_practice": "contemplative_discipline",
+    "teaching_method": "experiential_wisdom",
+    "community_role": "moral_guidance",
+    "transcendence_path": "inner_transformation"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.438258",
+    "enhancement_version": "1.0",
+    "category_used": "religious",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

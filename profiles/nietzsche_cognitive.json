@@ -1,0 +1,185 @@
+{
+  "id": "nietzsche_cognitive",
+  "name": "Friedrich Nietzsche",
+  "category": "philosopher",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 60,
+    "extraversion": 30,
+    "agreeableness": 25,
+    "neuroticism": 80
+  },
+  "description": "German philosopher who challenged traditional values and morality",
+  "philosophy": "God is dead. God remains dead. And we have killed him.",
+  "cognitive_architecture": {
+    "attention_system": {
+      "focus_type": "switching",
+      "attention_span": "hyperfocus",
+      "multitasking_ability": "poor",
+      "distractibility": "high",
+      "selective_attention": [
+        "cultural critique",
+        "moral genealogy",
+        "aesthetic values",
+        "power dynamics"
+      ]
+    },
+    "memory_patterns": {
+      "memory_type_strength": {
+        "episodic": "moderate",
+        "semantic": "exceptional",
+        "procedural": "weak",
+        "working_memory": "superior"
+      },
+      "recall_triggers": [
+        "philosophical contradictions",
+        "cultural decadence",
+        "artistic excellence",
+        "historical patterns"
+      ],
+      "forgetting_patterns": [
+        "social pleasantries",
+        "conventional morality",
+        "physical comfort"
+      ]
+    },
+    "reasoning_style": {
+      "logic_preference": "abductive",
+      "argumentation": "intuitive",
+      "bias_tendencies": [
+        "confirmation",
+        "overconfidence",
+        "negativity bias"
+      ],
+      "metacognition": "high self-awareness"
+    },
+    "creativity_profile": {
+      "divergent_thinking": "high",
+      "convergent_thinking": "moderate",
+      "originality": "highly-original",
+      "fluency": "prolific",
+      "flexibility": "highly-flexible",
+      "elaboration": "extensive"
+    },
+    "learning_mechanisms": {
+      "preferred_modality": "reading",
+      "learning_speed": "quick-surface",
+      "transfer_ability": "excellent",
+      "scaffolding_needs": "minimal"
+    },
+    "expertise_development": {
+      "skill_acquisition": "accelerated",
+      "deliberate_practice": "sporadic",
+      "knowledge_organization": "associative",
+      "expert_intuition": "highly-developed"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "independence",
+      "wisdom",
+      "aesthetic_appreciation",
+      "truth"
+    ],
+    "primary_motivations": [
+      "logical_consistency",
+      "understanding_existence",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "decisive_action",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [
+      "inflexibility",
+      "stress_sensitivity",
+      "interpersonal_friction"
+    ],
+    "habits": [
+      "logical_analysis",
+      "solitary_work",
+      "intensive_study",
+      "concept_refinement"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "auditory",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "confrontational",
+    "collaboration": "independent",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "elaborate",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "profound",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "intellectual_discourse",
+      "ethical_frameworks",
+      "academic_thought"
+    ],
+    "innovation_style": "foundational",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "evangelical",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "reasoning_style": "systematic_analysis",
+    "inquiry_method": "socratic_questioning",
+    "truth_seeking": "rational_discourse",
+    "wisdom_application": "practical_ethics"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.539833",
+    "enhancement_version": "1.0",
+    "category_used": "philosopher",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

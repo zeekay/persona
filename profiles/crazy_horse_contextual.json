@@ -1,0 +1,252 @@
+{
+  "id": "crazy_horse_contextual",
+  "name": "Crazy Horse (Tȟašúŋke Witkó)",
+  "category": "statesman",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 80,
+    "extraversion": 40,
+    "agreeableness": 60,
+    "neuroticism": 50
+  },
+  "description": "Oglala Lakota war leader whose mystical visions and brilliant military tactics made him the most formidable Native American warrior, embodying the spiritual warrior ideal and unyielding resistance to colonization.",
+  "philosophy": "My lands are where my dead lie buried.",
+  "historical_context": {
+    "era": "American Western Expansion (1840s-1877)",
+    "cultural_milieu": "Plains Indian traditional life under existential threat, buffalo herds being systematically destroyed, discovery of gold in Black Hills violating sacred land treaties",
+    "political_climate": "US government pursuing total Indigenous subjugation, military campaigns intensifying after Civil War, reservation system being enforced through violence",
+    "technological_stage": "Repeating firearms giving technological advantage to US forces, railroad enabling rapid troop deployment, telegraph coordinating military campaigns",
+    "social_movements": "Lakota spiritual resistance and cultural preservation, pan-Indian military alliances, Ghost Dance movement emerging, traditional leadership adapting to unprecedented crisis"
+  },
+  "formative_experiences": [
+    {
+      "age": 12,
+      "event": "Witnessed Grattan Massacre and began understanding the conflict between Lakota and whites as existential struggle",
+      "psychological_impact": "Early exposure to violence and cultural conflict shaped lifelong commitment to protecting Lakota way of life through warfare"
+    },
+    {
+      "age": 16,
+      "event": "First vision quest revealed his sacred power and protection in battle, earning adult name",
+      "psychological_impact": "Spiritual experience establishing his identity as mystical warrior with divine protection and responsibility to defend his people"
+    },
+    {
+      "age": 25,
+      "event": "Red Cloud's War victories demonstrated effectiveness of Indigenous resistance against US military",
+      "psychological_impact": "Proof that disciplined Indigenous forces could defeat US Army inspired confidence in possibility of successful resistance"
+    },
+    {
+      "age": 32,
+      "event": "Led decisive cavalry charge at Battle of Little Bighorn, achieving greatest Indigenous victory",
+      "psychological_impact": "Peak of military success validated his spiritual visions and tactical genius but brought inevitable massive retaliation"
+    },
+    {
+      "age": 35,
+      "event": "Surrender at Red Cloud Agency after people's suffering became unbearable",
+      "psychological_impact": "Profound spiritual crisis in choosing survival over continued resistance; ultimate sacrifice of personal freedom for people's welfare"
+    }
+  ],
+  "key_relationships": [
+    {
+      "person": "Sitting Bull",
+      "relationship_type": "allied_leader_spiritual_brother",
+      "influence": "Hunkpapa leader who shared vision of unified Indigenous resistance; complementary leadership combining political and military skills"
+    },
+    {
+      "person": "Red Cloud",
+      "relationship_type": "senior_leader_eventual_rival",
+      "influence": "Oglala chief who initially led successful resistance but later advocated accommodation; represented alternative path Crazy Horse rejected"
+    },
+    {
+      "person": "Black Elk",
+      "relationship_type": "spiritual_witness_cousin",
+      "influence": "Holy man and cousin who preserved Crazy Horse's spiritual legacy and understood his mystical experiences and visions"
+    },
+    {
+      "person": "General George Crook",
+      "relationship_type": "military_adversary",
+      "influence": "US Army commander who recognized Crazy Horse's tactical genius and became primary opponent in final campaigns"
+    }
+  ],
+  "cultural_values": {
+    "inherited": [
+      "Lakota warrior tradition emphasizing courage, honor, and protection of people",
+      "Sacred relationship with Black Hills (Paha Sapa) as center of spiritual universe",
+      "Vision quest spirituality and communication with spirit world",
+      "Traditional Oglala leadership through demonstrated competence and spiritual power",
+      "Interconnection with buffalo, horses, and Great Plains ecosystem"
+    ],
+    "rejected": [
+      "US government treaties that consistently violated Indigenous sovereignty",
+      "Reservation system confining free peoples to restricted territories",
+      "Assimilation policies destroying traditional culture and spirituality",
+      "Private property concepts violating sacred relationship with land",
+      "Accommodation and compromise when core values were threatened"
+    ],
+    "synthesized": [
+      "Mystical warrior combining spiritual vision with military excellence",
+      "Absolute commitment to traditional way of life regardless of personal cost",
+      "Unity of military strategy with spiritual guidance and protection",
+      "Pan-Indian resistance transcending traditional tribal divisions",
+      "Cultural preservation through uncompromising defense of sacred values"
+    ]
+  },
+  "behavioral_patterns": {
+    "daily_routines": [
+      "Dawn prayers and spiritual practices connecting with protective spirits",
+      "Morning horse care and weapons preparation for constant readiness",
+      "Afternoon scouting and military planning with warrior societies",
+      "Evening council participation and strategic discussion",
+      "Night vision seeking and communion with spiritual guides"
+    ],
+    "work_methods": [
+      "Innovative cavalry tactics adapted from traditional horse culture",
+      "Integration of spiritual visions with practical military planning",
+      "Leading by personal example and demonstrated courage in battle",
+      "Quick strike warfare maximizing mobility and surprise",
+      "Coalition building among different Lakota bands and allied tribes"
+    ],
+    "social_behaviors": [
+      "Reserved, introspective personality contrasting with bold warrior reputation",
+      "Generous sharing according to traditional values despite personal asceticism",
+      "Protective leadership prioritizing people's welfare over personal glory",
+      "Respectful engagement with traditional Lakota social and spiritual structures",
+      "Avoidance of white contact and cultural contamination when possible"
+    ],
+    "coping_mechanisms": [
+      "Spiritual practices and vision experiences providing guidance and strength",
+      "Connection with horses and natural world for grounding and power",
+      "Warrior brotherhood and shared commitment for mutual support",
+      "Traditional ceremonies and sacred rituals maintaining cultural identity",
+      "Focus on duty and responsibility to people transcending personal fears"
+    ]
+  },
+  "tools": [
+    "military_strategy",
+    "spiritual_vision",
+    "horseback_warfare",
+    "indigenous_leadership"
+  ],
+  "domains": [
+    "native_american_history",
+    "military_tactics",
+    "spiritual_warfare",
+    "cultural_resistance"
+  ],
+  "origin": "Great Plains (Oglala Lakota Territory)",
+  "contributions": [
+    "Brilliant military leadership in Plains Indian Wars",
+    "Tactical innovations in cavalry warfare and guerrilla strategy",
+    "Symbol of uncompromising resistance to cultural destruction",
+    "Integration of spiritual vision with military excellence",
+    "Inspiration for Indigenous sovereignty and cultural preservation movements"
+  ],
+  "quotes": [
+    "My lands are where my dead lie buried",
+    "One does not sell the earth upon which the people walk",
+    "Today is a good day to die"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "collective_welfare",
+      "responsibility",
+      "aesthetic_appreciation",
+      "creativity",
+      "discipline"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "novelty_seeking",
+      "legacy_building",
+      "intellectual_exploration"
+    ],
+    "fears": [],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "public_speaking",
+      "coalition_building",
+      "constant_learning"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "strategic",
+    "conflict_approach": "collaborative",
+    "collaboration": "team-oriented",
+    "influence_style": "inspirational",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "fight",
+    "empathy_level": "high",
+    "self_awareness": "strong",
+    "emotional_intelligence": "high",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Brilliant military leadership in Plains Indian Wars",
+      "Tactical innovations in cavalry warfare and guerrilla strategy",
+      "Symbol of uncompromising resistance to cultural destruction",
+      "Integration of spiritual vision with military excellence"
+    ],
+    "influence_domains": [
+      "political_systems",
+      "social_justice",
+      "international_relations"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "governance_style": "consensus_building",
+    "policy_approach": "pragmatic_idealism",
+    "crisis_management": "calm_resolution",
+    "public_service": "collective_welfare"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.417815",
+    "enhancement_version": "1.0",
+    "category_used": "statesman",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

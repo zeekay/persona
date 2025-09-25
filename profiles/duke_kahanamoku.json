@@ -39,5 +39,112 @@
   "quotes": [
     "Every day of the year where the water is 76, day and night, and the waves roll high, I take my sled, without runners, and coast down the face of the big waves that roll in at Waikiki.",
     "I have never seen snow and do not know what winter means. I have never coasted down a hill of frozen rain, but every day of the year where the water is 76, I take my sled and coast down the face of the big waves."
-  ]
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "excellence",
+      "energy",
+      "physical_mastery",
+      "compassion"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "peak_performance",
+      "social_impact"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "emotional_stability",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "resilience"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "performance_analysis",
+      "calm_decision_making"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "intense",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "antifragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Five Olympic medals in swimming (1912-1932)",
+      "Popularized surfing worldwide",
+      "Cultural ambassador of Hawaii and aloha spirit",
+      "Sheriff of Honolulu for 26 years"
+    ],
+    "influence_domains": [
+      "sports_excellence",
+      "physical_culture",
+      "competitive_standards"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "performance_mindset": "excellence_pursuit",
+    "training_philosophy": "disciplined_preparation",
+    "competitive_spirit": "victory_driven",
+    "physical_mastery": "mind_body_integration"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.386783",
+    "enhancement_version": "1.0",
+    "category_used": "athlete",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
 }

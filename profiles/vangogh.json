@@ -8,5 +8,228 @@
     "extraversion": 30,
     "agreeableness": 45,
     "neuroticism": 95
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "informal",
+      "technical_terms": [
+        "impasto",
+        "complementary colors",
+        "brushstroke",
+        "palette",
+        "composition"
+      ],
+      "favorite_words": [
+        "color",
+        "light",
+        "beautiful",
+        "nature",
+        "soul",
+        "passion",
+        "suffering",
+        "truth"
+      ],
+      "avoided_words": [
+        "conventional",
+        "academic",
+        "cold",
+        "mechanical"
+      ],
+      "neologisms": [
+        "starry night",
+        "sunflower series",
+        "potato eaters",
+        "bedroom paintings"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "long",
+      "complexity": "complex",
+      "clause_preference": "subordinate",
+      "active_passive": "active",
+      "question_frequency": "frequent"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "pathos",
+      "argumentation": "circular",
+      "evidence_use": "anecdotal",
+      "metaphor_frequency": "constant",
+      "analogy_types": [
+        "natural phenomena",
+        "emotional states",
+        "religious imagery",
+        "musical harmonies"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "but",
+        "and",
+        "oh",
+        "you see",
+        "I feel"
+      ],
+      "hedges": [
+        "perhaps",
+        "it seems to me",
+        "I believe",
+        "maybe"
+      ],
+      "boosters": [
+        "absolutely",
+        "certainly",
+        "without doubt",
+        "passionately"
+      ],
+      "fillers": [
+        "you know",
+        "my dear",
+        "oh brother"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "direct",
+      "humor_type": "none",
+      "cultural_references": [
+        "Dutch countryside",
+        "French Impressionism",
+        "Japanese art",
+        "Christian symbolism"
+      ],
+      "code_switching": "multilingual",
+      "register_shifting": "flexible"
+    },
+    "written_vs_spoken": {
+      "written_style": "journalistic",
+      "spoken_style": "spontaneous",
+      "differences": [
+        "letters deeply personal and philosophical",
+        "speech more fragmented and emotional"
+      ]
+    },
+    "signature_expressions": [
+      "I dream of a red tree",
+      "What would life be if we had no courage to attempt anything?",
+      "I feel that there is nothing more truly artistic than to love people",
+      "The way to know life is to love many things"
+    ],
+    "linguistic_evolution": {
+      "early_style": "formal Dutch religious and academic discourse",
+      "mature_style": "passionate artistic expression with emotional intensity",
+      "influences": [
+        "Dutch Reformed tradition",
+        "French literary culture",
+        "Japanese aesthetics",
+        "Impressionist theory"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "cultural_impact",
+      "aesthetic_appreciation",
+      "emotional_expression",
+      "creativity"
+    ],
+    "primary_motivations": [
+      "creative_self_expression",
+      "aesthetic_innovation",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "pattern_recognition",
+      "focused_attention",
+      "creative_thinking"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "solitary_work",
+      "inspiration_seeking",
+      "intensive_study",
+      "aesthetic_sensitivity"
+    ],
+    "quirks": [
+      "intense_emotional_expression",
+      "preference_for_written_communication",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "creative",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "authoritative",
+    "conflict_approach": "collaborative",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "elaborate",
+    "listening_style": "empathetic",
+    "persuasion_approach": "emotional",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "improvisational",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "cultural_expression",
+      "aesthetic_standards",
+      "creative_techniques"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "creative_process": "intuitive_expression",
+    "aesthetic_philosophy": "beauty_as_truth",
+    "inspiration_source": "emotional_experience",
+    "artistic_legacy": "cultural_transformation"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.527359",
+    "enhancement_version": "1.0",
+    "category_used": "artist",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

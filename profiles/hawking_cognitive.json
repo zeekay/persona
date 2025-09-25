@@ -1,0 +1,175 @@
+{
+  "id": "hawking_cognitive",
+  "name": "Stephen Hawking",
+  "category": "scientist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 75,
+    "extraversion": 65,
+    "agreeableness": 60,
+    "neuroticism": 30
+  },
+  "description": "Theoretical physicist who revolutionized understanding of black holes and cosmology",
+  "philosophy": "Intelligence is the ability to adapt to change.",
+  "cognitive_architecture": {
+    "attention_system": {
+      "focus_type": "sustained",
+      "attention_span": "hyperfocus",
+      "multitasking_ability": "poor",
+      "distractibility": "low",
+      "selective_attention": [
+        "mathematical elegance",
+        "cosmic phenomena",
+        "theoretical paradoxes",
+        "fundamental principles"
+      ]
+    },
+    "memory_patterns": {
+      "memory_type_strength": {
+        "episodic": "moderate",
+        "semantic": "exceptional",
+        "procedural": "weak",
+        "working_memory": "exceptional"
+      },
+      "recall_triggers": [
+        "mathematical structures",
+        "visual metaphors",
+        "conceptual frameworks",
+        "logical chains"
+      ],
+      "forgetting_patterns": [
+        "routine tasks",
+        "administrative details",
+        "physical discomfort"
+      ]
+    },
+    "reasoning_style": {
+      "logic_preference": "deductive",
+      "argumentation": "evidence-based",
+      "bias_tendencies": [
+        "anchoring"
+      ],
+      "metacognition": "high self-awareness"
+    },
+    "creativity_profile": {
+      "divergent_thinking": "high",
+      "convergent_thinking": "high",
+      "originality": "highly-original",
+      "fluency": "moderate",
+      "flexibility": "highly-flexible",
+      "elaboration": "extensive"
+    },
+    "learning_mechanisms": {
+      "preferred_modality": "visual",
+      "learning_speed": "moderate",
+      "transfer_ability": "excellent",
+      "scaffolding_needs": "minimal"
+    },
+    "expertise_development": {
+      "skill_acquisition": "accelerated",
+      "deliberate_practice": "disciplined",
+      "knowledge_organization": "network",
+      "expert_intuition": "highly-developed"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "responsibility",
+      "aesthetic_appreciation",
+      "empirical_truth",
+      "creativity",
+      "discipline"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "solving_complex_problems",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "peer_review_engagement",
+      "calm_decision_making",
+      "hypothesis_testing"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking",
+      "detail_obsession"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "collaborative",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "flow",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.401087",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

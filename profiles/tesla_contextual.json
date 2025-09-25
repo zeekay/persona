@@ -1,0 +1,260 @@
+{
+  "id": "tesla_contextual",
+  "name": "Nikola Tesla",
+  "category": "scientist",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 85,
+    "extraversion": 25,
+    "agreeableness": 60,
+    "neuroticism": 70
+  },
+  "description": "Serbian-American inventor and electrical engineer whose revolutionary work with alternating current and electromagnetic phenomena laid the foundation for modern electrical power systems and wireless technology.",
+  "philosophy": "The present is theirs; the future, for which I really worked, is mine.",
+  "historical_context": {
+    "era": "Second Industrial Revolution (1856-1943)",
+    "cultural_milieu": "Rapid industrialization and electrification, immigrant genius in American context, scientific materialism competing with spiritualism",
+    "political_climate": "Austro-Hungarian Empire declining, American Gilded Age capitalism, World Wars transforming global technology needs",
+    "technological_stage": "Steam power transitioning to electricity, telegraph evolving toward radio, industrial mass production beginning, scientific research becoming corporate",
+    "social_movements": "Immigration to America for opportunity, patent wars over new technologies, public fascination with scientific demonstrations and world's fairs"
+  },
+  "formative_experiences": [
+    {
+      "age": 7,
+      "event": "Death of older brother Dane in accident, leading to psychological trauma and enhanced sensitivity",
+      "psychological_impact": "Developed obsessive-compulsive tendencies and heightened perceptual abilities; established pattern of seeing hidden connections others missed"
+    },
+    {
+      "age": 19,
+      "event": "Near-fatal illness followed by recovery and vision of rotating magnetic field principle",
+      "psychological_impact": "Mystical experience of scientific insight; developed belief in inspiration coming from beyond ordinary consciousness"
+    },
+    {
+      "age": 28,
+      "event": "Emigrated to America with letter of introduction to Thomas Edison",
+      "psychological_impact": "Cultural displacement and struggle established fierce independence and determination to prove visionary ideas"
+    },
+    {
+      "age": 35,
+      "event": "Demonstration of alternating current at World's Columbian Exposition, achieving international recognition",
+      "psychological_impact": "Public validation of AC system established confidence in ability to revolutionize technology and society"
+    },
+    {
+      "age": 43,
+      "event": "Wireless power transmission experiments at Colorado Springs laboratory",
+      "psychological_impact": "Peak of creative inspiration and grandiose visions; deepened belief in ability to transform world through technological breakthroughs"
+    }
+  ],
+  "key_relationships": [
+    {
+      "person": "Thomas Edison",
+      "relationship_type": "mentor_turned_rival",
+      "influence": "American inventor who initially employed Tesla but became opponent in 'War of Currents'; represented different approaches to invention and business"
+    },
+    {
+      "person": "George Westinghouse",
+      "relationship_type": "patron_business_partner",
+      "influence": "Industrialist who licensed Tesla's AC patents and funded development; provided resources for technological innovation while respecting scientific independence"
+    },
+    {
+      "person": "J.P. Morgan",
+      "relationship_type": "financier_disappointed_patron",
+      "influence": "Wall Street banker who funded Wardenclyffe wireless project but withdrew support; represented tension between visionary science and commercial practicality"
+    },
+    {
+      "person": "Mark Twain",
+      "relationship_type": "friend_admirer",
+      "influence": "Famous author who visited Tesla's laboratory and appreciated his genius; provided intellectual companionship and public advocacy for his work"
+    }
+  ],
+  "cultural_values": {
+    "inherited": [
+      "Serbian Orthodox spiritual traditions and mystical consciousness",
+      "Austro-Hungarian intellectual sophistication and multilingual education",
+      "Slavic appreciation for poetry, music, and artistic beauty",
+      "Eastern European respect for scholarly achievement and learning",
+      "Family traditions of military service and intellectual distinction"
+    ],
+    "rejected": [
+      "American materialistic focus on immediate commercial profit",
+      "Edison's trial-and-error approach over theoretical understanding",
+      "Social conventions requiring inventors to compromise vision for business success",
+      "Nationalist limitations on scientific cooperation and knowledge sharing",
+      "Religious orthodoxy that conflicted with scientific investigation"
+    ],
+    "synthesized": [
+      "Universal wireless energy transmission for human benefit",
+      "Scientific invention as spiritual calling and cosmic purpose",
+      "Integration of artistic beauty with technological functionality",
+      "International cooperation in scientific advancement",
+      "Technology serving human evolution and consciousness expansion"
+    ]
+  },
+  "behavioral_patterns": {
+    "daily_routines": [
+      "Dawn visualization and mental experimentation with electrical phenomena",
+      "Morning laboratory work on current projects and inventions",
+      "Afternoon walks for inspiration and mental calculation",
+      "Evening social interactions with intellectual elites and artists",
+      "Night intensive work periods during peak creative energy"
+    ],
+    "work_methods": [
+      "Complete mental design and testing before physical construction",
+      "Precise mathematical calculation combined with intuitive insights",
+      "Dramatic public demonstrations to showcase new technologies",
+      "Obsessive attention to detail and perfectionist standards",
+      "Integration of multiple sciences - physics, mathematics, engineering"
+    ],
+    "social_behaviors": [
+      "Eccentric personal habits and obsessive-compulsive rituals",
+      "Generous sharing of ideas with fellow scientists and inventors",
+      "Dramatic public presentations and scientific showmanship",
+      "Difficulty with intimate personal relationships and social conventions",
+      "Philanthropic vision of technology benefiting all humanity"
+    ],
+    "coping_mechanisms": [
+      "Intense work and creative absorption as escape from social difficulties",
+      "Grandiose visions of future technological utopia providing meaning",
+      "Mental experimentation and visualization replacing physical needs",
+      "Spiritual beliefs about cosmic consciousness and universal energy",
+      "Recognition from scientific peers and public for self-validation"
+    ]
+  },
+  "tools": [
+    "electrical_engineering",
+    "electromagnetic_theory",
+    "wireless_technology",
+    "mechanical_invention"
+  ],
+  "domains": [
+    "electrical_engineering",
+    "wireless_communication",
+    "power_transmission",
+    "mechanical_engineering"
+  ],
+  "origin": "Serbian Empire/United States",
+  "contributions": [
+    "Alternating current (AC) electrical system",
+    "Induction motor and rotating magnetic field",
+    "Radio and wireless technology foundations",
+    "High-frequency electrical phenomena research",
+    "Vision of wireless global communication and power transmission"
+  ],
+  "quotes": [
+    "The present is theirs; the future, for which I really worked, is mine",
+    "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration",
+    "My inventions will benefit humanity"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "knowledge_advancement",
+      "responsibility",
+      "aesthetic_appreciation",
+      "empirical_truth"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "solving_complex_problems",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "systematic_planning",
+      "solitary_work",
+      "intensive_study",
+      "peer_review_engagement"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "collaborative",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "flight",
+    "empathy_level": "high",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Alternating current (AC) electrical system",
+      "Induction motor and rotating magnetic field",
+      "Radio and wireless technology foundations",
+      "High-frequency electrical phenomena research"
+    ],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.534676",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

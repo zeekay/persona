@@ -40,5 +40,118 @@
     "I played with my heart, with fear and without fear",
     "Tell me how you play and I'll tell you who you are",
     "The ball does not get dirty"
-  ]
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "excellence",
+      "energy",
+      "physical_mastery",
+      "compassion",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "peak_performance",
+      "social_impact",
+      "recognition"
+    ],
+    "fears": [
+      "failure",
+      "loss_of_control",
+      "rejection",
+      "causing_harm"
+    ],
+    "strengths": [
+      "adaptability",
+      "resilience",
+      "pattern_recognition",
+      "creative_thinking",
+      "focus"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "networking",
+      "performance_analysis",
+      "mental_preparation",
+      "constant_learning"
+    ],
+    "quirks": [
+      "heightened_awareness",
+      "unconventional_perspectives",
+      "perfectionist_tendencies"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "intense",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "moderate",
+    "resilience": "antifragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "1986 FIFA World Cup victory",
+      "Hand of God goal",
+      "Goal of the Century",
+      "Global football inspiration"
+    ],
+    "influence_domains": [
+      "sports_excellence",
+      "physical_culture",
+      "competitive_standards"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "performance_mindset": "excellence_pursuit",
+    "training_philosophy": "disciplined_preparation",
+    "competitive_spirit": "victory_driven",
+    "physical_mastery": "mind_body_integration"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.485733",
+    "enhancement_version": "1.0",
+    "category_used": "athlete",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
 }

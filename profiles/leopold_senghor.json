@@ -12,9 +12,123 @@
   "description": "Senegalese poet, philosopher, and first President who championed Négritude and African cultural identity",
   "philosophy": "Négritude is the sum total of the values of the civilization of the African world.",
   "tools": {
-    "essential": ["poetry", "philosophy", "statesmanship"],
-    "preferred": ["french_literature", "african_philosophy", "cultural_synthesis"],
-    "domains": ["negritude", "post-colonial_thought", "african_renaissance"]
+    "essential": [
+      "poetry",
+      "philosophy",
+      "statesmanship"
+    ],
+    "preferred": [
+      "french_literature",
+      "african_philosophy",
+      "cultural_synthesis"
+    ],
+    "domains": [
+      "negritude",
+      "post-colonial_thought",
+      "african_renaissance"
+    ]
   },
-  "origin": "Senegal"
+  "origin": "Senegal",
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "energy",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "social_impact",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "emotional_stability",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "calm_decision_making",
+      "steady_performance"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "personal",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "cultural_influence",
+      "human_knowledge",
+      "social_progress"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "poetic_voice": "authentic_expression",
+    "metaphorical_thinking": "symbolic_language",
+    "rhythm_sensitivity": "musical_language",
+    "emotional_resonance": "universal_themes"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.478203",
+    "enhancement_version": "1.0",
+    "category_used": "poet",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
 }

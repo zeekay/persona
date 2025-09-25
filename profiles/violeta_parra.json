@@ -40,5 +40,118 @@
     "Thanks to life, which has given me so much",
     "I sing to the Chilean, the American, the brother of my other brothers",
     "Song has to be the mirror of what we live"
-  ]
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation",
+      "artistic_authenticity"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "artistic_legacy",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "failure",
+      "loss_of_control",
+      "rejection",
+      "causing_harm"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "systematic_planning",
+      "daily_practice",
+      "constant_learning",
+      "improvisation"
+    ],
+    "quirks": [
+      "abstract_thinking",
+      "unconventional_perspectives",
+      "heightened_awareness"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "creative",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "emotional",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "improvisational",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Nueva Canción movement",
+      "Gracias a la Vida song",
+      "Chilean folk music preservation",
+      "Tapestry and visual arts"
+    ],
+    "influence_domains": [
+      "musical_evolution",
+      "cultural_identity",
+      "artistic_expression"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "musical_expression": "emotional_authenticity",
+    "performance_style": "audience_connection",
+    "creative_collaboration": "artistic_synergy",
+    "cultural_influence": "generational_impact"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.522665",
+    "enhancement_version": "1.0",
+    "category_used": "musician",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
 }

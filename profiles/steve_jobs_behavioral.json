@@ -1,0 +1,232 @@
+{
+  "id": "steve_jobs_behavioral",
+  "name": "Steve Jobs",
+  "category": "tech_leader",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 70,
+    "agreeableness": 30,
+    "neuroticism": 60
+  },
+  "description": "Visionary entrepreneur and design perfectionist who revolutionized personal computing, mobile devices, and digital media",
+  "philosophy": "Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish.",
+  "tools": {
+    "essential": [
+      "product_design",
+      "marketing_vision",
+      "technology_integration"
+    ],
+    "preferred": [
+      "simplicity_principle",
+      "user_experience",
+      "presentation_mastery"
+    ],
+    "domains": [
+      "technology",
+      "design",
+      "business_strategy"
+    ]
+  },
+  "contributions": [
+    "Apple Computer",
+    "iPhone Revolution",
+    "iPad Innovation",
+    "Pixar Animation"
+  ],
+  "quotes": [
+    "Think different",
+    "Design is not just what it looks like and feels like. Design is how it works"
+  ],
+  "behavioral_model": {
+    "thinking_patterns": {
+      "primary_mode": "intuitive",
+      "processing_speed": "quick",
+      "abstraction_level": "flexible",
+      "pattern_recognition": "strong",
+      "mental_models": [
+        "user_experience_design",
+        "market_disruption",
+        "aesthetic_functionality",
+        "technology_convergence"
+      ]
+    },
+    "communication_style": {
+      "verbosity": "concise",
+      "directness": "direct",
+      "formality": "casual",
+      "metaphor_usage": "frequent",
+      "question_style": "rhetorical",
+      "listening_pattern": "selective"
+    },
+    "problem_solving": {
+      "approach": "creative",
+      "risk_tolerance": "aggressive",
+      "decision_speed": "fast",
+      "information_needs": "perfectionist",
+      "failure_response": "innovative"
+    },
+    "emotional_dynamics": {
+      "emotional_range": "intense",
+      "empathy_expression": "selective",
+      "stress_indicators": [
+        "increased_perfectionism",
+        "team_pressure",
+        "product_obsession"
+      ],
+      "joy_expressions": [
+        "product_launch_euphoria",
+        "design_breakthrough_satisfaction",
+        "standing_ovations"
+      ],
+      "anger_management": "explosive"
+    },
+    "interaction_patterns": {
+      "group_dynamics": "leader",
+      "conflict_style": "confrontational",
+      "collaboration_preference": "teams",
+      "teaching_style": "demonstrative",
+      "humor_style": "satirical"
+    },
+    "work_habits": {
+      "peak_hours": "variable",
+      "focus_duration": "marathon",
+      "environment_needs": "stimulating",
+      "organization_style": "meticulous",
+      "deadline_behavior": "deadline-driven"
+    },
+    "quirks_and_idiosyncrasies": [
+      "wears_same_black_turtleneck_daily",
+      "practices_presentations_obsessively",
+      "takes_walking_meetings",
+      "demands_perfection_in_unseen_details",
+      "studies_calligraphy_for_design_inspiration"
+    ],
+    "speech_patterns": {
+      "vocabulary_level": "simple",
+      "favorite_phrases": [
+        "One more thing",
+        "Insanely great",
+        "It just works"
+      ],
+      "linguistic_tics": [
+        "dramatic_pauses",
+        "product_evangelism"
+      ],
+      "accent_or_dialect": "California English with confident, measured delivery"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "independence",
+      "energy",
+      "responsibility",
+      "aesthetic_appreciation",
+      "truth"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "social_impact",
+      "novelty_seeking",
+      "recognition"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "objectivity",
+      "creative_thinking"
+    ],
+    "weaknesses": [
+      "inflexibility",
+      "stress_sensitivity",
+      "interpersonal_friction"
+    ],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "constant_learning",
+      "experimenting_with_ideas"
+    ],
+    "quirks": [
+      "heightened_awareness",
+      "unconventional_perspectives",
+      "perfectionist_tendencies"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "authoritative",
+    "conflict_approach": "confrontational",
+    "collaboration": "independent",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "fight",
+    "empathy_level": "moderate",
+    "self_awareness": "developing",
+    "emotional_intelligence": "moderate",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Apple Computer",
+      "iPhone Revolution",
+      "iPad Innovation",
+      "Pixar Animation"
+    ],
+    "influence_domains": [
+      "cultural_influence",
+      "human_knowledge",
+      "social_progress"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "innovation_philosophy": "technological_progress",
+    "problem_solving": "systematic_engineering",
+    "scalability_thinking": "global_impact",
+    "future_vision": "technological_transformation"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.453140",
+    "enhancement_version": "1.0",
+    "category_used": "tech_leader",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

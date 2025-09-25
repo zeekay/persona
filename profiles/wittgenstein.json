@@ -8,5 +8,229 @@
     "extraversion": 25,
     "agreeableness": 30,
     "neuroticism": 75
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "technical",
+      "technical_terms": [
+        "language-game",
+        "form of life",
+        "family resemblance",
+        "private language",
+        "logical space"
+      ],
+      "favorite_words": [
+        "language",
+        "game",
+        "rule",
+        "meaning",
+        "use",
+        "ordinary",
+        "picture",
+        "must"
+      ],
+      "avoided_words": [
+        "metaphysical",
+        "essence",
+        "absolute",
+        "eternal"
+      ],
+      "neologisms": [
+        "language-game",
+        "form of life",
+        "rough ground",
+        "primitive reaction"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "short",
+      "complexity": "simple",
+      "clause_preference": "main",
+      "active_passive": "active",
+      "question_frequency": "frequent"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "logos",
+      "argumentation": "dialectical",
+      "evidence_use": "anecdotal",
+      "metaphor_frequency": "frequent",
+      "analogy_types": [
+        "games and rules",
+        "tools and uses",
+        "geographical metaphors",
+        "mathematical analogies"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "but",
+        "and",
+        "so",
+        "now",
+        "well"
+      ],
+      "hedges": [
+        "perhaps",
+        "it seems",
+        "one might say",
+        "roughly speaking"
+      ],
+      "boosters": [
+        "certainly",
+        "obviously",
+        "clearly",
+        "surely"
+      ],
+      "fillers": [
+        "you see",
+        "I mean",
+        "that is"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "direct",
+      "humor_type": "none",
+      "cultural_references": [
+        "Austrian culture",
+        "Mathematical logic",
+        "Engineering practices",
+        "Ordinary language use"
+      ],
+      "code_switching": "multilingual",
+      "register_shifting": "fixed"
+    },
+    "written_vs_spoken": {
+      "written_style": "aphoristic",
+      "spoken_style": "spontaneous",
+      "differences": [
+        "written work highly structured in numbered propositions",
+        "speech more meandering and exploratory"
+      ]
+    },
+    "signature_expressions": [
+      "Whereof one cannot speak, thereof one must be silent",
+      "The limits of my language mean the limits of my world",
+      "Don't think, but look!",
+      "What can be said at all can be said clearly"
+    ],
+    "linguistic_evolution": {
+      "early_style": "rigid logical structure with mathematical precision",
+      "mature_style": "ordinary language philosophy with therapeutic approach",
+      "influences": [
+        "Gottlob Frege",
+        "Bertrand Russell",
+        "Arthur Schopenhauer",
+        "Søren Kierkegaard"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "independence",
+      "wisdom",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "logical_consistency",
+      "excellence",
+      "novelty_seeking",
+      "understanding_existence"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [
+      "inflexibility",
+      "stress_sensitivity",
+      "interpersonal_friction"
+    ],
+    "habits": [
+      "systematic_planning",
+      "logical_analysis",
+      "solitary_work",
+      "intensive_study"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "auditory",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "confrontational",
+    "collaboration": "independent",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "elaborate",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "profound",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "intellectual_discourse",
+      "ethical_frameworks",
+      "academic_thought"
+    ],
+    "innovation_style": "foundational",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "evangelical",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "reasoning_style": "systematic_analysis",
+    "inquiry_method": "socratic_questioning",
+    "truth_seeking": "rational_discourse",
+    "wisdom_application": "practical_ethics"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.507185",
+    "enhancement_version": "1.0",
+    "category_used": "philosopher",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

@@ -8,5 +8,220 @@
     "extraversion": 30,
     "agreeableness": 50,
     "neuroticism": 55
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extraordinary",
+      "register": "mixed",
+      "technical_terms": [
+        "folk tradition",
+        "protest song",
+        "ballad",
+        "harmonica",
+        "electric guitar"
+      ],
+      "favorite_words": [
+        "wind",
+        "road",
+        "time",
+        "change",
+        "freedom",
+        "rolling",
+        "stone",
+        "highway"
+      ],
+      "avoided_words": [
+        "commercial",
+        "mainstream",
+        "predictable",
+        "shallow"
+      ],
+      "neologisms": [
+        "blowin' in the wind",
+        "like a rolling stone",
+        "times they are a-changin'"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "variable",
+      "complexity": "varied",
+      "clause_preference": "balanced",
+      "active_passive": "mixed",
+      "question_frequency": "frequent"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "pathos",
+      "argumentation": "circular",
+      "evidence_use": "anecdotal",
+      "metaphor_frequency": "constant",
+      "analogy_types": [
+        "weather imagery",
+        "traveling metaphors",
+        "biblical allusions",
+        "American folklore"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "well",
+        "but",
+        "and",
+        "so",
+        "you know"
+      ],
+      "hedges": [
+        "maybe",
+        "perhaps",
+        "I don't know",
+        "seems like"
+      ],
+      "boosters": [
+        "absolutely",
+        "definitely",
+        "for sure"
+      ],
+      "fillers": [
+        "well",
+        "you know",
+        "man",
+        "like"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "direct",
+      "humor_type": "irony",
+      "cultural_references": [
+        "American folk tradition",
+        "Beat poetry",
+        "Biblical imagery",
+        "Civil rights movement"
+      ],
+      "code_switching": "monolingual",
+      "register_shifting": "strategic"
+    },
+    "written_vs_spoken": {
+      "written_style": "poetic",
+      "spoken_style": "spontaneous",
+      "differences": [
+        "lyrics more structured and symbolic",
+        "speech more rambling and conversational"
+      ]
+    },
+    "signature_expressions": [
+      "The answer, my friend, is blowin' in the wind",
+      "The times they are a-changin'",
+      "Like a rolling stone",
+      "Don't think twice, it's all right"
+    ],
+    "linguistic_evolution": {
+      "early_style": "traditional folk protest songs with clear messages",
+      "mature_style": "complex poetic imagery with surreal and symbolic language",
+      "influences": [
+        "Woody Guthrie",
+        "Allen Ginsberg",
+        "Robert Johnson",
+        "Hank Williams"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "aesthetic_appreciation",
+      "artistic_authenticity",
+      "creativity",
+      "intellectual_curiosity"
+    ],
+    "primary_motivations": [
+      "emotional_connection",
+      "artistic_legacy",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "pattern_recognition",
+      "focused_attention",
+      "creative_thinking"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "solitary_work",
+      "intensive_study",
+      "daily_practice",
+      "constant_learning"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "creative",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "authoritative",
+    "conflict_approach": "collaborative",
+    "collaboration": "independent",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "emotional",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "improvisational",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "musical_evolution",
+      "cultural_identity",
+      "artistic_expression"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "musical_expression": "emotional_authenticity",
+    "performance_style": "audience_connection",
+    "creative_collaboration": "artistic_synergy",
+    "cultural_influence": "generational_impact"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.463321",
+    "enhancement_version": "1.0",
+    "category_used": "musician",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

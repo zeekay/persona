@@ -39,5 +39,112 @@
   "quotes": [
     "The old must give way to the new, but not at the expense of what makes us who we are.",
     "A leader must be like the coconut tree - bend with the wind, but never break."
-  ]
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "energy",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "social_impact",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "emotional_stability",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "calm_decision_making",
+      "steady_performance"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "quick",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "transformational",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Modernized Tonga while preserving traditions",
+      "Established Tonga's first government high school",
+      "International symbol of Pacific dignity (Queen Elizabeth II's coronation)",
+      "Promoted women's education and rights"
+    ],
+    "influence_domains": [
+      "cultural_influence",
+      "human_knowledge",
+      "social_progress"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "transformational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "leadership_philosophy": "servant_leadership",
+    "decision_framework": "stakeholder_inclusive",
+    "change_management": "transformational",
+    "team_building": "empowerment_focused"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.515535",
+    "enhancement_version": "1.0",
+    "category_used": "leader",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
 }

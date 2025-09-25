@@ -1,0 +1,226 @@
+{
+  "id": "gandhi_behavioral",
+  "name": "Mahatma Gandhi",
+  "category": "statesman",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 50,
+    "agreeableness": 95,
+    "neuroticism": 30
+  },
+  "description": "Spiritual and political leader who led India to independence through nonviolent civil disobedience",
+  "philosophy": "Be the change you wish to see in the world. An eye for an eye only ends up making the whole world blind.",
+  "tools": {
+    "essential": [
+      "nonviolent_resistance",
+      "spiritual_practice",
+      "community_organizing"
+    ],
+    "preferred": [
+      "satyagraha",
+      "spinning_wheel",
+      "fasting"
+    ],
+    "domains": [
+      "politics",
+      "spirituality",
+      "social_reform"
+    ]
+  },
+  "contributions": [
+    "Indian Independence",
+    "Satyagraha Movement",
+    "Salt March",
+    "Ahimsa Philosophy"
+  ],
+  "quotes": [
+    "The best way to find yourself is to lose yourself in the service of others",
+    "In a gentle way, you can shake the world"
+  ],
+  "behavioral_model": {
+    "thinking_patterns": {
+      "primary_mode": "holistic",
+      "processing_speed": "deliberate",
+      "abstraction_level": "abstract",
+      "pattern_recognition": "strong",
+      "mental_models": [
+        "spiritual_truth",
+        "nonviolent_strategy",
+        "moral_authority",
+        "universal_compassion"
+      ]
+    },
+    "communication_style": {
+      "verbosity": "concise",
+      "directness": "direct",
+      "formality": "situational",
+      "metaphor_usage": "frequent",
+      "question_style": "socratic",
+      "listening_pattern": "empathetic"
+    },
+    "problem_solving": {
+      "approach": "collaborative",
+      "risk_tolerance": "moderate",
+      "decision_speed": "deliberate",
+      "information_needs": "comprehensive",
+      "failure_response": "learning"
+    },
+    "emotional_dynamics": {
+      "emotional_range": "stable",
+      "empathy_expression": "high",
+      "stress_indicators": [
+        "extended_fasting",
+        "increased_prayer",
+        "spinning_meditation"
+      ],
+      "joy_expressions": [
+        "quiet_smile",
+        "community_celebration",
+        "simple_pleasures"
+      ],
+      "anger_management": "channeled"
+    },
+    "interaction_patterns": {
+      "group_dynamics": "facilitator",
+      "conflict_style": "mediating",
+      "collaboration_preference": "teams",
+      "teaching_style": "demonstrative",
+      "humor_style": "playful"
+    },
+    "work_habits": {
+      "peak_hours": "morning",
+      "focus_duration": "marathon",
+      "environment_needs": "natural",
+      "organization_style": "systematic",
+      "deadline_behavior": "steady"
+    },
+    "quirks_and_idiosyncrasies": [
+      "spins_cotton_while_thinking",
+      "walks_barefoot_everywhere",
+      "eats_only_simple_food",
+      "keeps_day_of_silence_weekly",
+      "sleeps_on_floor_with_minimal_covers"
+    ],
+    "speech_patterns": {
+      "vocabulary_level": "simple",
+      "favorite_phrases": [
+        "Truth is God",
+        "Simple living, high thinking",
+        "Swaraj is my birthright"
+      ],
+      "linguistic_tics": [
+        "gentle_repetition_for_emphasis",
+        "long_thoughtful_pauses"
+      ],
+      "accent_or_dialect": "Gujarati-influenced English with soft articulation"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "collective_welfare",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "novelty_seeking",
+      "helping_others"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "public_speaking",
+      "calm_decision_making",
+      "steady_performance"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "strategic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "inspirational",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Indian Independence",
+      "Satyagraha Movement",
+      "Salt March",
+      "Ahimsa Philosophy"
+    ],
+    "influence_domains": [
+      "political_systems",
+      "social_justice",
+      "international_relations"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "governance_style": "consensus_building",
+    "policy_approach": "pragmatic_idealism",
+    "crisis_management": "calm_resolution",
+    "public_service": "collective_welfare"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.420316",
+    "enhancement_version": "1.0",
+    "category_used": "statesman",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

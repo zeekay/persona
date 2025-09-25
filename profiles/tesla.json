@@ -37,5 +37,224 @@
   "quotes": [
     "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration",
     "The scientists of today think deeply instead of clearly"
-  ]
+  ],
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "technical",
+      "technical_terms": [
+        "alternating current",
+        "electromagnetic",
+        "resonance",
+        "frequency",
+        "oscillation"
+      ],
+      "favorite_words": [
+        "energy",
+        "frequency",
+        "vibration",
+        "wireless",
+        "invention",
+        "future",
+        "vision"
+      ],
+      "avoided_words": [
+        "impossible",
+        "impractical",
+        "conventional",
+        "traditional"
+      ],
+      "neologisms": [
+        "death ray",
+        "world wireless system",
+        "teleforce"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "medium",
+      "complexity": "complex",
+      "clause_preference": "main",
+      "active_passive": "active",
+      "question_frequency": "moderate"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "logos",
+      "argumentation": "linear",
+      "evidence_use": "anecdotal",
+      "metaphor_frequency": "frequent",
+      "analogy_types": [
+        "musical harmonies",
+        "mechanical systems",
+        "natural phenomena",
+        "cosmic forces"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "furthermore",
+        "moreover",
+        "however",
+        "indeed",
+        "thus"
+      ],
+      "hedges": [
+        "it appears",
+        "one might say",
+        "perhaps",
+        "seemingly"
+      ],
+      "boosters": [
+        "certainly",
+        "undoubtedly",
+        "absolutely",
+        "without question"
+      ],
+      "fillers": [
+        "you see",
+        "mark my words",
+        "I tell you"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "direct",
+      "humor_type": "none",
+      "cultural_references": [
+        "Serbian folklore",
+        "European engineering",
+        "American innovation",
+        "Scientific revolution"
+      ],
+      "code_switching": "multilingual",
+      "register_shifting": "fixed"
+    },
+    "written_vs_spoken": {
+      "written_style": "technical",
+      "spoken_style": "prepared",
+      "differences": [
+        "written work highly technical with precise descriptions",
+        "speech more visionary and prophetic"
+      ]
+    },
+    "signature_expressions": [
+      "The present is theirs; the future is mine",
+      "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration",
+      "My inventions will make war impossible",
+      "The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries"
+    ],
+    "linguistic_evolution": {
+      "early_style": "formal European academic engineering prose",
+      "mature_style": "visionary technical writing with prophetic overtones",
+      "influences": [
+        "Serbian oral tradition",
+        "German technical education",
+        "American entrepreneurial culture",
+        "Scientific journals"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "knowledge_advancement",
+      "responsibility",
+      "aesthetic_appreciation",
+      "empirical_truth"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "solving_complex_problems",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "solitary_work",
+      "intensive_study",
+      "peer_review_engagement"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "collaborative",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "AC Motor",
+      "Tesla Coil",
+      "Wireless Technology",
+      "Radio Control"
+    ],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.382729",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": true
+  }
 }

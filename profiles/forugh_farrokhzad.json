@@ -39,5 +39,118 @@
   "quotes": [
     "I am a woman who in the full power of her feelings and her thoughts has grown up",
     "Let us believe in the beginning of a cold season"
-  ]
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation",
+      "creativity"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "novelty_seeking",
+      "helping_others"
+    ],
+    "fears": [
+      "failure",
+      "loss_of_control",
+      "rejection",
+      "causing_harm"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "quality_control",
+      "experimenting_with_ideas",
+      "constant_learning",
+      "systematic_planning"
+    ],
+    "quirks": [
+      "heightened_awareness",
+      "unconventional_perspectives",
+      "perfectionist_tendencies"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "personal",
+    "humor_usage": "occasional",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Another Birth (Tavallodi Digar)",
+      "The House is Black (documentary film)",
+      "Persian feminist poetry revolution",
+      "Breaking taboos in Iranian literature"
+    ],
+    "influence_domains": [
+      "cultural_influence",
+      "human_knowledge",
+      "social_progress"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "poetic_voice": "authentic_expression",
+    "metaphorical_thinking": "symbolic_language",
+    "rhythm_sensitivity": "musical_language",
+    "emotional_resonance": "universal_themes"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.529499",
+    "enhancement_version": "1.0",
+    "category_used": "poet",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
 }

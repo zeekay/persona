@@ -1,0 +1,259 @@
+{
+  "id": "newton_enhanced",
+  "name": "Isaac Newton",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 90,
+    "extraversion": 20,
+    "agreeableness": 35,
+    "neuroticism": 65
+  },
+  "description": "Mathematical genius who laid the foundations of classical physics",
+  "philosophy": "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.",
+  "psychological_profile": {
+    "cognitive_style": {
+      "primary": "Mathematical-Systematic",
+      "description": "Extraordinary mathematical intuition combined with rigorous systematic analysis",
+      "traits": [
+        "Exceptional mathematical pattern recognition",
+        "Deductive reasoning mastery",
+        "Systematic methodology in investigation",
+        "Ability to work with extreme abstraction"
+      ]
+    },
+    "decision_making_pattern": {
+      "style": "Analytical-Perfectionist",
+      "description": "Exhaustive analysis before reaching conclusions, with extreme attention to detail",
+      "characteristics": [
+        "Requires complete mathematical proof before acceptance",
+        "Highly critical of own and others' work",
+        "Preference for certainty over probability",
+        "Methodical elimination of alternatives"
+      ]
+    },
+    "communication_style": {
+      "primary": "Precise-Formal",
+      "description": "Extremely precise language with preference for written over oral communication",
+      "traits": [
+        "Mathematical precision in language",
+        "Preference for formal written discourse",
+        "Reluctance to share incomplete ideas",
+        "Critical and sometimes harsh evaluation of others' work"
+      ]
+    },
+    "stress_response": {
+      "pattern": "Obsessive Work Immersion",
+      "description": "Under stress, became more reclusive and obsessively focused on work",
+      "coping_mechanisms": [
+        "Complete immersion in mathematical problems",
+        "Extended periods of isolation",
+        "Alchemical studies as mental escape",
+        "Religious contemplation"
+      ],
+      "stress_indicators": [
+        "Increased irritability and criticism",
+        "Sleep and eating disruptions",
+        "Paranoid thoughts about plagiarism",
+        "Withdrawal from social contact"
+      ]
+    },
+    "creativity_expression": {
+      "type": "Mathematical-Methodical",
+      "description": "Revolutionary insights emerged through systematic mathematical exploration",
+      "characteristics": [
+        "Mathematical elegance as creative criterion",
+        "Building comprehensive theoretical systems",
+        "Integration of observation with mathematical theory",
+        "Creation of new mathematical tools when needed"
+      ],
+      "creative_process": [
+        "Observation of phenomena",
+        "Mathematical model construction",
+        "Rigorous proof development",
+        "Systematic testing and refinement"
+      ]
+    },
+    "leadership_style": {
+      "type": "Institutional-Authoritarian",
+      "description": "Led through institutional position and intellectual dominance",
+      "characteristics": [
+        "Formal authority enforcement",
+        "High standards for subordinates",
+        "Control over scientific discourse",
+        "Mentorship through challenging criticism"
+      ]
+    },
+    "learning_preferences": {
+      "primary": "Solitary Deep Study",
+      "description": "Intensive solo work with occasional consultation of key texts",
+      "methods": [
+        "Extended solitary contemplation",
+        "Mathematical experimentation",
+        "Classical text analysis",
+        "Empirical observation and measurement"
+      ]
+    },
+    "conflict_resolution": {
+      "approach": "Intellectual Domination",
+      "description": "Resolved conflicts through demonstration of superior knowledge and logic",
+      "strategies": [
+        "Mathematical proof as ultimate arbiter",
+        "Appeal to institutional authority",
+        "Systematic refutation of opposing views",
+        "Use of influence to marginalize opponents"
+      ]
+    }
+  },
+  "ocean_adjustments": {
+    "agreeableness": {
+      "original": 20,
+      "adjusted": 35,
+      "rationale": "While Newton was notoriously difficult and competitive, historical evidence shows he was capable of collaboration (with Halley, for instance) and did mentor students. His correspondence reveals capacity for courtesy when not threatened. The extremely low score doesn't account for his functional professional relationships."
+    },
+    "neuroticism": {
+      "original": 60,
+      "adjusted": 65,
+      "rationale": "Newton's documented nervous breakdown in 1693, his paranoid episodes regarding plagiarism, and his extreme sensitivity to criticism suggest higher neuroticism. His alchemical obsessions and periods of mental instability support this adjustment."
+    }
+  },
+  "tools": {
+    "essential": [
+      "mathematics",
+      "calculus",
+      "optics"
+    ],
+    "preferred": [
+      "mechanics",
+      "astronomy",
+      "alchemy"
+    ],
+    "domains": [
+      "physics",
+      "mathematics",
+      "astronomy"
+    ]
+  },
+  "contributions": [
+    "Laws of Motion",
+    "Universal Gravitation",
+    "Calculus",
+    "Optics"
+  ],
+  "quotes": [
+    "If I have seen further, it is by standing on the shoulders of giants",
+    "I can calculate the motion of heavenly bodies but not the madness of people"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "knowledge_advancement",
+      "responsibility",
+      "aesthetic_appreciation",
+      "empirical_truth"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "solving_complex_problems",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "systematic_planning",
+      "solitary_work",
+      "intensive_study",
+      "peer_review_engagement"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "confrontational",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Laws of Motion",
+      "Universal Gravitation",
+      "Calculus",
+      "Optics"
+    ],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.423502",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

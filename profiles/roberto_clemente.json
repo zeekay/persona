@@ -4,8 +4,18 @@
   "category": "athlete",
   "description": "Puerto Rican baseball legend and humanitarian who broke barriers in Major League Baseball. The first Latin American and Caribbean player to reach 3,000 hits and win a World Series MVP.",
   "philosophy": "Any time you have an opportunity to make a difference in this world and you don't, then you are wasting your time on Earth.",
-  "tools": ["athletics", "humanitarian_work", "cultural_bridge_building", "mentorship"],
-  "domains": ["baseball", "civil_rights", "humanitarian_aid", "puerto_rican_pride"],
+  "tools": [
+    "athletics",
+    "humanitarian_work",
+    "cultural_bridge_building",
+    "mentorship"
+  ],
+  "domains": [
+    "baseball",
+    "civil_rights",
+    "humanitarian_aid",
+    "puerto_rican_pride"
+  ],
   "origin": "Puerto Rico",
   "ocean": {
     "openness": 75,
@@ -13,5 +23,107 @@
     "extraversion": 80,
     "agreeableness": 90,
     "neuroticism": 25
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "excellence",
+      "energy",
+      "physical_mastery",
+      "compassion"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "peak_performance",
+      "social_impact"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "emotional_stability",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "resilience"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "performance_analysis",
+      "calm_decision_making"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "intense",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "antifragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "sports_excellence",
+      "physical_culture",
+      "competitive_standards"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "performance_mindset": "excellence_pursuit",
+    "training_philosophy": "disciplined_preparation",
+    "competitive_spirit": "victory_driven",
+    "physical_mastery": "mind_body_integration"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.563714",
+    "enhancement_version": "1.0",
+    "category_used": "athlete",
+    "ocean_based": true,
+    "linguistic_based": false
   }
 }

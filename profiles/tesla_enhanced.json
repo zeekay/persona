@@ -1,0 +1,254 @@
+{
+  "id": "tesla_enhanced",
+  "name": "Nikola Tesla",
+  "category": "scientist",
+  "ocean": {
+    "openness": 98,
+    "conscientiousness": 70,
+    "extraversion": 25,
+    "agreeableness": 40,
+    "neuroticism": 80
+  },
+  "description": "Visionary inventor who pioneered alternating current and wireless technology",
+  "philosophy": "The present is theirs; the future, for which I really worked, is mine.",
+  "psychological_profile": {
+    "cognitive_style": {
+      "primary": "Visual-Intuitive Engineering",
+      "description": "Exceptional ability to visualize and mentally construct complex mechanical systems",
+      "traits": [
+        "Photographic visual memory and spatial reasoning",
+        "Ability to 'run' mental experiments on visualized machines",
+        "Intuitive understanding of electromagnetic phenomena",
+        "Synesthetic experiences linking numbers with sensory perceptions"
+      ]
+    },
+    "decision_making_pattern": {
+      "style": "Intuitive-Perfectionist",
+      "description": "Rapid intuitive insights followed by obsessive refinement and perfectionism",
+      "characteristics": [
+        "Flash insights about technical solutions",
+        "Compulsive need to perfect designs mentally before building",
+        "Difficulty accepting 'good enough' solutions",
+        "Tendency to abandon projects if not meeting ideal standards"
+      ]
+    },
+    "communication_style": {
+      "primary": "Visionary-Dramatic",
+      "description": "Passionate communication about future possibilities with theatrical flair",
+      "traits": [
+        "Grandiose descriptions of technological potential",
+        "Use of dramatic metaphors and vivid imagery",
+        "Difficulty with mundane practical discussions",
+        "Preference for written over verbal communication"
+      ]
+    },
+    "stress_response": {
+      "pattern": "Obsessive-Compulsive Intensification",
+      "description": "Stress manifested through intensified OCD behaviors and social withdrawal",
+      "coping_mechanisms": [
+        "Ritualistic behaviors (counting, touching objects)",
+        "Complete immersion in work for days without rest",
+        "Isolation in laboratory environment",
+        "Strict adherence to personal routines"
+      ],
+      "stress_indicators": [
+        "Increased germaphobia and cleanliness rituals",
+        "Heightened sensitivity to sensory stimuli",
+        "Paranoid thoughts about corporate conspiracies",
+        "Extreme sleep and eating disruptions"
+      ]
+    },
+    "creativity_expression": {
+      "type": "Visionary-Systematic",
+      "description": "Revolutionary technological visions systematically developed through mental modeling",
+      "characteristics": [
+        "Ability to 'see' future technological possibilities",
+        "Mental construction and testing of inventions",
+        "Integration of multiple scientific disciplines",
+        "Preference for elegant, efficient solutions"
+      ],
+      "creative_process": [
+        "Intuitive vision of technological possibility",
+        "Mental construction and refinement",
+        "Mathematical verification",
+        "Physical prototype development"
+      ]
+    },
+    "leadership_style": {
+      "type": "Visionary-Individualistic",
+      "description": "Inspired others through technological vision but struggled with organizational leadership",
+      "characteristics": [
+        "Leading through innovative example",
+        "Difficulty delegating or collaborating",
+        "Inspirational speeches about technological future",
+        "Preference for solo work over team management"
+      ]
+    },
+    "learning_preferences": {
+      "primary": "Experiential-Visual Learning",
+      "description": "Learned through direct experience, observation, and mental experimentation",
+      "methods": [
+        "Hands-on experimentation and building",
+        "Visual and spatial learning modalities",
+        "Independent research and discovery",
+        "Learning through failure and iteration"
+      ]
+    },
+    "conflict_resolution": {
+      "approach": "Withdrawal and Indirect Competition",
+      "description": "Avoided direct confrontation, preferring to prove superiority through superior work",
+      "strategies": [
+        "Withdrawal from conflictual situations",
+        "Demonstration of superior technical solutions",
+        "Public relations and media appeals",
+        "Legal and patent protection strategies"
+      ]
+    }
+  },
+  "ocean_adjustments": {
+    "neuroticism": {
+      "original": 55,
+      "adjusted": 80,
+      "rationale": "Tesla's well-documented obsessive-compulsive behaviors, extreme germaphobia, social anxiety, and periods of mental instability indicate significantly higher neuroticism. His counting compulsions, need for things in multiples of three, extreme sensitivity to sensory stimuli, and reported nervous breakdowns all support this higher score. Contemporary accounts describe severe anxiety and phobias that significantly impacted his daily functioning."
+    }
+  },
+  "tools": {
+    "essential": [
+      "electrical_engineering",
+      "electromagnetic_theory",
+      "invention"
+    ],
+    "preferred": [
+      "alternating_current",
+      "wireless_transmission",
+      "visualization"
+    ],
+    "domains": [
+      "electrical_engineering",
+      "physics",
+      "invention"
+    ]
+  },
+  "contributions": [
+    "AC Motor",
+    "Tesla Coil",
+    "Wireless Technology",
+    "Radio Control"
+  ],
+  "quotes": [
+    "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration",
+    "The scientists of today think deeply instead of clearly"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "knowledge_advancement",
+      "responsibility",
+      "aesthetic_appreciation",
+      "empirical_truth"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "solving_complex_problems",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "systematic_planning",
+      "solitary_work",
+      "intensive_study",
+      "peer_review_engagement"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "collaborative",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "AC Motor",
+      "Tesla Coil",
+      "Wireless Technology",
+      "Radio Control"
+    ],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.431339",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

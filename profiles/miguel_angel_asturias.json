@@ -40,5 +40,118 @@
     "The writer must be the voice of those who have no voice",
     "Poetry is the natural language of all cults",
     "America, America, you have to distinguish between your friends and your enemies"
-  ]
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation",
+      "creativity"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "novelty_seeking",
+      "helping_others"
+    ],
+    "fears": [
+      "failure",
+      "loss_of_control",
+      "rejection",
+      "causing_harm"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "quality_control",
+      "experimenting_with_ideas",
+      "constant_learning",
+      "systematic_planning"
+    ],
+    "quirks": [
+      "heightened_awareness",
+      "unconventional_perspectives",
+      "perfectionist_tendencies"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "auditory",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "elaborate",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "personal",
+    "humor_usage": "occasional",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "moderate",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "El Señor Presidente",
+      "Men of Maize",
+      "Nobel Prize in Literature 1967",
+      "Magical realism pioneer"
+    ],
+    "influence_domains": [
+      "literary_tradition",
+      "language_evolution",
+      "cultural_narrative"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "narrative_style": "character_driven",
+    "language_mastery": "literary_innovation",
+    "thematic_focus": "human_condition",
+    "cultural_reflection": "social_commentary"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.410733",
+    "enhancement_version": "1.0",
+    "category_used": "writer",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
 }

@@ -1,0 +1,260 @@
+{
+  "id": "michelangelo_contextual",
+  "name": "Michelangelo Buonarroti",
+  "category": "artist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 95,
+    "extraversion": 30,
+    "agreeableness": 35,
+    "neuroticism": 70
+  },
+  "description": "Renaissance sculptor, painter, architect, and poet who embodied the divine artist ideal, creating works of unprecedented power and spiritual intensity that defined High Renaissance art.",
+  "philosophy": "I saw the angel in the marble and carved until I set him free.",
+  "historical_context": {
+    "era": "High Renaissance (1475-1564)",
+    "cultural_milieu": "Peak of Renaissance artistic achievement, papal patronage of the arts, Neo-Platonic philosophy emphasizing divine beauty, competition among master artists",
+    "political_climate": "Papal political power at height, Medici family influence, foreign invasions of Italy, Counter-Reformation beginning, Protestant Reformation challenging Catholic Church",
+    "technological_stage": "Advanced marble quarrying and transport, sophisticated architectural engineering, printing press spreading artistic knowledge, military fortification innovations",
+    "social_movements": "High Renaissance artistic patronage, Catholic Counter-Reformation, humanist literary culture, architectural revival of classical orders"
+  },
+  "formative_experiences": [
+    {
+      "age": 13,
+      "event": "Apprenticeship with Domenico Ghirlandaio in Florence, learning fresco painting techniques",
+      "psychological_impact": "Developed technical mastery and discipline while chafing against workshop limitations; established pattern of seeking artistic independence"
+    },
+    {
+      "age": 16,
+      "event": "Studied in Lorenzo de' Medici's sculpture garden, exposed to classical antiquities and Neo-Platonic philosophy",
+      "psychological_impact": "Formed vision of art as revelation of divine beauty and truth; established lifelong commitment to sculptural excellence"
+    },
+    {
+      "age": 26,
+      "event": "Completed Pietà sculpture, achieving international fame and establishing reputation",
+      "psychological_impact": "Confirmed artistic genius and set impossibly high standards for subsequent work; created pressure for continuous innovation"
+    },
+    {
+      "age": 33,
+      "event": "Commissioned to paint Sistine Chapel ceiling against his preferences as sculptor",
+      "psychological_impact": "Forced expansion beyond preferred medium demonstrated universal artistic capability but increased perfectionist anxieties"
+    },
+    {
+      "age": 60,
+      "event": "Appointed chief architect of St. Peter's Basilica, crowning achievement of architectural career",
+      "psychological_impact": "Integration of lifetime artistic knowledge in service of ultimate Christian architectural statement"
+    }
+  ],
+  "key_relationships": [
+    {
+      "person": "Lorenzo de' Medici",
+      "relationship_type": "early_patron_father_figure",
+      "influence": "Humanist patron who provided artistic education, classical inspiration, and Neo-Platonic philosophical framework"
+    },
+    {
+      "person": "Pope Julius II",
+      "relationship_type": "demanding_patron_collaborator",
+      "influence": "Warrior pope who commissioned major works including Sistine Chapel; relationship of mutual respect and creative tension"
+    },
+    {
+      "person": "Vittoria Colonna",
+      "relationship_type": "spiritual_friend_muse",
+      "influence": "Aristocratic poet and reformer who provided intellectual and spiritual companionship in later years"
+    },
+    {
+      "person": "Tommaso dei Cavalieri",
+      "relationship_type": "beloved_friend_inspiration",
+      "influence": "Young Roman nobleman who inspired Michelangelo's greatest love poetry and late artistic development"
+    }
+  ],
+  "cultural_values": {
+    "inherited": [
+      "Florentine republican traditions of civic virtue",
+      "Christian Platonic synthesis of divine and earthly beauty",
+      "Renaissance humanism emphasizing individual creative genius",
+      "Classical tradition of artistic proportion and ideal form",
+      "Catholic devotional tradition seeking divine through art"
+    ],
+    "rejected": [
+      "Purely decorative art without spiritual content",
+      "Commercial artistic production without higher purpose",
+      "Collaborative workshop methods limiting individual expression",
+      "Classical imitation without personal interpretation",
+      "Worldly patronage concerns overriding artistic integrity"
+    ],
+    "synthesized": [
+      "Terribilità - awesome divine power expressed through art",
+      "Artistic creation as participation in divine creation",
+      "Physical beauty as revelation of spiritual truth",
+      "Individual artistic genius serving universal religious purpose",
+      "Integration of pagan classical forms with Christian content"
+    ]
+  },
+  "behavioral_patterns": {
+    "daily_routines": [
+      "Dawn prayers and spiritual contemplation",
+      "Morning intensive work on major commissions",
+      "Afternoon study of classical antiquities and human anatomy",
+      "Evening poetry writing and correspondence with friends",
+      "Night solitary reflection and planning of artistic projects"
+    ],
+    "work_methods": [
+      "Perfectionist approach with endless revision and refinement",
+      "Direct carving from marble blocks without preliminary models",
+      "Anatomical studies through dissection for realistic representation",
+      "Integration of architecture, sculpture, and painting in unified vision",
+      "Solitary creation with minimal assistants or collaborators"
+    ],
+    "social_behaviors": [
+      "Difficult, demanding personality with patrons and assistants",
+      "Deep, intense friendships with select intellectual equals",
+      "Generous support for family members and dependents",
+      "Fierce protection of artistic independence and creative vision",
+      "Respectful collaboration with worthy colleagues and craftsmen"
+    ],
+    "coping_mechanisms": [
+      "Artistic creation as outlet for intense emotions and spiritual longing",
+      "Poetry writing for expression of personal feelings and philosophical reflection",
+      "Spiritual discipline and religious devotion for meaning and comfort",
+      "Solitude and withdrawal from social pressures",
+      "Physical work with marble for grounding and creative satisfaction"
+    ]
+  },
+  "tools": [
+    "sculpture",
+    "painting",
+    "architecture",
+    "poetry"
+  ],
+  "domains": [
+    "renaissance_art",
+    "religious_art",
+    "architecture",
+    "poetry"
+  ],
+  "origin": "Italian Renaissance",
+  "contributions": [
+    "David sculpture (symbol of Republican Florence)",
+    "Sistine Chapel ceiling and Last Judgment frescoes",
+    "Pietà sculptures exploring human suffering and divine mercy",
+    "St. Peter's Basilica dome (architectural masterpiece)",
+    "Integration of classical and Christian artistic traditions"
+  ],
+  "quotes": [
+    "I saw the angel in the marble and carved until I set him free",
+    "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it",
+    "Every block of stone has a statue inside it and it is the task of the sculptor to discover it"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "cultural_impact",
+      "responsibility",
+      "aesthetic_appreciation",
+      "emotional_expression"
+    ],
+    "primary_motivations": [
+      "creative_self_expression",
+      "excellence",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "systematic_planning",
+      "solitary_work",
+      "inspiration_seeking",
+      "intensive_study"
+    ],
+    "quirks": [
+      "intense_emotional_expression",
+      "preference_for_written_communication",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "creative",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "authoritative",
+    "conflict_approach": "confrontational",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "emotional",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "improvisational",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "David sculpture (symbol of Republican Florence)",
+      "Sistine Chapel ceiling and Last Judgment frescoes",
+      "Pietà sculptures exploring human suffering and divine mercy",
+      "St. Peter's Basilica dome (architectural masterpiece)"
+    ],
+    "influence_domains": [
+      "cultural_expression",
+      "aesthetic_standards",
+      "creative_techniques"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "creative_process": "intuitive_expression",
+    "aesthetic_philosophy": "beauty_as_truth",
+    "inspiration_source": "emotional_experience",
+    "artistic_legacy": "cultural_transformation"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.481079",
+    "enhancement_version": "1.0",
+    "category_used": "artist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

@@ -8,5 +8,222 @@
     "extraversion": 50,
     "agreeableness": 95,
     "neuroticism": 30
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "formal",
+      "technical_terms": [
+        "satyagraha",
+        "ahimsa",
+        "swaraj",
+        "harijan",
+        "civil disobedience"
+      ],
+      "favorite_words": [
+        "truth",
+        "nonviolence",
+        "love",
+        "service",
+        "god",
+        "humanity",
+        "simple",
+        "pure"
+      ],
+      "avoided_words": [
+        "hate",
+        "violence",
+        "revenge",
+        "luxury",
+        "materialism"
+      ],
+      "neologisms": [
+        "satyagraha",
+        "harijan",
+        "quit India",
+        "do or die"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "medium",
+      "complexity": "simple",
+      "clause_preference": "main",
+      "active_passive": "active",
+      "question_frequency": "frequent"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "ethos",
+      "argumentation": "dialectical",
+      "evidence_use": "anecdotal",
+      "metaphor_frequency": "frequent",
+      "analogy_types": [
+        "spinning wheel analogies",
+        "agricultural metaphors",
+        "family relationships",
+        "spiritual journeys"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "but",
+        "however",
+        "therefore",
+        "thus",
+        "indeed"
+      ],
+      "hedges": [
+        "perhaps",
+        "it seems to me",
+        "I believe"
+      ],
+      "boosters": [
+        "certainly",
+        "without doubt",
+        "surely"
+      ],
+      "fillers": [
+        "my dear friends",
+        "brothers and sisters",
+        "you see"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "elaborate",
+      "humor_type": "none",
+      "cultural_references": [
+        "Hindu philosophy",
+        "Jain principles",
+        "Christian teachings",
+        "Islamic values"
+      ],
+      "code_switching": "multilingual",
+      "register_shifting": "strategic"
+    },
+    "written_vs_spoken": {
+      "written_style": "journalistic",
+      "spoken_style": "spontaneous",
+      "differences": [
+        "written work more systematic and detailed",
+        "speech more personal and emotional"
+      ]
+    },
+    "signature_expressions": [
+      "Be the change you wish to see in the world",
+      "An eye for an eye makes the whole world blind",
+      "Truth never damages a cause that is just",
+      "In a gentle way, you can shake the world"
+    ],
+    "linguistic_evolution": {
+      "early_style": "formal legal English with Victorian influence",
+      "mature_style": "simple, direct moral language accessible to masses",
+      "influences": [
+        "Hindu scriptures",
+        "Jain texts",
+        "Christian Bible",
+        "John Ruskin"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "collective_welfare",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "novelty_seeking",
+      "helping_others"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "public_speaking",
+      "calm_decision_making",
+      "steady_performance"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "strategic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "inspirational",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "political_systems",
+      "social_justice",
+      "international_relations"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "governance_style": "consensus_building",
+    "policy_approach": "pragmatic_idealism",
+    "crisis_management": "calm_resolution",
+    "public_service": "collective_welfare"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.492616",
+    "enhancement_version": "1.0",
+    "category_used": "statesman",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

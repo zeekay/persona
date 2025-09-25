@@ -1,0 +1,184 @@
+{
+  "id": "basquiat_cognitive",
+  "name": "Jean-Michel Basquiat",
+  "category": "artist",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 45,
+    "extraversion": 80,
+    "agreeableness": 50,
+    "neuroticism": 85
+  },
+  "description": "Neo-expressionist artist who brought street art into galleries",
+  "philosophy": "I don't think about art when I'm working. I try to think about life.",
+  "cognitive_architecture": {
+    "attention_system": {
+      "focus_type": "switching",
+      "attention_span": "intermittent",
+      "multitasking_ability": "excellent",
+      "distractibility": "high",
+      "selective_attention": [
+        "cultural symbols",
+        "social commentary",
+        "raw expression",
+        "urban aesthetics"
+      ]
+    },
+    "memory_patterns": {
+      "memory_type_strength": {
+        "episodic": "exceptional",
+        "semantic": "moderate",
+        "procedural": "moderate",
+        "working_memory": "average"
+      },
+      "recall_triggers": [
+        "music rhythms",
+        "cultural references",
+        "emotional experiences",
+        "visual contrasts"
+      ],
+      "forgetting_patterns": [
+        "conventional rules",
+        "formal techniques",
+        "commercial expectations"
+      ]
+    },
+    "reasoning_style": {
+      "logic_preference": "abductive",
+      "argumentation": "intuitive",
+      "bias_tendencies": [
+        "availability",
+        "affect heuristic",
+        "representativeness"
+      ],
+      "metacognition": "low self-awareness"
+    },
+    "creativity_profile": {
+      "divergent_thinking": "high",
+      "convergent_thinking": "low",
+      "originality": "highly-original",
+      "fluency": "prolific",
+      "flexibility": "highly-flexible",
+      "elaboration": "minimal"
+    },
+    "learning_mechanisms": {
+      "preferred_modality": "kinesthetic",
+      "learning_speed": "quick-surface",
+      "transfer_ability": "excellent",
+      "scaffolding_needs": "high"
+    },
+    "expertise_development": {
+      "skill_acquisition": "uneven",
+      "deliberate_practice": "sporadic",
+      "knowledge_organization": "associative",
+      "expert_intuition": "developing"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "energy",
+      "cultural_impact",
+      "aesthetic_appreciation",
+      "creativity",
+      "intellectual_curiosity"
+    ],
+    "primary_motivations": [
+      "creative_self_expression",
+      "social_impact",
+      "recognition",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "adaptability",
+      "pattern_recognition",
+      "creative_thinking",
+      "enthusiasm",
+      "leadership"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "networking",
+      "inspiration_seeking",
+      "aesthetic_sensitivity",
+      "constant_creation"
+    ],
+    "quirks": [
+      "intense_emotional_expression",
+      "abstract_thinking",
+      "unconventional_lifestyle"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "creative",
+    "decision_making": "intuitive",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "authoritative",
+    "conflict_approach": "collaborative",
+    "collaboration": "selective",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "emotional",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "improvisational",
+    "attention_detail": "big-picture",
+    "pace": "variable",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "fight",
+    "empathy_level": "moderate",
+    "self_awareness": "developing",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "cultural_expression",
+      "aesthetic_standards",
+      "creative_techniques"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "creative_process": "intuitive_expression",
+    "aesthetic_philosophy": "beauty_as_truth",
+    "inspiration_source": "emotional_experience",
+    "artistic_legacy": "cultural_transformation"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.413121",
+    "enhancement_version": "1.0",
+    "category_used": "artist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

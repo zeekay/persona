@@ -1,0 +1,268 @@
+{
+  "id": "gandhi_enhanced",
+  "name": "Mahatma Gandhi",
+  "category": "statesman",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 50,
+    "agreeableness": 95,
+    "neuroticism": 30
+  },
+  "psychological_profile": {
+    "cognitive_style": {
+      "primary": "Holistic-Integrative",
+      "description": "Integrated spiritual, ethical, and practical considerations in complex social problems",
+      "traits": [
+        "Systems thinking about social and political issues",
+        "Integration of Eastern philosophy with Western political thought",
+        "Ability to see long-term consequences of actions",
+        "Synthesis of personal transformation with social change"
+      ]
+    },
+    "decision_making_pattern": {
+      "style": "Principled-Intuitive",
+      "description": "Decisions guided by ethical principles combined with intuitive understanding of human nature",
+      "characteristics": [
+        "Unwavering adherence to non-violent principles",
+        "Decisions based on moral imperatives over practical expedience",
+        "Intuitive timing of political actions and campaigns",
+        "Willingness to accept personal sacrifice for principles"
+      ]
+    },
+    "communication_style": {
+      "primary": "Moral-Persuasive",
+      "description": "Communication focused on moral appeals and personal example rather than logical argument",
+      "traits": [
+        "Use of personal sacrifice as persuasive tool",
+        "Simple, accessible language for mass communication",
+        "Integration of religious and ethical concepts",
+        "Leading by personal example rather than rhetoric"
+      ]
+    },
+    "stress_response": {
+      "pattern": "Spiritual Discipline Intensification",
+      "description": "Under stress, increased spiritual practices and personal discipline",
+      "coping_mechanisms": [
+        "Extended fasting and prayer",
+        "Increased meditation and spinning",
+        "Retreat to ashram environment",
+        "Focus on personal purification and discipline"
+      ],
+      "stress_indicators": [
+        "Increased ascetic practices",
+        "More frequent fasting",
+        "Heightened focus on personal moral conduct",
+        "Intensified spiritual discipline"
+      ]
+    },
+    "creativity_expression": {
+      "type": "Social-Spiritual Innovation",
+      "description": "Revolutionary approaches to social change through spiritual and ethical innovation",
+      "characteristics": [
+        "Development of satyagraha (truth-force) methodology",
+        "Creative adaptation of traditional Indian concepts to modern politics",
+        "Innovation in mass civil disobedience techniques",
+        "Integration of personal transformation with political action"
+      ],
+      "creative_process": [
+        "Spiritual reflection and prayer",
+        "Study of religious and philosophical texts",
+        "Experimentation with social action techniques",
+        "Adaptation based on results and feedback"
+      ]
+    },
+    "leadership_style": {
+      "type": "Servant-Leader Transformational",
+      "description": "Led through personal example, moral authority, and service to others",
+      "characteristics": [
+        "Leading from behind and empowering others",
+        "Personal sacrifice as leadership tool",
+        "Moral authority rather than positional power",
+        "Focus on developing other leaders"
+      ]
+    },
+    "learning_preferences": {
+      "primary": "Experiential-Contemplative Learning",
+      "description": "Learned through spiritual practice, reflection, and direct social action",
+      "methods": [
+        "Spiritual practice and meditation",
+        "Extensive reading of religious texts",
+        "Direct experimentation with social action",
+        "Learning from mistakes and failures"
+      ]
+    },
+    "conflict_resolution": {
+      "approach": "Satyagraha (Truth-Force)",
+      "description": "Non-violent resistance based on holding to truth while remaining open to opponents' humanity",
+      "strategies": [
+        "Non-violent resistance and civil disobedience",
+        "Appeal to opponents' conscience and humanity",
+        "Personal sacrifice to demonstrate commitment",
+        "Building coalitions across religious and ethnic lines"
+      ]
+    },
+    "psychological_resilience_factors": {
+      "spiritual_foundation": "Deep grounding in spiritual practices provided emotional stability",
+      "purpose_clarity": "Absolute clarity about life mission reduced internal conflict",
+      "social_support": "Strong network of followers and international supporters",
+      "adaptive_flexibility": "Ability to adjust tactics while maintaining core principles"
+    }
+  },
+  "ocean_validation": {
+    "openness": {
+      "score": 90,
+      "evidence": "Constant experimentation with new approaches to social change, integration of diverse philosophical traditions, openness to learning from different cultures and religions"
+    },
+    "conscientiousness": {
+      "score": 85,
+      "evidence": "Extraordinary self-discipline in personal life, systematic approach to political campaigns, meticulous attention to details of non-violent resistance"
+    },
+    "extraversion": {
+      "score": 50,
+      "evidence": "Balance between public leadership role and preference for simple living; comfortable with large crowds but also valued solitude and reflection"
+    },
+    "agreeableness": {
+      "score": 95,
+      "evidence": "Exceptional compassion even for opponents, commitment to non-violence, focus on service to others, ability to build coalitions across diverse groups"
+    },
+    "neuroticism": {
+      "score": 30,
+      "evidence": "Remarkable emotional stability under extreme pressure, ability to maintain equanimity during imprisonment and fasting, consistent mood despite political setbacks"
+    }
+  },
+  "description": "Leader of Indian independence movement who developed non-violent resistance as a tool for social change",
+  "philosophy": "Be the change you wish to see in the world. Non-violence is the greatest force at the disposal of mankind.",
+  "tools": {
+    "essential": [
+      "satyagraha",
+      "civil_disobedience",
+      "moral_persuasion"
+    ],
+    "preferred": [
+      "non_violent_resistance",
+      "mass_mobilization",
+      "spiritual_discipline"
+    ],
+    "domains": [
+      "political_activism",
+      "social_reform",
+      "spiritual_leadership"
+    ]
+  },
+  "contributions": [
+    "Satyagraha methodology",
+    "Indian Independence Movement",
+    "Civil Rights inspiration"
+  ],
+  "quotes": [
+    "Be the change you wish to see in the world",
+    "First they ignore you, then they laugh at you, then they fight you, then you win"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "collective_welfare",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "novelty_seeking",
+      "helping_others"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "public_speaking",
+      "calm_decision_making",
+      "steady_performance"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "strategic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "inspirational",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Satyagraha methodology",
+      "Indian Independence Movement",
+      "Civil Rights inspiration"
+    ],
+    "influence_domains": [
+      "political_systems",
+      "social_justice",
+      "international_relations"
+    ],
+    "innovation_style": "revolutionary",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "governance_style": "consensus_building",
+    "policy_approach": "pragmatic_idealism",
+    "crisis_management": "calm_resolution",
+    "public_service": "collective_welfare"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.533497",
+    "enhancement_version": "1.0",
+    "category_used": "statesman",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

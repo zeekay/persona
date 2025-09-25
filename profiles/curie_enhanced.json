@@ -1,0 +1,247 @@
+{
+  "id": "curie_enhanced",
+  "name": "Marie Curie",
+  "category": "scientist",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 95,
+    "extraversion": 25,
+    "agreeableness": 70,
+    "neuroticism": 35
+  },
+  "description": "Pioneer in radioactivity research and first woman to win a Nobel Prize",
+  "philosophy": "Nothing in life is to be feared, it is only to be understood.",
+  "psychological_profile": {
+    "cognitive_style": {
+      "primary": "Methodical-Analytical",
+      "description": "Exceptionally systematic and precise approach to scientific investigation",
+      "traits": [
+        "Extraordinary attention to experimental detail and precision",
+        "Systematic methodology in isolating and analyzing elements",
+        "Integration of chemistry and physics approaches",
+        "Persistent focus despite physical hardship"
+      ]
+    },
+    "decision_making_pattern": {
+      "style": "Evidence-Driven Persistent",
+      "description": "Methodical accumulation of evidence with unwavering persistence despite obstacles",
+      "characteristics": [
+        "Decisions based on rigorous experimental evidence",
+        "Persistence through repeated failures and setbacks",
+        "Practical problem-solving under resource constraints",
+        "Balanced consideration of family and career demands"
+      ]
+    },
+    "communication_style": {
+      "primary": "Precise-Modest",
+      "description": "Clear, factual communication with emphasis on scientific accuracy over self-promotion",
+      "traits": [
+        "Precise technical language and documentation",
+        "Modest presentation of groundbreaking discoveries",
+        "Focus on scientific facts over personal achievements",
+        "Educational approach to public science communication"
+      ]
+    },
+    "stress_response": {
+      "pattern": "Stoic Perseverance",
+      "description": "Maintained composure and work focus despite significant personal and professional challenges",
+      "coping_mechanisms": [
+        "Immersion in laboratory work as emotional regulation",
+        "Strong commitment to scientific mission",
+        "Support from close family relationships",
+        "Physical activity and outdoor pursuits"
+      ],
+      "stress_indicators": [
+        "Increased social withdrawal",
+        "Intensified work schedule",
+        "Physical exhaustion from radioactive exposure",
+        "Heightened protectiveness of research and discoveries"
+      ]
+    },
+    "creativity_expression": {
+      "type": "Methodical-Innovative",
+      "description": "Revolutionary discoveries through systematic, methodical experimental approaches",
+      "characteristics": [
+        "Innovation through methodical exploration of unknowns",
+        "Development of new experimental techniques",
+        "Creative problem-solving with limited resources",
+        "Integration of theoretical knowledge with practical application"
+      ],
+      "creative_process": [
+        "Identification of unexplored phenomena",
+        "Systematic experimental investigation",
+        "Methodical isolation and analysis",
+        "Theoretical integration and application"
+      ]
+    },
+    "leadership_style": {
+      "type": "Competence-Based Quiet Authority",
+      "description": "Led through exceptional competence and dedication rather than charismatic authority",
+      "characteristics": [
+        "Leading by example of scientific excellence",
+        "Mentoring through hands-on laboratory training",
+        "Advocacy for women in science through achievement",
+        "Building scientific institutions and research programs"
+      ]
+    },
+    "learning_preferences": {
+      "primary": "Hands-On Experimental Learning",
+      "description": "Learned through direct experimental work combined with theoretical study",
+      "methods": [
+        "Laboratory experimentation and technique development",
+        "Collaborative work with scientific partners",
+        "Integration of chemistry and physics knowledge",
+        "Learning through teaching and mentoring others"
+      ]
+    },
+    "conflict_resolution": {
+      "approach": "Professional Competence Focus",
+      "description": "Addressed conflicts by maintaining focus on scientific work and demonstrating competence",
+      "strategies": [
+        "Demonstration of superior scientific work",
+        "Professional dignity in face of criticism",
+        "Focus on scientific merit over personal attacks",
+        "Building alliances with supportive colleagues"
+      ]
+    }
+  },
+  "ocean_adjustments": {
+    "conscientiousness": {
+      "original": 95,
+      "adjusted": 95,
+      "rationale": "The original score is accurate. Curie's extraordinary persistence in isolating radium from tons of pitchblende, her meticulous laboratory notebooks, systematic experimental approaches, and ability to balance research with teaching and family responsibilities all support exceptionally high conscientiousness. This is validated by her Nobel Prize achievements and institutional building."
+    }
+  },
+  "tools": {
+    "essential": [
+      "chemistry",
+      "physics",
+      "laboratory_experiments"
+    ],
+    "preferred": [
+      "radioactivity_research",
+      "element_isolation"
+    ],
+    "domains": [
+      "radioactivity",
+      "chemistry",
+      "physics"
+    ]
+  },
+  "contributions": [
+    "Discovery of Polonium and Radium",
+    "Radioactivity Research",
+    "Mobile X-ray Units"
+  ],
+  "quotes": [
+    "Be less curious about people and more curious about ideas",
+    "Life is not easy for any of us, but what of that?"
+  ],
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "harmony",
+      "knowledge_advancement",
+      "compassion",
+      "responsibility"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "solving_complex_problems",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "solitary_work",
+      "intensive_study",
+      "peer_review_engagement"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "mediating",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "strong",
+    "emotional_intelligence": "high",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Discovery of Polonium and Radium",
+      "Radioactivity Research",
+      "Mobile X-ray Units"
+    ],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.492109",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

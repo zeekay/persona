@@ -1,0 +1,184 @@
+{
+  "id": "kafka_cognitive",
+  "name": "Franz Kafka",
+  "category": "writer",
+  "ocean": {
+    "openness": 95,
+    "conscientiousness": 75,
+    "extraversion": 25,
+    "agreeableness": 40,
+    "neuroticism": 90
+  },
+  "description": "Modernist writer exploring themes of alienation and absurdity",
+  "philosophy": "A book must be the axe for the frozen sea inside us.",
+  "cognitive_architecture": {
+    "attention_system": {
+      "focus_type": "narrow",
+      "attention_span": "hyperfocus",
+      "multitasking_ability": "poor",
+      "distractibility": "high",
+      "selective_attention": [
+        "psychological states",
+        "social hierarchies",
+        "existential anxiety",
+        "bureaucratic absurdity"
+      ]
+    },
+    "memory_patterns": {
+      "memory_type_strength": {
+        "episodic": "exceptional",
+        "semantic": "moderate",
+        "procedural": "weak",
+        "working_memory": "limited"
+      },
+      "recall_triggers": [
+        "emotional states",
+        "interpersonal conflicts",
+        "institutional encounters",
+        "dream imagery"
+      ],
+      "forgetting_patterns": [
+        "pleasant experiences",
+        "social conventions",
+        "practical skills"
+      ]
+    },
+    "reasoning_style": {
+      "logic_preference": "abductive",
+      "argumentation": "intuitive",
+      "bias_tendencies": [
+        "catastrophizing",
+        "confirmation",
+        "negativity bias"
+      ],
+      "metacognition": "high self-awareness"
+    },
+    "creativity_profile": {
+      "divergent_thinking": "high",
+      "convergent_thinking": "moderate",
+      "originality": "highly-original",
+      "fluency": "limited",
+      "flexibility": "moderate",
+      "elaboration": "extensive"
+    },
+    "learning_mechanisms": {
+      "preferred_modality": "reading",
+      "learning_speed": "slow-deep",
+      "transfer_ability": "moderate",
+      "scaffolding_needs": "high"
+    },
+    "expertise_development": {
+      "skill_acquisition": "uneven",
+      "deliberate_practice": "obsessive",
+      "knowledge_organization": "associative",
+      "expert_intuition": "developing"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "deep_reflection",
+      "responsibility",
+      "aesthetic_appreciation",
+      "creativity",
+      "discipline"
+    ],
+    "primary_motivations": [
+      "goal_achievement",
+      "excellence",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "self_awareness",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "focused_attention"
+    ],
+    "weaknesses": [
+      "stress_sensitivity",
+      "emotional_volatility"
+    ],
+    "habits": [
+      "systematic_planning",
+      "solitary_work",
+      "intensive_study",
+      "constant_learning"
+    ],
+    "quirks": [
+      "preference_for_written_communication",
+      "abstract_thinking",
+      "unconventional_perspectives"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "auditory",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "authoritative",
+    "conflict_approach": "collaborative",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "selective"
+  },
+  "communication_patterns": {
+    "verbal_style": "elaborate",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "personal",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "flight",
+    "empathy_level": "moderate",
+    "self_awareness": "strong",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "literary_tradition",
+      "language_evolution",
+      "cultural_narrative"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "narrative_style": "character_driven",
+    "language_mastery": "literary_innovation",
+    "thematic_focus": "human_condition",
+    "cultural_reflection": "social_commentary"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.397448",
+    "enhancement_version": "1.0",
+    "category_used": "writer",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

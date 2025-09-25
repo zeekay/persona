@@ -8,5 +8,221 @@
     "extraversion": 50,
     "agreeableness": 70,
     "neuroticism": 50
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "mixed",
+      "technical_terms": [
+        "constitutional law",
+        "habeas corpus",
+        "emancipation",
+        "union",
+        "secession"
+      ],
+      "favorite_words": [
+        "union",
+        "nation",
+        "freedom",
+        "liberty",
+        "malice",
+        "charity",
+        "government",
+        "people"
+      ],
+      "avoided_words": [
+        "never",
+        "impossible",
+        "hate",
+        "enemy"
+      ],
+      "neologisms": [
+        "government of the people, by the people, for the people",
+        "house divided"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "medium",
+      "complexity": "complex",
+      "clause_preference": "balanced",
+      "active_passive": "mixed",
+      "question_frequency": "moderate"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "logos",
+      "argumentation": "linear",
+      "evidence_use": "authoritative",
+      "metaphor_frequency": "frequent",
+      "analogy_types": [
+        "Biblical parallels",
+        "architectural metaphors",
+        "legal precedents",
+        "family relationships"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "now",
+        "but",
+        "yet",
+        "therefore",
+        "however",
+        "rather"
+      ],
+      "hedges": [
+        "it seems",
+        "perhaps",
+        "it may be"
+      ],
+      "boosters": [
+        "surely",
+        "certainly",
+        "indeed",
+        "clearly"
+      ],
+      "fillers": [
+        "my fellow citizens",
+        "my countrymen",
+        "friends"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "indirect",
+      "humor_type": "observational",
+      "cultural_references": [
+        "Biblical scripture",
+        "Founding Fathers",
+        "American frontier",
+        "Legal precedent"
+      ],
+      "code_switching": "monolingual",
+      "register_shifting": "flexible"
+    },
+    "written_vs_spoken": {
+      "written_style": "academic",
+      "spoken_style": "prepared",
+      "differences": [
+        "written work more legally precise",
+        "speeches more folksy and accessible"
+      ]
+    },
+    "signature_expressions": [
+      "Four score and seven years ago",
+      "Government of the people, by the people, for the people",
+      "A house divided against itself cannot stand",
+      "With malice toward none, with charity for all"
+    ],
+    "linguistic_evolution": {
+      "early_style": "frontier storytelling with legal precision",
+      "mature_style": "Biblical cadences combined with constitutional logic",
+      "influences": [
+        "King James Bible",
+        "William Shakespeare",
+        "Aesop's Fables",
+        "Blackstone's Commentaries"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "collective_welfare",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "novelty_seeking",
+      "helping_others"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "public_speaking",
+      "coalition_building",
+      "constant_learning"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "strategic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "inspirational",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "political_systems",
+      "social_justice",
+      "international_relations"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "governance_style": "consensus_building",
+    "policy_approach": "pragmatic_idealism",
+    "crisis_management": "calm_resolution",
+    "public_service": "collective_welfare"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.523966",
+    "enhancement_version": "1.0",
+    "category_used": "statesman",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

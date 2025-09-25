@@ -8,5 +8,217 @@
     "extraversion": 85,
     "agreeableness": 45,
     "neuroticism": 55
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extensive",
+      "register": "formal",
+      "technical_terms": [
+        "parliamentary procedure",
+        "grand strategy",
+        "imperial policy",
+        "coalition warfare"
+      ],
+      "favorite_words": [
+        "blood",
+        "toil",
+        "tears",
+        "sweat",
+        "never",
+        "victory",
+        "empire",
+        "destiny"
+      ],
+      "avoided_words": [
+        "surrender",
+        "defeat",
+        "impossible",
+        "retreat"
+      ],
+      "neologisms": [
+        "iron curtain",
+        "special relationship",
+        "summit conference"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "medium",
+      "complexity": "compound",
+      "clause_preference": "main",
+      "active_passive": "active",
+      "question_frequency": "moderate"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "ethos",
+      "argumentation": "linear",
+      "evidence_use": "authoritative",
+      "metaphor_frequency": "frequent",
+      "analogy_types": [
+        "historical parallels",
+        "military metaphors",
+        "Biblical allusions",
+        "classical references"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "however",
+        "nevertheless",
+        "therefore",
+        "furthermore",
+        "indeed"
+      ],
+      "hedges": [
+        "it may be said",
+        "one might argue",
+        "perhaps"
+      ],
+      "boosters": [
+        "certainly",
+        "undoubtedly",
+        "without question",
+        "absolutely"
+      ],
+      "fillers": [
+        "well",
+        "you see",
+        "as I say"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "direct",
+      "humor_type": "irony",
+      "cultural_references": [
+        "British Empire",
+        "Parliamentary tradition",
+        "Classical education",
+        "Military history"
+      ],
+      "code_switching": "monolingual",
+      "register_shifting": "strategic"
+    },
+    "written_vs_spoken": {
+      "written_style": "journalistic",
+      "spoken_style": "performative",
+      "differences": [
+        "written work more detailed and analytical",
+        "speeches more emotive and rhythmic"
+      ]
+    },
+    "signature_expressions": [
+      "We shall never surrender",
+      "This was their finest hour",
+      "Blood, toil, tears and sweat",
+      "Iron curtain"
+    ],
+    "linguistic_evolution": {
+      "early_style": "more ornate Victorian prose",
+      "mature_style": "powerful simplicity combined with classical eloquence",
+      "influences": [
+        "Edward Gibbon",
+        "Lord Macaulay",
+        "Benjamin Disraeli",
+        "Parliamentary oratory"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "collective_welfare",
+      "energy",
+      "aesthetic_appreciation",
+      "creativity",
+      "intellectual_curiosity"
+    ],
+    "primary_motivations": [
+      "social_impact",
+      "recognition",
+      "novelty_seeking",
+      "legacy_building"
+    ],
+    "fears": [],
+    "strengths": [
+      "adaptability",
+      "pattern_recognition",
+      "creative_thinking",
+      "crisis_management",
+      "enthusiasm"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "public_speaking",
+      "coalition_building",
+      "constant_learning"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "transformational",
+    "conflict_approach": "collaborative",
+    "collaboration": "independent",
+    "influence_style": "inspirational",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "ethical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "fight",
+    "empathy_level": "moderate",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "political_systems",
+      "social_justice",
+      "international_relations"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "governance_style": "consensus_building",
+    "policy_approach": "pragmatic_idealism",
+    "crisis_management": "calm_resolution",
+    "public_service": "collective_welfare"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.525939",
+    "enhancement_version": "1.0",
+    "category_used": "statesman",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

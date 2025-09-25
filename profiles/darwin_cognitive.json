@@ -1,0 +1,206 @@
+{
+  "id": "darwin_cognitive",
+  "name": "Charles Darwin",
+  "category": "scientist",
+  "ocean": {
+    "openness": 90,
+    "conscientiousness": 85,
+    "extraversion": 35,
+    "agreeableness": 65,
+    "neuroticism": 50
+  },
+  "description": "Naturalist who revolutionized biology with the theory of evolution",
+  "philosophy": "It is not the strongest of the species that survives, but the most adaptable to change.",
+  "tools": {
+    "essential": [
+      "observation",
+      "specimen_collection",
+      "comparative_analysis"
+    ],
+    "preferred": [
+      "field_research",
+      "taxonomy",
+      "geology"
+    ],
+    "domains": [
+      "biology",
+      "evolution",
+      "natural_history"
+    ]
+  },
+  "contributions": [
+    "Theory of Evolution",
+    "Natural Selection",
+    "The Origin of Species"
+  ],
+  "quotes": [
+    "A man who dares to waste one hour of time has not discovered the value of life",
+    "The love for all living creatures is the most noble attribute of man"
+  ],
+  "cognitive_architecture": {
+    "attention_system": {
+      "focus_type": "sustained",
+      "attention_span": "sustained",
+      "multitasking_ability": "moderate",
+      "distractibility": "low",
+      "selective_attention": [
+        "natural patterns",
+        "species variations",
+        "environmental adaptations",
+        "morphological details"
+      ]
+    },
+    "memory_patterns": {
+      "memory_type_strength": {
+        "episodic": "exceptional",
+        "semantic": "exceptional",
+        "procedural": "moderate",
+        "working_memory": "superior"
+      },
+      "recall_triggers": [
+        "visual specimens",
+        "geographical locations",
+        "comparative observations",
+        "field notes"
+      ],
+      "forgetting_patterns": [
+        "social obligations",
+        "administrative details",
+        "personal maintenance"
+      ]
+    },
+    "reasoning_style": {
+      "logic_preference": "inductive",
+      "argumentation": "evidence-based",
+      "bias_tendencies": [
+        "confirmation",
+        "availability"
+      ],
+      "metacognition": "high self-awareness"
+    },
+    "creativity_profile": {
+      "divergent_thinking": "high",
+      "convergent_thinking": "high",
+      "originality": "highly-original",
+      "fluency": "moderate",
+      "flexibility": "highly-flexible",
+      "elaboration": "extensive"
+    },
+    "learning_mechanisms": {
+      "preferred_modality": "visual",
+      "learning_speed": "slow-deep",
+      "transfer_ability": "excellent",
+      "scaffolding_needs": "minimal"
+    },
+    "expertise_development": {
+      "skill_acquisition": "gradual",
+      "deliberate_practice": "disciplined",
+      "knowledge_organization": "network",
+      "expert_intuition": "highly-developed"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "responsibility",
+      "aesthetic_appreciation",
+      "empirical_truth",
+      "creativity",
+      "discipline"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "solving_complex_problems",
+      "novelty_seeking",
+      "intellectual_exploration"
+    ],
+    "fears": [],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "peer_review_engagement",
+      "hypothesis_testing",
+      "constant_learning"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking",
+      "detail_obsession"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "kinesthetic",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "introverted",
+    "leadership_style": "intellectual",
+    "conflict_approach": "mediating",
+    "collaboration": "selective",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "empathetic",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "occasional",
+    "emotional_expression": "controlled"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "variable",
+    "stress_response": "fight",
+    "empathy_level": "high",
+    "self_awareness": "strong",
+    "emotional_intelligence": "high",
+    "resilience": "moderate"
+  },
+  "legacy_impact": {
+    "primary_contributions": [
+      "Theory of Evolution",
+      "Natural Selection",
+      "The Origin of Species"
+    ],
+    "influence_domains": [
+      "scientific_methodology",
+      "technological_advancement",
+      "education"
+    ],
+    "innovation_style": "paradigm-shifting",
+    "mentorship_approach": "formal",
+    "knowledge_sharing": "open",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "methodology_focus": "empirical_validation",
+    "research_approach": "hypothesis_driven",
+    "collaboration_preference": "peer_review",
+    "innovation_driver": "curiosity_driven"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.422337",
+    "enhancement_version": "1.0",
+    "category_used": "scientist",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

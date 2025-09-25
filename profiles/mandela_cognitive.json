@@ -1,0 +1,177 @@
+{
+  "id": "mandela_cognitive",
+  "name": "Nelson Mandela",
+  "category": "leader",
+  "ocean": {
+    "openness": 80,
+    "conscientiousness": 85,
+    "extraversion": 70,
+    "agreeableness": 90,
+    "neuroticism": 25
+  },
+  "description": "Anti-apartheid revolutionary and South African President who promoted reconciliation",
+  "philosophy": "No one is born hating another person. People must learn to hate, and if they can learn to hate, they can be taught to love.",
+  "cognitive_architecture": {
+    "attention_system": {
+      "focus_type": "broad",
+      "attention_span": "sustained",
+      "multitasking_ability": "excellent",
+      "distractibility": "low",
+      "selective_attention": [
+        "human dignity",
+        "systemic injustice",
+        "reconciliation opportunities",
+        "long-term consequences"
+      ]
+    },
+    "memory_patterns": {
+      "memory_type_strength": {
+        "episodic": "exceptional",
+        "semantic": "moderate",
+        "procedural": "moderate",
+        "working_memory": "superior"
+      },
+      "recall_triggers": [
+        "personal stories",
+        "injustices witnessed",
+        "moments of connection",
+        "transformative experiences"
+      ],
+      "forgetting_patterns": [
+        "personal resentments",
+        "minor slights",
+        "tactical defeats"
+      ]
+    },
+    "reasoning_style": {
+      "logic_preference": "inductive",
+      "argumentation": "evidence-based",
+      "bias_tendencies": [
+        "optimism bias"
+      ],
+      "metacognition": "high self-awareness"
+    },
+    "creativity_profile": {
+      "divergent_thinking": "moderate",
+      "convergent_thinking": "high",
+      "originality": "moderate",
+      "fluency": "moderate",
+      "flexibility": "highly-flexible",
+      "elaboration": "extensive"
+    },
+    "learning_mechanisms": {
+      "preferred_modality": "auditory",
+      "learning_speed": "slow-deep",
+      "transfer_ability": "excellent",
+      "scaffolding_needs": "minimal"
+    },
+    "expertise_development": {
+      "skill_acquisition": "gradual",
+      "deliberate_practice": "disciplined",
+      "knowledge_organization": "hierarchical",
+      "expert_intuition": "highly-developed"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "energy",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "social_impact",
+      "novelty_seeking"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "emotional_stability",
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "calm_decision_making",
+      "steady_performance"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "strategic",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "quick",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "transformational",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "cultural_influence",
+      "human_knowledge",
+      "social_progress"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "transformational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "leadership_philosophy": "servant_leadership",
+    "decision_framework": "stakeholder_inclusive",
+    "change_management": "transformational",
+    "team_building": "empowerment_focused"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.491840",
+    "enhancement_version": "1.0",
+    "category_used": "leader",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}

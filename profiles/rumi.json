@@ -8,5 +8,224 @@
     "extraversion": 60,
     "agreeableness": 90,
     "neuroticism": 20
+  },
+  "linguistic_profile": {
+    "vocabulary": {
+      "size": "extraordinary",
+      "register": "poetic",
+      "technical_terms": [
+        "sema",
+        "whirling",
+        "fana",
+        "baqa",
+        "ishq",
+        "tawhid"
+      ],
+      "favorite_words": [
+        "love",
+        "beloved",
+        "wine",
+        "dance",
+        "fire",
+        "soul",
+        "heart",
+        "divine",
+        "unity"
+      ],
+      "avoided_words": [
+        "separation",
+        "hatred",
+        "material",
+        "ego"
+      ],
+      "neologisms": [
+        "love's country",
+        "wine of love",
+        "tavern of ruin",
+        "beloved's face"
+      ]
+    },
+    "syntax_patterns": {
+      "sentence_length": "variable",
+      "complexity": "varied",
+      "clause_preference": "balanced",
+      "active_passive": "active",
+      "question_frequency": "frequent"
+    },
+    "rhetoric_style": {
+      "persuasion_technique": "pathos",
+      "argumentation": "circular",
+      "evidence_use": "anecdotal",
+      "metaphor_frequency": "constant",
+      "analogy_types": [
+        "wine and intoxication",
+        "lover and beloved",
+        "dance and music",
+        "fire and burning"
+      ]
+    },
+    "discourse_markers": {
+      "transitions": [
+        "but",
+        "and",
+        "oh",
+        "behold",
+        "thus"
+      ],
+      "hedges": [
+        "perhaps",
+        "it seems",
+        "one might say"
+      ],
+      "boosters": [
+        "truly",
+        "certainly",
+        "without doubt",
+        "absolutely"
+      ],
+      "fillers": [
+        "oh beloved",
+        "my friend",
+        "listen"
+      ]
+    },
+    "pragmatic_features": {
+      "politeness_strategy": "elaborate",
+      "humor_type": "none",
+      "cultural_references": [
+        "Persian poetry",
+        "Islamic mysticism",
+        "Sufi tradition",
+        "Quranic verses"
+      ],
+      "code_switching": "multilingual",
+      "register_shifting": "strategic"
+    },
+    "written_vs_spoken": {
+      "written_style": "poetic",
+      "spoken_style": "performative",
+      "differences": [
+        "written poetry highly structured with Persian meters",
+        "speech more ecstatic and spontaneous"
+      ]
+    },
+    "signature_expressions": [
+      "Let yourself be silently drawn by the strange pull of what you really love",
+      "The wound is the place where the Light enters you",
+      "Out beyond ideas of wrongdoing and rightdoing, there is a field",
+      "You were born with wings, why prefer to crawl through life?"
+    ],
+    "linguistic_evolution": {
+      "early_style": "traditional Persian ghazal and rubai forms",
+      "mature_style": "ecstatic mystical poetry transcending conventional religious language",
+      "influences": [
+        "Shams-e Tabrizi",
+        "Persian classical poets",
+        "Quranic Arabic",
+        "Sufi masters"
+      ]
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "harmony",
+      "compassion",
+      "responsibility",
+      "aesthetic_appreciation",
+      "creativity"
+    ],
+    "primary_motivations": [
+      "social_harmony",
+      "excellence",
+      "novelty_seeking",
+      "helping_others"
+    ],
+    "fears": [
+      "causing_harm",
+      "conflict"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "creative_thinking",
+      "organization"
+    ],
+    "weaknesses": [],
+    "habits": [
+      "systematic_planning",
+      "calm_decision_making",
+      "steady_performance",
+      "constant_learning"
+    ],
+    "quirks": [
+      "unconventional_perspectives",
+      "abstract_thinking"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "intuitive",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "exceptional"
+  },
+  "social_dynamics": {
+    "interaction_style": "ambivert",
+    "leadership_style": "democratic",
+    "conflict_approach": "mediating",
+    "collaboration": "team-oriented",
+    "influence_style": "logical",
+    "trust_building": "gradual"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "personal",
+    "humor_usage": "occasional",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "stable",
+    "stress_response": "freeze",
+    "empathy_level": "high",
+    "self_awareness": "developing",
+    "emotional_intelligence": "high",
+    "resilience": "strong"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "cultural_influence",
+      "human_knowledge",
+      "social_progress"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "poetic_voice": "authentic_expression",
+    "metaphorical_thinking": "symbolic_language",
+    "rhythm_sensitivity": "musical_language",
+    "emotional_resonance": "universal_themes"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.441308",
+    "enhancement_version": "1.0",
+    "category_used": "poet",
+    "ocean_based": true,
+    "linguistic_based": true
   }
 }

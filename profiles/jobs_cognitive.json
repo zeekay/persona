@@ -1,0 +1,185 @@
+{
+  "id": "jobs_cognitive",
+  "name": "Steve Jobs",
+  "category": "innovator",
+  "ocean": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 70,
+    "agreeableness": 25,
+    "neuroticism": 70
+  },
+  "description": "Co-founder of Apple who revolutionized personal computing and design",
+  "philosophy": "Design is not just what it looks like and feels like. Design is how it works.",
+  "cognitive_architecture": {
+    "attention_system": {
+      "focus_type": "narrow",
+      "attention_span": "hyperfocus",
+      "multitasking_ability": "poor",
+      "distractibility": "low",
+      "selective_attention": [
+        "user experience",
+        "aesthetic perfection",
+        "technological integration",
+        "market disruption"
+      ]
+    },
+    "memory_patterns": {
+      "memory_type_strength": {
+        "episodic": "moderate",
+        "semantic": "exceptional",
+        "procedural": "moderate",
+        "working_memory": "superior"
+      },
+      "recall_triggers": [
+        "design principles",
+        "user frustrations",
+        "technological possibilities",
+        "competitive landscapes"
+      ],
+      "forgetting_patterns": [
+        "technical details",
+        "interpersonal sensitivities",
+        "organizational hierarchies"
+      ]
+    },
+    "reasoning_style": {
+      "logic_preference": "abductive",
+      "argumentation": "intuitive",
+      "bias_tendencies": [
+        "overconfidence",
+        "confirmation",
+        "availability"
+      ],
+      "metacognition": "moderate self-awareness"
+    },
+    "creativity_profile": {
+      "divergent_thinking": "moderate",
+      "convergent_thinking": "high",
+      "originality": "moderate",
+      "fluency": "limited",
+      "flexibility": "moderate",
+      "elaboration": "extensive"
+    },
+    "learning_mechanisms": {
+      "preferred_modality": "visual",
+      "learning_speed": "quick-surface",
+      "transfer_ability": "excellent",
+      "scaffolding_needs": "minimal"
+    },
+    "expertise_development": {
+      "skill_acquisition": "accelerated",
+      "deliberate_practice": "obsessive",
+      "knowledge_organization": "network",
+      "expert_intuition": "highly-developed"
+    }
+  },
+  "behavioral_traits": {
+    "core_values": [
+      "independence",
+      "energy",
+      "responsibility",
+      "aesthetic_appreciation",
+      "truth"
+    ],
+    "primary_motivations": [
+      "excellence",
+      "social_impact",
+      "novelty_seeking",
+      "recognition"
+    ],
+    "fears": [
+      "failure",
+      "rejection",
+      "loss_of_control"
+    ],
+    "strengths": [
+      "adaptability",
+      "persistence",
+      "pattern_recognition",
+      "objectivity",
+      "creative_thinking"
+    ],
+    "weaknesses": [
+      "inflexibility",
+      "stress_sensitivity",
+      "interpersonal_friction"
+    ],
+    "habits": [
+      "networking",
+      "systematic_planning",
+      "constant_learning",
+      "experimenting_with_ideas"
+    ],
+    "quirks": [
+      "heightened_awareness",
+      "unconventional_perspectives",
+      "perfectionist_tendencies"
+    ]
+  },
+  "cognitive_style": {
+    "thinking_pattern": "analytical",
+    "learning_style": "visual",
+    "problem_solving": "methodical",
+    "decision_making": "deliberate",
+    "information_processing": "big-picture",
+    "creativity_level": "high"
+  },
+  "social_dynamics": {
+    "interaction_style": "extroverted",
+    "leadership_style": "authoritative",
+    "conflict_approach": "confrontational",
+    "collaboration": "independent",
+    "influence_style": "charismatic",
+    "trust_building": "quick"
+  },
+  "communication_patterns": {
+    "verbal_style": "concise",
+    "listening_style": "active",
+    "persuasion_approach": "logical",
+    "storytelling": "metaphorical",
+    "humor_usage": "frequent",
+    "emotional_expression": "open"
+  },
+  "work_methodology": {
+    "planning_style": "adaptive",
+    "execution_style": "systematic",
+    "attention_detail": "big-picture",
+    "pace": "steady",
+    "persistence": "adaptive",
+    "quality_standards": "experimental"
+  },
+  "emotional_profile": {
+    "emotional_stability": "volatile",
+    "stress_response": "fight",
+    "empathy_level": "moderate",
+    "self_awareness": "developing",
+    "emotional_intelligence": "moderate",
+    "resilience": "fragile"
+  },
+  "legacy_impact": {
+    "primary_contributions": [],
+    "influence_domains": [
+      "cultural_influence",
+      "human_knowledge",
+      "social_progress"
+    ],
+    "innovation_style": "incremental",
+    "mentorship_approach": "inspirational",
+    "knowledge_sharing": "selective",
+    "cultural_impact": "regional"
+  },
+  "category_specific": {
+    "core_approach": "individual_excellence",
+    "contribution_method": "specialized_expertise",
+    "influence_style": "domain_leadership",
+    "legacy_building": "knowledge_advancement"
+  },
+  "enhancement_metadata": {
+    "enhanced_date": "2025-09-25T13:58:06.437012",
+    "enhancement_version": "1.0",
+    "category_used": "innovator",
+    "ocean_based": true,
+    "linguistic_based": false
+  }
+}
