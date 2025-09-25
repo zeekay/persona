@@ -1,0 +1,840 @@
+{
+  "timestamp": "2025-09-25T06:03:52.645Z",
+  "duration": "15ms",
+  "summary": {
+    "total": 487,
+    "valid": 487,
+    "errors": 0,
+    "warnings": 118,
+    "duplicates": 0
+  },
+  "byCategory": {
+    "special": {
+      "total": 2,
+      "valid": 2,
+      "errors": 0
+    },
+    "religious": {
+      "total": 77,
+      "valid": 77,
+      "errors": 0
+    },
+    "pioneer": {
+      "total": 4,
+      "valid": 4,
+      "errors": 0
+    },
+    "philosopher": {
+      "total": 94,
+      "valid": 94,
+      "errors": 0
+    },
+    "poet": {
+      "total": 44,
+      "valid": 44,
+      "errors": 0
+    },
+    "architect": {
+      "total": 21,
+      "valid": 21,
+      "errors": 0
+    },
+    "leader": {
+      "total": 5,
+      "valid": 5,
+      "errors": 0
+    },
+    "comedian": {
+      "total": 30,
+      "valid": 30,
+      "errors": 0
+    },
+    "explorer": {
+      "total": 11,
+      "valid": 11,
+      "errors": 0
+    },
+    "filmmaker": {
+      "total": 21,
+      "valid": 21,
+      "errors": 0
+    },
+    "musician": {
+      "total": 12,
+      "valid": 12,
+      "errors": 0
+    },
+    "writer": {
+      "total": 39,
+      "valid": 39,
+      "errors": 0
+    },
+    "composer": {
+      "total": 8,
+      "valid": 8,
+      "errors": 0
+    },
+    "tech_leader": {
+      "total": 13,
+      "valid": 13,
+      "errors": 0
+    },
+    "scientist": {
+      "total": 20,
+      "valid": 20,
+      "errors": 0
+    },
+    "revolutionary": {
+      "total": 32,
+      "valid": 32,
+      "errors": 0
+    },
+    "programmer": {
+      "total": 5,
+      "valid": 5,
+      "errors": 0
+    },
+    "activist": {
+      "total": 18,
+      "valid": 18,
+      "errors": 0
+    },
+    "statesman": {
+      "total": 5,
+      "valid": 5,
+      "errors": 0
+    },
+    "athlete": {
+      "total": 12,
+      "valid": 12,
+      "errors": 0
+    },
+    "artist": {
+      "total": 10,
+      "valid": 10,
+      "errors": 0
+    },
+    "mathematician": {
+      "total": 3,
+      "valid": 3,
+      "errors": 0
+    },
+    "historian": {
+      "total": 1,
+      "valid": 1,
+      "errors": 0
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "file": "adam_smith.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "adorno.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "alexis_de_tocqueville.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "allan_bloom.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "anaxagoras.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "anaximander.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "aquinas.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "arendt.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "aristotle.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "auguste_comte.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "baudrillard.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "beauvoir.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "benjamin.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "berkeley.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "bill_gates.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "boethius.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "bohr.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "bourdieu.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "butler.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "camus.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "charles_taylor.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "chomsky.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "cicero.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "confucius.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "deleuze.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "democritus.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "derrida.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "descartes.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "diogenes.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "durkheim.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "edmund_burke.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "elon_musk.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "empedocles.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "epictetus.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "epicurus.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "erasmus.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "fanon.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "faraday.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "fermi.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "foucault.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "francis_bacon.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "franklin_rosalind.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "giordano_bruno.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "goffman.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "goodall.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "gramsci.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "habermas.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "hegel.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "henry_thoreau.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "heraclitus.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "hobbes.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "horkheimer.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "hume.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "hypatia.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "iris_murdoch.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "jack_ma.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "jeff_bezos.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "jeremy_bentham.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "john_stuart_mill.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "kant.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "karl_jaspers.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "karl_marx.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "kepler.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "kierkegaard.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "laozi.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "larry_page.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "leibniz.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "leo_strauss.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "levi_strauss.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "locke.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "lucretius.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "machiavelli.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "macintyre.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "marcel_mauss.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "marcus_aurelius.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "marcuse.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "mark_zuckerberg.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "martha_nussbaum.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "mary_wollstonecraft.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "maxwell.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "mcclintock.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "merleau_ponty.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "montaigne.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "nietzsche.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "nightingale.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "paglia.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "parmenides.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "peter_thiel.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "peterson.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "planck.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "plato.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "plotinus.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "pythagoras.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "richard_rorty.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "rousseau.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "russell.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "said.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "salk.json",
+      "warnings": [
+        "Scientist without contributions, Scientist without philosophy"
+      ]
+    },
+    {
+      "file": "sartre.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "satya_nadella.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "schopenhauer.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "seneca.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "sergey_brin.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "sheryl_sandberg.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "simone_weil.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "socrates.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "sontag.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "steve_jobs.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "sundar_pichai.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "talcott_parsons.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "thales.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "voltaire.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "warren_buffett.json",
+      "warnings": [
+        "Programmer without tools defined, Missing programmer username"
+      ]
+    },
+    {
+      "file": "west.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "wittgenstein.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "xenophon.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "zeno_elea.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    },
+    {
+      "file": "zizek.json",
+      "warnings": [
+        "Philosopher without philosophy"
+      ]
+    }
+  ],
+  "duplicates": []
+}

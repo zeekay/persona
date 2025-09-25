@@ -8,5 +8,33 @@
     "extraversion": 35,
     "agreeableness": 65,
     "neuroticism": 50
-  }
+  },
+  "description": "Naturalist who revolutionized biology with the theory of evolution",
+  "philosophy": "It is not the strongest of the species that survives, but the most adaptable to change.",
+  "tools": {
+    "essential": [
+      "observation",
+      "specimen_collection",
+      "comparative_analysis"
+    ],
+    "preferred": [
+      "field_research",
+      "taxonomy",
+      "geology"
+    ],
+    "domains": [
+      "biology",
+      "evolution",
+      "natural_history"
+    ]
+  },
+  "contributions": [
+    "Theory of Evolution",
+    "Natural Selection",
+    "The Origin of Species"
+  ],
+  "quotes": [
+    "A man who dares to waste one hour of time has not discovered the value of life",
+    "The love for all living creatures is the most noble attribute of man"
+  ]
 }

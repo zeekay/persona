@@ -8,5 +8,33 @@
     "extraversion": 80,
     "agreeableness": 55,
     "neuroticism": 25
-  }
+  },
+  "description": "Nobel Prize-winning physicist known for quantum mechanics and teaching excellence",
+  "philosophy": "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.",
+  "tools": {
+    "essential": [
+      "quantum_mechanics",
+      "particle_physics",
+      "feynman_diagrams"
+    ],
+    "preferred": [
+      "teaching",
+      "bongo_drums",
+      "safe_cracking"
+    ],
+    "domains": [
+      "quantum_physics",
+      "particle_physics",
+      "education"
+    ]
+  },
+  "contributions": [
+    "Quantum Electrodynamics",
+    "Feynman Diagrams",
+    "Path Integral Formulation"
+  ],
+  "quotes": [
+    "I would rather have questions that can't be answered than answers that can't be questioned",
+    "Nobody ever figures out what life is all about"
+  ]
 }

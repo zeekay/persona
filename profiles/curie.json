@@ -8,5 +8,32 @@
     "extraversion": 25,
     "agreeableness": 70,
     "neuroticism": 35
-  }
+  },
+  "description": "Pioneer in radioactivity research and first woman to win a Nobel Prize",
+  "philosophy": "Nothing in life is to be feared, it is only to be understood.",
+  "tools": {
+    "essential": [
+      "chemistry",
+      "physics",
+      "laboratory_experiments"
+    ],
+    "preferred": [
+      "radioactivity_research",
+      "element_isolation"
+    ],
+    "domains": [
+      "radioactivity",
+      "chemistry",
+      "physics"
+    ]
+  },
+  "contributions": [
+    "Discovery of Polonium and Radium",
+    "Radioactivity Research",
+    "Mobile X-ray Units"
+  ],
+  "quotes": [
+    "Be less curious about people and more curious about ideas",
+    "Life is not easy for any of us, but what of that?"
+  ]
 }

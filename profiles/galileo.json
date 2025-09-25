@@ -8,5 +8,34 @@
     "extraversion": 50,
     "agreeableness": 40,
     "neuroticism": 30
-  }
+  },
+  "description": "Father of modern observational astronomy and experimental physics",
+  "philosophy": "Measure what is measurable, and make measurable what is not so.",
+  "tools": {
+    "essential": [
+      "telescope",
+      "mathematics",
+      "experimental_method"
+    ],
+    "preferred": [
+      "astronomy",
+      "mechanics",
+      "geometry"
+    ],
+    "domains": [
+      "astronomy",
+      "physics",
+      "mathematics"
+    ]
+  },
+  "contributions": [
+    "Heliocentrism Support",
+    "Telescope Improvements",
+    "Laws of Motion",
+    "Jupiter's Moons Discovery"
+  ],
+  "quotes": [
+    "And yet it moves",
+    "Mathematics is the language in which God has written the universe"
+  ]
 }
